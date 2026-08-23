@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vault PAU · Galicia</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- ======================================================= -->
+<!-- Pantalla de acceso. Ver comentario de seguridad en auth.js -->
+<!-- ======================================================= -->
+<div id="gate" class="gate">
+  <div class="gate-card">
+    <p class="gate-kicker">Vault PAU · Galicia</p>
+    <h1 class="gate-title">Acceso privado</h1>
+    <p class="gate-text">Introduce la contraseña para entrar.</p>
+    <form id="gate-form" autocomplete="off">
+      <input type="password" id="gate-input" placeholder="Contraseña" autocomplete="off" />
+      <button type="submit">Entrar</button>
+    </form>
+    <p class="gate-error" id="gate-error" hidden>Contraseña incorrecta.</p>
+  </div>
+</div>
+
+<!-- ======================================================= -->
+<!-- Aplicación (oculta hasta pasar la pantalla de acceso)     -->
+<!-- ======================================================= -->
+<div id="app" class="app" hidden>
+
+  <header class="topbar">
+    <a href="#/" class="brand">Vault PAU</a>
+    <nav class="topbar-nav" id="topbar-nav"></nav>
+  </header>
+
+  <main id="main"></main>
+
+  <footer class="site-footer">
+    <p>Preguntas troceadas de exámenes oficiales de la CIUG · uso personal de estudio</p>
+  </footer>
+
+</div>
+
+<script src="js/auth.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

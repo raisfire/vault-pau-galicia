@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.claude/
+vault_backup_2/
+vault/.obsidian/
