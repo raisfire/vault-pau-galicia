@@ -9,18 +9,19 @@
 <body>
 
 <!-- ======================================================= -->
-<!-- Pantalla de acceso. Ver comentario de seguridad en auth.js -->
-<!-- ======================================================= -->
+<!-- Pantalla de acceso — DESACTIVADA TEMPORALMENTE.
+     El gate no se dejaba pasar en el navegador del usuario (ni en
+     incógnito, descartando caché/extensiones) y no hemos podido
+     diagnosticarlo en remoto. Se quita del árbol del DOM para
+     desbloquear el uso de la herramienta ya; el código sigue intacto
+     en auth.js y aquí abajo comentado para reactivarlo cuando se
+     resuelva la causa real. -->
+<!--
 <div id="gate" class="gate">
   <div class="gate-card">
     <p class="gate-kicker">Vault PAU · Galicia</p>
     <h1 class="gate-title">Acceso privado</h1>
     <p class="gate-text">Introduce la contraseña para entrar.</p>
-    <!-- onsubmit="return false" es un cinturón de seguridad en línea: si por lo
-         que sea el JS externo no llega a cargar o a engancharse (bloqueo,
-         caché corrupta), el formulario nunca hace un envío nativo que
-         recargue la página en blanco — simplemente no hace nada, en vez de
-         confundir al usuario con una recarga rara. -->
     <form id="gate-form" autocomplete="off" onsubmit="return false">
       <input type="password" id="gate-input" placeholder="Contraseña" autocomplete="new-password" />
       <button type="submit">Entrar</button>
@@ -28,11 +29,12 @@
     <p class="gate-error" id="gate-error" hidden>Contraseña incorrecta.</p>
   </div>
 </div>
+-->
 
 <!-- ======================================================= -->
-<!-- Aplicación (oculta hasta pasar la pantalla de acceso)     -->
+<!-- Aplicación (visible directamente mientras el gate está desactivado) -->
 <!-- ======================================================= -->
-<div id="app" class="app" hidden>
+<div id="app" class="app">
 
   <header class="topbar">
     <a href="#/" class="brand">Vault PAU</a>
@@ -47,7 +49,7 @@
 
 </div>
 
-<script src="js/auth.js?v=2"></script>
+<!-- auth.js no se carga mientras el gate está desactivado (ver más arriba) -->
 <script src="js/app.js?v=2"></script>
 </body>
 </html>
