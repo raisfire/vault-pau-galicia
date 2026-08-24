@@ -58,11 +58,19 @@ function unlockApp() {
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-    if (input.value.trim() === GATE_PASSWORD) {
+    const typed = input.value.trim();
+    if (typed === GATE_PASSWORD) {
       trySetSession();
       error.hidden = true;
       unlockApp();
     } else {
+      // DIAGNÓSTICO TEMPORAL: no revela la contraseña, solo compara
+      // longitudes para saber si el navegador está metiendo algo
+      // distinto a lo que el usuario escribe (autofill, gestor de
+      // contraseñas, etc.). Quitar una vez resuelto el problema de acceso.
+      error.textContent =
+        "Contraseña incorrecta. (Diagnóstico: escribiste " + typed.length +
+        " caracteres; se esperan " + GATE_PASSWORD.length + ".)";
       error.hidden = false;
       input.value = "";
       input.focus();
