@@ -24,7 +24,30 @@ function unlockApp() {
 }
 
 (function initGate() {
-  if (sessionStorage.getItem(GATE_SESSION_KEY) === "1") {
+  // sessionStorage puede lanzar una excepción en algunos navegadores
+  // (Safari en modo privado, "Bloquear todas las cookies", ciertos
+  // modos restringidos) — si eso corta el script antes de tiempo, el
+  // usuario ve la contraseña "no hacer nada" al pulsar Entrar. Por
+  // eso cada acceso a sessionStorage va envuelto en try/catch: si
+  // falla, la app se sigue desbloqueando igual, solo que sin recordar
+  // la sesión (habrá que reintroducir la contraseña la próxima vez).
+  function tryGetSession() {
+    try {
+      return sessionStorage.getItem(GATE_SESSION_KEY);
+    } catch (err) {
+      return null;
+    }
+  }
+
+  function trySetSession() {
+    try {
+      sessionStorage.setItem(GATE_SESSION_KEY, "1");
+    } catch (err) {
+      // ignorado a propósito, ver comentario arriba
+    }
+  }
+
+  if (tryGetSession() === "1") {
     unlockApp();
     return;
   }
@@ -35,8 +58,8 @@ function unlockApp() {
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-    if (input.value === GATE_PASSWORD) {
-      sessionStorage.setItem(GATE_SESSION_KEY, "1");
+    if (input.value.trim() === GATE_PASSWORD) {
+      trySetSession();
       error.hidden = true;
       unlockApp();
     } else {
