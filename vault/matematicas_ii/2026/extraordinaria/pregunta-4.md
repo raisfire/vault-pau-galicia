@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Considere la recta r: (x−1)/2 = (y−1)/1 = z/3. 4.1.1. Calcule la ecuación implícita o general del plano π que contiene a la recta r y al punto Q(2,−1,1). 4.1.2. Compruebe que la recta r es paralela al plano π*: x+y−z−1=0. Calcule la distancia de r a π*."

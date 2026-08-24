@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

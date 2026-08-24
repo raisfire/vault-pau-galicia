@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique qué tipo de biomolécula está representada en las imágenes, marcadas como 1 y 2, en la figura 2."

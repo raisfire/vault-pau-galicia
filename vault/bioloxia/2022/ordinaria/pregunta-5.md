@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "5.1 En una especie vegetal, el color blanco de las flores es debido a un alelo recesivo respecto a su alelo dominante que produce flores amarillas. Al cruzar plantas con flores amarillas con plantas con f"

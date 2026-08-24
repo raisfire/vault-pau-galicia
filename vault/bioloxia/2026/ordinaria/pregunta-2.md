@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "LA CÉLULA. INMUNOLOGÍA"
+tema:
+  - "LA CÉLULA"
+  - "INMUNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1 Responda estos tres apartados: (1 punto) 2.1.1. Identifique los orgánulos señalados con los números 1 e 2 en la microfotografía. 2.1.2. Indique una función de cada uno de estos orgánulos. 2.1.3. Reali"

@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "REACCIONES QUÍMICAS"
+tema:
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. En un reactor de 10 L de capacidad, en el que previamente se hizo vacío, se introducen 3 moles de PCl5 y tras calentar a 270°C se alcanza el siguiente equilibrio, PCl5(g) ⇌ PCl3(g) + Cl2(g), siendo la"

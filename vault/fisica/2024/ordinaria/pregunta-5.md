@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: "Problema de interacción gravitatoria"
+tema:
+  - "INTERACCIÓN GRAVITATORIA"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS"
+tema:
+  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Escriba la reacción entre el ácido y la base, y determine la concentración de ácido sulfúrico en la muestra del agua de lluvia. (1,5 puntos)"

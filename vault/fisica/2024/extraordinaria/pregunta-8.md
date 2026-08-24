@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: "Problema de física del siglo XX"
+tema:
+  - "FÍSICA DEL SIGLO XX"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

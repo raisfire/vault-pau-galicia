@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) En una determinada población de árboles, el 20% tienen más de 30 años. Si se eligen 40 árboles al azar, calcule la probabilidad de que solamente 4 de ellos tengan más de 30 años. El número total de ár"

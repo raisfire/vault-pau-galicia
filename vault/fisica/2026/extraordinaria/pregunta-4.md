@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "FÍSICA DO SÉCULO XX"
+tema:
+  - "FÍSICA DEL SIGLO XX"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique y justifique la respuesta correcta. (1 punto) Desde la plataforma de un aeropuerto medimos la longitud de un avión supersónico que resulta ser de l m. Si repitiésemos la medida cuando el avión"

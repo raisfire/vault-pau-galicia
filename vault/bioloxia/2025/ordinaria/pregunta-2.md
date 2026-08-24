@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "LA BASE MOLECULAR DE LA MATERIA VIVA. METABOLISMO CELULAR"
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "METABOLISMO CELULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. La hidrogenación de las grasas es uno de los procesos habituales en la industria alimentaria. A) ¿Cómo afecta la hidrogenación de las grasas a la estructura química de sus ácidos grasos? B) ¿Qué ocurr"

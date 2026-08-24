@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique las biomoléculas A, B y C de la figura 1. b) ¿Cómo se denominan los monómeros que forman las proteínas, mediante qué enlaces se unen y que grupos intervienen en el enlace? c) Indica cuáles"

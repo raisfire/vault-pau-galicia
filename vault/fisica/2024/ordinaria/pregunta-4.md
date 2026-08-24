@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "Práctica de interacción gravitatoria"
+tema:
+  - "INTERACCIÓN GRAVITATORIA"
 puntuacion: "2 puntos"
 apartados:
   - "a) A partir de los siguientes datos de satélites que orbitan alrededor de la Tierra determine el valor de la masa de la Tierra."

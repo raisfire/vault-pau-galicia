@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "Números y Álgebra"
+tema:
+  - "Números y Álgebra"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule los valores de x e y que hacen que A conmute con todas las matrices antisimétricas X de orden 2, es decir, que hacen que se cumpla la igualdad AX = XA para toda matriz antisimétrica X de orden 2."

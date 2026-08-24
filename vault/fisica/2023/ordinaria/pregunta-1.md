@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "INTERACCIÓN GRAVITATORIA"
+tema:
+  - "INTERACCIÓN GRAVITATORIA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

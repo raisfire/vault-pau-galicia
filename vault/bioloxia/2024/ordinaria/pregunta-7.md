@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "7.1. A) Explique brevemente la tecnología que está representada en la figura 8 e indique una de sus aplicaciones en salud."

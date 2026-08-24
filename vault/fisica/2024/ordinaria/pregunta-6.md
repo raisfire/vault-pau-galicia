@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: "Problema de interacción electromagnética"
+tema:
+  - "INTERACCIÓN ELECTROMAGNÉTICA"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

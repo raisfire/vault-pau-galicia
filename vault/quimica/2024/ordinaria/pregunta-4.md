@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "REACCIONES QUÍMICAS"
+tema:
+  - "REACCIONES QUÍMICAS"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

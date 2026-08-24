@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

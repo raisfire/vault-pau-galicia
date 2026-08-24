@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "a) Estudiar la posición relativa de la recta 𝑟 y el plano 𝜋."

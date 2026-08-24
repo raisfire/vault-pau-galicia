@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "2.1. A) ¿Qué significa, desde el punto de vista biológico, el hecho de que los ácidos grados sean moléculas con un comportamiento anfipático?"

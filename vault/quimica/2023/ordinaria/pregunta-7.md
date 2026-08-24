@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: "REACCIONES QUÍMICAS"
+tema:
+  - "REACCIONES QUÍMICAS"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

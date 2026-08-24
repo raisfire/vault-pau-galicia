@@ -36,7 +36,7 @@ def parse_file(path):
         "anio": meta.get("año"),
         "convocatoria": meta.get("convocatoria", ""),
         "numero_pregunta": meta.get("numero_pregunta"),
-        "tema": (meta.get("tema") or "").strip(),
+        "tema": meta.get("tema") or [],
         "tema_fuente": meta.get("tema_fuente"),
         "puntuacion": meta.get("puntuacion", ""),
         "apartados": meta.get("apartados") or [],

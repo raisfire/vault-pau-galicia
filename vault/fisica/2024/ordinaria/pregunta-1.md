@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "Interacción electromagnética. Responda indicando y justificando la opción correcta"
+tema:
+  - "INTERACCIÓN ELECTROMAGNÉTICA"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Una partícula tiene una carga de 5 nC y penetra en una región del espacio donde hay un campo magnético 𝐵⃗ = 0,6 𝚤̂ T con una velocidad 𝑣⃗ = 8 × 10⁶ 𝚥̂ m∙s−1, describiendo una circunferencia de 2 μm "

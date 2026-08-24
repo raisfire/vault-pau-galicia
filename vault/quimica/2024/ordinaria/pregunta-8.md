@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: "DESTREZAS BÁSICAS DE LA QUÍMICA"
+tema:
+  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

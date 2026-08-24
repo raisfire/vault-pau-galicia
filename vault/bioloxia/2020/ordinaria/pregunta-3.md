@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Defina los siguientes procesos: pinocitosis, fagocitosis y exocitosis. b) Defina nucleoplasma y nucléolo c) Defina e indique una función del cloroplasto. (2 puntos)"

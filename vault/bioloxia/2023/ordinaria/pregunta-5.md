@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) ¿Qué proceso es el representado en la figura 4? ¿En qué parte de la célula tiene lugar? B) Nombre cada uno de los elementos marcados con números. C) ¿Qué fases tiene este proceso? Explíquelas brevemen"

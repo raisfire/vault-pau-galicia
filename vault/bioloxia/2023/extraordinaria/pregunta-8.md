@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "8.1. A) Explique brevemente la participación de los microorganismos en el ciclo biogeoquímico del nitrógeno y su importancia. B) Describa brevemente cómo se puede llevar a cabo la producción de una proteín"

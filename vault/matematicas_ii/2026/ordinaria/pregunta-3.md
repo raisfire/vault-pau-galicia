@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "4 puntos"
 apartados:
   - "3.1. Para cada uno de los siguientes casos, dibuje, cuando sea posible, la gráfica de una función que cumpla las propiedades indicadas:"

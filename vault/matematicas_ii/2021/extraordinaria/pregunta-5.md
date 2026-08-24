@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la ecuación implícita del plano 𝜋 con ecuaciones paramétricas 𝜋: ൝ 𝑥= 1 −𝜆, 𝑦= 2 + 𝜇, 𝑧= 1 + 𝜆+ 2𝜇, 𝜆, 𝜇∈ℝ."

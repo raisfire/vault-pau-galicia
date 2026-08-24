@@ -4,7 +4,7 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) ∫2𝑥√𝑥2 + 1 d𝑥."

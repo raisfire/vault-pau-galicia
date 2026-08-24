@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "2.1. A) ¿Qué nombre recibe el enlace representado en la figura 2?"

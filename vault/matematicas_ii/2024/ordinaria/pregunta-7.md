@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) Suponiendo que 𝐴 y 𝐵 son sucesos independientes, calcule 𝑃(𝐴∪𝐵) y 𝑃(𝐴̅|(𝐴̅ ∪𝐵ത))."

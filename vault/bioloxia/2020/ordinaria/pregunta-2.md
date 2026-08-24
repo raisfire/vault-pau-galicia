@@ -4,7 +4,8 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "La BASE MOLECULAR Y FISÍCOQUÍMICA DE LA VIDA"
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

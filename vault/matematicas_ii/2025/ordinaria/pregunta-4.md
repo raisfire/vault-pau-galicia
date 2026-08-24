@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Determine el valor que debe tomar k para que los planos π₁: kx+y+(1/4)z+2=0 y π₂: 3x+4y+z+3=0 sean paralelos. Calcule también el valor de k que hace que esos mismos planos sean perpendiculares."

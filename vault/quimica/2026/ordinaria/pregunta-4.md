@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+tema:
+  - "REACCIONES QUÍMICAS"
+  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Una disolución de un ácido débil HA de concentración 0,02 M tiene una constante de ionización Ka= 3∙10-6: 4.1.1. Calcule las concentraciones en el equilibrio de todas las especies. (1 punto) 4.1.2. De"

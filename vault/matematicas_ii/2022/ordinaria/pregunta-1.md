@@ -4,7 +4,7 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

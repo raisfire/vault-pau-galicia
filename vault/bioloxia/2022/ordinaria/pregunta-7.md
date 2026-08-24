@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué significa que los virus son “parásitos intracelulares obligados”? b) Explique la estructura de los virus. c) Explique en que consiste el ciclo lítico y el ciclo lisogénico de los virus bacteriófa"

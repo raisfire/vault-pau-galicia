@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "REACCIONES QUÍMICAS"
+tema:
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Determine si podrá formarse precipitado de BaSO4 en el fondo del vaso de precipitados. (1 punto)"

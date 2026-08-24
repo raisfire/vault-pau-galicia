@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "LA CÉLULA. INMUNOLOGÍA"
+tema:
+  - "LA CÉLULA"
+  - "INMUNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Responda estos tres apartados: (1 punto) 3.1.1. Identifique el orgánulo que se observa en la imagen. Indique en qué tipo de células se encuentra este orgánulo y cuál es su principal función. 3.1.2. In"

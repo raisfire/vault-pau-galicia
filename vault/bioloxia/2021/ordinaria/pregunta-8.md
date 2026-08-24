@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "8.1. a) Indique qué tipo de célula aparece en la figura 5 e identifique los componentes señalados con números. b) Estos organismos tienen distintas aplicaciones en las industrias alimentaria y farmacéutica"

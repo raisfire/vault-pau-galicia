@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "LA CÉLULA. GENÉTICA MOLECULAR"
+tema:
+  - "LA CÉLULA"
+  - "GENÉTICA MOLECULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Tenemos dos moléculas de ADN (I y II) de doble cadena y de la misma longitud. Sometemos a ambas a altas temperaturas y observamos que el ADN I se desnaturaliza antes que el ADN II ¿Cuál de las dos mol"

@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

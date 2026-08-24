@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "a) Considérense los puntos 𝑄(−1,3, −5), 𝑅(3,1,0) y 𝑆(0,1,2). Obtenga la ecuación implícita o general del plano 𝜋 que contiene a 𝑄, 𝑅 y 𝑆."

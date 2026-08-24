@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "GENÉTICA MOLECULAR. METABOLISMO CELULAR"
+tema:
+  - "GENÉTICA MOLECULAR"
+  - "METABOLISMO CELULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. En el texto se menciona un tipo de mutación. Indique si se trata de una mutación génica, cromosómica estructural o genómica. Justifique su respuesta."

@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

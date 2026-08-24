@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "7.1 Describa brevemente cuatro funciones que llevan a cabo los microorganismos en el ciclo del nitrógeno."

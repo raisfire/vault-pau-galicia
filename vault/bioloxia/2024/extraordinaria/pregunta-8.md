@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique dos tipos celulares que intervienen en esta respuesta y explique su función."

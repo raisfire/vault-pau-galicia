@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "FÍSICA DEL SIGLO XX"
+tema:
+  - "FÍSICA DEL SIGLO XX"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

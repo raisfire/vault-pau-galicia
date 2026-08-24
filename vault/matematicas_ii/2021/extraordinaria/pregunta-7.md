@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) La probabilidad de que no practique yoga y a la vez tenga mascota."

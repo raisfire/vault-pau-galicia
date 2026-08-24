@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) Si elegimos al azar uno de estos aparatos, ¿cuál es la probabilidad de que dure menos de 17000 horas?"

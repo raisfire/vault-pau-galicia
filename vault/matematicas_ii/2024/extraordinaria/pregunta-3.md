@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Cuál es el valor de 𝑘𝑘 que hace que 𝑓𝑓 sea continua en 𝑥𝑥= 0 para cualquier valor de 𝑏𝑏?"

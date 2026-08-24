@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+tema:
+  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

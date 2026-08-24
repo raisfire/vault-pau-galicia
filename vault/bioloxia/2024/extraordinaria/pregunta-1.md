@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "1.1. La figura 1 representa una biomolécula."

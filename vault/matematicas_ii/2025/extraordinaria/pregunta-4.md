@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Considérense los planos 𝜋: 2𝑥+ 3 𝑦 + 𝑧+ 1 = 0 y 𝜋′: 𝑥+ 𝑧−1 = 0 y los puntos 𝐴(2,1,0) y 𝐵(−1, −2,3). 4.1.1. Calcule la distancia del punto 𝐴 al plano paralelo a 𝜋 que pasa por 𝐵. 4.1.2. Obtenga las ecu"

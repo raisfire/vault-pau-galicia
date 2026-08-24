@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "INTERACCIÓN ELECTROMAGNÉTICA"
+tema:
+  - "INTERACCIÓN ELECTROMAGNÉTICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Indique y justifique la respuesta correcta. (1 punto) Un hilo conductor transporta una corriente y crea, por tanto, un campo magnético de intensidad B en un punto situado a una distancia perpendicular"

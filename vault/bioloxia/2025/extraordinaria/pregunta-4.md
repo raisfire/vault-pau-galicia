@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "INMUNOLOGÍA. BIOTECNOLOGÍA"
+tema:
+  - "INMUNOLOGÍA"
+  - "BIOTECNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Identifique la molécula de la figura e indique el nombre de las partes señaladas con los números 1-5 ¿Qué células la producen? ¿Cuál es la función de la porción de la molécula señalada con el número 2"

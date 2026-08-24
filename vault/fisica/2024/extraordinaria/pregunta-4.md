@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "Práctica de Física del siglo XX"
+tema:
+  - "FÍSICA DEL SIGLO XX"
 puntuacion: "2 puntos"
 apartados:
   - "b) Deduzca el valor de la constante de Planck a partir de la gráfica. DATO: |qe| = 1,6×10−19 C."

@@ -4,7 +4,7 @@ asignatura: "Química"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "3"
+tema: []
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:
   - "3.2. Empleando la teoría de repulsión de pares de electrones de la capa de valencia (TRPECV) razone cuál será la geometría y la polaridad de las moléculas BeI2 y CHCl3."

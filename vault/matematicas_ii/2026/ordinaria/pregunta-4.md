@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Sea 𝑟 la recta que pasa por el origen y por 𝑃′, siendo 𝑃′ el punto simétrico de 𝑃(1,0,1) con respecto al punto 𝑄(0,1,0). Se pide: 4.1.1. Obtenga 𝑃′ y las ecuaciones paramétricas de 𝑟. 4.1.2. Determine"

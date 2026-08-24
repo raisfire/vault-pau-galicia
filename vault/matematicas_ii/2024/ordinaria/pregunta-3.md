@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados:
   - "a) Enuncie los teoremas de Rolle y de Bolzano."

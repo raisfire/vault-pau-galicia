@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

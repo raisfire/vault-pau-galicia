@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "GENÉTICA MOLECULAR. BIOTECNOLOGÍA"
+tema:
+  - "GENÉTICA MOLECULAR"
+  - "BIOTECNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Responda estos dos apartados: (1 punto) La imagen de la derecha muestra la secuencia de bases de un fragmento del ADN de un gen. 2.1.1. Escriba la secuencia del ARNm correspondiente en sentido 5’ a 3’"

@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "1.1. A) ¿Qué molécula está representada en la figura 1? Explique su estructura molecular."

@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "METABOLISMO CELULAR. LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema:
+  - "METABOLISMO CELULAR"
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Responda estos tres apartados: (1 punto) 3.1.1. Indique lo que señalan las letras A, B, C, D. 3.1.2. Describa el proceso indicado con los números 1 a 4. 3.1.3. Describa el proceso de inhibición compet"

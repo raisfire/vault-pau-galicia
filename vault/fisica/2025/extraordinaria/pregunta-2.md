@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "INTERACCIÓN ELECTROMAGNÉTICA"
+tema:
+  - "INTERACCIÓN ELECTROMAGNÉTICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Indique y justifique la respuesta correcta. (1 punto) Una espira conductora plana se sitúa en el seno de un campo magnético uniforme. El flujo magnético a través de ella será máximo si: a) disminuye l"

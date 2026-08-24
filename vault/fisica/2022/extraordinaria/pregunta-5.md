@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: "INTERACCIÓN GRAVITATORIA"
+tema:
+  - "INTERACCIÓN GRAVITATORIA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

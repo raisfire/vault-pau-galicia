@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados:
   - "a) Enuncie el teorema de Rolle."

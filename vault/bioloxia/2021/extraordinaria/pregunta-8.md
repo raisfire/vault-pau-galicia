@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Copie la tabla adjunta y rellene las casillas indicando las características de cada grupo de microorganismos."

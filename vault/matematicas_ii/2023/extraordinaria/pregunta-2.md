@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "Números y Álgebra"
+tema:
+  - "Números y Álgebra"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

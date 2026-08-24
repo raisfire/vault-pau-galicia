@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) La probabilidad de que contagie a un máximo de 2 personas."

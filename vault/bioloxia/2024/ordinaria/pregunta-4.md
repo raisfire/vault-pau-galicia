@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "4.1. A) ¿Qué proceso está representado en la figura 4?"

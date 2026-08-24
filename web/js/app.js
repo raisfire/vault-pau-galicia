@@ -29,7 +29,10 @@ function escapeHtml(str) {
 // -------------------- carga de datos --------------------
 
 async function loadData() {
-  const res = await fetch("data/preguntas.json");
+  // cache: "no-store" + parámetro de versión en la URL para evitar que el
+  // navegador (o un CDN intermedio) sirva una copia vieja de los datos
+  // después de recompilar el vault y volver a desplegar.
+  const res = await fetch("data/preguntas.json?v=" + Date.now(), { cache: "no-store" });
   DATA = await res.json();
 }
 
@@ -139,9 +142,9 @@ function renderLista(main, slug, initialParams) {
   const meta = SUBJECT_META[slug] || { label: slug };
   const preguntas = DATA.preguntas.filter((p) => p.asignatura_slug === slug);
 
-  const temas = [...new Set(preguntas.map((p) => p.tema).filter(Boolean))].sort();
+  const temas = [...new Set(preguntas.flatMap((p) => p.tema || []))].sort();
   const anios = [...new Set(preguntas.map((p) => p.anio))].sort();
-  const hayVacios = preguntas.some((p) => !p.tema);
+  const hayVacios = preguntas.some((p) => !p.tema || p.tema.length === 0);
 
   main.innerHTML = `
     <p class="breadcrumb"><a href="#/materias">Asignaturas</a> / ${meta.label}</p>
@@ -199,13 +202,14 @@ function renderLista(main, slug, initialParams) {
     const conv = convEl.value;
 
     const filtered = preguntas.filter((p) => {
-      if (tema === "__sin_tema__" && p.tema) return false;
-      if (tema && tema !== "__sin_tema__" && p.tema !== tema) return false;
+      const pTemas = p.tema || [];
+      if (tema === "__sin_tema__" && pTemas.length) return false;
+      if (tema && tema !== "__sin_tema__" && !pTemas.includes(tema)) return false;
       if (anio && String(p.anio) !== anio) return false;
       if (conv && p.convocatoria !== conv) return false;
       if (q) {
         const haystack = normalize(
-          p.enunciado + " " + (p.apartados || []).join(" ") + " " + p.tema
+          p.enunciado + " " + (p.apartados || []).join(" ") + " " + pTemas.join(" ")
         );
         if (!haystack.includes(q)) return false;
       }
@@ -253,15 +257,15 @@ function renderQuestionList(preguntas) {
   listEl.innerHTML = sorted
     .map((p) => {
       const snippet = escapeHtml(p.enunciado.slice(0, 180).replace(/\s+/g, " "));
-      const temaTag = p.tema
-        ? `<span class="tag tag-tema">${escapeHtml(p.tema)}</span>`
+      const temaTags = (p.tema && p.tema.length)
+        ? p.tema.map((t) => `<span class="tag tag-tema">${escapeHtml(t)}</span>`).join("")
         : `<span class="tag tag-sin-tema">Sin clasificar</span>`;
       return `
       <a class="question-card" href="#/pregunta/${encodeURIComponent(p.id)}">
         <div class="question-card-head">
           <span class="question-card-title">${p.anio} · ${p.convocatoria} · Pregunta ${p.numero_pregunta ?? "?"}</span>
           <span class="tag-row">
-            ${temaTag}
+            ${temaTags}
             <span class="tag">${escapeHtml(p.puntuacion || "")}</span>
           </span>
         </div>
@@ -294,6 +298,10 @@ function renderDetalle(main, id) {
     ? `<div class="notice-box">Esta pregunta está marcada como pendiente de revisión manual (transcripción dudosa).</div>`
     : "";
 
+  const temaTags = (p.tema && p.tema.length)
+    ? p.tema.map((t) => `<span class="tag tag-tema">${escapeHtml(t)}</span>`).join("")
+    : `<span class="tag tag-sin-tema">Sin clasificar</span>`;
+
   main.innerHTML = `
     <p class="breadcrumb">
       <a href="#/materias">Asignaturas</a> /
@@ -305,7 +313,7 @@ function renderDetalle(main, id) {
       <div class="question-detail-head">
         <h1>${meta.label} · ${p.anio} · ${p.convocatoria}</h1>
         <span class="tag-row">
-          ${p.tema ? `<span class="tag tag-tema">${escapeHtml(p.tema)}</span>` : `<span class="tag tag-sin-tema">Sin clasificar</span>`}
+          ${temaTags}
           <span class="tag">${escapeHtml(p.puntuacion || "")}</span>
           <span class="tag">${escapeHtml(p.ley_educativa || "")}</span>
         </span>

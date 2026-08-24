@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "a) Halle el valor de 𝑎𝑎 si el plano π: ax+y+z=0 es paralelo a la recta 𝑟𝑟: ൝ 𝑥𝑥= 1 + 𝜆𝜆, 𝑦𝑦= 1 + 𝜆𝜆, 𝑧𝑧= 2 + 𝜆𝜆, 𝜆𝜆∈ℝ."

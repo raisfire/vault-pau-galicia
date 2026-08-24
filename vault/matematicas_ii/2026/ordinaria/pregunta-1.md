@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Por el contexto, se sabe que 𝑃(𝑅|𝐼̅) = 𝑃(𝑋> 780) y que 𝑃(𝑅|𝐼) = 𝑃(𝑌> 840). Explique el significado de los sucesos 𝐼 y 𝑅 y de las variables aleatorias 𝑋 e 𝑌. Luego, determine la probabilidad de que, se"

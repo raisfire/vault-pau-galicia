@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "a) Si elegimos al azar una de las botellas, ¿cuál es la probabilidad de que lleve entre 499 y 502 mililitros?"

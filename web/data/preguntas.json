@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T00:23:40",
+ "generado": "2026-08-24T10:31:56",
  "total_preguntas": 384,
  "asignaturas": [
   "Biología",
@@ -17,7 +17,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -36,7 +36,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -55,7 +55,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -74,7 +74,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -93,7 +93,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -113,7 +113,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -133,7 +133,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -150,7 +150,7 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -167,7 +167,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -186,7 +186,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "La BASE MOLECULAR Y FISÍCOQUÍMICA DE LA VIDA",
+   "tema": [
+    "LA BASE MOLECULAR DE LA MATERIA VIVA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -203,7 +205,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -222,7 +224,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -239,7 +241,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -256,7 +258,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -273,7 +275,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -290,7 +292,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -307,7 +309,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -324,7 +326,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -343,7 +345,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -360,7 +362,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -381,7 +383,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -398,7 +400,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -418,7 +420,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -439,7 +441,7 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -461,7 +463,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -478,7 +480,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -495,7 +497,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -514,7 +516,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -531,7 +533,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -551,7 +553,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -568,7 +570,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -588,7 +590,7 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -609,7 +611,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -628,7 +630,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -645,7 +647,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -665,7 +667,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -685,7 +687,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -702,7 +704,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -719,7 +721,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -739,7 +741,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -759,7 +761,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -778,7 +780,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -797,7 +799,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -821,7 +823,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -838,7 +840,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -858,7 +860,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -878,7 +880,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -897,7 +899,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -917,7 +919,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -938,7 +940,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -957,7 +959,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -974,7 +976,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -995,7 +997,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1015,7 +1017,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -1032,7 +1034,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1051,7 +1053,7 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1071,7 +1073,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1090,7 +1092,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1113,7 +1115,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1134,7 +1136,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1153,7 +1155,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1172,7 +1174,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -1189,7 +1191,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -1206,7 +1208,7 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1226,7 +1228,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1251,7 +1253,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1276,7 +1278,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1297,7 +1299,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1318,7 +1320,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1339,7 +1341,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1362,7 +1364,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1383,7 +1385,7 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1404,7 +1406,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1427,7 +1429,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1452,7 +1454,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1475,7 +1477,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1497,7 +1499,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1520,7 +1522,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1543,7 +1545,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1565,7 +1567,7 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -1589,7 +1591,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "LA BASE MOLECULAR DE LA MATERIA VIVA. BIOTECNOLOGÍA",
+   "tema": [
+    "LA BASE MOLECULAR DE LA MATERIA VIVA",
+    "BIOTECNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1612,7 +1617,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "LA CÉLULA. GENÉTICA MOLECULAR",
+   "tema": [
+    "LA CÉLULA",
+    "GENÉTICA MOLECULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1637,7 +1645,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "LA CÉLULA. METABOLISMO CELULAR",
+   "tema": [
+    "LA CÉLULA",
+    "METABOLISMO CELULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1664,7 +1675,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "INMUNOLOGÍA. BIOTECNOLOGÍA",
+   "tema": [
+    "INMUNOLOGÍA",
+    "BIOTECNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1688,7 +1702,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INMUNOLOGÍA. BIOTECNOLOGÍA",
+   "tema": [
+    "INMUNOLOGÍA",
+    "BIOTECNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1711,7 +1728,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "LA BASE MOLECULAR DE LA MATERIA VIVA. METABOLISMO CELULAR",
+   "tema": [
+    "LA BASE MOLECULAR DE LA MATERIA VIVA",
+    "METABOLISMO CELULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1736,7 +1756,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "LA CÉLULA. GENÉTICA MOLECULAR",
+   "tema": [
+    "LA CÉLULA",
+    "GENÉTICA MOLECULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1758,7 +1781,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "LA CÉLULA. METABOLISMO CELULAR",
+   "tema": [
+    "LA CÉLULA",
+    "METABOLISMO CELULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1783,7 +1809,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "GENÉTICA MOLECULAR. METABOLISMO CELULAR",
+   "tema": [
+    "GENÉTICA MOLECULAR",
+    "METABOLISMO CELULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1805,7 +1834,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "GENÉTICA MOLECULAR. BIOTECNOLOGÍA",
+   "tema": [
+    "GENÉTICA MOLECULAR",
+    "BIOTECNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1829,7 +1861,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "LA CÉLULA. INMUNOLOGÍA",
+   "tema": [
+    "LA CÉLULA",
+    "INMUNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1855,7 +1890,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "LA CÉLULA. LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "tema": [
+    "LA CÉLULA",
+    "LA BASE MOLECULAR DE LA MATERIA VIVA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1881,7 +1919,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "A CÉLULA. BIOTECNOLOXÍA",
+   "tema": [
+    "LA CÉLULA",
+    "BIOTECNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1903,7 +1944,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "LA CÉLULA. INMUNOLOGÍA",
+   "tema": [
+    "LA CÉLULA",
+    "INMUNOLOGÍA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1929,7 +1973,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "METABOLISMO CELULAR. LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "tema": [
+    "METABOLISMO CELULAR",
+    "LA BASE MOLECULAR DE LA MATERIA VIVA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1956,7 +2003,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "METABOLISMO CELULAR. GENÉTICA MOLECULAR",
+   "tema": [
+    "METABOLISMO CELULAR",
+    "GENÉTICA MOLECULAR"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -1984,7 +2034,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2004,7 +2056,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2024,7 +2078,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2044,7 +2100,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2061,7 +2119,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2078,7 +2138,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2095,7 +2157,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2112,7 +2176,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2129,7 +2195,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2149,7 +2217,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2169,7 +2239,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2189,7 +2261,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2206,7 +2280,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2223,7 +2299,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2240,7 +2318,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2257,7 +2337,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2274,7 +2356,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2294,7 +2378,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2314,7 +2400,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2334,7 +2422,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2351,7 +2441,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2368,7 +2460,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2385,7 +2479,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2402,7 +2498,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2419,7 +2517,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2439,7 +2539,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2459,7 +2561,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2480,7 +2584,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2500,7 +2606,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2517,7 +2625,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2534,7 +2644,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2551,7 +2663,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2568,7 +2682,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2588,7 +2704,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2608,7 +2726,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2628,7 +2748,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2647,7 +2769,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2664,7 +2788,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2681,7 +2807,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2698,7 +2826,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2715,7 +2845,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2735,7 +2867,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2755,7 +2889,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2775,7 +2911,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2795,7 +2933,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2812,7 +2952,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2829,7 +2971,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2846,7 +2990,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2865,7 +3011,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2885,7 +3033,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2905,7 +3055,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2925,7 +3077,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2944,7 +3098,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -2963,7 +3119,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2980,7 +3138,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -2997,7 +3157,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3014,7 +3176,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3034,7 +3198,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3054,7 +3220,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3074,7 +3242,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3093,7 +3263,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3110,7 +3282,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3127,7 +3301,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3144,7 +3320,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3161,7 +3339,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Interacción gravitatoria. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3182,7 +3362,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Interacción electromagnética. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3202,7 +3384,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Ondas y óptica geométrica. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3222,7 +3406,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Práctica de Física del siglo XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3241,7 +3427,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "Problema de interacción gravitatoria",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3258,7 +3446,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "Problema de interacción electromagnética",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3275,7 +3465,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "Problema de ondas y óptica geométrica",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3292,7 +3484,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "Problema de física del siglo XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3309,7 +3503,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Interacción electromagnética. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3329,7 +3525,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Ondas y óptica geométrica. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3349,7 +3547,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Física del siglo XX. Responda indicando y justificando la opción correcta",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3369,7 +3569,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Práctica de interacción gravitatoria",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3389,7 +3591,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "Problema de interacción gravitatoria",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3406,7 +3610,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "Problema de interacción electromagnética",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3423,7 +3629,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "Problema de ondas y óptica geométrica",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3440,7 +3648,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "Problema de Física del siglo XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3457,7 +3667,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3478,7 +3690,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3498,7 +3712,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3518,7 +3734,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3538,7 +3756,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3559,7 +3779,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3579,7 +3801,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3599,7 +3823,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3619,7 +3845,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3647,7 +3875,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3671,7 +3901,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3699,7 +3931,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DO SÉCULO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3727,7 +3961,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "INTERACCIÓN GRAVITATORIA",
+   "tema": [
+    "INTERACCIÓN GRAVITATORIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3750,7 +3986,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+   "tema": [
+    "INTERACCIÓN ELECTROMAGNÉTICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3778,7 +4016,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "ONDAS Y ÓPTICA GEOMÉTRICA",
+   "tema": [
+    "ONDAS Y ÓPTICA GEOMÉTRICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3806,7 +4046,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "FÍSICA DEL SIGLO XX",
+   "tema": [
+    "FÍSICA DEL SIGLO XX"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -3834,7 +4076,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3854,7 +4098,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3871,7 +4117,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3888,7 +4136,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3908,7 +4158,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3925,7 +4177,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3945,7 +4199,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -3962,7 +4218,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -3982,7 +4240,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4002,7 +4262,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4019,7 +4281,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4039,7 +4303,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4059,7 +4325,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4079,7 +4347,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4096,7 +4366,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4113,7 +4385,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4130,7 +4404,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4147,7 +4423,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4164,7 +4442,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4184,7 +4464,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4204,7 +4486,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4224,7 +4508,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4241,7 +4527,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4261,7 +4549,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4278,7 +4568,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4295,7 +4587,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4312,7 +4606,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4329,7 +4625,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4346,7 +4644,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4366,7 +4666,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4386,7 +4688,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4406,7 +4710,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4426,7 +4732,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4446,7 +4752,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4463,7 +4769,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4483,7 +4789,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4505,7 +4811,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4525,7 +4831,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4542,7 +4848,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4562,7 +4868,7 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4582,7 +4888,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4599,7 +4905,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4616,7 +4922,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4636,7 +4942,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4653,7 +4959,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4673,7 +4979,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4693,7 +4999,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4713,7 +5019,7 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4733,7 +5039,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4753,7 +5061,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4770,7 +5080,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4790,7 +5102,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4810,7 +5124,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4830,7 +5146,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4850,7 +5168,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4870,7 +5190,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4887,7 +5209,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4904,7 +5228,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4921,7 +5247,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4941,7 +5269,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -4958,7 +5288,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4978,7 +5310,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -4998,7 +5332,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5018,7 +5354,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5038,7 +5376,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5058,7 +5398,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -5075,7 +5417,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5095,7 +5439,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -5112,7 +5458,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5132,7 +5480,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -5149,7 +5499,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -5166,7 +5518,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5186,7 +5540,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5206,7 +5562,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -5223,7 +5581,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5243,7 +5603,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5263,7 +5625,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5283,7 +5647,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5303,7 +5669,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5323,7 +5691,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5343,7 +5713,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5364,7 +5736,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5384,7 +5758,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5404,7 +5780,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5424,7 +5802,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5445,7 +5825,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5465,7 +5847,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5485,7 +5869,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -5505,7 +5891,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5525,7 +5913,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5545,7 +5935,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "4 puntos",
    "apartados": [
@@ -5566,7 +5958,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5586,7 +5980,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "Estadística y Probabilidad",
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5606,7 +6002,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "Números y Álgebra",
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5626,7 +6024,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "Análisis",
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "4 puntos",
    "apartados": [
@@ -5655,7 +6055,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "Geometría",
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -5675,7 +6077,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5695,7 +6099,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5715,7 +6121,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5735,7 +6143,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5755,7 +6165,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5775,7 +6187,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5795,7 +6209,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5815,7 +6231,9 @@
    "anio": 2020,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5835,7 +6253,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "1",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5854,7 +6272,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5874,7 +6294,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "3",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5893,7 +6313,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5913,7 +6335,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5933,7 +6357,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5953,7 +6379,9 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5973,7 +6401,7 @@
    "anio": 2020,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "8",
+   "tema": [],
    "tema_fuente": null,
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -5992,7 +6420,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6012,7 +6442,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6032,7 +6464,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6052,7 +6486,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6072,7 +6508,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6092,7 +6530,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6112,7 +6552,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6132,7 +6574,9 @@
    "anio": 2021,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6152,7 +6596,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6172,7 +6618,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6192,7 +6640,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6212,7 +6662,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6232,7 +6684,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6252,7 +6706,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6272,7 +6728,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6292,7 +6750,9 @@
    "anio": 2021,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6312,7 +6772,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6332,7 +6794,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6352,7 +6816,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6372,7 +6838,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6392,7 +6860,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6412,7 +6882,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6432,7 +6904,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6452,7 +6926,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6472,7 +6948,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6492,7 +6970,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6512,7 +6992,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6532,7 +7014,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6552,7 +7036,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6572,7 +7058,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6592,7 +7080,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6612,7 +7102,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6632,7 +7124,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6652,7 +7146,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6672,7 +7168,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6692,7 +7190,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6712,7 +7212,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6732,7 +7234,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6752,7 +7256,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6772,7 +7278,9 @@
    "anio": 2023,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6792,7 +7300,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6812,7 +7322,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6832,7 +7344,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6852,7 +7366,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6872,7 +7388,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6892,7 +7410,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6912,7 +7432,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6932,7 +7454,9 @@
    "anio": 2023,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos (1 punto por apartado)",
    "apartados": [
@@ -6952,7 +7476,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -6972,7 +7498,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -6992,7 +7520,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7012,7 +7542,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7032,7 +7564,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7052,7 +7586,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7072,7 +7608,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7092,7 +7630,9 @@
    "anio": 2024,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7112,7 +7652,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7132,7 +7674,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7152,7 +7696,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "QUÍMICA ORGÁNICA",
+   "tema": [
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7172,7 +7718,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7192,7 +7740,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7212,7 +7762,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7232,7 +7784,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7252,7 +7806,9 @@
    "anio": 2024,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA"
+   ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
    "apartados": [
@@ -7272,7 +7828,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA",
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7293,7 +7852,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7315,7 +7877,9 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7335,7 +7899,10 @@
    "anio": 2025,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA / QUÍMICA ORGÁNICA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7355,7 +7922,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA",
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7376,7 +7946,9 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7398,7 +7970,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS / QUÍMICA ORGÁNICA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7418,7 +7993,10 @@
    "anio": 2025,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7438,7 +8016,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA",
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7459,7 +8040,9 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7481,7 +8064,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7501,7 +8087,10 @@
    "anio": 2026,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA / QUÍMICA ORGÁNICA",
+   "tema": [
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7522,7 +8111,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS",
+   "tema": [
+    "DESTREZAS BÁSICAS DE LA QUÍMICA",
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7542,7 +8134,9 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": "REACCIONES QUÍMICAS",
+   "tema": [
+    "REACCIONES QUÍMICAS"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7564,7 +8158,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": "REACCIONES QUÍMICAS / QUÍMICA ORGÁNICA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "QUÍMICA ORGÁNICA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [
@@ -7585,7 +8182,10 @@
    "anio": 2026,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "tema": [
+    "REACCIONES QUÍMICAS",
+    "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+   ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
    "apartados": [

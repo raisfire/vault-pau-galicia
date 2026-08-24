@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "REACCIONES QUÍMICAS / ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+tema:
+  - "REACCIONES QUÍMICAS"
+  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda los tres subapartados siguientes: 4.1.1. Se dispone de una disolución de ácido hipocloroso (HClO) de concentración 0,01 M (Ka (HClO)= 3∙10-8). Calcule el grado de disociación de dicho ácido. "

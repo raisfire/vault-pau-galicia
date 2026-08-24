@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: "Geometría"
+tema:
+  - "Geometría"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga las ecuaciones paramétricas de la recta 𝑟 que pasa por los puntos 𝑃(2, −1,0) y 𝑄(3,0,0) y la ecuación implícita o general del plano 𝜋 que pasa por el punto 𝑅(0,4, −2) y es paralelo a los vecto"

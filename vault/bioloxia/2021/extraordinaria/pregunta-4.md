@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Relacione los procesos de respiración, fermentación, fotosíntesis y glucolisis con las letras A, B, C y D de la figura 4, justifique brevemente su respuesta."

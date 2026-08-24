@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) Haga un cuadro que relacione cuatro propiedades del agua con cuatro de las funciones que realiza en los seres vivos."

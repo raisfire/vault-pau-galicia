@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "QUÍMICA ORGÁNICA"
+tema:
+  - "QUÍMICA ORGÁNICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

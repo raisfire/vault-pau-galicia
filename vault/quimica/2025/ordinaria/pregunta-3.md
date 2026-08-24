@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "REACCIONES QUÍMICAS / QUÍMICA ORGÁNICA"
+tema:
+  - "REACCIONES QUÍMICAS"
+  - "QUÍMICA ORGÁNICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Se disuelve hidróxido de cobalto(II) en agua a 25°C hasta obtener una disolución saturada en la que la concentración de [OH-] es de 3∙10-5 M. 3.1.1. Determine la constante del producto de solubilidad "

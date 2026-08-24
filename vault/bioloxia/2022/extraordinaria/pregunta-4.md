@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "4.1 Nombre una función que lleve a cabo cada uno de los siguientes orgánulos y estructuras celulares: nucleolo; retículo endoplasmático liso, membrana plasmática, peroxisoma, aparato de Golgi, retículo en"

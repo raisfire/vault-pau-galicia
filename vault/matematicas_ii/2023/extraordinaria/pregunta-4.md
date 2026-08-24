@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule mediante cambio de variable las integrales ∫(sin 𝑥)5 cos𝑥𝑑𝑥 y ∫(ln 𝑥)/𝑥𝑑𝑥."

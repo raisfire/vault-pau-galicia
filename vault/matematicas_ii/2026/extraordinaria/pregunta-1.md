@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Calcule la probabilidad de que un asistente pase entre 45 y 70 minutos en la feria."

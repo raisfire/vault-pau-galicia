@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "LA CÉLULA. METABOLISMO CELULAR"
+tema:
+  - "LA CÉLULA"
+  - "METABOLISMO CELULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique una función de cada uno de los siguientes orgánulos o estructuras: aparato de Golgi, centrosoma, cloroplasto, lisosoma, mitocondria, nucleolo, peroxisoma, retículo endoplasmático liso, ribosom"

@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados:
   - "a) Si 𝑓(𝑥) = 𝑎e𝑥+ 𝑏, diga qué valores deben tener 𝑎 y 𝑏 para que se cumplan 𝑓(0) = 0 y lim 𝑥→0 𝑓(𝑥) 𝑥 = 3."

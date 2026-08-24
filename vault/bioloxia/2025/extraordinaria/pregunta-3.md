@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "LA CÉLULA. METABOLISMO CELULAR"
+tema:
+  - "LA CÉLULA"
+  - "METABOLISMO CELULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. A) Indique el nombre del orgánulo de la figura y su principal función."

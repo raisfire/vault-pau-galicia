@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "d) Enumera cuatro funciones realizadas por esta sustancia en los seres vivos. (2 puntos)"

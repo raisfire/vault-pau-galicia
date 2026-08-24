@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "Números y Álgebra"
+tema:
+  - "Números y Álgebra"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. Dadas las matrices 𝐴= ቀ1 0 1 0 2 0ቁ y 𝐵= ൭ 1 0 1 0 1 0 1 0 1 ൱, se pide responder las siguientes cuestiones: 2.1.1. Calcule las matrices X = AAᵀ e Y = AᵀA, siendo Aᵀ la matriz traspuesta de A. ¿Son X o "

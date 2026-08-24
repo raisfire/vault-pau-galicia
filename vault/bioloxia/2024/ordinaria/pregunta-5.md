@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "5.1. La figura 6 representa un sistema de endomembranas de una célula eucariota."

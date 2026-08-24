@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "8.1. A) Indique a qué grupo de microorganismos pertenecen Lactobacillus y Saccharomyces y explique brevemente la reacción en la que participan y una aplicación de cada uno de estos microorganismos en proce"

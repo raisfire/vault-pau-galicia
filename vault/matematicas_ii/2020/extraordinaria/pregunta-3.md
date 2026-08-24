@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

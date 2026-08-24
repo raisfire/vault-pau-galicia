@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "QUÍMICA ORGÁNICA"
+tema:
+  - "QUÍMICA ORGÁNICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "Números y Álgebra"
+tema:
+  - "Números y Álgebra"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule 𝐴𝐴2."

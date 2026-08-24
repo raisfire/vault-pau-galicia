@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "INTERACCIÓN GRAVITATORIA"
+tema:
+  - "INTERACCIÓN GRAVITATORIA"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Responda estos tres apartados. (1 punto) 1. Dibuje un esquema de la órbita del satélite, indicando la dirección y el sentido de la fuerza gravitatoria que experimenta el satélite. 2. Calcule la acelera"

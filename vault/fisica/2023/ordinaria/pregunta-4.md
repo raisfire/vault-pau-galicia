@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "ONDAS Y ÓPTICA GEOMÉTRICA"
+tema:
+  - "ONDAS Y ÓPTICA GEOMÉTRICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

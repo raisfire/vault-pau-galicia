@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "Estadística y Probabilidad"
+tema:
+  - "Estadística y Probabilidad"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. ¿Cuál es la probabilidad de que Antón vaya calzado con zapatillas tradicionales o zapatillas en buen estado?"

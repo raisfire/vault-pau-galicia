@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS"
+tema:
+  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. En un laboratorio se está diseñando un procedimiento para eliminar del agua el níquel que se encuentra disuelto como ion Ni+2, procedente del cloruro de níquel(II). El método consiste en partir de una"

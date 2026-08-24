@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Dada la función f(x) = {kx²+2x si x≤1, x²−m si x>1}, se pide responder a las siguientes cuestiones: 3.1.1. ¿Qué condición deben cumplir k y m para que f sea continua en x=1? 3.1.2. ¿Para qué valores de k y m es f derivable en x=1?"

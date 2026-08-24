@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: "ONDAS Y ÓPTICA GEOMÉTRICA"
+tema:
+  - "ONDAS Y ÓPTICA GEOMÉTRICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

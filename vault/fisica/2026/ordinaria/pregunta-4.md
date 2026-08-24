@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: "FÍSICA DEL SIGLO XX"
+tema:
+  - "FÍSICA DEL SIGLO XX"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique y justifique la respuesta correcta. (1 punto) La longitud de onda en el vacío de la luz emitida por un LED azul es 450 nm. ¿Cuál es la energía de sus fotones?"

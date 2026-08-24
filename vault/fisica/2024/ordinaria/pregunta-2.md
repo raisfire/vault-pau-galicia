@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "Ondas y óptica geométrica. Responda indicando y justificando la opción correcta"
+tema:
+  - "ONDAS Y ÓPTICA GEOMÉTRICA"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. La velocidad de una onda en un punto del espacio: a) varía con la fase en la que se encuentre el punto; b) varía con la distancia del punto al origen; c) varía al cambiar el medio de propagación."

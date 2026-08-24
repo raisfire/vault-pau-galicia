@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: "REACCIONES QUÍMICAS"
+tema:
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. El nitrato de plata se obtiene haciendo reaccionar la plata metálica con ácido nítrico, según la siguiente reacción: HNO3(aq) + Ag(s) → AgNO3(aq) + NO(g) + H2O(l) . Ajuste las ecuaciones iónica y mole"

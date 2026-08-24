@@ -4,7 +4,8 @@ asignatura: "Matemáticas II"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: "Análisis"
+tema:
+  - "Análisis"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Responda a las dos cuestiones siguientes: 3.1.1. Enuncie el teorema del valor medio del cálculo diferencial. 3.1.2. Calcule ∫𝑒𝑥cos 3𝑥𝑑𝑥."

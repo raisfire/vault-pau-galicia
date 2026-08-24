@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: "Problema de ondas y óptica geométrica"
+tema:
+  - "ONDAS Y ÓPTICA GEOMÉTRICA"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

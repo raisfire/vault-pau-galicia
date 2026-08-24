@@ -4,7 +4,7 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule el valor de 𝑃(−2 ≤𝑋≤7) si 𝑋 sigue una distribución normal de media 1 y desviación típica 3."

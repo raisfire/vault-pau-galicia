@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Cite tres orgánulos celulares delimitados por una doble membrana y tres orgánulos rodeados por una membrana simple, señalando además para cada orgánulo una función. b) La teoría endosimbionte explica "

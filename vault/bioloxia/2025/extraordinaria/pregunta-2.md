@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: "LA CÉLULA. GENÉTICA MOLECULAR"
+tema:
+  - "LA CÉLULA"
+  - "GENÉTICA MOLECULAR"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. A) Indique el nombre y la función de las estructuras marcadas con números (1-7) en la figura."

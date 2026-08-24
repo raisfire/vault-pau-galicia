@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) Formule los postulados de la teoría celular."

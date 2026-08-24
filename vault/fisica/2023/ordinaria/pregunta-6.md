@@ -4,7 +4,8 @@ asignatura: "Física"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: "INTERACCIÓN ELECTROMAGNÉTICA"
+tema:
+  - "INTERACCIÓN ELECTROMAGNÉTICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

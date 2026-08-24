@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: "LA BASE MOLECULAR DE LA MATERIA VIVA. BIOTECNOLOGÍA"
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "BIOTECNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. A partir de la información del texto, indique la función de los microARN y señale dos posibles consecuencias de su regulación anómala."

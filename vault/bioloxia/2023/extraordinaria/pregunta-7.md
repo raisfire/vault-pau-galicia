@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) ¿Qué son los priones? B) Cite una enfermedad infecciosa producida por cada uno de los siguientes tipos de microorganismos: hongos, bacterias, virus y protozoos. C) ¿Cuál es la principal diferencia ent"

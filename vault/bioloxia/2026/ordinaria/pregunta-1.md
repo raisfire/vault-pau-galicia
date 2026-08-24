@@ -4,7 +4,9 @@ asignatura: "Biología"
 año: 2026
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "A CÉLULA. BIOTECNOLOXÍA"
+tema:
+  - "LA CÉLULA"
+  - "BIOTECNOLOGÍA"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Identifique en el texto un mecanismo de transporte a través de la membrana. Explíquelo brevemente, haciendo referencia a su relación funcional con los lisosomas. Explique brevemente dos mecanismos de "

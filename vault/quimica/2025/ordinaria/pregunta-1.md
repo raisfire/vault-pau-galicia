@@ -4,7 +4,9 @@ asignatura: "Química"
 año: 2025
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: "DESTREZAS BÁSICAS DE LA QUÍMICA / REACCIONES QUÍMICAS"
+tema:
+  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "REACCIONES QUÍMICAS"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Diseñe un aparato para determinar, de forma aproximada, la entalpía de la reacción de neutralización del HCl con el NaOH en las condiciones del supuesto vertido, a 25°C. Para llevar a cabo el diseño d"

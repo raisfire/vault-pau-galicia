@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique cuál es el nombre de los procesos metabólicos señalados con los números 1- 6 en la figura 7."

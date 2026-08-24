@@ -4,7 +4,7 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la ecuación implícita o general del plano 𝜋 que pasa por el punto 𝑃(1, −1,0) y es perpendicular a la recta 𝑟: ൝ 𝑥= 1 + 𝜆, 𝑦= −1, 𝑧= 0, 𝜆∈ℝ."

@@ -4,7 +4,7 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "a) Se hace un examen tipo test con 60 preguntas y 4 opciones por pregunta, de las que solo una es correcta. Calcule la probabilidad de acertar por lo menos 16 preguntas si se responden las 60 al azar."

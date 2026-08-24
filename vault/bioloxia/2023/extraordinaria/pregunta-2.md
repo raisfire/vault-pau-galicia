@@ -4,7 +4,7 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: ""
+tema: []
 puntuacion: "2 puntos"
 apartados:
   - "B) Esas moléculas están formadas por unidades indicadas con las letras A y B ¿de qué moléculas se trata? ¿Mediante qué enlaces están unidas cada una de ellas? Cite dos propiedades de cada una. C) ¿Qué co"

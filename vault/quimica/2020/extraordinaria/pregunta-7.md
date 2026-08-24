@@ -4,7 +4,8 @@ asignatura: "Química"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: "DESTREZAS BÁSICAS DE LA QUÍMICA"
+tema:
+  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:
