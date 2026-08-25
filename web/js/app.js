@@ -4,6 +4,7 @@
 // ============================================================
 
 let DATA = null;
+let STATS = null;
 
 const SUBJECT_META = {
   matematicas_ii: { label: "Matemáticas II", desc: "Álgebra, análisis, geometría, probabilidad" },
@@ -34,6 +35,8 @@ async function loadData() {
   // después de recompilar el vault y volver a desplegar.
   const res = await fetch("data/preguntas.json?v=" + Date.now(), { cache: "no-store" });
   DATA = await res.json();
+  const res2 = await fetch("data/estadisticas.json?v=" + Date.now(), { cache: "no-store" });
+  STATS = await res2.json();
 }
 
 // -------------------- router --------------------
@@ -59,14 +62,17 @@ function render() {
     nav.innerHTML = "";
     renderPortada(main);
   } else if (segments[0] === "materias") {
-    nav.innerHTML = `<a href="#/">Portada</a>`;
+    nav.innerHTML = `<a href="#/">Portada</a><a href="#/estadisticas">Estadísticas</a>`;
     renderSelector(main);
   } else if (segments[0] === "materia" && segments[1]) {
-    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a>`;
+    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a><a href="#/estadisticas">Estadísticas</a>`;
     renderLista(main, segments[1], params);
   } else if (segments[0] === "pregunta" && segments[1]) {
-    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a>`;
+    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a><a href="#/estadisticas">Estadísticas</a>`;
     renderDetalle(main, decodeURIComponent(segments[1]));
+  } else if (segments[0] === "estadisticas") {
+    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a>`;
+    renderEstadisticas(main);
   } else {
     nav.innerHTML = "";
     renderPortada(main);
@@ -105,6 +111,56 @@ function renderPortada(main) {
 
       <a class="btn-primary" href="#/materias">Entrar al vault →</a>
     </section>
+  `;
+}
+
+// -------------------- vista: estadísticas --------------------
+
+function renderEstadisticas(main) {
+  const subjects = Object.keys(SUBJECT_META).filter((s) => STATS.por_asignatura[s]);
+
+  main.innerHTML = `
+    <h1 class="page-title" style="text-align:left; margin-bottom: 8px;">Qué cae más</h1>
+    <p class="page-subtitle" style="text-align:left; margin-bottom: 12px;">
+      Frecuencia de cada tema en las preguntas de examen, ${STATS.anio_min}–${STATS.anio_max}.
+    </p>
+    <div class="notice-box">
+      Los años ${STATS.anio_min}–2019 son solo estadística (clasificados automáticamente a partir
+      del texto original del examen): no están trozeados como preguntas navegables en el vault,
+      solo cuentan aquí para calcular la frecuencia de cada tema. 2020–2026 sí están en el vault.
+      Una pregunta puede contar en más de un tema si el examen la relaciona con varios bloques —
+      por eso los porcentajes de una asignatura no tienen por qué sumar 100%.
+    </div>
+    <div class="stats-grid">
+      ${subjects.map((slug) => renderStatsCard(slug)).join("")}
+    </div>
+  `;
+}
+
+function renderStatsCard(slug) {
+  const meta = SUBJECT_META[slug];
+  const info = STATS.por_asignatura[slug];
+  const maxPct = Math.max(...info.temas.map((t) => t.pct_preguntas), 1);
+
+  const rows = info.temas
+    .map(
+      (t) => `
+      <div class="stat-bar-row">
+        <div class="stat-bar-label">${escapeHtml(t.tema)}</div>
+        <div class="stat-bar-track">
+          <div class="stat-bar-fill" style="width:${(100 * t.pct_preguntas) / maxPct}%"></div>
+        </div>
+        <div class="stat-bar-value">${t.pct_preguntas}% <span class="stat-bar-n">(${t.n})</span></div>
+      </div>`
+    )
+    .join("");
+
+  return `
+    <div class="stats-card">
+      <h2>${meta.label}</h2>
+      <p class="stats-card-meta">${info.total_preguntas} preguntas contabilizadas</p>
+      ${rows}
+    </div>
   `;
 }
 

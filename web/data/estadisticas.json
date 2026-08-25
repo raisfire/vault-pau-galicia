@@ -1,0 +1,135 @@
+{
+ "generado": "2026-08-25T18:40:56",
+ "anio_min": 2010,
+ "anio_max": 2026,
+ "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
+ "por_asignatura": {
+  "matematicas_ii": {
+   "asignatura": "Matemáticas II",
+   "total_preguntas": 247,
+   "total_preguntas_vault_2020_2026": 96,
+   "total_preguntas_historico_2010_2019": 151,
+   "temas": [
+    {
+     "tema": "Análisis",
+     "n": 84,
+     "pct_preguntas": 34.0
+    },
+    {
+     "tema": "Geometría",
+     "n": 66,
+     "pct_preguntas": 26.7
+    },
+    {
+     "tema": "Números y Álgebra",
+     "n": 57,
+     "pct_preguntas": 23.1
+    },
+    {
+     "tema": "Estadística y Probabilidad",
+     "n": 34,
+     "pct_preguntas": 13.8
+    }
+   ]
+  },
+  "bioloxia": {
+   "asignatura": "Biología",
+   "total_preguntas": 275,
+   "total_preguntas_vault_2020_2026": 96,
+   "total_preguntas_historico_2010_2019": 179,
+   "temas": [
+    {
+     "tema": "LA BASE MOLECULAR DE LA MATERIA VIVA",
+     "n": 65,
+     "pct_preguntas": 23.6
+    },
+    {
+     "tema": "LA CÉLULA",
+     "n": 65,
+     "pct_preguntas": 23.6
+    },
+    {
+     "tema": "GENÉTICA MOLECULAR",
+     "n": 59,
+     "pct_preguntas": 21.5
+    },
+    {
+     "tema": "METABOLISMO CELULAR",
+     "n": 53,
+     "pct_preguntas": 19.3
+    },
+    {
+     "tema": "INMUNOLOGÍA",
+     "n": 29,
+     "pct_preguntas": 10.5
+    },
+    {
+     "tema": "BIOTECNOLOGÍA",
+     "n": 21,
+     "pct_preguntas": 7.6
+    }
+   ]
+  },
+  "fisica": {
+   "asignatura": "Física",
+   "total_preguntas": 343,
+   "total_preguntas_vault_2020_2026": 96,
+   "total_preguntas_historico_2010_2019": 247,
+   "temas": [
+    {
+     "tema": "VIBRACIÓNS E ONDAS",
+     "n": 87,
+     "pct_preguntas": 25.4
+    },
+    {
+     "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
+     "n": 86,
+     "pct_preguntas": 25.1
+    },
+    {
+     "tema": "ÓPTICA",
+     "n": 71,
+     "pct_preguntas": 20.7
+    },
+    {
+     "tema": "FÍSICA DEL SIGLO XX",
+     "n": 68,
+     "pct_preguntas": 19.8
+    },
+    {
+     "tema": "INTERACCIÓN GRAVITACIONAL",
+     "n": 60,
+     "pct_preguntas": 17.5
+    }
+   ]
+  },
+  "quimica": {
+   "asignatura": "Química",
+   "total_preguntas": 310,
+   "total_preguntas_vault_2020_2026": 96,
+   "total_preguntas_historico_2010_2019": 214,
+   "temas": [
+    {
+     "tema": "REACCIONES QUÍMICAS",
+     "n": 175,
+     "pct_preguntas": 56.5
+    },
+    {
+     "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
+     "n": 122,
+     "pct_preguntas": 39.4
+    },
+    {
+     "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+     "n": 66,
+     "pct_preguntas": 21.3
+    },
+    {
+     "tema": "QUÍMICA ORGÁNICA",
+     "n": 37,
+     "pct_preguntas": 11.9
+    }
+   ]
+  }
+ }
+}

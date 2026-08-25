@@ -1,0 +1,6505 @@
+[
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis",
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA",
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA",
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "sin_clasificar"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría",
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad",
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Estadística y Probabilidad"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra",
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "QUÍMICA ORGÁNICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "METABOLISMO CELULAR",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "sin_clasificar"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "BIOTECNOLOGÍA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría",
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "DESTREZAS BÁSICAS DE LA QUÍMICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "METABOLISMO CELULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "LA CÉLULA",
+   "INMUNOLOGÍA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Números y Álgebra"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "VIBRACIÓNS E ONDAS"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "FÍSICA DEL SIGLO XX"
+  ]
+ },
+ {
+  "subject": "bioloxia",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "GENÉTICA MOLECULAR"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2015",
+  "conv": "extraordinaria",
+  "temas": [
+   "REACCIONES QUÍMICAS",
+   "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "INTERACCIÓN ELECTROMAGNÉTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Geometría"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "matematicas_ii",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Análisis"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "INTERACCIÓN GRAVITACIONAL"
+  ]
+ },
+ {
+  "subject": "fisica",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "ÓPTICA"
+  ]
+ },
+ {
+  "subject": "quimica",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "QUÍMICA ORGÁNICA",
+   "REACCIONES QUÍMICAS"
+  ]
+ }
+]
