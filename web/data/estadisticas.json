@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-25T19:37:37",
+ "generado": "2026-08-26T01:20:34",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -105,174 +105,174 @@
   },
   "historiaespana": {
    "asignatura": "Historia de España",
-   "total_preguntas": 56,
+   "total_preguntas": 89,
    "total_preguntas_vault_2020_2026": 56,
-   "total_preguntas_historico_2010_2019": 0,
+   "total_preguntas_historico_2010_2019": 33,
    "temas": [
     {
-     "tema": "8. El reformismo borbónico en Galicia",
-     "n": 7,
-     "pct_preguntas": 12.5
-    },
-    {
-     "tema": "25. La reforma agraria liberal: las desamortizaciones",
-     "n": 6,
-     "pct_preguntas": 10.7
-    },
-    {
-     "tema": "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado",
-     "n": 5,
-     "pct_preguntas": 8.9
+     "tema": "14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas",
+     "n": 10,
+     "pct_preguntas": 11.2
     },
     {
      "tema": "30. El franquismo: política económica",
-     "n": 5,
-     "pct_preguntas": 8.9
+     "n": 10,
+     "pct_preguntas": 11.2
     },
     {
-     "tema": "7. Los Decretos de Nueva Planta y sus efectos",
-     "n": 4,
-     "pct_preguntas": 7.1
-    },
-    {
-     "tema": "9. La Ilustración en España",
-     "n": 4,
-     "pct_preguntas": 7.1
+     "tema": "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado",
+     "n": 9,
+     "pct_preguntas": 10.1
     },
     {
      "tema": "17. La Restauración",
-     "n": 4,
-     "pct_preguntas": 7.1
+     "n": 9,
+     "pct_preguntas": 10.1
     },
     {
      "tema": "19. La crisis de la Restauración",
-     "n": 4,
-     "pct_preguntas": 7.1
+     "n": 9,
+     "pct_preguntas": 10.1
     },
     {
      "tema": "23. El franquismo: características e institucionalización",
-     "n": 4,
-     "pct_preguntas": 7.1
+     "n": 9,
+     "pct_preguntas": 10.1
+    },
+    {
+     "tema": "8. El reformismo borbónico en Galicia",
+     "n": 8,
+     "pct_preguntas": 9.0
+    },
+    {
+     "tema": "25. La reforma agraria liberal: las desamortizaciones",
+     "n": 7,
+     "pct_preguntas": 7.9
     },
     {
      "tema": "24. El franquismo: las formas de oposición al Régimen",
-     "n": 3,
-     "pct_preguntas": 5.4
+     "n": 7,
+     "pct_preguntas": 7.9
+    },
+    {
+     "tema": "22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional",
+     "n": 7,
+     "pct_preguntas": 7.9
+    },
+    {
+     "tema": "32. La Transición y la consolidación de la democracia",
+     "n": 6,
+     "pct_preguntas": 6.7
+    },
+    {
+     "tema": "7. Los Decretos de Nueva Planta y sus efectos",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "12. Las Cortes de Cádiz y la Constitución de 1812",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "9. La Ilustración en España",
+     "n": 5,
+     "pct_preguntas": 5.6
     },
     {
      "tema": "11. La crisis de la monarquía absoluta: abdicaciones y ocupación napoleónica",
-     "n": 3,
-     "pct_preguntas": 5.4
+     "n": 5,
+     "pct_preguntas": 5.6
     },
     {
-     "tema": "14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas",
+     "tema": "27. El movimiento obrero (Sexenio Democrático y Restauración)",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "29. Las grandes reformas de la II República",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "26. Los principales sectores industriales y el papel del ferrocarril",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "21. El establecimiento de la II República: fuerzas políticas y constitución de 1931",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "20. La dictadura de Primo de Rivera",
+     "n": 5,
+     "pct_preguntas": 5.6
+    },
+    {
+     "tema": "15. La Revolución Gloriosa y la Constitución de 1869",
+     "n": 4,
+     "pct_preguntas": 4.5
+    },
+    {
+     "tema": "2. La configuración del imperio español en el siglo XVI",
+     "n": 4,
+     "pct_preguntas": 4.5
+    },
+    {
+     "tema": "16. La Primera República: proyecto de constitución federal y cantonalismo",
      "n": 3,
-     "pct_preguntas": 5.4
+     "pct_preguntas": 3.4
     },
     {
      "tema": "1. La nueva monarquía de los Reyes Católicos",
      "n": 3,
-     "pct_preguntas": 5.4
+     "pct_preguntas": 3.4
     },
     {
      "tema": "4. Economía y sociedad en Galicia bajo los Austrias",
      "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "27. El movimiento obrero (Sexenio Democrático y Restauración)",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "29. Las grandes reformas de la II República",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "32. La Transición y la consolidación de la democracia",
-     "n": 3,
-     "pct_preguntas": 5.4
+     "pct_preguntas": 3.4
     },
     {
      "tema": "3. La crisis del siglo XVII: aspectos socioeconómicos y políticos",
      "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "2. La configuración del imperio español en el siglo XVI",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "26. Los principales sectores industriales y el papel del ferrocarril",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "21. El establecimiento de la II República: fuerzas políticas y constitución de 1931",
-     "n": 3,
-     "pct_preguntas": 5.4
-    },
-    {
-     "tema": "12. Las Cortes de Cádiz y la Constitución de 1812",
-     "n": 2,
-     "pct_preguntas": 3.6
-    },
-    {
-     "tema": "15. La Revolución Gloriosa y la Constitución de 1869",
-     "n": 2,
-     "pct_preguntas": 3.6
+     "pct_preguntas": 3.4
     },
     {
      "tema": "6. El cambio dinástico y la guerra de Sucesión",
-     "n": 2,
-     "pct_preguntas": 3.6
+     "n": 3,
+     "pct_preguntas": 3.4
     },
     {
      "tema": "18. La cuestión nacional en el último tercio del siglo XIX",
+     "n": 3,
+     "pct_preguntas": 3.4
+    },
+    {
+     "tema": "31. La situación de la mujer en el siglo XX (II República, franquismo, gobiernos de la democracia)",
      "n": 2,
-     "pct_preguntas": 3.6
+     "pct_preguntas": 2.2
+    },
+    {
+     "tema": "33. España en Europa y en el mundo",
+     "n": 2,
+     "pct_preguntas": 2.2
     },
     {
      "tema": "34. Evolución y cambios en la España actual",
      "n": 2,
-     "pct_preguntas": 3.6
-    },
-    {
-     "tema": "20. La dictadura de Primo de Rivera",
-     "n": 2,
-     "pct_preguntas": 3.6
-    },
-    {
-     "tema": "16. La Primera República: proyecto de constitución federal y cantonalismo",
-     "n": 1,
-     "pct_preguntas": 1.8
-    },
-    {
-     "tema": "31. La situación de la mujer en el siglo XX (II República, franquismo, gobiernos de la democracia)",
-     "n": 1,
-     "pct_preguntas": 1.8
-    },
-    {
-     "tema": "33. España en Europa y en el mundo",
-     "n": 1,
-     "pct_preguntas": 1.8
+     "pct_preguntas": 2.2
     },
     {
      "tema": "28. La evolución de la sociedad en el siglo XIX (con especial atención a la situación de la mujer)",
      "n": 1,
-     "pct_preguntas": 1.8
+     "pct_preguntas": 1.1
     },
     {
      "tema": "10. El papel de la mujer en la Edad Moderna",
      "n": 1,
-     "pct_preguntas": 1.8
+     "pct_preguntas": 1.1
     }
    ]
   },

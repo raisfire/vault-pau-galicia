@@ -40,13 +40,14 @@ def temas_from_vault():
 def temas_from_2010_2019():
     counts = defaultdict(Counter)
     n_preguntas = defaultdict(int)
-    data = json.load(open("script/stats_2010_2019.json", encoding="utf-8"))
-    for r in data:
-        subject = r["subject"]
-        n_preguntas[subject] += 1
-        for t in r["temas"]:
-            if t != "sin_clasificar":
-                counts[subject][t] += 1
+    for fname in ("script/stats_2010_2019.json", "script/stats_historiaespana_2010_2019.json"):
+        data = json.load(open(fname, encoding="utf-8"))
+        for r in data:
+            subject = r["subject"]
+            n_preguntas[subject] += 1
+            for t in r["temas"]:
+                if t != "sin_clasificar":
+                    counts[subject][t] += 1
     return counts, n_preguntas
 
 
