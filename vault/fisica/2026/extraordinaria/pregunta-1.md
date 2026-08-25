@@ -5,7 +5,7 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITATORIA"
+  - "INTERACCIÓN GRAVITACIONAL"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Responda a estos apartados. (1 punto) Ayude a los estudiantes a conocer la relación entre las fuerzas y calcule:"

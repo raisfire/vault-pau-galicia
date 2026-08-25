@@ -5,7 +5,8 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Indique y justifique la respuesta correcta. (1 punto) Al colocar un objeto a 15 cm de distancia de una lente convergente de 30 cm de distancia focal, la imagen formada es: la) real, invertida y aument"

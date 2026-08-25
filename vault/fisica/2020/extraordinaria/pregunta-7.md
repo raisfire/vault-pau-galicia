@@ -5,7 +5,8 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

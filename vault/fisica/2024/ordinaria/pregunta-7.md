@@ -5,7 +5,8 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

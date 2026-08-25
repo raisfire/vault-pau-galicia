@@ -5,7 +5,8 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Indique y justifique la respuesta correcta. (1 punto) Cuando la luz pasa de un medio a otro de menor índice de refracción, el ángulo de refracción es: a) el mismo que el de incidencia; b) menor que el"

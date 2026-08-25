@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-24T10:31:56",
+ "generado": "2026-08-25T18:25:13",
  "total_preguntas": 384,
  "asignaturas": [
   "Biología",
@@ -2035,7 +2035,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2057,7 +2057,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2120,7 +2121,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2158,7 +2159,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2177,7 +2179,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2196,7 +2199,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2218,7 +2221,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2262,7 +2266,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2281,7 +2286,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2319,7 +2324,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2357,7 +2363,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2442,7 +2448,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2480,7 +2486,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2499,7 +2506,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2585,7 +2593,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2607,7 +2616,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2664,7 +2673,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2683,7 +2693,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2749,7 +2759,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2770,7 +2781,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2827,7 +2838,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2868,7 +2880,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2912,7 +2925,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2934,7 +2948,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -2991,7 +3005,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3099,7 +3114,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3139,7 +3154,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3158,7 +3174,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3177,7 +3194,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3243,7 +3260,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3264,7 +3282,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3302,7 +3320,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": "ia",
    "puntuacion": "2 puntos",
@@ -3340,7 +3359,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3385,7 +3404,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3428,7 +3448,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3466,7 +3486,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3526,7 +3547,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3570,7 +3592,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3592,7 +3614,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3630,7 +3652,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
@@ -3668,7 +3691,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3713,7 +3736,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3757,7 +3781,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3802,7 +3826,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3846,7 +3871,7 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3902,7 +3927,8 @@
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -3962,7 +3988,7 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
    "tema": [
-    "INTERACCIÓN GRAVITATORIA"
+    "INTERACCIÓN GRAVITACIONAL"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",
@@ -4017,7 +4043,8 @@
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
    "tema": [
-    "ONDAS Y ÓPTICA GEOMÉTRICA"
+    "VIBRACIÓNS E ONDAS",
+    "ÓPTICA"
    ],
    "tema_fuente": null,
    "puntuacion": "2.5 puntos",

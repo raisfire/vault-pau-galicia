@@ -5,7 +5,7 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITATORIA"
+  - "INTERACCIÓN GRAVITACIONAL"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

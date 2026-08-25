@@ -5,7 +5,7 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITATORIA"
+  - "INTERACCIÓN GRAVITACIONAL"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Responda a estos apartados. (1 punto) Si usted es un estudiante en prácticas y forma parte del equipo de la ESA que tiene que monitorizar el movimiento de estos satélites, debe realizar las siguientes"

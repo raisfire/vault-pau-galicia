@@ -5,7 +5,8 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Indique y justifique la respuesta correcta. (1 punto) Para obtener una imagen virtual y derecha con una lente delgada convergente de potencia 10 D, el objecto debe estar colocado, con respecto a la le"

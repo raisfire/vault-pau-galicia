@@ -5,7 +5,7 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 5
 tema:
-  - "INTERACCIÓN GRAVITATORIA"
+  - "INTERACCIÓN GRAVITACIONAL"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

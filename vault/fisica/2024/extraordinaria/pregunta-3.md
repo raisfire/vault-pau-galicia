@@ -5,7 +5,8 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "ONDAS Y ÓPTICA GEOMÉTRICA"
+  - "VIBRACIÓNS E ONDAS"
+  - "ÓPTICA"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. La energía mecánica de un oscilador armónico: a) se duplica cuando se duplica la amplitud de la oscilación; b) se duplica cuando se duplica la frecuencia de la oscilación; c) se cuadriplica cuando se "
