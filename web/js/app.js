@@ -11,6 +11,7 @@ const SUBJECT_META = {
   bioloxia: { label: "Biología", desc: "Bioquímica, genética, fisiología, ecología" },
   fisica: { label: "Física", desc: "Interacción gravitatoria, electromagnetismo, ondas, física moderna" },
   quimica: { label: "Química", desc: "Reacciones, enlace, estructura de la materia, orgánica" },
+  historiaespana: { label: "Historia de España", desc: "De los Reyes Católicos a la España actual" },
 };
 
 function normalize(str) {

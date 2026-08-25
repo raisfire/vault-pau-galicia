@@ -17,6 +17,7 @@ SUBJECT_LABELS = {
     "matematicas_ii": "Matemáticas II",
     "bioloxia": "Biología",
     "fisica": "Física",
+    "historiaespana": "Historia de España",
     "quimica": "Química",
 }
 
