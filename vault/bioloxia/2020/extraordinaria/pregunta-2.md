@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "d) Enumera cuatro funciones realizadas por esta sustancia en los seres vivos. (2 puntos)"

@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Escriba la secuencia de nucleótidos del ARNm del que se tradujo, indicando los extremos 5´e 3´."

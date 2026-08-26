@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: []
+tema:
+  - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué representa la imagen? Nombre los procesos A, B y C e indique la localización de cada uno de ellos en la célula eucariota. Justifique si estos procesos son catabólicos o anabólicos. b) ¿En qué con"

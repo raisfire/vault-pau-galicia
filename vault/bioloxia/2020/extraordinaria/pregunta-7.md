@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

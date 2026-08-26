@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Explique en qué consiste el fenómeno denominado efecto tampón y el papel de las sales minerales en dicho proceso. b) Explique la estructura química de la molécula de agua y cite cuatro propiedades del"

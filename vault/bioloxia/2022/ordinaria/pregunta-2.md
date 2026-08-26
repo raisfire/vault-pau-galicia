@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique las moléculas representadas en la figura 1. b) Las moléculas A, B y C son las unidades básicas de unos polímeros, ¿de cuáles? ¿Mediante qué enlaces se unen cada una de ellas para formar es"

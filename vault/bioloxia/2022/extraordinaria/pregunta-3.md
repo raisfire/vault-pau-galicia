@@ -4,7 +4,12 @@ asignatura: "Biología"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "METABOLISMO CELULAR"
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1 Indique cinco diferencias entre la fotosíntesis y la respiración celular."

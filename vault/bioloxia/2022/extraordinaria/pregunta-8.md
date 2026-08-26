@@ -4,7 +4,12 @@ asignatura: "Biología"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 8
-tema: []
+tema:
+  - "BIOTECNOLOGÍA"
+  - "INMUNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. a) Dibuje un bacteriófago identificando sus partes y la función que realizan cada una de ellas. b) Para fabricar yogur se mezcla leche con una pequeña cantidad de yogur y se incuba ocho horas a 35-40o"

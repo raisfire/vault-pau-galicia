@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "5.1 La ausencia de molares en la especie humana se debe a un gen dominante autosómico. Una pareja, ambos sin molares, tienen una hija con molares. A) Indique los genotipos de todos los miembros de esta fa"

@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

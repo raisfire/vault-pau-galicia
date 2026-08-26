@@ -4,7 +4,12 @@ asignatura: "Biología"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "INMUNOLOGÍA"
+  - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique los microorganismos representados con las letras A y B. Identifique las estructuras numeradas del 1 al 5. Indique el tipo de ácido nucleico que suele tener el genoma de cada uno de estos m"

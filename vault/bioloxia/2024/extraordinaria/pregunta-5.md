@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: []
+tema:
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Identifique las estructuras señaladas con números (1-8) en la figura 6."

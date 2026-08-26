@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 4
-tema: []
+tema:
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) ¿Cuál es? B) ¿En qué células está presente y cómo se explica su aparición en estas células? C) Describe el orgánulo con sus componentes. D) ¿Cuál es su función? Figura 1 Figura 3 Figura 2"

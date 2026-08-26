@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 2
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. A) ¿Qué significa, desde el punto de vista biológico, el hecho de que los ácidos grados sean moléculas con un comportamiento anfipático?"

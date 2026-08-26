@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T12:28:01",
+ "generado": "2026-08-26T12:41:36",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -40,33 +40,33 @@
    "temas": [
     {
      "tema": "LA BASE MOLECULAR DE LA MATERIA VIVA",
-     "n": 65,
-     "pct_preguntas": 23.6
+     "n": 84,
+     "pct_preguntas": 30.5
     },
     {
      "tema": "LA CÉLULA",
-     "n": 65,
-     "pct_preguntas": 23.6
+     "n": 79,
+     "pct_preguntas": 28.7
     },
     {
      "tema": "GENÉTICA MOLECULAR",
-     "n": 59,
-     "pct_preguntas": 21.5
+     "n": 79,
+     "pct_preguntas": 28.7
     },
     {
      "tema": "METABOLISMO CELULAR",
-     "n": 53,
-     "pct_preguntas": 19.3
+     "n": 60,
+     "pct_preguntas": 21.8
     },
     {
      "tema": "INMUNOLOGÍA",
-     "n": 29,
-     "pct_preguntas": 10.5
+     "n": 45,
+     "pct_preguntas": 16.4
     },
     {
      "tema": "BIOTECNOLOGÍA",
-     "n": 21,
-     "pct_preguntas": 7.6
+     "n": 34,
+     "pct_preguntas": 12.4
     }
    ]
   },

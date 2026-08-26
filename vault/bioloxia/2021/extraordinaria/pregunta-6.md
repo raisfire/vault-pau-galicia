@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 6
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "6.1. La calvicie prematura tiene una herencia influida por el sexo (no ligada a los cromosomas sexuales). El alelo que determina la calvicie (C) es dominante en hombres, pero recesivo en mujeres (c). De es"

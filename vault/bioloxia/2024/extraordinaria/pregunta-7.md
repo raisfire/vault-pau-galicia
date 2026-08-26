@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1. En la figura 8 se muestra la secuencia de corte del enzima EcoRI. Indique cuáles serían los fragmentos resultantes de digerir con EcoRI el fragmento de ADN mostrado en la figura 9."

@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué tipo de biomolécula se representa en la figura 1? b) Indica el nombre de los compuestos incluidos en los recuadros A y B e identifica el enlace entre ellos. Explica cómo se forma dicho enlace. c)"

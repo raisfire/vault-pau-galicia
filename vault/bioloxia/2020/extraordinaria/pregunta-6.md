@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 6
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Un hombre daltónico tiene hijos con una mujer con visión normal pero portadora de daltonismo. ¿Cómo serán los genotipos de los hijos? ¿Qué probabilidad hay de que tengan un varón y que sea daltónico? "

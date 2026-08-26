@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: []
+tema:
+  - "INMUNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. a) La figura 4 ¿representa a una célula eucariota o procariota? Indique dos razones que justifiquen su respuesta. b) Nombre los componentes numerados de la figura."

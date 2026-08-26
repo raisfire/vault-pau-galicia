@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "b) ¿Cuál es la función del orgánulo representado? De dicha función, indique que fase tiene lugar en la estructura marcada con el número 1 y que productos se obtienen en la misma. ¿Cuáles de estos product"

@@ -4,7 +4,12 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "INMUNOLOGÍA"
+  - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

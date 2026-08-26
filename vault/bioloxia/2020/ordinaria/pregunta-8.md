@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: []
+tema:
+  - "INMUNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

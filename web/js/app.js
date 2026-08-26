@@ -244,6 +244,17 @@ const HEATMAP_SUBJECTS = [
   "castelan", "galego", "tecnoloxia",
 ];
 
+// Fase 4: generador de simulacros. Piloto solo en Biología mientras se
+// confirma el diseño antes de replicarlo al resto. "huecos" = nº de
+// preguntas de un examen real de esa asignatura (formato vigente,
+// LOMLOE). "avoidRepeatTema" refleja si los examenes reales de esa
+// asignatura evitan repetir tema entre preguntas (visto en el inventario
+// de Fase 4 Paso 1) - en Biología SÍ se repite en la práctica, así que
+// aquí va en false.
+const SIMULACRO_CONFIG = {
+  bioloxia: { huecos: 4, avoidRepeatTema: false },
+};
+
 function renderLista(main, slug, initialParams) {
   const meta = SUBJECT_META[slug] || { label: slug };
   const preguntas = DATA.preguntas.filter((p) => p.asignatura_slug === slug);
@@ -253,13 +264,16 @@ function renderLista(main, slug, initialParams) {
   const hayVacios = preguntas.some((p) => !p.tema || p.tema.length === 0);
 
   const conHeatmap = HEATMAP_SUBJECTS.includes(slug);
+  const conSimulacro = Object.prototype.hasOwnProperty.call(SIMULACRO_CONFIG, slug);
 
-  const tabsHtml = conHeatmap
-    ? `
-    <div class="view-tabs">
-      <button class="view-tab is-active" data-view="lista">Lista</button>
-      <button class="view-tab" data-view="heatmap">Mapa de calor</button>
-    </div>`
+  const tabButtonsHtml = [
+    `<button class="view-tab is-active" data-view="lista">Lista</button>`,
+    conHeatmap ? `<button class="view-tab" data-view="heatmap">Mapa de calor</button>` : "",
+    conSimulacro ? `<button class="view-tab" data-view="simulacro">Simulacro</button>` : "",
+  ].join("");
+
+  const tabsHtml = (conHeatmap || conSimulacro)
+    ? `<div class="view-tabs">${tabButtonsHtml}</div>`
     : "";
 
   main.innerHTML = `
@@ -301,22 +315,29 @@ function renderLista(main, slug, initialParams) {
     <div class="question-list" id="question-list"></div>
     </div>
     <div id="vista-heatmap" hidden></div>
+    <div id="vista-simulacro" hidden></div>
   `;
 
-  if (conHeatmap) {
+  if (conHeatmap || conSimulacro) {
     const tabButtons = main.querySelectorAll(".view-tab");
-    const vistaLista = document.getElementById("vista-lista");
-    const vistaHeatmap = document.getElementById("vista-heatmap");
+    const vistas = {
+      lista: document.getElementById("vista-lista"),
+      heatmap: document.getElementById("vista-heatmap"),
+      simulacro: document.getElementById("vista-simulacro"),
+    };
     tabButtons.forEach((btn) => {
       btn.addEventListener("click", () => {
         tabButtons.forEach((b) => b.classList.remove("is-active"));
         btn.classList.add("is-active");
         const view = btn.dataset.view;
-        vistaLista.hidden = view !== "lista";
-        vistaHeatmap.hidden = view !== "heatmap";
-        if (view === "heatmap" && !vistaHeatmap.dataset.rendered) {
-          renderHeatmap(vistaHeatmap, preguntas);
-          vistaHeatmap.dataset.rendered = "1";
+        for (const [name, el] of Object.entries(vistas)) el.hidden = name !== view;
+        if (view === "heatmap" && !vistas.heatmap.dataset.rendered) {
+          renderHeatmap(vistas.heatmap, preguntas);
+          vistas.heatmap.dataset.rendered = "1";
+        }
+        if (view === "simulacro" && !vistas.simulacro.dataset.rendered) {
+          renderSimulacro(vistas.simulacro, preguntas, slug);
+          vistas.simulacro.dataset.rendered = "1";
         }
       });
     });
@@ -612,16 +633,105 @@ function renderHeatmap(container, preguntas) {
   draw();
 }
 
-// -------------------- vista: detalle de pregunta --------------------
+// -------------------- vista: simulacro (Fase 4) --------------------
+//
+// Ensambla un examen completo con preguntas REALES del vault (nunca texto
+// inventado), eligiendo un tema por hueco ponderado por su frecuencia
+// histórica real en esta asignatura, y luego una pregunta real al azar
+// que trate ese tema. Piloto: solo Biología (SIMULACRO_CONFIG).
 
-function renderDetalle(main, id) {
-  const p = DATA.preguntas.find((x) => x.id === id);
+function pesarTemasPorFrecuencia(preguntas) {
+  const freq = {};
+  for (const p of preguntas) {
+    for (const t of temasDePregunta(p)) {
+      if (t === "Sin clasificar") continue; // no tiene sentido "practicar" este bucket
+      freq[t] = (freq[t] || 0) + 1;
+    }
+  }
+  return freq; // { tema: nº de preguntas históricas con ese tema }
+}
 
-  if (!p) {
-    main.innerHTML = `<div class="empty-state">No se encontró esa pregunta.</div>`;
-    return;
+function elegirTemaPonderado(freq, excluir) {
+  const entradas = Object.entries(freq).filter(([t]) => !excluir.has(t));
+  const total = entradas.reduce((s, [, n]) => s + n, 0);
+  if (total === 0) return null;
+  let r = Math.random() * total;
+  for (const [tema, n] of entradas) {
+    r -= n;
+    if (r <= 0) return tema;
+  }
+  return entradas[entradas.length - 1][0];
+}
+
+function generarSimulacro(preguntas, config) {
+  const freq = pesarTemasPorFrecuencia(preguntas);
+  const porTema = {};
+  for (const p of preguntas) {
+    for (const t of temasDePregunta(p)) {
+      if (t === "Sin clasificar") continue;
+      (porTema[t] = porTema[t] || []).push(p);
+    }
   }
 
+  const huecos = [];
+  const temasUsados = new Set();
+  const idsUsados = new Set();
+
+  for (let i = 0; i < config.huecos; i++) {
+    const excluir = config.avoidRepeatTema ? temasUsados : new Set();
+    const tema = elegirTemaPonderado(freq, excluir) || elegirTemaPonderado(freq, new Set());
+    if (!tema) break;
+    temasUsados.add(tema);
+
+    const candidatas = (porTema[tema] || []).filter((p) => !idsUsados.has(p.id));
+    const pool = candidatas.length ? candidatas : porTema[tema] || [];
+    if (!pool.length) continue;
+    const elegida = pool[Math.floor(Math.random() * pool.length)];
+    idsUsados.add(elegida.id);
+    huecos.push({ tema, pregunta: elegida });
+  }
+
+  return huecos;
+}
+
+function renderSimulacro(container, preguntas, slug) {
+  const config = SIMULACRO_CONFIG[slug];
+
+  container.innerHTML = `
+    <div class="notice-box">
+      Simulacro generado a partir de preguntas reales, ponderado por frecuencia histórica —
+      no es una predicción de lo que va a caer, es una herramienta de práctica.
+    </div>
+    <button class="btn-primary" id="btn-generar-simulacro" style="margin-bottom: 24px;">
+      Generar otro simulacro
+    </button>
+    <div id="simulacro-huecos"></div>
+  `;
+
+  const btn = document.getElementById("btn-generar-simulacro");
+  const huecosEl = document.getElementById("simulacro-huecos");
+
+  function draw() {
+    const huecos = generarSimulacro(preguntas, config);
+    if (!huecos.length) {
+      huecosEl.innerHTML = `<div class="empty-state">No hay suficientes preguntas clasificadas por tema para generar un simulacro.</div>`;
+      return;
+    }
+    huecosEl.innerHTML = huecos
+      .map(({ tema, pregunta }, i) => {
+        const heading = `Pregunta ${i + 1} · ${escapeHtml(tema)}`;
+        return renderQuestionCard(pregunta, { heading });
+      })
+      .join("");
+  }
+
+  btn.addEventListener("click", draw);
+  draw();
+}
+
+// -------------------- vista: detalle de pregunta --------------------
+
+function renderQuestionCard(p, { heading } = {}) {
   const meta = SUBJECT_META[p.asignatura_slug] || { label: p.asignatura_slug };
   const pdfHref = "../" + p.fuente;
 
@@ -639,16 +749,10 @@ function renderDetalle(main, id) {
     ? p.tema.map((t) => `<span class="tag tag-tema">${escapeHtml(t)}</span>`).join("")
     : `<span class="tag tag-sin-tema">Sin clasificar</span>`;
 
-  main.innerHTML = `
-    <p class="breadcrumb">
-      <a href="#/materias">Asignaturas</a> /
-      <a href="#/materia/${p.asignatura_slug}">${meta.label}</a> /
-      Pregunta ${p.numero_pregunta ?? "?"}
-    </p>
-
+  return `
     <article class="question-detail">
       <div class="question-detail-head">
-        <h1>${meta.label} · ${p.anio} · ${p.convocatoria}</h1>
+        <h1>${heading || `${meta.label} · ${p.anio} · ${p.convocatoria}`}</h1>
         <span class="tag-row">
           ${temaTags}
           <span class="tag">${escapeHtml(p.puntuacion || "")}</span>
@@ -668,6 +772,26 @@ function renderDetalle(main, id) {
         </a>
       </div>
     </article>
+  `;
+}
+
+function renderDetalle(main, id) {
+  const p = DATA.preguntas.find((x) => x.id === id);
+
+  if (!p) {
+    main.innerHTML = `<div class="empty-state">No se encontró esa pregunta.</div>`;
+    return;
+  }
+
+  const meta = SUBJECT_META[p.asignatura_slug] || { label: p.asignatura_slug };
+
+  main.innerHTML = `
+    <p class="breadcrumb">
+      <a href="#/materias">Asignaturas</a> /
+      <a href="#/materia/${p.asignatura_slug}">${meta.label}</a> /
+      Pregunta ${p.numero_pregunta ?? "?"}
+    </p>
+    ${renderQuestionCard(p)}
   `;
 }
 

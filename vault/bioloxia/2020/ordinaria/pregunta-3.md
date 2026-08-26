@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Defina los siguientes procesos: pinocitosis, fagocitosis y exocitosis. b) Defina nucleoplasma y nucléolo c) Defina e indique una función del cloroplasto. (2 puntos)"

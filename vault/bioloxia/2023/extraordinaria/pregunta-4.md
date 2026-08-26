@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 4
-tema: []
+tema:
+  - "LA CÉLULA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. A) Identifique las estructuras celulares representadas con números en la figura 3."

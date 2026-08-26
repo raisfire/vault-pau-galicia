@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2024
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: []
+tema:
+  - "INMUNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. A) Explique qué tipo de molécula está representada en la figura 9 e indique sus partes."

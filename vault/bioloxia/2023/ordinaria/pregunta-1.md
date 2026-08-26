@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2023
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique a qué hacen referencia las lineas horizontales señaladas por los números 1 y 2. B) ¿A qué se refieren los números 3 y 4? C) ¿Qué conclusión puede obtenerse de esta gráfica? E) ¿Cómo se denomin"

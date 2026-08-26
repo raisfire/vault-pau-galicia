@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué proceso aparece representado en la figura 3? Identifique los extremos y las moléculas señaladas con letras."

@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) En relación con la figura 5, ¿Cómo se denominan cada uno de los pasos indicados con flechas en el esquema? ¿Dónde se llevan a cabo en una célula eucariótica? Escriba qué codones corresponden a cada un"

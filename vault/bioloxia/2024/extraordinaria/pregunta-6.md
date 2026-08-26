@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 6
-tema: []
+tema:
+  - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique cuál es su nombre y qué seres vivos lo llevan a cabo."

@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: []
+tema:
+  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique la que pertenece al grupo de los glúcidos; b) de entre los siguientes elementos, indique cuáles intervienen regularmente en la composición de los glúcidos: carbono, hidrógeno, oxígeno, fós"

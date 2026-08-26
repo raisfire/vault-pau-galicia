@@ -4,7 +4,10 @@ asignatura: "Biología"
 año: 2021
 convocatoria: ordinaria
 numero_pregunta: 5
-tema: []
+tema:
+  - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2 puntos"
 apartados:
   - "5.1. A partir de la siguiente secuencia de nucleótidos: CGA CCC CTC ATA GGC AAA CAC CGC TAT ATC conteste a las siguientes preguntas: a) ¿A qué molécula pertenecerá, ADN o ARN? Justifique su respuesta. b) ¿"
