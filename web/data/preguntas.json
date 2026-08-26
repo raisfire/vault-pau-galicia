@@ -1,11 +1,12 @@
 {
- "generado": "2026-08-26T10:26:21",
- "total_preguntas": 496,
+ "generado": "2026-08-26T10:53:50",
+ "total_preguntas": 560,
  "asignaturas": [
   "Biología",
   "Física",
   "Historia da Filosofía",
   "Historia de España",
+  "Inglés",
   "Matemáticas II",
   "Química"
  ],
@@ -6599,6 +6600,1424 @@
    "revision_manual": false,
    "revision_manual_dudosa": false,
    "enunciado": "PREGUNTA 4. CONCEPTOS FILOSÓFICOS. (1 punto) \nResponda estos dos apartados: \n \n4.1. Discrimine en dos columnas los siguientes términos, atendiendo a los sistemas filosóficos que refieren: (0,5 \npuntos) \n \nRazón vital / marxismo / plusvalía / circunstancia / alienación / espontaneidad / capital. \n \n4.2. Responda uno de estos dos subapartados: \n4.2.1. Defina, en no más de tres líneas, el concepto: plusvalía. (0,5 puntos) \n4.2.2. Defina, en no más de tres líneas, el concepto: “razón vital”. (0,5 puntos)"
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point; 0.25 each) a. Girls are supposed to play a very traditional feminine role to be successful in society. b. Very young girls are very worried about their physical appearance. c. Girls and boys have totally different viewp",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points; 0.25 each) a. school year b. equally c. employment/work TEXT 1 According to a new study commissioned by an American nonprofit organization that helps young women reach their full potential, girls are facing increasing pressure to please. “Society still sees girls through a gende"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ THE TEXT 1 AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n \n1.1. Write a summary of the text in English, including the most important points, using your own words.    \n(Approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point; 0.25 each) \n \na. Girls are supposed to play a very traditional feminine role to be successful in society. \nb. Very young girls are very worried about their physical appearance. \nc. Girls and boys have totally different viewpoints on girls’ roles. \nd. Girls must learn that women can have many types of careers. \n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints; 0.25 each)   a. school year         b. equally     c. employment/work \n \nTEXT 1 \nAccording to a new study commissioned by an American nonprofit organization that helps young women reach their \nfull potential, girls are facing increasing pressure to please. “Society still sees girls through a gender lens that requires \nthem to be pretty and passive, while increasingly expecting girls to be smart and successful,” says the president of \nthis organization.  \nThe study, conducted online, surveyed over 2,000 girls and boys in grades 3-12, plus 1,005 adults. It reported that \ngirls have high goals for themselves – 71% want to go to college, but a good many say they don’t know how to make \ntheir dreams a reality. One-fifth say they don’t know three adults they can turn to with a problem. And 76% of girls in \ngrades 9 to 12 “worry about their appearance.” Even for girls in elementary school, looking “skinny” and “dressing \nright” is an issue. Over one-half of 3rd to 5th graders worry about it. \nThe study also found that gender discrimination is still alive and well, even at the youngest grades. 84% of girls and \n87% of boys, for example, believe that girls are “supposed to be kind and caring,” and 88% of girls and 94% of boys \nbelieve boys are “supposed to be able to protect themselves and others.” \nThis organization has a few recommendations for parents:  \no \nProvide access to a wide variety of toys (trucks and dolls, chemistry sets and dress-up clothes) and make it clear \nthat it’s okay to play with all of them. \no \nAlleviate the pressure of high-stakes education. High school grades may matter, but elementary school should be \nfun – full of exploration, not stress. \no \nDistribute household tasks evenly. Boys and girls should be given responsibilities in cleaning up and taking care of \nsiblings. \nProvide role models. Men and women serve a multitude of roles in society. Introduce your children to men and \nwomen across the career spectrum."
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "2.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point; 0.25 each) a. Mari Kondo has taught many people worldwide how to throw away unnecessary things. b. She says that one way of getting rid of unwanted objects is giving them to other people. c. Marie wants people to be awa",
+    "2.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points; 0.25 each). a. produces b. a price to pay c. problem TEXT 2 The world-renowned “tidying” coach, Marie Kondo, has helped people around the world clear out the excess stuff from their homes and lives. Her book, The Life-Changing Magic of Tidying Up: The Japanese Art of Declutterin"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. READ THE TEXT 2 AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n \n2.1. Write a summary of the text in English, including the most important points, using your own words.    \n(approximately 50 words; 0.75 points). \n2.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY \nthat part) of the text which justifies your answer.    (1 point; 0.25 each) \n \na. Mari Kondo has taught many people worldwide how to throw away unnecessary things. \nb. She says that one way of getting rid of unwanted objects is giving them to other people. \nc. \nMarie wants people to be aware of the reason why they buy so many things. \nd. She suggests keeping our plastic objects even though we don’t use them. \n2.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints; 0.25 each).     a. produces  \nb. a price to pay  \nc.  problem \n \n \n \n \n\n \n \n \n \n \nTEXT 2    \nThe world-renowned “tidying” coach, Marie Kondo, has helped people around the world clear out the excess stuff \nfrom their homes and lives. Her book, The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and \nOrganizing, sold over 1.5 million copies, and her Netflix TV show immediately sent viewers down binge-watching \nspirals. Kondo’s method of tidying, in which objects are gently cleared out of people’s houses and lives, leaves behind \nempty closets and neatly organized spaces. However, it also generates piles of trash. Some of it gets passed along to \nfriends or family, or finds new homes via donation. But much of it ends up thrown away—out of sight and mind of \nthe “tidy-er”, but far from gone in the larger planetary sense. Earth, unfortunately, does not have its own trash \ncollector or tidier. Many economists say consumption is a good thing, but we really have to recognize that there's a \ncost to that—and that cost falls onto the environment. Marie Kondo claims that people should examine their own \nrelationship with stuff and get to the heart of it- ”Why did you buy these things in the first place?”- Eventually, \npeople will find themselves decreasing the number of things they buy and discard, and ultimately, breaking free from \nthe buy-toss cycle.  She also encourages people to deplasticize their lives. “If they’re already in your life and working, \ndon’t get rid of them—that would just contribute to the waste issue—but think carefully about bringing new plastic \nitems into your life”. In the end, she says, it’s the planet that needs tidying—and that can start with the smallest step."
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "? puntos",
+   "apartados": [
+    "3.1. Block 1. Pronunciation: (1 point; 0.25 each) a. In which word is the ending “-s / -es” pronounced /ɪz/ as in “finishes”? generates, encourages, falls, leaves. b. In which word are the underlined letters (“ch”) pronounced differently? church, character, choice, chair. c. In which word do the consonants “th” sound /ϴ/ as in “thing”? thrown, though, these, weather. d. In which word do the vowels",
+    "3.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.5 points; 0.5 points each) a. We hired someone to declutter our house last summer holidays. We … our house … b. William didn’t remember to bring reusable bags so he bought plastic bags. If William ... c. My mother loves watching Marie Kondo’s "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n3.1. Block 1. Pronunciation:    (1 point; 0.25 each) \na. In which word is the ending “-s / -es” pronounced /ɪz/ as in “finishes”? generates, encourages, falls, leaves. \nb. In which word are the underlined letters (“ch”) pronounced differently? church, character, choice, chair. \nc. \nIn which word do the consonants “th” sound /ϴ/ as in “thing”? thrown, though, these, weather.  \nd. In which word do the vowels “oo” sound the same way as in “blood”? food, flood, book, good. \n3.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.5 points; 0.5 points each) \na. We hired someone to declutter our house last summer holidays. \nWe … our house … \nb. William didn’t remember to bring reusable bags so he bought plastic bags. \nIf William ... \nc. \nMy mother loves watching Marie Kondo’s TV series. However, she doesn’t use her tidying method \nAlthough …"
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "? puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (1 point; 0.25 each) a. Which of the following words has the same sound as the letter underlined in the word “caring”: here, where, mere, clear. b. In which word is/are the underlined letter(s) pronounced differently? exploration, passion, division, fashion. c. In which of the following verbs is the past ending pronounced /id/? commissioned, conducted surveyed, suppose",
+    "4.2. Block 1: Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.5 points; 0.5 points each) a. “Society still sees girls through a gender lens that requires them to be pretty and passive” He said that… b. Parents should let their children play with trucks and dolls and distribute household tasks evenly. Not"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n \n4.1. Block 1. Pronunciation: \n (1 point; 0.25 each) \na. \nWhich of the following words has the same sound as the letter underlined in the word “caring”: here, where, \nmere, clear. \nb. In which word is/are the underlined letter(s) pronounced differently? exploration, passion, division, fashion. \nc. \nIn which of the following verbs is the past ending pronounced /id/? commissioned, conducted surveyed,  \nsupposed. \nd. In which word is the underlined letter pronounced like the vowel in “still”? girls, skinny, right, alive \n4.2. Block 1: Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics. (1.5 points; 0.5 points each) \na. “Society still sees girls through a gender lens that requires them to be pretty and passive” \nHe said that… \nb. Parents should let their children play with trucks and dolls and distribute household tasks evenly. \nNot only … \nc. We asked a few people what they would change about women’s situation nowadays. \nA few people…"
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 5. WRITE A COMPOSITION ANSWERING THIS QUESTION: Is the future promising for women in our western \nsociety? (Approximately 120 words)    (2.5 points)"
+  },
+  {
+   "id": "Inglés-2020-extraordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/extraordinaria/11_ingles_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: Why is advertising necessary? Do you think \nthere are too many ads on TV, Internet, etc.? (Approximately 120 words) \n   (2.5 points)"
+  },
+  {
+   "id": "Inglés-2020-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point; 0.25 each) a. Nowadays Zodiac signs are not popular any more in any part of the world. b. One of the reasons why astrology is important is because people very often say there’s some truth in it. c. One cannot write the ",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points; 0.25 each) a. arrangement b. provided that c. understanding/ awareness TEXT 1 The signs of the zodiac have existed for hundreds of thousands of years. They are ancient signs that people have looked to for guidance. Today, thousands of people inspect their horoscopes each day to "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ THE TEXT 1 AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n1.1. Write a summary of the text in English, including the most important points, using your own words. \n(Approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point; 0.25 each) \na. Nowadays Zodiac signs are not  popular any more in any part of the world.\nb. One of the reasons why astrology is important is because people very often say there’s some truth in it.\nc. One cannot write the horoscope report for a newspaper if one is not an astrologist.\nd. Human beings have a preference for mysterious things involving magic and the supernatural.\n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints; 0.25 each)         a. arrangement\nb. provided that     c. understanding/ awareness\nTEXT 1 \nThe signs of the zodiac have existed for hundreds of thousands of years. They are ancient signs that people have \nlooked to for guidance. Today, thousands of people inspect their horoscopes each day to find out what they are \ngoing to come up against in the world. Studies say 33% of Americans believe in astrology. \nThere are those who dismiss astrology as false, but the truth is that the signs of the zodiac do have some value. \nFirst, because humans have been using the zodiac for literally thousands of years; through inspecting the \nalignment of the planets, masters of astrology have managed to comprehend certain truths about the world. \nSecond, due to the anecdotal evidence available; people are reporting time and time again that what they read in \ntheir horoscopes comes true. And it happens too often to dismiss it.  \nAs for newspaper horoscopes, anyone can create a horoscope. As long as you know how the language works, you \ncan make up any horoscope you like. And that’s why astrology has such a bad reputation. The horoscopes you \nsee in the newspaper are not true to the zodiac because they are composed by a reporter sitting in a room \nwriting anything that comes to mind. \nHowever, the true value of astrology is its ability to penetrate the part of our minds that naturally gravitates \ntowards things like divination and the occult. By tapping into this inner meaning, it forces the mind to think in a \ndifferent way. And this alone can generate some meaningful insights. Some people say that astrology is about \nhelping you to understand what you already know. It’s just a matter of forcing it from deep inside you.  \nWhether it is true or not that the alignment and orientation of planets at birth can determine an individual’s life \nsituation, there is always going to be something in a person’s horoscope that they can apply to their lives."
+  },
+  {
+   "id": "Inglés-2020-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "2.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point; 0.25 each) a. No harm was caused to passengers. b. The man was going on holiday when he was involved in this incident. c. The man admits he got confused when he found himself alone. d. The alarm went off after he walked",
+    "2.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points; 0.25 each) a. harmless b. called off c. finally TEXT 2 Some mistakes may seem innocuous yet they can carry a high price. On Tuesday a young man from Spain involuntarily triggered a security alert at Munich airport after walking through the wrong door on his way to catch a Madrid"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. READ THE TEXT 2 AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n2.1. Write a summary of the text in English, including the most important points, using your own words. \n(approximately 50 words; 0.75 points). \n2.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point; 0.25 each) \na. No harm was caused to passengers.\nb. The man was going on holiday when he was involved in this incident.\nc. The man admits he got confused when he found himself alone.\nd. The alarm went off after he walked into an area reserved for the crew.\n2.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:   \n(0.75 points; 0.25 each)   a. harmless  \nb. called off\nc. finally\nTEXT 2 \nSome mistakes may seem innocuous yet they can carry a high price. On Tuesday a young man from Spain involuntarily \ntriggered a security alert at Munich airport after walking through the wrong door on his way to catch a Madrid flight, \nsaid federal police in Germany. \nAs a result, 130 flights were cancelled, causing numerous delays at one of the country’s busiest airports, which was \npartially shut down for four hours. The Spaniard could face criminal proceedings over the incident. \n\nThe man, who is reported to be aged between 20 and 25, was on his way home after spending his vacation in Thailand \nand has stated that he was “horrified” at the outcome of his mistake during a stopover in Munich. \nThe Spaniard was arrested and interrogated by German security forces soon after the incident, which took place on \nTuesday morning. He said that he had gone to the bathroom after stepping off a flight from Bangkok, and by the time \nhe left the men’s room all the other passengers had gone. Disoriented, he began walking in the wrong direction as he \ntried to find his connecting flight to Madrid. \nHe eventually pressed a button opening emergency doors to the restricted area reserved for passengers who have \ngone through a security check, according to the Bavarian public radio station BR24 and the local newspaper Merkur. \nThis immediately triggered an alert, as it meant that a passenger from outside the border-free Schengen Area had \nbypassed passport controls. Parts of Terminal 1 and 2 were evacuated, and passengers who had already gone through \nsecurity checks had to repeat the process. \nThere were around 1,200 departures scheduled at Munich airport on Tuesday, representing a flow of around 120,000 \npassengers."
+  },
+  {
+   "id": "Inglés-2020-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "? puntos",
+   "apartados": [
+    "3.1. Block 1. Pronunciation: (1 point; 0.25 each) a. In which word are the underlined letters pronounced differently? word, bored, lord, sword b. In which word is the ending \"ed\" pronounced /d / as in “filed”? wanted, divided, folded, framed c. In which word is the letter “u” silent? suite, quick, guilty, suit d. Which pair of words does not rhyme? 1. break, cake; 2. mean, great; 3. blood, flood; ",
+    "3.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.5 points; 0.5 points each) a. I must apologise to the woman. I took her phone by mistake. …whose…. b. Sue hurt her back when she lifted a heavy table on her own. If only… c. Many people said his ideas were outrageous It…"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. ANSWER THE TWO BLOCKS OF QUESTIONS: \n3.1. Block 1. Pronunciation:    (1 point; 0.25 each) \na. In which word are the underlined letters pronounced differently? word,  bored, lord,  sword\nb. In which word is the ending \"ed\" pronounced /d / as in “filed”? wanted, divided, folded, framed\nc. In which word is the letter “u” silent?  suite, quick, guilty, suit\nd. Which pair of words does not rhyme? 1. break, cake; 2. mean, great; 3. blood, flood; 4. dear, fear.\n3.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.5 points; 0.5 points each) \na. I must apologise to the woman. I took her phone by mistake.\n…whose….\nb. Sue hurt her back when she lifted a heavy table on her own.\n     If only… \nc. Many people said his ideas were outrageous\nIt…"
+  },
+  {
+   "id": "Inglés-2020-ordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "? puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (1 point; 0.25 each) a. In which word is the letter “h-” pronounced? heir, honest, humble, hour b. In which word is the stress on the first syllable as in “horoscope”? astrology, alignment, impossible, generate. c. In which of the following verbs is the past ending pronounced /id/ as in “conducted”? believed, tapped, needed, managed. d. In which word are the underlined",
+    "4.2. Block 2: Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.5 points; 0.5 points each) a. I love the signs of the zodiac. My brother loves the signs of the zodiac too. Both… b. It is very usual for many people to read the horoscope in the morning …is very usual for many people. c. My friends don’t beli"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS: \n4.1. Block 1. Pronunciation: \n (1 point; 0.25 each) \na.\nIn which word is the letter “h-” pronounced? heir, honest, humble, hour\nb.\nIn which word is the stress on the first syllable as in “horoscope”? astrology, alignment, impossible, generate.\nc.\nIn which of the following verbs is the past ending pronounced /id/ as in “conducted”? believed, tapped, needed,\nmanaged.\nd.\nIn which word are the underlined vowels pronounced differently? create, meaningful, read, each.\n4.2. Block 2: Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics. (1.5 points; 0.5 points each) \na. I love the signs of the zodiac. My brother loves the signs of the zodiac too.\nBoth…\nb. It is very usual for many people to read the horoscope in the morning\n…is very usual for many people.\nc. My friends don’t believe in astrology, but they read their horoscope.\nIn spite of …"
+  },
+  {
+   "id": "Inglés-2020-ordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 5. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: Do you sometimes read your horoscope? \nWhy/ Why not?    (Approximately 120 words; 2.5 points)"
+  },
+  {
+   "id": "Inglés-2020-ordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2020/ordinaria/11_ingles_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THIS QUESTION: What is the strangest thing that ever happened \nto you?     (Approximately 120 words; 2.5 points)"
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. Women comedians are becoming more important. b. People still doubt whether women are funny or not. c. The writer stopped being a comedian for some time. d. Men have forbidden women from becoming comedians.",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. comedians b. return c. appropriate TEXT A People are funny. These people can be men or women. They can be gay or straight or somewhere in between. They can be tall, small, fat, thin, standing up or sitting down, bearded, bald, black, brown, yellow and, of course, white. They "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ TEXT A AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n1.1. Write a summary of the text in English, including the most important points, using your own words.    \n(approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point)  \na. \nWomen comedians are becoming more important. \nb. \nPeople still doubt whether women are funny or not. \nc. \nThe writer stopped being a comedian for some time. \nd. \nMen have forbidden women from becoming comedians.  \n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:      \n(0.75 points)                  a. comedians                      b. return \n                 c. appropriate          \nTEXT A    \nPeople are funny. These people can be men or women. They can be gay or straight or somewhere in \nbetween. They can be tall, small, fat, thin, standing up or sitting down, bearded, bald, black, brown, yellow and, of \ncourse, white. They come in all the glorious shapes and sizes that human life has to offer. Comedy is very simple. It’s \nabout telling people things and making them laugh. If you can connect with your audience, you’re laughing, and \nhopefully they are too.  \nAs in all walks of life, from politics to business, women comics are rising up the ranks – especially thanks to \norganisations such as Laughing Cows, which are brilliant at giving support and encouragement to female stand-up \ncomics. But the question “Are women funny?” is still being asked, and as a result, a lot of comedy that people see is \nvery male and very pale.  \nI’ve recently returned to comedy after a gap of about 10 years. It’s a comeback no one really wanted, to be \nhonest – myself included – but I needed a job. And, a decade later, there are many more females writing, starring in \nand making TV, radio and film. But we still live in an age where men are thought of as the masters of humour. \nWomen are allowed to be funny, but in controlled numbers.  \nSexist cultural gender norms play a part in this. Humour can be very powerful, as it shows confidence and \nintelligence – and in our culture that is still the male role. All too often the message to women is sadly that being \nfunny – or aggressive, bossy, ambitious or even nasty, still isn’t fitting. It is men who should be funny. Most men \nprefer a woman to be their audience, not their competition."
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "2.1. Block 1. Pronunciation: (0.90 points) a. Which two words have the same vowel sound as “tall”? thought, block, hour, poor, caught, cold, mother, allied b. In which word is the underlined letter pronounced differently from the others? funny, women, money, gun. c. In which word are the underlined letters of the plural endings pronounced /ɪz/as in “classes”? shapes, sizes, machines, apples. d. In",
+    "2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.60 points) a. Men are thought of as the masters of humour. People think … b. The question “Are women funny?” is still being asked. People are… c. People are funny. These people can be men or women. People who… d. I told you about this woman. S"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n2.1. Block 1. Pronunciation:    (0.90 points) \na. Which two words have the same vowel sound as “tall”? thought, block, hour, poor, caught, cold, mother, allied \nb. In which word is the underlined letter pronounced differently from the others? funny, women, money, gun. \nc. In which word are the underlined letters of the plural endings pronounced /ɪz/as in “classes”? shapes, sizes, \nmachines, apples. \nd. In which two words is the letter “h” silent (not pronounced)? humour, honest, hopefully, behave, heir, hair, \nharm, human. \n2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.60 points) \na. Men are thought of as the masters of humour. \n     People think … \nb. The question “Are women funny?” is still being asked. \n     People are… \nc. People are funny. These people can be men or women. \n    People who… \nd. I told you about this woman. She is an excellent comedian. \n    ….who…"
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "3.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. One reason why people are taller is that they eat more healthily. b. People who are taller have a greater risk of suffering from a heart condition. c. American men are shorter, on average, than Dutch men. d. People’s",
+    "3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. benefits b. danger c. because of TEXT B Both men and women have grown taller over the last century, says a study by Imperial College, London. While Swedes were the tallest people in the world in 1914, Dutch men are now top, with an average height of 182.5cm. Latvian women, me"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. READ TEXT B AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n3.1. Write a summary of the text in English, including the most important points, using your own words.    \n(Approximately 50 words; 0.75 points). \n3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point)  \na. One reason why people are taller is that they eat more healthily. \nb. People who are taller have a greater risk of suffering from a heart condition. \nc. \nAmerican men are shorter, on average, than Dutch men. \nd. People’s economic condition will probably improve if they are treated well when they are children \n3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints)                   a. benefits                           b. danger                          c. because of \n \nTEXT B \nBoth men and women have grown taller over the last century, says a study by Imperial College, London. While \nSwedes were the tallest people in the world in 1914, Dutch men are now top, with an average height of 182.5cm. Latvian \nwomen, meanwhile, have become the tallest in the world, with an average height of 169.8cm. James Bentham, a co-\nauthor of the study, says that the global trend is likely to be due primarily to improvements in nutrition, hygiene and \nhealthcare: “Most populations would grow to similar heights if they were all in the same conditions.” \nExtra height brings a number of advantages: “Being taller is associated with longer lives,” he says, “due to less risk \nof dying of cardiovascular disease.” Taller people, on average, will also have larger salaries and higher levels of education. \nFor both sexes, European countries now take the top 10 positions for height. That, says Bentham, could be due to the \nintroduction of a welfare state in many European countries. \nBy contrast, men from Timor-Leste are the shortest, while the title for the shortest women remains with the \nfemale population of Guatemala. American men occupied third place in 1914 but have dropped to 37th place in 2014. That, \nthe authors suggest, could be due to worse levels of nutrition and greater inequalities. The trend in many countries in \nnorth and sub-Saharan Africa is also causing concern: “One reason for the decrease in height in Africa is the economic \nsituation in the 1980s”. Nutritional and health crises mean that many children and teenagers do not reach their full height. \nBentham believes the global trend of increasing height has important consequences: “How tall we are is influenced by our \nenvironment when we are young,” he said. “If we give children the best possible start in life now, they will be healthier \nand more productive for decades to come.”"
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (0.90 point) a. Which two words have the same vowel sound as the letter underlined in the word “while”? still, bite, take, teach, fill, cry, bit, business b. In which word are the underlined letters pronounced differently from the others? situation, height, environment, title. c. In which two words are the letters “th” pronounced as in “the”? thought, though, through, ",
+    "4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.6 points) a. How tall we are is influenced by our environment when we are young. Our environment when we are young … b. Being taller is associated with longer lives. The taller you are… c. Nutritional and health crises mean that many children "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n4.1. Block 1. Pronunciation:    (0.90 point) \na. Which two words have the same vowel sound as the letter underlined in the word “while”? still, bite, take, \nteach, fill, cry, bit, business \nb. In which word are the underlined letters pronounced differently from the others? situation, height, \nenvironment, title. \nc. \nIn which two words are the letters “th” pronounced as in “the”? thought, though, through, throw, throat, \nthrone, those, thing \nd. In which word is the underlined letter pronounced as in “turn”? worse, pull, teenager, scare \n4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.6 points) \na. How tall we are is influenced by our environment when we are young. \nOur environment when we are young … \nb. Being taller is associated with longer lives.  \nThe taller you are… \nc. \nNutritional and health crises mean that many children and teenagers do not reach their full height. \nBecause of… \nd.    He eats a lot, but he never puts on weight. \n       No matter…"
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 5. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: What things do you do that are good for your \nhealth? And things that are bad? (Approximately 120 words)  (2.5 points)"
+  },
+  {
+   "id": "Inglés-2021-extraordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/extraordinaria/11_ingles_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THIS QUESTION: What is the funniest thing that ever happened to \nyou?     (Approximately 120 words)  (2.5 points)"
+  },
+  {
+   "id": "Inglés-2021-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. In 1955, only white people could be in public places. b. During the protest buses lost money because 75% of bus passengers were black. c. After having walked for more than 12 months Montgomery´s black citizens were a",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. dressmaker b. triggered c. bravery TEXT A Imagine it is 1955 and you live in the USA. If you are black, you cannot mix with white people in public places. You cannot go to the same schools, use the same public toilets or sit together on public transport! This is called “racia"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ TEXT A AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n1.1. Write a summary of the text in English, including the most important points, using your own words.    \n(approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point) \n \na. In 1955, only white people could be in public places. \nb. During the protest buses lost money because 75% of bus passengers were black. \nc. After having walked for more than 12 months Montgomery´s black citizens were allowed to mix with white \npeople on buses. \nd. Mrs. Park’s bravery hindered civil rights movement \n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:   (0.75 \npoints)              a. dressmaker                       b. triggered                       c. bravery         \nTEXT A \nImagine it is 1955 and you live in the USA. If you are black, you cannot mix with white people in public places. You \ncannot go to the same schools, use the same public toilets or sit together on public transport! This is called “racial \nsegregation” and you could be imprisoned or even killed for not respecting the laws. \nIn 1955, one black woman refused to give her seat to a white man on a bus. The woman was immediately put in \nprison. Her name was Rosa Parks. Rosa Lived in Montgomery. She was a respected member of the black community. \nShe worked as a seamstress in a department store and took the bus to work every day. Because she was black, she \nhad to sit in a separate section, at the back of the bus. \nDecember 1st, 1955 was an ordinary day for Rosa. She was travelling home from work when four white passengers got \non the bus. The driver told four black passengers to give up their seats. Three of them did, but Rosa refused. She said \n“No”. Immediately Rosa was arrested and spent the night in prison. Community leaders, including Martin Luther King \nJr. decided to protest. They asked black people not to take the bus. Since 75% of bus passengers were black, without \nthem, buses would lose money!  For 381 days, Montgomery’s black citizens walked everywhere. Finally, segregation \non buses was abolished. This was a small victory, but it changed the USA forever. It sparked the civil rights movement \nand gave black leaders the confidence to fight for racial equality. \nRosa Parks died in 2005. She never saw Americans elect their first African-American president, Barack Obama in 2008.  \nBut Obama said that without Rosa he would not be president. ”Were it not for that quiet moment of courage by Mrs. \nParks, I would not be standing here today being president” he said."
+  },
+  {
+   "id": "Inglés-2021-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "2.1. Block 1. Pronunciation: (0.90 points) a. Which word has the same vowel sound as the letter underlined in the word “rude”? put, lose, bull, look b. In which word is the underlined vowel pronounced differently from the others? black, standing , separate, African. c. In which two words is the underlined letter pronounced /z/ as in “trees? respect, fees, abolished, consider seamstress, pose, sort",
+    "2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.60 points) a. She began talking on the phone an hour ago. … for … b. Were it not for that quiet moment of courage by Mrs. Parks I would not be president”, said Obama. Obama said that… c. Don´t spend any more money! You’d better…. d. People sai"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n2.1. Block 1. Pronunciation:    (0.90 points) \na. Which word has the same vowel sound as the letter underlined in the word “rude”?  put, lose, bull, look \nb. In which word is the underlined vowel pronounced differently from the others? black, standing , separate,  \nAfrican. \nc. \nIn which two words is the underlined letter pronounced /z/ as in “trees? respect, fees, abolished, consider \nseamstress, pose, sort, keeps                                        \nd. In which two words are the underlined letters pronounced “i” / ɪ / as in “pick”? pink, women, file, meet,  \nfibre, feel, cider, peer \n2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You \nmust use the word or expression in italics.  (1.60 points) \na. She began talking on the phone an hour ago. \n… for … \nb. Were it not for that quiet moment of courage by Mrs. Parks I would not be president”, said Obama. \nObama said that… \nc. \nDon´t spend any more money! \nYou’d better…. \nd.    People said her attitude was exceptionally brave. \n       It…"
+  },
+  {
+   "id": "Inglés-2021-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "3.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. Students take many technological devices to school. b. Some parents call their children to know where they are. c. At a certain school in Wales it is now optional for the students to hand in their phones on Fridays. ",
+    "3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. overwhelming b. appear c. rather TEXT B Just under half of UK parents think their child's school should ban mobile phones and one in eight parents said their child's school had already done so. The number of gadgets that schoolchildren are carrying into class every day is min"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. READ TEXT B AND ANSWER THE THREE QUESTIONS BELOW:    (2.5 points) \n3.1. Write a summary of the text in English, including the most important points, using your own words.    \n(Approximately 50 words; 0.75 points). \n\n \n \n \n \n \n3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1 point)  \na. Students take many technological devices to school. \nb. Some parents call their children to know where they are. \nc. \nAt a certain school in Wales it is now optional for the students to hand in their phones on Fridays. \nd. The text concludes that students feel uneasy without their phones. \n3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints)                    a. overwhelming                             b. appear                              c. rather  \nTEXT B \nJust under half of UK parents think their child's school should ban mobile phones and one in eight parents said their \nchild's school had already done so. The number of gadgets that schoolchildren are carrying into class every day is \nmind-boggling and parents are concerned about their children being distracted by mobile phones at school. \nOther people think school is a place where kids should be able to learn about technology and when it is \nappropriate to use it or not, in a safe environment. They're not being given the opportunity to self-regulate if their \nphones are taken away. In addition, many parents want to be able to contact their children in emergencies, and to \nfind out where they are if they don't turn up at home at the usual time, either by calling them or by using an app. \nAt one school in Wales, teenagers have volunteered to hand their mobiles in to teachers once a week.  \nThe school had held an assembly to highlight the issue of the addictive nature of phones and in follow-up \nconversations with students it was found that the latter also had concerns. \n“The question was whether removing their phones and the social media that go with them might cause students \nanxiety, social isolation or loneliness”, Mr. Hill, the deputy head teacher said. \"We discussed it with our pupils. \nWe’ve got a pretty open-minded group of pupils here.\"  \nFollowing feedback, the school decided to ask students if they would voluntarily hand in their phones for the day \non Fridays. This wasn’t presented as a punishment but as an opportunity to try something new. Initially, it was the \npupils' choice to hand them in, but, as so many took part, it has now become school policy. \nStudents have reported feeling more able to focus during homework and revision time and talk about the freedom \nthe measure created. \nNot only were students being taught the importance of how they used their phones and the length of time they \nspent on them, they were also building \"digital resilience\" to help them self-monitor usage."
+  },
+  {
+   "id": "Inglés-2021-ordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (0.90 point) a. In which word is the pronunciation of the vowel “u” different? punishment, pupils, punk, pump Find in the text a homophone (a word that sounds the same as another) of the word “ weather.” b. In which two words does the underlined letter sound like the “sh” in “fashion”? question, conclusion, ocean, usual, casual, nation, decision, pleasure c. In which t",
+    "4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.6 points) a. I’m sure he forgot about our meeting. …must … b. My father said to me: “Apologise to your sister immediately.” …told… c. “When did you begin to study French?” How long… d. We hired someone to fix our toilet last week. We … our toi"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS:  \n4.1. Block 1. Pronunciation:    (0.90 point) \na. In which word is the pronunciation of the vowel “u” different? punishment,  pupils,  punk, pump \nFind in the text a homophone (a word that sounds the same as another) of the word “ weather.” \nb. In which two words does the underlined letter sound like the “sh” in “fashion”? question, conclusion, ocean,  \nusual, casual, nation, decision, pleasure \nc. \nIn which two words do the vowels sound like the vowels in “friend”? clear, steak, steady, break, mean, ready, \npear, fear \n4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.6 points) \na. I’m sure he forgot about our meeting.  \n…must … \nb. My father said to me: “Apologise to your sister immediately.”  \n…told… \nc. \n“When did you begin to study French?”  \nHow long… \nd. We hired someone to fix our toilet last week. \n                We … our toilet …"
+  },
+  {
+   "id": "Inglés-2021-ordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 5. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: Would you agree to not using your mobile \nphone for a whole day every week? Why/ Why not? (Approximately 120 words)  (2.5 points)"
+  },
+  {
+   "id": "Inglés-2021-ordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2021/ordinaria/11_ingles_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THIS QUESTION: Why is racism so difficult to eradicate?     \n(Approximately 120 words)  (2.5 points)"
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. Homework has positive effects on family harmony. b. Nowadays children spend more time out of school than in school. c. Girls spend more time doing homework than boys do. d. The statement “the more homework you do, th",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. task b. provoke e. unhappy and worried TEXT A"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ TEXT A AND ANSWER THE THREE QUESTIONS BELOW:  (2.5 points) \n1.1. Write a summary of the text in English, including the most important points, using your own words. \n(approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part \n(and ONLY that part) of the text which justifies your answer.  (1 point) \na. Homework has positive effects on family harmony. \nb. Nowadays children spend more time out of school than in school. \nc. \nGirls spend more time doing homework than boys do. \nd. The statement “the more homework you do, the more you learn” is not true. \n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: \n(0.75 points) \na. task \nb. provoke \ne. unhappy and worried \nTEXT A"
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "2.1. Block 1. Pronunciation: (0.90 points) a. In which two words is the underlined letter “b” silent, as in “climb”? double, doubt, absorb, abominable, obsolete, plumber, combine, bored b. In which two words are the underlined consonants pronounced like the “sh” in “ship”? child, pressure, manageable, trajectory, international, region, casual c. Which pair does not rhyme? hut ‐ put; shop ‐ swap; t",
+    "2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.60 points) a. Parents want their children to do less homework. They want their children to have time to play. … so that… b. I don’t like maths homework because it’s much too difficult. …due to … c. “How can I solve this problem? I don’t unders"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. ANSWER THE TWO BLOCKS OF QUESTIONS: \n2.1. Block 1. Pronunciation:    (0.90 points) \na. In  which  two  words  is  the  underlined  letter  “b”  silent,  as  in  “climb”?  double,  doubt,  absorb,  abominable, \nobsolete, plumber, combine, bored \nb. In which two words are the underlined consonants pronounced like the “sh” in “ship”? child, pressure, \nmanageable, trajectory, international, region, casual \nc. \nWhich pair does not rhyme? hut ‐ put; shop ‐ swap; trees ‐ please;  short‐ port \nd. In which word are the consonants “ch” pronounced like in “chore”? choir, stomach, cheerful, character \n2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. \nYou must use the word or expression in italics.  (1.60 points) \na. Parents want their children to do less homework. They want their children to have time to play. \n… so that… \nb. I don’t like maths homework because it’s much too difficult. \n…due to … \nc. “How can I solve this problem? I don’t understand it.” \nCould you explain… \nd. I think my children do too much homework and I don’t like it. \nI don’t want… \nWe’ve all done it: pretended to leave an essay at home, or stayed up until 2am to finish a piece of \ncoursework we’ve been ignoring for weeks. Homework, for some people, is seen as a chore that’s \n‘wrecking kids’ or ‘killing parents’, while others think it is an essential part of a well-rounded education. \nWhy does homework stir up such strong emotions? One reason is that, by its very nature, it is an \nintrusion of schoolwork into family life. A study shows that the amount of time that children and \nadolescents spend in school, from nursery right up to the end of compulsory education, has greatly \nincreased over the last century. This means that more of a child’s time is taken up with education, so\nfamily time is reduced. This increases pressure on the boundary between the family and the school. \nBesides, the amount of homework that students receive appears to be increasing, especially in the \nearly years, when parents are keen for their children to play with friends and spend time with the family. \nFinally, success in school has become increasingly important to success in life. Parents can use \nhomework to promote, or control their child’s academic trajectory, and hopefully ensure their future \neducational success. But this often leaves parents conflicted – they want their children to be successful in\nschool, but they don’t want them to be stressed or upset because of an unmanageable workload. \nGender is also a major factor. Studies reveal that girls devote more time to homework than boys, \nand tend to spend more time on mathematics homework than boys. One possible reason could be that \nteachers tend to rate girls’ habits and attitudes towards work more favourably than boys’. \nAll of this makes it particularly difficult to determine the extent to which homework is helping, \nthough it is clear that simply increasing the time spent doing it does not directly correspond to a universal \nincrease in learning. \nProba de Avaliación do Bacharelato\npara o Acceso á Universidade \nConvocatoria extraordinaria 2022\nCódigo: 11\n\nSingle people who are over thirty but certainly not in their old age have a lot to rejoice about. \nThere are specialised holidays for them- some of them offered by computer dating services- and at least \none company specifically states that its holidays are for the «Over 30's». For those who don't like to be \nherded and organised there are certain holidays emphasized for singles, with no restriction on age and a \nwelcoming cocktail as the only arranged event. Best of all, the number of available hotel rooms without \nthe dreaded «single supplement» has increased. \nHolidays don't have to have a singles tag to be the right ones. A number of packages where the \nkey is informality, where everyone eats together family-style, where sports facilities don't cost extra, \nare perfect for those on their own. Sometimes ꞏthis type of holiday is termed «houseparty» when it is \ndesigned for much smaller groups of strangers accommodated in a large house or lodge. In most cases \nthere is a chalet host who not only does the cooking but socialises with the group as well. Many \nsingles find this an excellent way of meeting new friends. \nYou may want to consider activity holidays, which aren't necessarily for sporting-types only. \nKeep-fit and dance programmes are held at many hotels abroad; organised painting holidays overseas and \nin the UK are available; and special interest weekends in Britain range from learning about computers to \nhot-air ballooning. Serious wine lovers, botanists, geologists and so on are also catered for by specialised \nitineraries which might take them across the Channel to France or as far afield as South Africa."
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "3.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. One company specifically states that its holidays are for single people aged more than thirty. b. If you are an independent sort of person there are some suitable holiday programmes for you. c. If you aren't married ",
+    "3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. very much unwanted/ feared b. label c. routes TEXT B"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. READ TEXT B AND ANSWER THE THREE QUESTIONS BELOW:  (2.5 points) \n3.1. Write a summary of the text in English, including the most important points, using your own words. \n(Approximately 50 words; 0.75 points). \n3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part \n(and ONLY that part) of the text which justifies your answer. (1 point) \na. One company specifically states that its holidays are for single people aged more than thirty. \nb. If you are an independent sort of person there are some suitable holiday programmes for you. \nc. \nIf you aren't married you won't always have to pay any extra money for a single room any more. \nd. Some companies offer you hotels overseas where you are on holiday and at the same time learn dancing. \n3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: \n(0.75 points) \na. very much unwanted/ feared \nb. label \nc. routes \nTEXT B"
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (0.90 point) a. Which word has a different number of syllables? complete, teacher, chocolate, following b. In which two words is the ending \"ed\" pronounced /t/ as in “looked”? helped, studied, visited, enjoyed, cooked, learned, listened, hesitated c. In which word is the letter “h” silent (not pronounced)? harm, honest, honey, heaven d. In which two words are the under",
+    "4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.6 points) a. This type of holiday is termed “houseparty” and it is designed for smaller groups. … which … b. Keep‐fit and dance programmes are held at many hotels. Many hotels ... c. Holidays don’t have to have a singles tag to be the right on"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS: \n4.1. Block 1. Pronunciation:  (0.90 point) \na. Which word has a different number of syllables? complete, teacher, chocolate, following \nb. In which two words is the ending \"ed\" pronounced /t/ as in “looked”? helped, studied, visited, enjoyed, cooked, \nlearned, listened, hesitated \nc. \nIn which word is the letter “h” silent (not pronounced)? harm, honest, honey, heaven \nd. In which two words are the underlined vowels pronounced differently from the vowels in in near? year, pear, \nfear, ear, clear, bear,  beer, idea \n4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. \nYou must use the word or expression in italics.  (1.6 points) \na. This type of holiday is termed “houseparty” and it is designed for smaller groups. \n… which … \nb. Keep‐fit and dance programmes are held at many hotels. \nMany hotels ... \nc. \nHolidays don’t have to have a singles tag to be the right ones. \nIt is not necessary ... \nd. They can speak Japanese and write it too. \nNot only…"
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 5. WRITE A COMPOSITION ANSWERING THIS QUESTION: What do “perfect holidays” mean to \nyou? (Approximately 120 words) (2.5 points)"
+  },
+  {
+   "id": "Inglés-2022-extraordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/extraordinaria/11_ingles_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THIS QUESTION: If you didn’t have to do any homework, \nwhat would you do instead? (Approximately 120 words) (2.5 points)"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Write a summary of the text in English, including the most important points, using your own words. (approximately 50 words; 0.75 points).",
+    "1.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. Johnson has a large reputation as a scientist b. Even before his success with Micropacers, Johnson always found it easy to make a living as an inventor. c. Johnson considers inventing as a very reliable activity. d. ",
+    "1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. lately b. terrific c. give up TEXT A"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ TEXT A AND ANSWER THE THREE QUESTIONS BELOW:  (2.5 points) \n1.1. Write a summary of the text in English, including the most important points, using your own words. \n(approximately 50 words; 0.75 points). \n1.2. Indicate whether the following statements are true or false (T/F) according to the text.  Copy that part (and \nONLY that part) of the text which justifies your answer. (1 point) \n \na. \nJohnson has a large reputation as a scientist \nb. Even before his success with Micropacers, Johnson always found it easy to make a living as an inventor. \nc. \nJohnson considers inventing as a very reliable activity. \nd. Johnson´s natural gift is based on using technology in an ingenious way. \n \n1.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints) \na. lately \nb. terrific \nc. give up \nTEXT A"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "2.1. Block 1. Pronunciation: (0.90 points) a. In which word is the underlined vowel pronounced differently? Asia, pharmacist, vegetable, character b. Which word has the stress on the second syllable? expert, veritably, create, promise c. In which two words are the underlined letters pronounced like the “u” in “put”? food, move, foot, spook, bosom, boot, mood, fool d. In which two words is the lett",
+    "2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.60 points) a. We will tell you the exact time of your exam tomorrow. You… b. Nowadays we usually copy and paste; don´t get used to it. Nowadays we usually copy and paste, let´s… c. It was raining cats and dogs. That´s the only reason we didn´t"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. ANSWER THE TWO BLOCKS OF QUESTIONS: \n2.1. Block 1. Pronunciation:  (0.90 points) \na. In which word is the underlined vowel pronounced differently? Asia, pharmacist, vegetable, character \nb. Which word has the stress on the second syllable? expert, veritably, create, promise \nc. In which two words are the underlined letters pronounced like the “u” in “put”? food, move, foot, spook, \nbosom, boot, mood, fool \nd. In which two words is the letter “s” pronounced /s/ as in “past? windows, rose, laughs, bees, horse, \nlose, is, blues, eggs \n2.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics. (1.60 points) \na. \nWe will tell you the exact time of your exam tomorrow. \nYou… \nb. Nowadays we usually copy and paste; don´t get used to it. \nNowadays we usually copy and paste, let´s… \nc. \nIt was raining cats and dogs. That´s the only reason we didn´t take our students to the beach. \nIf …. \nd. “Did the man attempt to steal your mother´s wallet?” He asked me. \nHe asked……. \nWillie Johnson, one of Britain´s most successful inventors, is the man who invented the Micropacer \njogging shoe which records time and speed over distance, and the Gogglevox which gives personal television \na big-screen effect. \nJohnson has no scientific background. He relies on design companies and technical experts to translate \nhis ideas into reality. At an international exhibition of inventions recently, Johnson won nine awards. One of \nhis winning inventions was the Swallet, an electronic wallet which sounds an alarm if a thief cuts the cord by \nwhich it is attached to the wearer. Johnson´s own personal favourite is the Tantrum, a tiny electronic device \ninside a foam brick. When you throw the brick at your TV set, the device sends a signal to a gadget in the \nplug socket that turns the electricity off if the set was on or on if it was off. \nUntil the runaway success of the Micropacer in 1984, he struggled to make a living with a string of \ninventions, from cardboard furniture to a trailer that converted into a boat. “Sometimes I did well, but for \neach idea that makes you money you may lose on three or four others”. He describes inventing as a \ntremendous gamble. Inventors can either sell an idea outright to a manufacturer or collect a percentage of the \nsales in royalties. The latter is every inventor´s dream and even a simple idea can turn into a pot of gold if it \nis fun, becomes fashionable, and appeals to young people. \nJohnson believes that his talent lies in taking technological advances and putting them to creative uses \nthat other people have not thought of. Whatever happens, Johnson cannot stop inventing. \nProba de Avaliación do Bacharelato\npara o Acceso á Universidade \nConvocatoria ordinaria 2022\nCódigo: 11"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "3.1. Write a summary of the text in English, including the most important points, using your own words. (Approximately 50 words; 0.75 points).",
+    "3.2. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1 point) a. The Wilcoxes sold parts of their land to people sharing their ideology. b. The main reason why film makers chose Hollywood was the year‐round pleasant weather c. Edison’s technological advances were needed by film ma",
+    "3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (0.75 points) a. bought b. working people c. cruel TEXT B"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. READ TEXT B AND ANSWER THE THREE QUESTIONS BELOW:  (2.5 points) \n3.1. Write a summary of the text in English, including the most important points, using your own words. \n(Approximately 50 words; 0.75 points). \n3.2. Indicate whether the following statements are true or false (T/F) according to the text.  Copy that part (and \nONLY that part) of the text which justifies your answer. (1 point) \na. \nThe Wilcoxes sold parts of their land to people sharing their ideology. \nb. The main reason why film makers chose Hollywood was the year‐round pleasant weather \nc. \nEdison’s technological advances were needed by film makers \nd. Thanks to Edison’s way of doing business, which was very advantageous for film makers, the film industry \nmoved to LA. \n3.3. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (0.75 \npoints) \na. bought \nb. working people \nc. cruel \nTEXT B"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "0.90 puntos",
+   "apartados": [
+    "4.1. Block 1. Pronunciation: (0.90 point) a. In which two words is the letter “l” mute (not pronounced)? actual, Paul, owl, calm, digital, special, walk, travel b. Which pair of words does not rhyme? tree ‐ tea, phone ‐ blown, kite ‐ kit, blood ‐ mud c. In which two words is the ending \"‐ed\" pronounced /d/ as in “loved”? asked, helped, waited, smiled, arrived, looked, relaxed, missed d. In which w",
+    "4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (1.6 points) a. On TV they’ve advised people to stay at home. … suggested… b. They offered my friend a home‐based job. My friend… c. I live in England. It gets dark too early in winter. I wish… d. He is 19 years old. I think he can travel alone. "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 4. ANSWER THE TWO BLOCKS OF QUESTIONS: \n4.1. Block 1. Pronunciation:  (0.90 point) \na. In which two words is the letter “l” mute (not pronounced)? actual, Paul, owl, calm, digital, special, walk, \ntravel \nb. Which pair of words does not rhyme? tree ‐ tea, phone ‐ blown, kite ‐ kit, blood ‐ mud \nc. \nIn  which  two  words  is  the  ending  \"‐ed\"  pronounced  /d/  as  in  “loved”?  asked,  helped,  waited,  smiled, \narrived, looked, relaxed, missed \nd. In which word does the underlined vowel sound like the “a” in “cat”? part, ankle, bath, fall. \n4.2. Block 2. Complete the second sentence of each pair so that it has the same meaning as the first one. You must \nuse the word or expression in italics.  (1.6 points) \na. On TV they’ve advised people to stay at home. \n… suggested… \nb. They offered my friend a home‐based job. \nMy friend… \nc. I live in England. It gets dark too early in winter. \nI wish… \nd. He is 19 years old. I think he can travel alone. \n… enough …"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-5",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION  5.  WRITE  A  COMPOSITION  ANSWERING  THIS  QUESTION:  People  need  qualities  to  make  a \nsuccess of “do‐it‐yourself”. Do you agree? (Approximately 120 words)  (2.5 points)"
+  },
+  {
+   "id": "Inglés-2022-ordinaria-6",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2022/ordinaria/11_ingles_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 6. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: What is your favourite film/ series? \nWhy?  (Approximately 120 words)  (2.5 points) \nWhen Harvey and Daeida Wilcox purchased 120 acres of farmland northwest of Los Angeles in \n1886, they had plans to live a quiet life on their ranch, which they called Hollywood. This prohibitionist \ncouple’s dream of setting up a fig farm lost strength just one year after buying the land, and as a result the \nWilcoxes divided it up and sold it off quickly to like-minded buyers, imagining that a sober and deeply \nreligious community would be established on their land. Perhaps their dream of a Christian utopia could \nhave come true if it had not been for a clever man from New Jersey, Thomas Edison. \nThe predominant narrative regarding the rise of Hollywood was that land was cheap outside Los \nAngeles, where the weather was always pleasant, and labour was easy to find. All these factors that drew \npeople to Hollywood are completely true; however, the major factor that pushed independent film makers \nout west was Edison’s merciless business style, which left film makers only one option: to escape from \nNew Jersey and Edison´s control. \nEdison had patents on over 1,000 different things, including most of the technology needed to make \nhigh- quality movies. In short, if someone wanted to be in the film business, they basically had to go \nthrough Edison. So “independent” film-makers chose an alternative option to fight Edison: they moved to \nCalifornia, to an area of the country where judges weren’t as friendly to Edison and his patents, and where \ncopyright laws would not be a problem. These conditions made it possible for Hollywood to legally \nflourish without any threats of lawsuits or mob attacks. \nEdison was probably the biggest individual influence on Hollywood as we know it today. Without \nhis ruthless, and eventually illegal, business practices, there is a good chance that New Jersey would still \nbe home to the film industry and that Hollywood would just be another town outside Los Angeles."
+  },
+  {
+   "id": "Inglés-2023-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora",
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "1.1. READ TEXT A AND ANSWER THE QUESTIONS BELOW: (2.5 points) 1.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Young people’s social life takes place in drinking establishments. b. Liquor companies are interested in young people as customers. c. The most serio",
+    "1.2. ANSWER THE QUESTIONS BELOW (2.5 points) 1.2.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (2 points) a. Many people say that teenagers drink a lot of alcohol. lt b. “Tonight the pub will offer drinks at cut prices together with free T-shirts“ The advert said that c. Anyone under the age of 18 is a"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/extraordinaria/11_ingles_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1.  (5 points) \n1.1. READ TEXT A AND ANSWER THE QUESTIONS BELOW:    (2.5 points) \n1.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1.5 points) \na. Young people’s social life takes place in drinking establishments. \nb. Liquor companies are interested in young people as customers. \nc. \nThe most serious effect of alcohol is liver damage. \nd. A young man died after drinking a large number of tequilas. \ne. To stop this tendency alcoholic drinks should be more expensive. \nf. \nTeenagers are warned by advertisers about the dangers of drinking alcohol. \n1.1.2. Find words or phrases in the text that correspond in meaning to the words and definitions given here:      \n(1 point)                a. targeted       b. in this way              c. flavours            d. distressing                e. worried       \nTEXT A                                                             \nIn many countries, young people have a more active social life than any other group in society. This social life revolves \naround pubs, bars, discotheques and clubs. Therefore, young people are a target for advertisers, especially those \nworking for liquor companies. Promotions and advertising campaigns are aimed at introducing young people to \ndifferent brands of liquor. The idea is to attract as many young people as possible into a club or bar, thus creating a \nnew generation of drinkers, who have a lifetime of drinking ahead of them. Companies often offer drinks at cut prices \ntogether with free T-shirts, caps and posters in order to encourage teenagers to try new 'tastes' in hard liquor. One \nvodka company actually held a competition in which the prize was free vodka for a whole term at university. As one \nteenager put it, \"I could get used to this.\" \nThis form of advertising has been strongly criticized by health experts, who argue that young people are unaware of \nthe short and long-term dangers of alcohol. The main danger, they claim, is not a long-term threat such as liver \ndamage or alcoholism, but the serious short-term risks to life when young people consume amounts of liquor they \nare not used to. The most common example of this is drunken driving, which all too often leads to injury and death. \nYoung people are unaware of how drinking affects their judgment and their reaction time. Another example is the \nunfortunate case of one young teenager who went to a tequila promotion and collapsed in her home after drinking \n17 tequilas. When she woke up later and went to her window to breathe fresh air, she fell to her death. \nExperts on alcoholism believe that the only way to prevent this disturbing trend is to teach teenagers the facts about \nthe effects of alcohol on the body, and to make them aware of the serious risks they take when they drink and drive. \nPerhaps they should also be shown how they are being manipulated by advertisers who are not concerned about the \nconsequences but only about making a profit. \n1.2. ANSWER THE QUESTIONS BELOW (2.5 points)  \n1.2.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the \nword or expression in italics.  (2 points) \na. Many people say that teenagers drink a lot of alcohol. \nlt  \nb. “Tonight the pub will offer drinks at cut prices together with free T-shirts“ \nThe advert said that  \nc. \nAnyone under the age of 18 is allowed in this bar. \nUnless  \nd. The film started two minutes ago. \njust \ne. I would never go to this pub, because its waiters are paid miserable salaries. \n       owing to \n1.2.2.  Pronunciation   (0.50 points) \na. In which word are the underlined letters pronounced differently? field, feel, fill, feast \nb. In which two words is the ending \"ed\" pronounced /t / as in \"asked\"? played, carried, discovered,  kissed,  \n    counted, performed, targeted, placed \nc. In which word is the letter \"g\" silent (not pronounced)? guitar, sign, signature, egg \nd. Which pair of words does not rhyme? drove-hole, post-lost,  were-shirt, bowl- coast."
+  },
+  {
+   "id": "Inglés-2023-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "2.1. READ TEXT B AND ANSWER THE QUESTIONS BELOW: (2.5 points) 2.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. People have always been aware that energy sources are endless. b. Rubbish is used to build “earthships”. c. Earthships use tyres that are filled in w",
+    "2.1. WRITE A COMPOSITION ANSWERING THIS QUESTION: (2.5 points) Have housing and accommodation become a major problem in many cities around the world? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/extraordinaria/11_ingles_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2. (5 points) \n2.1. READ TEXT B AND ANSWER THE QUESTIONS BELOW:    (2.5 points) \n2.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1.5 points) \n \na. People have always been aware that energy sources are endless. \nb. Rubbish is used to build “earthships”.  \nc. Earthships use tyres that are filled in with cardboard to make strong columns. \nd. They are built so that both inside and outside walls are equally strong. \ne. Earthships consume less energy because they are underground. \nf. Rain water is used to run appliances in the house. \n2.1.2. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (1 point)    \n                         a. rubbish                 b. contrary to       c. advantages         d. in the end      c. all over \nTEXT B  \nIn the 1970s, many people became concerned about energy. People had to face up to the fact that they used too \nmuch energy, and energy sources were not going to last forever. A famous architect set out to design homes that \nwere cheaper to build and more energy efficient. In addition, he wanted to do something about garbage. Finally, he \ncame up with the idea of “earthships.” \nAlthough it sounds like a boat, an earthship is a house. However, unlike regular houses, earthships are constructed \nfrom garbage and are built using only ten percent of the energy needed to build a typical house. Moreover, after \nthey are built, earthships use only ten percent of the energy required to heat, light, and cool a regular home. \nAlthough earthships sound unique, they can actually be built to look just like any other house. \nOne of the big benefits of earthships is that they are made from recycled materials. The main construction material \nof an earthship is tyres that are filled with dirt. Because the tyres are round, there is lots of extra space between \nthe columns of tyres. These spaces are filled with used cardboard. The tyres and cardboard form the outside walls \nof an earthship. The inside walls between rooms in the earthship do not need to be as strong as the outside walls; \ntherefore, the inside walls are made with old cans, bottles, and cement that are eventually covered and painted to \nlook just like walls in a typical home. \nAnother benefit of an earthship is that it saves energy and natural resources. For example, an earthship uses less \nwater. Rain water, collected on the roof, is used for drinking and bathing. Furthermore, earthships need much less \nenergy for heating and cooling because they are built into the ground, which keeps the temperature inside the \nhouse from getting too hot or too cold. As well, one wall of an earthship usually faces south. Therefore, solar heat \nhelps to warm the house, and solar panels built on the roof generate electricity to run appliances in the house.  \nEarthships are very environmentally friendly, that’s why they have become popular throughout the world.  \n2.1. WRITE A COMPOSITION ANSWERING THIS QUESTION:  (2.5 points) \nHave housing and accommodation become a major problem in many cities around the world?  (Approximately 120 \nwords)"
+  },
+  {
+   "id": "Inglés-2023-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "3.1. ANSWER THE QUESTIONS BELOW: (2.5 points) 3.1.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (2 points) a. It was easy for the thief to steal my car because I forgot to lock it. If b. “Don’t forget to turn out the lights, Sarah,” Maureen said. reminded c. The shop should offer us a refund. We d. The",
+    "3.2. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: (2.5 points) Do you think young people are aware of the dangers of alcohol? Why? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/extraordinaria/11_ingles_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3.   (5 points) \n3.1. ANSWER THE QUESTIONS BELOW:  (2.5 points) \n3.1.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the \nword or expression in italics.  (2 points) \na. It was easy for the thief to steal my car because I forgot to lock it. \nIf \nb. \n“Don’t forget to turn out the lights, Sarah,” Maureen said. \nreminded  \nc. \nThe shop should offer us a refund. \nWe \nd. There’s a possibility that she forgot about our meeting.  \nmight  \ne. I started working for Starbucks three years ago. \nsince 2020 \n3.1.2.  Pronunciation:    (0.5 points) \na. In which word is the pronunciation of “ay” different? rays, says, plays, stays. \nb. In which word are the letters “ch” pronounced differently? child, choice, machine, charge. \nc. \nIn which two words do the underlined letters sound like the “th” in “this”? feather, mouth, sympathetic, \nsouth, earth, worth, breathe, teeth. \nd. In which word is the letter “w” silent (not pronounced)? weather, wing,  white, wrist. \n3.2.  WRITE A COMPOSITION ANSWERING THESE QUESTIONS: (2.5 points) \nDo you think young people are aware of the dangers of alcohol? Why?  (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2023-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora",
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "1.1. READ TEXT A AND ANSWER THE QUESTIONS BELOW (2.5 points) 1.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. The oceans show an improving climatic situation. b. Human activities are responsible for the greenhouse gasses emitted. c. Microwave ovens are one of ",
+    "1.2. ANSWER THE QUESTIONS BELOW (2.5 points) 1.2.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (2 points) a. Will we ever save the Earth from disaster? be b. I regret the fact that humans have produced so much pollution. I wish c. Journalists asked: “How long will life survive on planet Earth?” wanted "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/ordinaria/11_ingles_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1.  (5 points) \n1.1. READ TEXT A AND ANSWER THE QUESTIONS BELOW    (2.5 points) \n1.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1.5 points) \na. The oceans show an improving climatic situation. \nb. Human activities are responsible for the greenhouse gasses emitted. \nc. \nMicrowave ovens are one of the causes of ocean heating. \nd. More natural disasters are likely to happen because of the heating of the world’s oceans. \ne. The world’s warming rate is commonly calculated by measuring the air temperature at Earth's outer layer.  \nf. \nPlanet Earth has been seriously damaged at a speed that has been especially high in the last four and a half \nyears. \n1.1.2. Find words or phrases in the text that correspond in meaning to the words and definitions given here: (1 \npoint)       a. crisis         b. dry seasons         c. dramatically    d. disastrous     e. immense     \nTEXT A     \nThe heat in the world’s oceans reached a new record level in 2021, showing “irrefutable and accelerating” \nheating of the planet. The world’s oceans are the clearest measure of the climate emergency because they \nabsorb more than 90% of the heat trapped by the greenhouse gases emitted by fossil fuel burning, forest \ndestruction and other human activities. \nNew analysis shows that the past five years have been the top five warmest years recorded in the ocean and \nthe past 10 years are also the top 10 years on record. The amount of heat being added to the oceans is \nequivalent to every person on the planet running 100 microwave ovens all day and all night. Hotter oceans lead \nto more severe storms and disrupt the water cycle, meaning more floods, droughts and wildfires, as well as an \ninexorable rise in sea level. Higher temperatures are also harming life in the seas, with the number of marine \nheatwaves increasing sharply. \nThe most common measure of global heating is the average surface air temperature, as this is where people \nlive. But natural climate phenomena such as El Niño mean that this can be quite variable from year to year. \n“The oceans are really what tell you how fast the Earth is warming,” said Prof. John Abraham at the University \nof St Thomas, in Minnesota, and one of the team behind the new analysis. “Using the oceans, we see a \ncontinued, uninterrupted and accelerating warming rate of planet Earth. This is dire news. “The results show \nheat increasing at an accelerating rate as greenhouse gases accumulate in the atmosphere. The rate from 1987 \nto 2021 is four and a half times faster than that from 1955 to 1986. The vast majority of ocean regions are \nshowing an increase in thermal energy. \n                                                         \n1.2. ANSWER THE QUESTIONS BELOW    (2.5 points) \n1.2.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use \nthe word or expression in italics.  (2 points) \na. \nWill we ever save the Earth from disaster? \nbe \nb. \nI regret the fact that humans have produced so much pollution.  \nI wish \nc. \nJournalists asked: “How long will life survive on planet Earth?”  \n wanted to know \nd. \nIt is very useful to separate our garbage in five different containers. \nis worth \ne. \nEveryone knows that plastic bags are extremely harmful for the environment, but people still use them. \nin spite of \n1.2.2.  Pronunciation   (0.50 points) \na. In which word are the underlined letters pronounced differently? beast, breath, head, healthcare \nb. In which two words is the stress on the first syllable, as in “Germany”? research, graduate, attraction, \nimpressed, machine, result, regions, amount \nc. In which word is the ending “-ed” pronounced /d/ as in “supplied”? trapped, showed, accumulated, washed \nd. Which pair of words does not rhyme? crane-pain, beer-bear, flash-crash, love-glove."
+  },
+  {
+   "id": "Inglés-2023-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "2.1. READ TEXT B AND ANSWER THE QUESTIONS BELOW (2.5 points) 2.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Some people like cats’ independent behaviour. b. The author suggests that dogs traditionally form a closer attachment to their owners than cats, even ",
+    "2.2. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: (2.5 points) Would you rather share a flat with other students or live in a student hall while you are at university? Analyse pros and cons. (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/ordinaria/11_ingles_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2.  (5 points) \n2.1. READ TEXT B AND ANSWER THE QUESTIONS BELOW    (2.5 points) \n2.1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and \nONLY that part) of the text which justifies your answer.    (1.5 points) \na. Some people like cats’ independent behaviour. \nb. The author suggests that dogs traditionally form a closer attachment to their owners than cats, even though \ncat owners don’t agree. \nc. \nCats are very popular because they aren’t a lot of work for their owners. \nd. Cats’ sociability is developed in the first fortnight of their life with their owners.  \ne. Body language is not as important as sounds when it comes to cats’ communication with humans. \nf. \nAccording to the author some people hate cats because they don’t really know enough about them. \n2.1.2. Find words or phrases in the text that correspond in meaning to the words and definitions given here:  (1 \npoint)                a. benefit           b. link                 c. unpleasant             d. encounter              e. staring fiercely      \nTEXT B  \nDespite the thousands of years domesticated cats have kept us company, they still suffer something of a bad public \nrelations image. The independence that many see as a bonus is seen by others as aloofness or selfishness. Their \ndetractors claim they only really show affection when their food bowl is empty. Cat owners will claim this is all \nnonsense, of course, and that their bond with their cat is as strong as any dog owner’s. \nSince they are so self-determined and can take care of themselves, cats are becoming more and more popular and \nhumans are expecting cats to be like us and like dogs. But they aren’t. They come from a solitary ancestor that isn’t \na social species.  \nTheir sociability can come from what they experience in the first six or eight weeks. Just like dogs, cats do a lot of \ncommunication with their bodies rather than through sound. It’s a lot harder for people to read their body \nlanguage so they might be in for a nasty surprise. And this is where we come across cat haters.  \nBy trying to force cats to behave more like dogs – showering us with attention – we’re trying to push them away \nfrom their natural behaviour. The cat that may be currently curled up on your sofa or glaring at you from its \nvantage point on top of the bookcase shares many of its instincts with those of its pre-domestic ancestors – the \ndesire to hunt, to patrol territory, guarding it from other cats; they are much closer to their old selves than dogs. So \nif they seem to hate you, it’s probably because you’re big, you’re loud and you’re scary. \nUltimately, it’s hard to like something you don’t understand, so before committing to hating cats, try to see \nyourself through their eyes. And remember that just the fact that they seem to want to be around us at all is \nremarkable. \n2.2. WRITE A COMPOSITION ANSWERING THESE QUESTIONS: (2.5 points) \nWould you rather share a flat with other students or live in a student hall while you are at university? Analyse pros and \ncons. (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2023-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "3.1. ANSWER THE QUESTIONS BELOW (2.5.points) 3.1.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use the word or expression in italics. (2 points) a. Our wedding will take place in the first two weeks of June. By the end of June our b. Is someone going to repair your mother’s watch? get c. You didn’t have to bring a map. needn’t d. I would li",
+    "3.2. WRITE A COMPOSITION ANSWERING THIS QUESTION: (2.5 points) What can you do against climate change? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2023/ordinaria/11_ingles_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. (5 points) \n3.1. ANSWER THE QUESTIONS BELOW (2.5.points)  \n3.1.1. Complete the second sentence of each pair so that it has the same meaning as the first one. You must use \nthe word or expression in italics.  (2 points) \na. Our wedding will take place in the first two weeks of June. \nBy the end of June our \nb. Is someone going to repair your mother’s watch? \nget  \nc. \nYou didn’t have to bring a map. \nneedn’t \nd. I would like to have a cat, but all my flatmates hate cats. \nI wish \ne. I prefer to have a dog; dogs are more predictable than cats. \n‘d rather \n3.1.2. Pronunciation:    (0.5 points) \na. In which word is the underlined letter NOT silent? wrong , whole, wrist, answer, whistle \nb.  In which word is the “th” group pronounced as in “thing”? thorough, rather, though, breathe \nc. \nCan you provide a homophone (a word that sounds the same as another) of the word “reign”?  \nd. Which two words have a diphthong as in “like”? prince, written, knife, since, pill, brief, science, link \n3.2. WRITE A COMPOSITION ANSWERING THIS QUESTION: (2.5 points) \nWhat can you do against climate change?     (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2024-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora",
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Sor Juana Inés de la Cruz couldn’t go to school when she was a child. b. She went to university disguised as a young man. c. In Mexico City she studied with university professors. d. Thanks to her joining a religi",
+    "1.2. For each of these words find a word or phrase in Text A with the same meaning. (1 point) a. had a great desire; b. to go to; c. admired; d. performing art; e. however.",
+    "1.3. Write a new sentence that has the same meaning as the given one. You must use the word or expression in brackets. (2 points) a. Probably thanks to her joining a convent, Sor Juana managed to continue with her literary writings. (if) b. It was very a funny play. Everyone wanted to see it. (such) c. Unfortunately I left school when I was 16. (I regret) d. They gave him a 90-day visa. It made hi",
+    "1.4. Pronunciation. (0.5 points) a. Which pair of words does not rhyme? wit – white, play – stay, reign – rain, piece – peace. b. In which word are the letters \"ch\" pronounced differently? charge, punch, choice, machine. c. In which two words do the underlined letters sound like the \"th\" in “that”? healthy, mother, path, thanks, tooth, thorough ,though, thought. d. In which word is the letter \"l\" "
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/extraordinaria/11_ingles_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ THE TEXT AND ANSWER THE QUESTIONS BELOW. (5 POINTS) \nTEXT A \nJuana Ramírez was eager to know about everything from her earliest years and throughout her life. As a female, she \nhad little access to formal education and would be almost entirely self-taught. Juana was born out of marriage to a \nfamily of modest means in San Miguel Nepantla around 1650. She learned to read very early. Apparently, she had read \nall her grandfather’s books before eight, and these seem to have included many classic works. When she was six or \nseven, her desire for learning was so intense that she begged her mother to let her dress up in men’s clothes and allow \nher to go and study in Mexico University, which only men were allowed to attend. At eight, she was sent to Mexico City \nto live with her aunt and uncle. There she started learning Latin grammar, which enabled her to read philosophical and \ntheological works in the language, and she came to be considered a child prodigy. She began to be praised in high society \nfor her intelligence and also for her famed beauty. When she was 17, she was famously tested by 40 university \nprofessors, all of whom were shocked by her deep knowledge of philosophy, mathematics, and history. \nUninterested in marriage, Juana entered a convent in 1669, just before her twentieth birthday, officially becoming Sor \nJuana Inés de la Cruz. Convent life afforded Sor Juana her own apartment, time to study and write, and the opportunity \nto teach music and drama to school girls. She also functioned as the convent’s archivist and accountant. In her convent \ncell, Sor Juana amassed one of the largest private libraries in the New World, together with a collection of musical and \nscientific instruments. She was also able to continue her contact with other scholars and powerful members of the \ncourt. \nYet by 1694 Sor Juana had succumbed in some measure to external and internal pressures. She reduced her literary \npursuits and abandoned her secular studies. Her library and collections were sold for charity. Sor Juana died while \nnursing her sister nuns during an epidemic. \n \n1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that \npart (and ONLY that part) of the text which justifies your answer. (1.5 points) \na. Sor Juana Inés de la Cruz couldn’t go to school when she was a child. \nb. She went to university disguised as a young man. \nc. In Mexico City she studied with university professors. \nd. Thanks to her joining a religious order she could continue with her learning and writing. \ne. Living in a convent prevented her from contacting other contemporary intellectuals. \nf. She ended up her life totally involved in her literary writings. \n \n1.2. For each of these words find a word or phrase in Text A with the same meaning. (1 point) \na. had a great desire;   b. to go to;   \nc. admired;   \nd. performing art;   \ne. however. \n \n1.3. Write a new sentence that has the same meaning as the given one. You must use the word or \nexpression in brackets. (2 points) \na. Probably thanks to her joining a convent, Sor Juana managed to continue with her literary writings. (if) \nb. It was very a funny play. Everyone wanted to see it. (such)  \nc. Unfortunately I left school when I was 16. (I regret) \nd. They gave him a 90-day visa. It made him very happy. (he)  \ne. I must take my car to the garage because it broke down last night. (repaired) \n \n1.4. Pronunciation. (0.5 points) \na. Which pair of words does not rhyme? wit – white, play – stay, reign – rain, piece – peace. \nb. In which word are the letters \"ch\" pronounced differently?  charge, punch, choice, machine. \nc. In which two words do the underlined letters sound like the \"th\" in “that”? healthy, mother, path, thanks, tooth,  \nthorough ,though, thought. \nd. In which word is the letter \"l\" pronounced? calm, could, half, climb."
+  },
+  {
+   "id": "Inglés-2024-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "2.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Foreigners often underrate English food. b. The writer believes that foreigners don’t really know English food. c. British recipes are very complicated and elaborate. d. The poorer the soils the more varied and cr",
+    "2.2. For each of these words find a word or phrase in Text B with the same meaning. (1 point) a. bland; b. hide; c. unpredictable; d. abundant; e. everywhere.",
+    "2.3. Write a composition answering this question: (2.5 points) Do you think cooking should be taught at school? Why? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/extraordinaria/11_ingles_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2.  READ THE TEXT AND ANSWER THE QUESTIONS BELOW. (5 POINTS) \nTEXT B \nI am always both amused and annoyed when I hear foreign people criticize English food. “It’s boring, it’s tasteless, and \nit’s chips with everything and totally overcooked vegetables”. When I ask these visitors where they have experienced \nEnglish cooking, I am astonished by their reply. “In Wimpy and MacDonald’s Hamburger restaurants”, they often say. I \nhave won my case. Their conclusions are inexcusable.  \nI have a theory about English cooking, and I was interested to read that several famous cookery writers agree with me. \nOur basic ingredients, when fresh, are so full of flavour that we haven’t had to invent sauces and complex recipes to \ndisguise their natural taste. What can compare with fresh peas or new potatoes just boiled (not overboiled) and served \nwith butter? Why should one drown spring lamb in wine or cream or yogurt and spices, when with just one or two herbs \nit is absolutely delicious?  \nIt is interesting to speculate about the roles that geography and climate play in the creation of a country’s food. We \ncomplain about our wet and changeable weather, but it is the rain which gives us our rich soil and green grass. “Abroad”, \nsays Grigson, “poor soils meant more searching for food, more discovery, more invention, whereas our ancestors sat \ndown to plenty without having to take trouble”. \nIf you ask foreigners to name some typically English dishes, they will probably say “Fish and chips” and then stop. It is \ndisappointing, but true, that in England there is no tradition of eating in restaurants, because our food doesn’t lend \nitself to such preparation. English cooking is found in the home, where it is possible to cook dishes perfectly well. It is \nfor these reasons that we haven’t exported our dishes, but we have imported a surprising number of them from all over \nthe world. In most cities in Britain you’ll find many international restaurants. Cynics will say that this is because we have \nno ‘cuisine’ ourselves, but, well, you know what I think! \n \n2.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that \npart (and ONLY that part) of the text which justifies your answer. (1.5 points) \na. Foreigners often underrate English food. \nb. The writer believes that foreigners don’t really know English food. \nc. British recipes are very complicated and elaborate.  \nd. The poorer the soils the more varied and creative the recipes of a region. \ne. The writer likes the fact that English food is not eaten in restaurants. \nf. The text suggests that it is difficult to serve English food at a restaurant. \n \n2.2. For each of these words find a word or phrase in Text B with the same meaning. (1 point) \na. bland;   \nb. hide;   \nc. unpredictable;   \nd. abundant;   \n \ne. everywhere. \n \n2.3. Write a composition answering this question: (2.5 points) \nDo you think cooking should be taught at school? Why? (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2024-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "3.1. Write a new sentence that has the same meaning as the given one. You must use the word or expression in brackets. (2 points) a. I wish he spent the whole summer with me. (want) b. “Enjoy a free regular drink with any burger purchase.” (the promotion said that) c. These boiled potatoes are tasteless. You definitely have to add some more salt and some herbs. (unless) d. I don’t like horror film",
+    "3.2. Pronunciation. (0.5 points) a. In which word does the stress fall on the first syllable? calendar, photography, astonished, July. b. In which two words is the ending \"-ed\" pronounced /d/ as in \"earned\"? decided, asked, answered, called, kissed, watched, invited, vexed. c. In which word do the underlined vowels sound like the vowel in bird? hurt, heart, head, hard. d. Which pair of words rhyme",
+    "3.3. Write a composition answering this question: (2.5 points) What period of history would you like to live in? Why? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/extraordinaria/11_ingles_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "3. QUESTION 3. ANSWER THE QUESTIONS BELOW. (5 POINTS) \n3.1. Write a new sentence that has the same meaning as the given one. You must use the word or \nexpression in brackets. (2 points) \na. I wish he spent the whole summer with me. (want) \nb. “Enjoy a free regular drink with any burger purchase.” (the promotion said that)  \nc. These boiled potatoes are tasteless. You definitely have to add some more salt and some herbs. (unless)  \nd. I don’t like horror films. Peter doesn’t like horror films. (neither) \ne. This restaurant is very popular. They have delicious fish and chips. (because of) \n \n3.2. Pronunciation. (0.5 points) \na. In which word does the stress fall on the first syllable? calendar, photography, astonished, July. \nb. In which two words is the ending \"-ed\" pronounced /d/ as in \"earned\"? decided, asked, answered, called, kissed, \nwatched, invited, vexed. \nc. In which word do the underlined vowels sound like the vowel in bird? hurt, heart, head, hard. \nd. Which pair of words rhymes? sheep – ship, sit – seat, worm – term, cold – call. \n \n3.3. Write a composition answering this question:  (2.5 points) \nWhat period of history would you like to live in? Why? (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2024-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora",
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Nothing could be done if your bike was stolen. b. Stolen bikes were not easy to find. c. Few bikes have been rescued. d. The thieves’ behaviour has changed lately. e. Hardly anybody pays attention to this. f. Stea",
+    "1.2. For each of these words find a word or phrase in Text A with the same meaning. (1 point) a. instead of; b. declared; c. recovered; d. search for it; e. increasing.",
+    "1.3. Write a new sentence that has the same meaning as the given one. You must use the word or expression in brackets. (2 points) a. “I won’t go to the dentist”, said Sara. (refused) b. When I play tennis, I feel happy. (makes) c. I should have arrived on time. (if only) d. The hairdresser cut Sue’s hair yesterday. (had) e. First he filled in the form, and then he posted it. (after)",
+    "1.4. Pronunciation. (0.5 points) a. In which word is the plural ending pronounced the same as in “boxes”? clocks, pages, mugs, shoes. b. In which word is the ending \"-ed\" pronounced the same as in “smiled”? talked, needed, touched, remembered. c. In which word is the letter \"u\" pronounced the same as in “cut”? pull, push, huge, hug. d. In which two words are the underlined vowels pronounced differ"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/ordinaria/11_ingles_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 1. READ THE TEXT AND ANSWER THE QUESTIONS BELOW. (5 POINTS) \nTEXT A \nIt all started in 2019, when Bjartmar Leósson started to see a rise in bike theft in Reykjavík. Rather than \naccepting that once a bicycle was stolen it had disappeared forever, the bus driver and self-confessed “bike \nnerd” decided to start tracking them down and returning them to their rightful owners. The first time he \nhad a bike stolen, he says, he felt “like somebody had just punched me in the stomach”. But he also \nremembers thinking that it was not an unsolvable mystery. “I thought to myself: OK, your bike is out there \nsomewhere, it’s a needle in a haystack… but this haystack is not that big, this is Reykjavík. And I decided: I \nam going to find my bike.” \nFour years and, he estimates, hundreds of salvaged bikes later, the 44-year-old has developed a reputation \nin the Icelandic capital among cyclists and potential bike thieves. Known as the Reykjavík “bike whisperer”, \npeople across his home city turn to him for help to find their missing bicycles, tools and even cars. Often, \nhe says, bike thieves hand over bikes without being asked and some former bike thieves have started to \nhelp him. Now when somebody loses their bike it can take as little as 48 hours to track it down on his \nFacebook page, which gets updated every few hours with missing and found items and has more than \n14,500 members. “It’s not only me,” he says. “Many times, someone sees a bike hidden in a bush, takes a \npicture and then someone else comments ‘hey, that’s my bike’. So, everyone’s looking out.” \nWhile cycling is on the rise in the city, he says, bike theft can put people off using bikes in place of public \ntransport because they are afraid to leave them out locked up – and can stop them cycling entirely. “Some \npeople have switched from car to bike, and when a bike gets stolen and the police seem to do nothing \nabout it, then they go just back to their cars.” \n \n1.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that \npart (and ONLY that part) of the text which justifies your answer. (1.5 points) \na. Nothing could be done if your bike was stolen.  \nb. Stolen bikes were not easy to find. \nc. Few bikes have been rescued.  \nd. The thieves’ behaviour has changed lately. \ne. Hardly anybody pays attention to this. \nf. Stealing bikes can make people change the way they move. \n \n1.2. For each of these words find a word or phrase in Text A with the same meaning. (1 point) \na. instead of;  b. declared;  \nc. recovered;  \nd. search for it;  e. increasing. \n \n1.3. Write a new sentence that has the same meaning as the given one. You must use the word or \nexpression in brackets. (2 points) \na. “I won’t go to the dentist”, said Sara. (refused) \nb. When I play tennis, I feel happy. (makes) \nc. I should have arrived on time. (if only) \nd. The hairdresser cut Sue’s hair yesterday. (had) \ne. First he filled in the form, and then he posted it. (after) \n \n1.4. Pronunciation. (0.5 points) \na. In which word is the plural ending pronounced the same as in “boxes”? clocks, pages, mugs, shoes. \nb. In which word is the ending \"-ed\" pronounced the same as in “smiled”? talked, needed, touched, remembered. \nc. In which word is the letter \"u\" pronounced the same as in “cut”?  pull, push, huge, hug. \nd. In which two words are the underlined vowels pronounced differently from the vowels in “year”? fear, appear, \nearth, idea, volunteers, wear, near, weird."
+  },
+  {
+   "id": "Inglés-2024-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comprensión lectora",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "2.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that part (and ONLY that part) of the text which justifies your answer. (1.5 points) a. Machines behave like humans. b. According to W. Bennis’s metaphor, people will be less important in the production process than they are now. c. Old predictions might become true. d. According to a 20th-century ec",
+    "2.2. For each of these words find a word or phrase in Text B with the same meaning. (1 point) a. finish; b. affirmed; c. clear, remarkable; d. bringing about; e. forced outwards.",
+    "2.3. Write a composition answering this question: (2.5 points) What causes environmental pollution? Can you think of any possible solutions for this problem? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/ordinaria/11_ingles_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 2.  READ THE TEXT AND ANSWER THE QUESTIONS BELOW. (5 POINTS) \nTEXT B \nIn some factories, all the work is done in the dark. There is no heating or air conditioning because no \nmachine has ever complained about the cold. Robots complete the entire production process, predicting a \nfuture of automation. “The factory of the future will have only two employees, a person and a dog,” stated \nthe American writer Warren Bennis, a pioneer in the field of business leadership, in his book On Becoming \na Leader (1989). “The person will be there to feed the dog. The dog will be there to keep the person from \ntouching the equipment.” \nFor decades, various theorists have anticipated the end of work, but never before have these predictions \nbeen so close to becoming reality, at least in some sectors. In 1930, John Maynard Keynes predicted that, \nby 2030, the 40-hour workweek would be reduced to 15 hours as a result of technological progress. Jeremy \nRifkin, in his book The End of Work, published in 1995, described a future where automation would lead to \na marked decrease in the demand for labour, causing high unemployment rates. In November, Elon Musk, \nduring a conversation with British Prime Minister Rishi Sunak, predicted a scenario in which artificial \nintelligence could take over all tasks: “You can have a job if you want to have a job for personal satisfaction,” \nsaid the Tesla founder. “But AI will be able to do everything.” \nIt remains to be seen whether these predictions will come true. All economic revolutions have entailed \nmajor reconfigurations of labour, but they have always created more jobs than they destroyed. Whether \nautomation is temporary or permanent, the question nevertheless remains: What would millions of human \nbeings pushed out of the labour market do with their time? \n \n2.1. Indicate whether the following statements are true or false (T/F) according to the text. Copy that \npart (and ONLY that part) of the text which justifies your answer. (1.5 points) \na. Machines behave like humans. \nb. According to W. Bennis’s metaphor, people will be less important in the production process than they are now. \nc. Old predictions might become true. \nd. According to a 20th-century economist, the reasons why people would work in the future could be affected by \ntechnology. \ne. According to Elon Musk, AI will make work unnecessary. \nf. All that people say about AI will happen. \n \n2.2. For each of these words find a word or phrase in Text B with the same meaning. (1 point) \na. finish;  \nb. affirmed;  \nc. clear, remarkable;  \nd. bringing about;  \n e. forced outwards. \n \n2.3. Write a composition answering this question: (2.5 points) \nWhat causes environmental pollution? Can you think of any possible solutions for this problem? (Approximately 120 \nwords)"
+  },
+  {
+   "id": "Inglés-2024-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "5 puntos",
+   "apartados": [
+    "3.1. Write a new sentence that has the same meaning as the given one. You must use the word or expression in brackets. (2 points) a. There are fewer teachers in my school than there were last year. (many) b. If you work hard now, you won’t have to do so much later. (harder) c. Computers are much cheaper than they were a few years ago. (used) d. Why haven't they told people about the accident? (bee",
+    "3.2. Pronunciation. (0.5 points) a. In which word are the letters \"ea\" pronounced the same as in “bear”? lead, meal, pear, fear. b. Which of the following words has the same vowel sound as the vowel in “church”? cute, bench, third, park. c. Write a homophone (a word that sounds the same as another one but is spelled differently) for each of these words: “wood”, “weather”. d. In which word is the p",
+    "3.3. Write a composition answering this question: (2.5 points) Do you think there could be a connection between AI and unemployment in the future? (Approximately 120 words)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/ingles/2024/ordinaria/11_ingles_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "QUESTION 3. ANSWER THE QUESTIONS BELOW. (5 POINTS) \n3.1. Write a new sentence that has the same meaning as the given one. You must use the word or \nexpression in brackets. (2 points) \na. There are fewer teachers in my school than there were last year. (many)  \nb. If you work hard now, you won’t have to do so much later. (harder) \nc. Computers are much cheaper than they were a few years ago. (used) \nd. Why haven't they told people about the accident? (been) \ne. Although she was very busy, my mother cooked a great meal for us. (despite) \n \n3.2. Pronunciation. (0.5 points) \na. In which word are the letters \"ea\" pronounced the same as in “bear”? lead, meal, pear, fear. \nb. Which of the following words has the same vowel sound as the vowel in “church”? cute, bench, third, park. \nc. Write a homophone (a word that sounds the same as another one but is spelled differently) for each of these \nwords: “wood”, “weather”. \nd. In which word is the plural ending “-es” pronounced as in “stages”? grapes, brushes, tiles, wolves. \n \n3.3. Write a composition answering this question:  (2.5 points) \nDo you think there could be a connection between AI and unemployment in the future? (Approximately 120 words)"
+  },
+  {
+   "id": "Inglés-2025-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Indicate whether the following statements are True, False or the information is Not Given in the text (T/F/NG). In true and false cases, copy the part of the text which justifies your answer. (1.5 points) 1. Soaring summer temperatures across southern Europe could prompt a lasting shift in tourist habits. 2. Some vacationers had a pretty bad time last year. 3. Non-beach holiday destinations c",
+    "1.2. Find a synonym for each of the following words. (1 point) 1. accepted 2. get to 3. tendencies 4. reduction 5. the highest ever"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/extraordinaria/11_ingles_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "1. Answer both subsections in this question. (2.5 points) \n1.1. Indicate whether the following statements are True, False or the information is Not Given in the \ntext (T/F/NG). In true and false cases, copy the part of the text which justifies your answer. (1.5 \npoints) \n1. Soaring summer temperatures across southern Europe could prompt a lasting shift in tourist \nhabits.  \n2. Some vacationers had a pretty bad time last year.  \n3. Non-beach holiday destinations could become a growing trend soon. \n4. The new airport was a success as many travellers used it to get to their destinations. \n5. High temperatures haven’t had an effect on popular holiday destinations.  \n6. Luckily, natural ecosystems are not expected to be affected in 2026. \n \n \n1.2. Find a synonym for each of the following words. (1 point) \n1. accepted  \n2. get to  \n3. tendencies \n4. reduction \n5. the highest ever"
+  },
+  {
+   "id": "Inglés-2025-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a NEW sentence that has the same meaning as the given one(s). Use the word or expression in brackets. (1.5 points) 1. “Let's have a party on Friday\", Pattie said to me. (suggested) 2. Is it all right for me to leave work half an hour early today? (mind) 3. Tourism will increase in the next few years. Some cities will become much more expensive. (not only) 4. I'm sure that Peter is at ho",
+    "2.2. Answer the following questions about pronunciation. (1 point) 1. Which of the following words includes the same vowel sounds as in “clear”? heard, pear, hair, disappear. 2. In which word is the ending \"-es\" pronounced the same as in “changes”? centres, introduces, assembles, fakes. 3. In which two words is the vowel \"i\" pronounced differently from the sound in “tip”? video, win, sit, vital, r"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/extraordinaria/11_ingles_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "2. Answer both subsections in this question. (2.5 points) \n2.1. Write a NEW sentence that has the same meaning as the given one(s). Use the word or \nexpression in brackets. (1.5 points) \n1. “Let's have a party on Friday\", Pattie said to me. (suggested) \n2. Is it all right for me to leave work half an hour early today? (mind) \n3. Tourism will increase in the next few years. Some cities will become much more expensive. (not \nonly) \n4. I'm sure that Peter is at home because the phone is engaged. (must) \n5. “I will definitely try to do more for the sake of all those who are suffering!” (she promised) \n6. Henry finds it strange to eat snails. (not used) \n\n \n2.2. Answer the following questions about pronunciation. (1 point) \n1. Which of the following words includes the same vowel sounds as in “clear”? heard, pear, hair, \ndisappear. \n2. In which word is the ending \"-es\" pronounced the same as in “changes”? centres, introduces, \nassembles, fakes. \n3. In which two words is the vowel \"i\" pronounced differently from the sound in “tip”? video, win, \nsit, vital, rich, alive, still, ship. \n4. Which pair of words does not rhyme? ball – tall, dawn – lawn, talk – walk, warm – arm."
+  },
+  {
+   "id": "Inglés-2025-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Vocabulario"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/extraordinaria/11_ingles_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "3. In this text, fill in the gaps with the most suitable option from the four options given for each gap.  \n(2.5 points) \nAlex: Hey Mia, have you heard about the 1.______________________ concerts happening in London \nnext summer? The line-up looks amazing! \n1. live / mainstream / most / life \nMia: Yeah, I’ve seen some of the announcements! I’m really excited. There are so many great artists \n2.______________________. Have you decided which ones you want to go to? \n2. play / performing / entering / feature \nAlex: Definitely! I’m planning to see The 1975 at Wembley. I’ve been waiting to see them play \n3.______________________. What about you? \n3. since a long time / ever since / for ages / before \nMia: Oh, that sounds awesome! I’m hoping to get tickets for Coldplay. They’re doing a few shows at \nthe O2 Arena, and I’ve never seen them before. It’s 4.______________________ to be an incredible \nexperience. \n4. maybe / definitely / supposed / for sure \nAlex: Yeah, I heard their shows are amazing, especially with all the lights and special effects. You \n5.______________________ definitely go! Do you think it’ll be hard to get tickets, though? \n5. need / will / might / should \nMia: Probably. Coldplay tickets always sell out really fast. I’ll have to be online the moment they go on \nsale. But it’s 6.______________________ it! I might also check out some of the smaller gigs, like indie \nbands or local artists. \n6. worth / simple / a tough one / really \nAlex: That’s a good idea. London’s full of smaller 7.______________________ with great music. \nSometimes those concerts are even better because they feel more intimate, you know? You can be so \nclose to the stage. \n7. shops / entrances / squares / venues \nMia: Exactly! And the tickets are usually more 8.______________________. Plus, it’s fun to discover \nnew artists before they get really famous. Do you know if any festivals are happening next summer? \nI’d love to go to one. \n8. expensive / cheap / affordable / often \nAlex: \nI \nthink \nGlastonbury \nis \non \nagain, \nbut \nI \nhaven’t \nchecked \nthe \nfull \nline-up \n9.______________________. There’s also BST Hyde Park. They usually have a mix of big-name artists \nand up-and-coming ones. It could be a fun day out. \n9. already / actually / ever / yet \nMia: Oh yeah. I went to BST Hyde Park last year, and it was such a great vibe! \nAlex: That sounds perfect. Let’s keep an eye on the ticket sales and make sure we don’t \n10.______________________. Next summer is going to be epic! \n10. go / lose / miss out / remind"
+  },
+  {
+   "id": "Inglés-2025-extraordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "4.1. Write an opinion article about this topic: Is graffiti an art form or is it vandalism? (120 words)",
+    "4.2. Write a letter to a landlord inquiring about a flat that s/he has for rent for next year, when you will be at university. (120 words)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/extraordinaria/11_ingles_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "4. Answer ONE of the following subsections. (2.5 points) \n4.1. Write an opinion article about this topic: Is graffiti an art form or is it vandalism?  (120 words) \n4.2. Write a letter to a landlord inquiring about a flat that s/he has for rent for next year, when you \nwill be at university. (120 words)"
+  },
+  {
+   "id": "Inglés-2025-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. Indicate whether the following statements are True, False or the information is Not Given in the text (T/F/NG). In true and false cases, copy the part of the text which justifies your answer. (1.5 points) 1. The text suggests that it is more difficult to tell a lie than to tell the truth. 2. Schools generally demand too much from students. 3. An 18-year-old person can easily make up excuses s",
+    "1.2. Find a synonym for each of the following words. (1 point) 1. talent 2. give 3. catastrophic 4. disdain 5. covered it up"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/ordinaria/11_ingles_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "1. Answer both subsections in this question. (2.5 points) \n \n1.1. Indicate whether the following statements are True, False or the information is Not Given in the \ntext (T/F/NG). In true and false cases, copy the part of the text which justifies your answer. (1.5 \npoints) \n1. The text suggests that it is more difficult to tell a lie than to tell the truth. \n2. Schools generally demand too much from students.  \n3. An 18-year-old person can easily make up excuses so as not to go on holiday with their family.  \n4. In Western countries, people are more used to telling lies than in Eastern countries. \n5. If people sometimes don’t say what they really think is because they want to be offensive.  \n6. The writer’s editor is a male. \n \n \n1.2. Find a synonym for each of the following words. (1 point) \n1. talent  \n2. give  \n3. catastrophic  \n4. disdain \n5. covered it up"
+  },
+  {
+   "id": "Inglés-2025-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación",
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a NEW sentence that has the same meaning as the given one(s). Use the word or expression in brackets. (1.5 points) 1. Is it realistic to expect a 15-year-old to write a composition and watch television in the same evening? (the writer wondered) 2. Lying is an essential skill, so schools are quite right to teach it. (because) 3. People tell the teacher they did their homework but that th",
+    "2.2. Answer the following questions about pronunciation. (1 point) 1. Which word does NOT have the same vowel sound as the letter underlined in “scary”? far, fair, fare, pear. 2. In which word are the underlined letters pronounced differently from the letters in the other words? school, fool, tool, wool. 3. In which word is the letter \"u\" pronounced in the same way as in “lunch”? buddy, burn, bush"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/ordinaria/11_ingles_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "2. Answer both subsections in this question. (2.5 points) \n \n2.1. Write a NEW sentence that has the same meaning as the given one(s). Use the word or \nexpression in brackets. (1.5 points) \n1. Is it realistic to expect a 15-year-old to write a composition and watch television in the same \nevening? (the writer wondered) \n2. Lying is an essential skill, so schools are quite right to teach it. (because)  \n3. People tell the teacher they did their homework but that the dog ate it. (eaten) \n4. A modern civilized society wouldn’t exist if everybody lied all the time. (there couldn’t)  \n5. We are given too much homework and I never have time to finish it. (if) \n6. I work until very late every evening but I never manage to finish my homework. (no matter) \n \n \n \n \n \n\n2.2. Answer the following questions about pronunciation. (1 point) \n1. Which word does NOT have the same vowel sound as the letter underlined in “scary”? far, fair, \nfare, pear. \n2. In which word are the underlined letters pronounced differently from the letters in the other \nwords? school, fool, tool, wool. \n3. In which word is the letter \"u\" pronounced in the same way as in “lunch”? buddy, burn, bush, \nbutcher. \n4. In which two words is the ending \"-ed\" pronounced /t/, as in “knocked”? smiled, aided, stayed, \npassed, laughed, demanded, welcomed, closed."
+  },
+  {
+   "id": "Inglés-2025-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Vocabulario"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/ordinaria/11_ingles_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "3. In this text, fill in the gaps with the most suitable option from the four options given for each gap.  \n(2.5 points) \nPredicting what life will be like in twenty years is both fascinating and challenging. Based on \n1.____________________ trends, we can expect several key developments in technology, lifestyle, \nand the environment that will shape the future. \n1. future / fashionable / current / shaping \nOne of the most significant changes will 2.____________________ be in the field of technology. \nArtificial intelligence (AI) and automation are expected to play a larger role in daily life. AI will probably \nbe integrated into many aspects of our work and personal activities. Machines may \n3.____________________ repetitive tasks, allowing people to focus on more creative or complex \nproblems.  \n2. often / likely / seldom / rather \n3. take over / forget about / remind / look up \nAdditionally, the way we communicate 4.____________________ be transformed by virtual and \naugmented reality, making it easier to interact with others across the world in real time, as if we \n5.____________________ in the same room. The rise of smart cities, with advanced infrastructure and \nautomated systems, will also change how we live in urban environments. \n4. could / would / should / must \n5. will be / were / seating / talk \nThe environment will also be a critical factor in shaping life in the future. Climate change will continue \nto impact our planet, with 6.____________________ temperatures, changing weather patterns, and \nmore frequent natural disasters.  \n6. heat / rising / bearable / raising \nGovernments \nand \nbusinesses \nmay \ninvest \nmore \nin \nrenewable \nenergy \nsources, \n7.____________________ solar and wind power, to reduce carbon emissions.  \n7. so as to / some / such as / more like \nHowever, with these advancements come challenges. The increase in automation could lead to job \ndisplacement. This might require people to constantly learn new skills to remain \n8.____________________ in the job market.  \n8. competitive / bored / earns / allowed \nAdditionally, as we 9.____________________ more connected digitally, protecting personal \ninformation will become even more important. \n9. deal / born / travel / become \nIn conclusion, life in twenty years will probably be a blend of technological progress, environmental \nresponsibility, and social change. 10.____________________ many of these developments will bring \nnew opportunities, they will also require us to adapt to a rapidly changing world.  \n10. Since / While / In spite of / In addition"
+  },
+  {
+   "id": "Inglés-2025-ordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "4.1. Write an opinion article about this topic: Is telling lies culturally accepted in your society? Do you think that is a good thing? Why/why not? (120 words)",
+    "4.2. Write an e-mail to a media blog editor telling him/her about a TV series that you have enjoyed a lot and would like to recommend. (120 words)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2025/ordinaria/11_ingles_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "4. Answer ONE of the following subsections. (2.5 points) \n4.1. Write an opinion article about this topic: Is telling lies culturally accepted in your society? Do you \nthink that is a good thing? Why/why not? (120 words) \n4.2. Write an e-mail to a media blog editor telling him/her about a TV series that you have enjoyed a \nlot and would like to recommend. (120 words)"
+  },
+  {
+   "id": "Inglés-2026-extraordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. After reading the text, indicate whether the following statements are True (T), False (F) or the information is Not Given (NG). In true and false cases only, copy the part of the text which justifies your answer. (1.5 points) 1. Two or three decades ago, mostly men—and, exceptionally, some good-looking women—were hired to work as disk jockeys. 2. Thanks to the Internet, the DJ-ing scene has c",
+    "1.2. Find a synonym (S) or an antonym (A) in the text for each of the following words. (1 point) 1. incompetence (A) 2. recalls (as a verb; S) 3. restrictive (A) 4. gently (A) 5. objects (S)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/extraordinaria/11_ingles_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "1. Answer the two subsections in this question. (2.5 points) \n1.1. After reading the text, indicate whether the following statements are True (T), False (F) or the \ninformation is Not Given (NG). In true and false cases only, copy the part of the text which justifies \nyour answer. (1.5 points) \n1. Two or three decades ago, mostly men—and, exceptionally, some good-looking women—were hired \nto work as disk jockeys. \n2. Thanks to the Internet, the DJ-ing scene has changed, to the extent that LGBTQ+ are being hired on \na regular basis. \n3. Online platforms are owned by straight males, which indicates that society hasn’t really changed \nmuch. \n4. Women do not feature in the dance music genre because they are not interested in it. \n5. Not a single female girl DJ hit number 1 in the UK in the first to decades of the 21st century. \n6. The music industry clearly has double standards and doesn’t treat males and females as equals. \n \n1.2. Find a synonym (S) or an antonym (A) in the text for each of the following words. (1 point) \n1. incompetence (A) \n2. recalls (as a verb; S)     3. restrictive (A)     4. gently (A)     5. objects (S)"
+  },
+  {
+   "id": "Inglés-2026-extraordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a NEW sentence that has the same meaning as the given one. Use the word or expression in brackets. (1.5 points) 1. She is too tired to study. (slept) 2. He is such a good musician that everyone admires him. (so) 3. It’s a pity you didn’t tell me. (wish) 4. “Don’t forget to call me”, he said. (reminded) 5. He didn’t study. That’s why he failed. (if) 6. I’m sure they didn’t hear the news.",
+    "2.2. Answer the following questions about pronunciation. (1 point) 1. Which of the following pairs of words are pronounced the same? fear/fare, bare/bear, dear/dare, pear/pier, fill/feel. 2. In which of the following words does the stress fall on the second syllable? empire, control, rumour, basically, famous. 3. In which two words is the –ed morpheme pronounced as the underlined letter in “bread”"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/extraordinaria/11_ingles_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "2. Answer the two subsections in this question. (2.5 points) \n2.1. Write a NEW sentence that has the same meaning as the given one. Use the word or expression \nin brackets. (1.5 points) \n1. She is too tired to study. (slept) \n2. He is such a good musician that everyone admires him. (so) \n3. It’s a pity you didn’t tell me. (wish) \n4. “Don’t forget to call me”, he said. (reminded) \n5. He didn’t study. That’s why he failed. (if) \n6. I’m sure they didn’t hear the news. (can’t) \n2.2. Answer the following questions about pronunciation. (1 point) \n1. Which of the following pairs of words are pronounced the same? fear/fare, bare/bear, dear/dare, \npear/pier, fill/feel. \n2. In which of the following words does the stress fall on the second syllable? empire, control, rumour, \nbasically, famous. \n3. In which two words is the –ed morpheme pronounced as the underlined letter in “bread”? washed, \nfolded, judged, refused, masked. \n4. In which word do we pronounce the letter “i” as in “filling” (i.e., short i)? align, bite, kind, bitter, family."
+  },
+  {
+   "id": "Inglés-2026-extraordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Vocabulario"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/extraordinaria/11_ingles_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "3. In this text, fill each one of the gaps with a word taken from the box below. Bear in mind that there \nare five extra words which you must leave out. Each word may be used only once. (2 points) Artificial \nIntelligence (AI) is 1.  \n more common in classrooms. Some schools use AI to help students 2.  \n \nlanguages, correct grammar, or offer 3.  \n feedback. 4.  \n \n use it to \ncreate exercises, mark tests, or track progress. For teachers, AI can 5.  \n time and provide useful \ntools. \nHowever, 6.  \n are also concerns. One issue is that students may 7.  \n too much on \nAI, using it to do homework or 8.  \n write essays. This could reduce 9.  \n  and critical \nthinking. There’s also the risk 10.  \n  cheating, as some AI tools 11.  \n   complete \nentire assignments. \nTeachers and parents are also worried 12.  \n students may lose human 13.  \n — the \nchance to ask questions, 14.  \n ideas, and learn 15.  \n mistakes. Learning is not  \n16.___________ about getting the right answer, but about the process. \n17.  \n of this, many schools are beginning to teach students how to use AI 18.  \n \nand responsibly. Instead of banning it completely, the goal is to help students understand its limits and \nbenefits. \nLike 19.  \n tool, AI can be helpful or harmful —depending on 20.  \n we use it."
+  },
+  {
+   "id": "Inglés-2026-extraordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "3 puntos",
+   "apartados": [
+    "4.1. Write an article for the school e-magazine reflecting on whether the education system gives students the knowledge and skills they need for adulthood. (140 words)",
+    "4.2. Do video games have a positive or negative effect on teenagers? Give your opinion on how gaming influences behaviour, learning, and social life. (140 words) from along any ethically save creativity because there until even interaction intellectual becoming rely others will how learn of can personalised discuss why that just"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/extraordinaria/11_ingles_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "4. Answer ONE of the following subsections. (3 points) \n4.1. Write an article for the school e-magazine reflecting on whether the education system gives \nstudents the knowledge and skills they need for adulthood. (140 words) \n4.2. Do video games have a positive or negative effect on teenagers? Give your opinion on how \ngaming influences behaviour, learning, and social life. (140 words) \nfrom\nalong \nany \nethically \nsave \ncreativity\nbecause \nthere \nuntil \neven \ninteraction\nintellectual \nbecoming \nrely \nothers\nwill\nhow \nlearn \nof \ncan \npersonalised\ndiscuss \nwhy \nthat \njust"
+  },
+  {
+   "id": "Inglés-2026-ordinaria-1",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comprensión lectora"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "1.1. After reading the text, indicate whether the following statements are True (T), False (F) or the information is Not Given (NG). In true and false cases only, copy the part of the text which justifies your answer. (1.5 points) 1. According to the text, among many historically false remedies, some have proven to be true. 2. Running more than 8 miles a day reduces the risk of heart disease consi",
+    "1.2. Find a synonym (S) or an antonym (A) in the text for each of the following words. (1 point) 1.chasing, reaching (S) 2. rhythm (S) 3. lose (A) 4. results (S) 5. stay (as a verb; S) PAU Convocatoria ordinaria 2026 INGLÉS CÓDIGO 11"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/ordinaria/11_ingles_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "1. Answer the two subsections in this question. (2.5 points) \n1.1. After reading the text, indicate whether the following statements are True (T), False (F) or the \ninformation is Not Given (NG). In true and false cases only, copy the part of the text which justifies \nyour answer. (1.5 points) \n1. According to the text, among many historically false remedies, some have proven to be true. \n2. Running more than 8 miles a day reduces the risk of heart disease considerably, according to recent \nstudies. \n3. According to the text, if you walk slower than 5 km per hour, the expected benefits of walking tend \nto drop. \n4. After conducting a study, scientists concluded that 16-year-olds were the ones that walked the \nfastest in the UK. \n5. Someone who has never done any sport will not benefit from walking when they are old. \n6. By analysing how fast a person walks, doctors can foresee a patient’s prospects regarding their \nhealth. \n1.2. Find a synonym (S) or an antonym (A) in the text for each of the following words. (1 point) \n1.chasing, reaching (S)     2. rhythm (S)    3. lose (A)    4. results (S)           5. stay (as a verb; S) \n\nPAU \nConvocatoria ordinaria 2026 \nINGLÉS \nCÓDIGO 11"
+  },
+  {
+   "id": "Inglés-2026-ordinaria-2",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Gramática y transformación de frases",
+    "Pronunciación"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2.5 puntos",
+   "apartados": [
+    "2.1. Write a NEW sentence that has the same meaning as the given one. Use the word or expression in brackets. (1.5 points) 1. It is said that the actor is very kind. (to) 2. The referee panel postponed the match because of the rain. (by) 3. He is too young to drive. (isn’t) 4. He started playing tennis five years ago. (has) 5. “Will you help me carry this?”, she asked. (whether) 6. He didn’t go ou",
+    "2.2. Answer the following questions about pronunciation. (1 point) 1. Which of the following pairs of words are pronounced the same? must/most, arrange/array, deceit/decide, their/there, high/hay. 2. In which of the following words does the stress fall on the first syllable? defeat, governance, accordance, enjoy, duplicity. 3. In which two words is/are the underlined letter/s pronounced as in “lik"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/ordinaria/11_ingles_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "2. Answer the two subsections in this question. (2.5 points) \n2.1. Write a NEW sentence that has the same meaning as the given one. Use the word or expression \nin brackets. (1.5 points) \n1. It is said that the actor is very kind. (to) \n2. The referee panel postponed the match because of the rain. (by) \n3. He is too young to drive. (isn’t) \n4. He started playing tennis five years ago. (has) \n5. “Will you help me carry this?”, she asked. (whether) \n6. He didn’t go out because he was tired. (been) \n2.2. Answer the following questions about pronunciation. (1 point) \n1. Which of the following pairs of words are pronounced the same? must/most, arrange/array, \ndeceit/decide, their/there, high/hay. \n2. In which of the following words does the stress fall on the first syllable? defeat, governance, \naccordance, enjoy, duplicity. \n3. In which two words is/are the underlined letter/s pronounced as in “liked”? watched, beloved, \nwanted, dropped, intended. \n4. In which word do we pronounce the letter “l” as in “align”? should, calm, sold, half, talk."
+  },
+  {
+   "id": "Inglés-2026-ordinaria-3",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Vocabulario"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/ordinaria/11_ingles_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "3. In this text, fill each one of the gaps with a word taken from the box below. Bear in mind that \nthere are five extra words which you must leave out. Each word may be used only once. (2 points) \nIn recent years, 1.  \n  and more students have decided to take a 2.  \n year before \nstarting university. This term refers to a break 3.  \n formal education, usually lasting twelve \nmonths, during 4.  \n young people travel, work, volunteer, or simply 5.  \n \n time to \nfigure out what they want in life. For some, the decision is based on the need to 6.  \n \n   after \nyears of academic pressure. For others, it’s about gaining 7.    \n experience or improving their \nlevel of independence 8.  \n  \n beginning university studies. A year of that sort can also help \nstudents discover new interests, develop practical 9.  \n, or even change 10. \ncareer goals. \nTravel is one of the most popular choices during this period. Exploring other countries and cultures \n11.  \n be exciting and eye-opening. It allows young people to become more open-minded and \nlearn how to 12.  \n to unfamiliar situations. Many students also use this time to     \n13._________ in social or environmental projects, helping communities in need 14.  \n______ making \na positive impact. \nOf course, taking a year 15.  \n isn’t the right option for everyone. Some students find it difficult \nto return to academic life after a long 16.  \n . Others may worry that they will lose motivation \nor fall behind their peers. Financial concerns are also a factor —travelling and living 17.  \n can \nbe expensive, and not everyone can 18.  \n it. However, if well planned, a gap year can be a \nvaluable and enriching experience. It gives young people the 19.  \n to learn outside the \nclassroom and return to their studies with a clearer mind and renewed energy.  \nIn the end, a gap year is not about doing nothing —it’s about 20.  \n in a different way."
+  },
+  {
+   "id": "Inglés-2026-ordinaria-4",
+   "asignatura": "Inglés",
+   "asignatura_slug": "ingles",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Writing / Composición"
+   ],
+   "tema_fuente": "palabras_clave",
+   "puntuacion": "3 puntos",
+   "apartados": [
+    "4.1. Write an e-mail addressed at a politician called Mary Smith discussing the benefits and challenges of offering free higher education to all students, regardless of income. (140 words)",
+    "4.2. Imagine you are the director of the school blog. Write an opinion article on whether smartphones should be allowed in the classroom. Consider arguments for both students and teachers. (140 words) skills rest shadow while off gap learning linking chance volunteer abroad of adapt more life take lend from before their can afford which whom break"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/ingles/2026/ordinaria/11_ingles_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "4. Answer ONE of the following subsections. (3 points) \n4.1. Write an e-mail addressed at a politician called Mary Smith discussing the benefits and challenges of \noffering free higher education to all students, regardless of income. (140 words) \n4.2. Imagine you are the director of the school blog. Write an opinion article on whether smartphones \nshould be allowed in the classroom. Consider arguments for both students and teachers. (140 words) \n \nskills \nrest \nshadow \nwhile \noff \ngap \nlearning \nlinking \nchance \nvolunteer \nabroad \nof \nadapt \nmore \nlife \ntake \nlend \nfrom \nbefore \ntheir \ncan \nafford \nwhich \nwhom \nbreak"
   },
   {
    "id": "Matemáticas II-2020-extraordinaria-1",

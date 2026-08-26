@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T10:26:22",
+ "generado": "2026-08-26T10:53:51",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -379,6 +379,44 @@
      "tema": "QUÍMICA ORGÁNICA",
      "n": 37,
      "pct_preguntas": 11.9
+    }
+   ]
+  },
+  "ingles": {
+   "asignatura": "Inglés",
+   "total_preguntas": 100,
+   "total_preguntas_vault_2020_2026": 64,
+   "total_preguntas_historico_2010_2019": 36,
+   "temas": [
+    {
+     "tema": "Comprensión lectora",
+     "n": 60,
+     "pct_preguntas": 60.0
+    },
+    {
+     "tema": "Gramática y transformación de frases",
+     "n": 60,
+     "pct_preguntas": 60.0
+    },
+    {
+     "tema": "Pronunciación",
+     "n": 35,
+     "pct_preguntas": 35.0
+    },
+    {
+     "tema": "Writing / Composición",
+     "n": 25,
+     "pct_preguntas": 25.0
+    },
+    {
+     "tema": "Listening",
+     "n": 18,
+     "pct_preguntas": 18.0
+    },
+    {
+     "tema": "Vocabulario",
+     "n": 6,
+     "pct_preguntas": 6.0
     }
    ]
   }

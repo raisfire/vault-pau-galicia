@@ -13,6 +13,7 @@ const SUBJECT_META = {
   quimica: { label: "Química", desc: "Reacciones, enlace, estructura de la materia, orgánica" },
   historiaespana: { label: "Historia de España", desc: "De los Reyes Católicos a la España actual" },
   historiafilosofia: { label: "Historia da Filosofía", desc: "De Platón a Simone de Beauvoir" },
+  ingles: { label: "Inglés", desc: "Reading, gramática, vocabulario y writing" },
 };
 
 function normalize(str) {
