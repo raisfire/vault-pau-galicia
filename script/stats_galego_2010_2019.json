@@ -1,0 +1,454 @@
+[
+ {
+  "subject": "galego",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Fonética e fonoloxía da lingua galega",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega entre 1936 e 1975",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Clases de palabras",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Os prexuízos e estereotipos lingüísticos"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Relacións entre estruturas sintácticas",
+   "As linguas da Península Ibérica",
+   "A variedade estándar, os sociolectos e os rexistros de lingua"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Formas verbais e perífrases",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Relacións entre estruturas sintácticas",
+   "As linguas da Península Ibérica"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Relacións entre estruturas sintácticas",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións entre estruturas sintácticas",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Formas verbais e perífrases",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Relacións entre estruturas sintácticas"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións entre estruturas sintácticas",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "As variedades dialectais do galego",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Formas verbais e perífrases",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Relacións entre estruturas sintácticas",
+   "As linguas da Península Ibérica",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Formas verbais e perífrases",
+   "Clases de palabras",
+   "Relacións entre estruturas sintácticas"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Relacións entre estruturas sintácticas",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Relacións entre estruturas sintácticas",
+   "A variedade estándar, os sociolectos e os rexistros de lingua"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Relacións entre estruturas sintácticas"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Formas verbais e perífrases",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Os prexuízos e estereotipos lingüísticos"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Fonética e fonoloxía da lingua galega",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "A literatura galega entre 1936 e 1975",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "Clases de palabras"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Fonética e fonoloxía da lingua galega",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Relacións entre estruturas sintácticas",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Clases de palabras",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Fonética e fonoloxía da lingua galega",
+   "As variedades dialectais do galego",
+   "A literatura galega de fins do século XX e comezos do XXI",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Formas verbais e perífrases",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A variedade estándar, os sociolectos e os rexistros de lingua"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Formas verbais e perífrases",
+   "Sintagmas ou frases, os seus constituíntes e as súas funcións",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega entre 1936 e 1975",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Fonética e fonoloxía da lingua galega",
+   "Clases de palabras",
+   "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega entre 1936 e 1975",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Fonética e fonoloxía da lingua galega",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "A literatura galega no primeiro terzo do século XX (1916-1936)",
+   "A literatura galega entre 1936 e 1975"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "Comunicación",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Clases de palabras",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A variedade estándar, os sociolectos e os rexistros de lingua",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ },
+ {
+  "subject": "galego",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "Comunicación",
+   "Creación de palabras: composición, derivación, parasíntese e acronimia",
+   "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico",
+   "Os prexuízos e estereotipos lingüísticos",
+   "A literatura galega de fins do século XX e comezos do XXI"
+  ]
+ }
+]
