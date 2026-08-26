@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "A literatura galega entre 1936 e 1975"
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "? puntos"
 apartados:
   - "4.1. Este texto de Álvaro Cunqueiro pertence ao libro Escola de menciñeiros e fábula de varia xente (1960). Relacione o relato, sucintamente, coa restante obra do autor e co movemento de recuperación da narrativa galega de Posguerra. Indique o tema principal e xustifíqueo a partir de exemplos tirados do texto. Analice, brevemente, a estrutura do relato e a presenza nel de elementos fantásticos. Ex"

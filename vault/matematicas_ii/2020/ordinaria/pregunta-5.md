@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la ecuación implícita o general del plano que pasa por los puntos 𝐴(3,0, −1), 𝐵(4,1,1) y 𝐶(7,1,5)."

@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "INMUNOLOGÍA"
   - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Indique, a partir de la información del texto, tres tipos de vacunas, aparte de las basadas en ARNm."

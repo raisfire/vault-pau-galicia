@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "27. El movimiento obrero (Sexenio Democrático y Restauración)"
   - "22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional"
+tema_wikilinks:
+  - "[[historiaespana/_temas/27. El movimiento obrero (Sexenio Democrático y Restauración)|27. El movimiento obrero (Sexenio Democrático y Restauración)]]"
+  - "[[historiaespana/_temas/22. La Guerra Civil sublevación, bandos en conflicto y su dimensión internacional|22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Compare las características del Socialismo y el Anarquismo durante la segunda mitad del siglo XIX. (2,5 puntos)"

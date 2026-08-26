@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 8
 tema:
   - "FÍSICA DEL SIGLO XX"
+tema_wikilinks:
+  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

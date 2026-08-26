@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "16. La Primera República: proyecto de constitución federal y cantonalismo"
+tema_wikilinks:
+  - "[[historiaespana/_temas/16. La Primera República proyecto de constitución federal y cantonalismo|16. La Primera República: proyecto de constitución federal y cantonalismo]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

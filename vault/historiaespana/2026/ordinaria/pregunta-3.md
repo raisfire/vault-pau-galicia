@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "17. La Restauración"
   - "23. El franquismo: características e institucionalización"
+tema_wikilinks:
+  - "[[historiaespana/_temas/17. La Restauración|17. La Restauración]]"
+  - "[[historiaespana/_temas/23. El franquismo características e institucionalización|23. El franquismo: características e institucionalización]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Doc.1. El sistema electoral según Valentí Almirall (1889): “En España las elecciones no son más que una farsa. Lo mismo si el sufragio es universal que restringido, nunca hay más que un solo y ún"

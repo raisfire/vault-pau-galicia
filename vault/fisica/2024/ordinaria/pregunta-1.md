@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Una partícula tiene una carga de 5 nC y penetra en una región del espacio donde hay un campo magnético 𝐵⃗ = 0,6 𝚤̂ T con una velocidad 𝑣⃗ = 8 × 10⁶ 𝚥̂ m∙s−1, describiendo una circunferencia de 2 μm "

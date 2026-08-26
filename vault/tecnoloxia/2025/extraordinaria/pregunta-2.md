@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "MATERIALES Y FABRICACIÓN"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/MATERIALES Y FABRICACIÓN|MATERIALES Y FABRICACIÓN]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. El módulo de elasticidad. (1 punto)"

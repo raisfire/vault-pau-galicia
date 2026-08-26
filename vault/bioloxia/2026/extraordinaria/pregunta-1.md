@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "GENÉTICA MOLECULAR"
   - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. En el texto se menciona un tipo de mutación. Indique si se trata de una mutación génica, cromosómica estructural o genómica. Justifique su respuesta."

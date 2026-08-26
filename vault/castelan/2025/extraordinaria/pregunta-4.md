@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Realismo y naturalismo: Galdós, Clarín y Pardo Bazán"
   - "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+tema_wikilinks:
+  - "[[castelan/_temas/Realismo y naturalismo Galdós, Clarín y Pardo Bazán|Realismo y naturalismo: Galdós, Clarín y Pardo Bazán]]"
+  - "[[castelan/_temas/La poesía española posterior a la Guerra Civil Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes|La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Leopoldo Alas «Clarín»” o “Narrativa realista o naturalista”. (2 puntos) Con Octubre muere en Vetusta el buen tiempo. Al mediar Noviembre suele lucir el sol una semana, pero como si fuera y"

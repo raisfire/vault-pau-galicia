@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "9. La Ilustración en España"
   - "8. El reformismo borbónico en Galicia"
+tema_wikilinks:
+  - "[[historiaespana/_temas/9. La Ilustración en España|9. La Ilustración en España]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Megalitismo. 2. Marca Hispánica. 3. Unión de Armas. 4. Afrancesados. 5. Cantonalismo. 6. Pronunciamiento. 7. Brigadas"

@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
   - "Detección y corrección de errores o estructuras agramaticales"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: dos oraciones condicionales de diferentes tipos, una oración consecutiva y una final. Identifíquelas. (1 punto)"

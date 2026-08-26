@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "1 puntos"
 apartados:
   - "1.1. Elabore un esquema coas ideas principais e secundarias do texto. (1 punto)"

@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 8
 tema:
   - "REACCIONES QUÍMICAS"
+tema_wikilinks:
+  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

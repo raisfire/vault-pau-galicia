@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "25. La reforma agraria liberal: las desamortizaciones"
   - "30. El franquismo: política económica"
+tema_wikilinks:
+  - "[[historiaespana/_temas/25. La reforma agraria liberal las desamortizaciones|25. La reforma agraria liberal: las desamortizaciones]]"
+  - "[[historiaespana/_temas/30. El franquismo política económica|30. El franquismo: política económica]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Propietarios y valor de los bienes desamortizados entre 1836 a 1867 (en millones de reales) (2,5 puntos): Período Clero Beneficencia Ayuntamientos Otros Total 1836-1844 3.447 0 0 0 3.447 1855-185"

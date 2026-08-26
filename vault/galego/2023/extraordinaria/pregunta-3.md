@@ -9,6 +9,11 @@ tema:
   - "Sintagmas ou frases, os seus constituíntes e as súas funcións"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Sintagmas ou frases, os seus constituíntes e as súas funcións|Sintagmas ou frases, os seus constituíntes e as súas funcións]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Analice morfolóxica e sintacticamente os seguintes pronomes subliñados e en letra grosa no texto: fascíname; non fose con eles; nós mesmas; que me acompañan. (1 punto)"

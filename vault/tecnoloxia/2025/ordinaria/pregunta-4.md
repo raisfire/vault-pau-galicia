@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS|SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Dado el siguiente conjunto de números, complete los valores en la tabla realizando las correspondientes transformaciones entre sistemas de numeración. (2,5 puntos) Decimal Binario Hexadecimal -26 115 1011 0110 5D,4"

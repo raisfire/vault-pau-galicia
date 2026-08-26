@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS|SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Calcular el rendimiento teórico de la máquina térmica (0,75 puntos)"

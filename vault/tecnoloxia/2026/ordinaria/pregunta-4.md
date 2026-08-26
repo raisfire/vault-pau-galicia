@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL|PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Calcular la función de transferencia en lazo cerrado del sistema, 𝐺(𝑠) = 𝑌 𝑋, en función de las ganancias 𝐾1, 𝐾2, 𝐾3 y 𝐾4 (1,5 puntos)"

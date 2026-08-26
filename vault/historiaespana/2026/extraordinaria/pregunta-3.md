@@ -9,6 +9,11 @@ tema:
   - "19. La crisis de la Restauración"
   - "20. La dictadura de Primo de Rivera"
   - "21. El establecimiento de la II República: fuerzas políticas y constitución de 1931"
+tema_wikilinks:
+  - "[[historiaespana/_temas/18. La cuestión nacional en el último tercio del siglo XIX|18. La cuestión nacional en el último tercio del siglo XIX]]"
+  - "[[historiaespana/_temas/19. La crisis de la Restauración|19. La crisis de la Restauración]]"
+  - "[[historiaespana/_temas/20. La dictadura de Primo de Rivera|20. La dictadura de Primo de Rivera]]"
+  - "[[historiaespana/_temas/21. El establecimiento de la II República fuerzas políticas y constitución de 1931|21. El establecimiento de la II República: fuerzas políticas y constitución de 1931]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Doc.1. Observaciones de Manuel Martínez Murguía sobre el regionalismo gallego (1889): “Lengua distinta, se dijo siempre, distinta nacionalidad. Sintiéndolo así, Galicia se tuvo siempre por nación"

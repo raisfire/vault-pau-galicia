@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
   - "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+tema_wikilinks:
+  - "[[castelan/_temas/La poesía española posterior a la Guerra Civil Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes|La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

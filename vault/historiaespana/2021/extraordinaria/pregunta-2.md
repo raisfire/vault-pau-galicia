@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "27. El movimiento obrero (Sexenio Democrático y Restauración)"
+tema_wikilinks:
+  - "[[historiaespana/_temas/27. El movimiento obrero (Sexenio Democrático y Restauración)|27. El movimiento obrero (Sexenio Democrático y Restauración)]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. Si la fuerza eléctrica que una carga puntual Q1 de ⎯8 C situada en el punto P1 ejerce sobre otra carga Q2, también puntual, de ⎯5 C, situada en P2 vale 100 𝚤̂ N, la intensidad de campo eléctrico de l"

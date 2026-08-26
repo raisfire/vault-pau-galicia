@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "LA CÉLULA"
   - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda estos tres apartados: (1 punto) 4.1.1. Explique cómo se disponen las proteínas, fosfolípidos, colesterol y glúcidos en la membrana plasmática según el modelo de mosaico fluido. 4.1.2. La memb"

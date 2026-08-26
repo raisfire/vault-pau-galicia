@@ -7,6 +7,9 @@ numero_pregunta: 6
 tema:
   - "A literatura galega de fins do século XX e comezos do XXI"
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

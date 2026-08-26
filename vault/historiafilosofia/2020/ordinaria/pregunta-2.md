@@ -9,6 +9,11 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Física y metafísica en Aristóteles”. (6 puntos: 3 para el comentario y 3 para la cuestión) En este sentido se dice que es causa (1) aquel constitutivo interno de lo que algo está hecho, por ejemplo, el bronce respecto de la estatua o la plata respecto de la copa, y los géneros del bronce o de la plata. En otro"

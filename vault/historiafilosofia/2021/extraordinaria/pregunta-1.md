@@ -9,6 +9,11 @@ tema:
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "2. Platón: ética y política"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Los límites del conocimiento en Kant”. (6 puntos: 3 para el comentario y 3 para la cuestión) No hay duda alguna de que todo nuestro conocimiento comienza con la experiencia. Pues ¿cómo podría ser despertada a actuar la facultad de conocer sino mediante objetos que afectan a nuestros sentidos y que ora producen"

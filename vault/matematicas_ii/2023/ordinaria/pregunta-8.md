@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 8
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) En un cierto humedal, la probabilidad de que un renacuajo llegue a rana adulta es del 2%. Si se escogen al azar 2500 de esos renacuajos, ¿cuál es la probabilidad de que al menos 55 de ellos lleguen a "

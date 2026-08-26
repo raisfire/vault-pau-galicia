@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
   - "Detección y corrección de errores o estructuras agramaticales"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
 puntuacion: "1 puntos"
 apartados:
   - "4.1. Explique, utilizando algún ejemplo del texto, en qué consiste la polisemia. (1 punto)"

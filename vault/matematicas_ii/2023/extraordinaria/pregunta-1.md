@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule 𝐴 si (𝐴𝐵)𝑇= (1 0 2 1) y 𝐵= ( 1 1 −1 1)."

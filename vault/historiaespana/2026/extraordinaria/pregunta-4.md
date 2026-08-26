@@ -8,6 +8,10 @@ tema:
   - "26. Los principales sectores industriales y el papel del ferrocarril"
   - "25. La reforma agraria liberal: las desamortizaciones"
   - "29. Las grandes reformas de la II República"
+tema_wikilinks:
+  - "[[historiaespana/_temas/26. Los principales sectores industriales y el papel del ferrocarril|26. Los principales sectores industriales y el papel del ferrocarril]]"
+  - "[[historiaespana/_temas/25. La reforma agraria liberal las desamortizaciones|25. La reforma agraria liberal: las desamortizaciones]]"
+  - "[[historiaespana/_temas/29. Las grandes reformas de la II República|29. Las grandes reformas de la II República]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Red del ferrocarril en España (1865) (2,5 puntos)"

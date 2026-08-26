@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "INTERACCIÓN GRAVITACIONAL"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

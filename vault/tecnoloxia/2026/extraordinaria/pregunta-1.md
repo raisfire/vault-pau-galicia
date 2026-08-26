@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "SISTEMAS MECÁNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS MECÁNICOS|SISTEMAS MECÁNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "1.1. Realizar un esquema del modelo mecánico de la viga, indicando claramente los tipos de apoyo, la carga distribuida y las dimensiones relevantes (0,25 puntos)"

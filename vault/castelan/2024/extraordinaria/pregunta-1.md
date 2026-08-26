@@ -8,6 +8,10 @@ tema:
   - "Comentario de texto"
   - "Clases de palabras"
   - "Funciones sintácticas primarias de la cláusula u oración"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)"

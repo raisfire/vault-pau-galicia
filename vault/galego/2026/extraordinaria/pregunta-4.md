@@ -8,6 +8,10 @@ tema:
   - "A literatura galega no primeiro terzo do século XX (1916-1936)"
   - "A literatura galega de fins do século XX e comezos do XXI"
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "? puntos"
 apartados:
   - "4.1. Este relato de Rafael Dieste (Rianxo, 1899-Santiago de Compostela, 1981) forma parte do libro Dos arquivos do trasno (1926). Relacione o texto, brevemente, co conxunto da escrita do autor e coa narrativa do seu tempo. Indique o tema central do relato, describa que tipo de narrador presenta e explique a súa estrutura. Xustifique as respostas axudándose de exemplos tirados do texto. Extensión a"

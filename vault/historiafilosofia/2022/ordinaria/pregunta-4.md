@@ -8,6 +8,10 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "4.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “El problema Razón/Fe en la Filosofía Medieval”. (6 puntos: 3 para el comentario y 3 para la cuestión) Lo que el maestro infunde en el alma del discípulo es la ciencia del doctor, a no ser que enseñe con engaño, lo cual no es lícito afirmar de Dios. El conocimiento natural de los primeros principios ha sido inf"

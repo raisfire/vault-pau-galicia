@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

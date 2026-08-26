@@ -8,6 +8,10 @@ tema:
   - "Formas verbais e perífrases"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Fonética e fonoloxía da lingua galega"
+tema_wikilinks:
+  - "[[galego/_temas/Formas verbais e perífrases|Formas verbais e perífrases]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. No texto aparecen catro infinitivos marcados en legra grosa e subliñados. Indique cal deles está conxugado e por que. Sinale tamén se os outros tres se poden conxugar ou non e explique os motivos. (1 punto)"

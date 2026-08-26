@@ -8,6 +8,10 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "1 puntos"
 apartados:
   - "4.1. Discrimine en dúas columnas os seguintes conceptos, atendendo aos sistemas filosóficos que refiren: (0,5 puntos) Poder lexislativo / goberno civil / Vitalismo / Nihilismo / contractualismo / superhumano / transvaloración."

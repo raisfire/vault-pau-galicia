@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "LA CÉLULA"
   - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. A) Indique el nombre del orgánulo de la figura y su principal función."

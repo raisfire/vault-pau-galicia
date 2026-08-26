@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "INTERACCIÓN GRAVITACIONAL"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) A partir de los siguientes datos de satélites que orbitan alrededor de la Tierra determine el valor de la masa de la Tierra."

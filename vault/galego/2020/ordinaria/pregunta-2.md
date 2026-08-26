@@ -8,6 +8,10 @@ tema:
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Relacións entre estruturas sintácticas"
+tema_wikilinks:
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Relacións entre estruturas sintácticas|Relacións entre estruturas sintácticas]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Segmente morfoloxicamente as seguintes palabras do texto de Eli Ríos e indique o valor de cada morfema: “embaular”, “países”, “mercadotecnia”, “praguicida”. (1 punto)"

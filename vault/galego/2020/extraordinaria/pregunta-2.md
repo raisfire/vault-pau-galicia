@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
+tema_wikilinks:
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Segmente morfoloxicamente as seguintes palabras do texto de GCiencia e indique o valor de cada morfema: “desenvolvemento”, “invernadoiro”, “negacionista”, “solares”. (1 punto)"

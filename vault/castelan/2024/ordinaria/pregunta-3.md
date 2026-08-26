@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
   - "Clases de palabras"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: respeto / respecto; basto / vasto; a sí mismo / asimismo; haber / a ver; absorber / absolver. (1 punto)"

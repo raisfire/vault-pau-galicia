@@ -8,6 +8,10 @@ tema:
   - "Comunicación"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
   - "Clases de palabras"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

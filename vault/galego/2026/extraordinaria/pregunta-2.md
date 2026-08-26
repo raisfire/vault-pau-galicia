@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "Fonética e fonoloxía da lingua galega"
   - "Clases de palabras"
+tema_wikilinks:
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
 puntuacion: "? puntos"
 apartados:
   - "2.1. Indique se a vogal tónica das seguintes palabras, destacadas en letra cursiva no texto, é unha vogal media semiaberta ou semipechada: galego, reto, fóra, poderosa, somos. (1,25 puntos)."

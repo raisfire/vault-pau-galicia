@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "4.1. Comente el fragmento propuesto y, a partir del comentario, desenvuelva la cuestión: “Hume: crítica de las ideas de sustancia y causalidad”. (6 puntos: 3 para el comentario y 3 para la cuestión) (…) La idea de sustancia deberá derivarse, entonces, de una impresión de reflexión, si es que realmente existe. Pero las impresiones de reflexión se reducen a nuestras pasiones y emociones, y no parece"

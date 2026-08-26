@@ -10,6 +10,12 @@ tema:
   - "Formas verbales y perífrasis verbales"
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
   - "Detección y corrección de errores o estructuras agramaticales"
+tema_wikilinks:
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: nos, la prisa (l. 1), una sensación de vacío (l. 2), que (l. 6), de religión (l. 7). Indique también su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos)"

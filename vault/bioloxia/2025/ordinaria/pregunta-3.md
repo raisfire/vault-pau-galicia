@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "LA CÉLULA"
   - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Tenemos dos moléculas de ADN (I y II) de doble cadena y de la misma longitud. Sometemos a ambas a altas temperaturas y observamos que el ADN I se desnaturaliza antes que el ADN II ¿Cuál de las dos mol"

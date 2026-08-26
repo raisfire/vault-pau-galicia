@@ -9,6 +9,11 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "10 puntos"
 apartados:
   - "4.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Ética y política en Aristóteles”. (6 puntos: 3 para el comentario y 3 para la cuestión) 2. Pero, claro está, si en el ámbito de nuestras acciones existe un fin que deseamos por él mismo —y los otros por causa de éste— y no es el caso que elegimos todas las cosas por causa de otra (pues así habrá un progreso al"

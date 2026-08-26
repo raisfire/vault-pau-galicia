@@ -9,6 +9,11 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/12. El desarrollo contemporáneo del feminismo Simone de Beauvoir|12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Realidad y conocimiento en Platón”. (6 puntos) -Represéntate hombres en una morada subterránea en forma de caverna, que tiene la entrada abierta, en toda su extensión, a la luz. En ella están desde niños con las piernas y el cuello encadenados, de modo que deben permanecer allí y mirar sólo delante de ellos, p"

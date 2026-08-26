@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "4. Ética antirrelativista y política en Aristóteles"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
 puntuacion: "4 puntos"
 apartados:
   - "1.1. Lea detenidamente este texto referido a “Descartes: el método científico y la evidencia del cogito”. Elabore un comentario filosófico explicando su contexto, tema central, ideas principales y conceptos clave. (4 puntos) Fue el primero, no admitir como verdadera cosa alguna, como no supiese con evidencia que lo es; es decir, evitar cuidadosamente la precipitación y la prevención, y no comprend"

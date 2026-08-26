@@ -8,6 +8,10 @@ tema:
   - "Clases de palabras"
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Segmente morfoloxicamente estas palabras do texto e indique o tipo de cada morfema, así como o significado que acheguen os morfemas derivativos e flexivos: acoitelaron, matasen, feminicidio, culpabili- zar. (1 punto)"

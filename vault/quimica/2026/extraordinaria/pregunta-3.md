@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "REACCIONES QUÍMICAS"
   - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+tema_wikilinks:
+  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. El estaño metálico reacciona con ácido nítrico formando óxido de estaño(IV), dióxido de nitrógeno y agua: Sn(s) + HNO3(aq) → SnO2(s) + NO2(g) + H2O(l) 3.1.1. Ajuste las ecuaciones iónica y molecular po"

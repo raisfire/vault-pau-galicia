@@ -8,6 +8,10 @@ tema:
   - "12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir"
   - "3. Física y Metafísica en Aristóteles"
   - "4. Ética antirrelativista y política en Aristóteles"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/12. El desarrollo contemporáneo del feminismo Simone de Beauvoir|12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir]]"
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
 puntuacion: "4 puntos"
 apartados:
   - "1.1. Lea detenidamente este texto referido a «El desarrollo contemporáneo del feminismo: Simone de Beauvoir». Elabore un comentario filosófico explicando su contexto, tema central, ideas principales y conceptos clave. (4 puntos) No se nace mujer: se llega a serlo. Ningún destino biológico, psíquico, económico, define la imagen que reviste en el seno de la sociedad la hembra humana; el conjunto de "

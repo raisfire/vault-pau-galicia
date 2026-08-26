@@ -8,6 +8,10 @@ tema:
   - "A literatura galega no primeiro terzo do século XX (1916-1936)"
   - "A literatura galega entre 1936 e 1975"
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "7.1. A prosa do primeiro terzo do XX: as Irmandades e o Grupo Nós (narrativa, ensaio e xornalismo). (Extensión aproximada 400 palabras) (2 puntos)"

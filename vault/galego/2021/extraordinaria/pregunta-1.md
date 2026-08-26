@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "0,5 puntos"
 apartados:
   - "1.1. Propoña un título que resulte ilustrativo do tema que trata o texto. (0,5 puntos)"

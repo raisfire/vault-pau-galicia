@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 6
 tema:
   - "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS|SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS]]"
 puntuacion: "2 puntos"
 apartados:
   - "6.1. La impedancia inductiva y capacitiva."

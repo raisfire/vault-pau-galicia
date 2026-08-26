@@ -9,6 +9,11 @@ tema:
   - "Funciones sintácticas primarias de la cláusula u oración"
   - "Formas verbales y perífrasis verbales"
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+tema_wikilinks:
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: demasiado grande y demasiado horrible (l 2), nos (l. 4), algo (l. 6), una parte de nuestra conciencia (l. 6), que (l. 11). Indique también su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos)"

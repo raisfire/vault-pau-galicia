@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcular 𝐴𝐴2 −𝐵𝐵2. (Advertencia: en este caso, 𝐴𝐴2 −𝐵𝐵2 ≠(𝐴𝐴+ 𝐵𝐵)(𝐴𝐴−𝐵𝐵).)"

@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "Os prexuízos e estereotipos lingüísticos"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Localice dous tipos de formas non estándar que aparezan neste texto, extraído de “A nosa fala” (culturagalega.org) e explique brevemente os criterios polos que non son aceptados na variedade normativa. (Ext. aprox. 250 palabras) (2,5 puntos) Informante: De vrau, ó acabar o curso, normalmente sempre traballo. Este ano tuvemos, este ano pasao tuven traballando no, no Servicio de Estinción de In"

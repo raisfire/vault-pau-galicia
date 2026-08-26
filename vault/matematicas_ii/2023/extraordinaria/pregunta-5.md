@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Considérense el plano 𝜋: 𝑎𝑥+ 𝑦+ 𝑧= 1, donde 𝑎 es un parámetro real, y la recta 𝑟: 𝑥−1 2 = 𝑦 3 = 𝑧+1 3 . Estudie la posición relativa de 𝜋 y 𝑟 en función de 𝑎 y obtenga el valor de 𝑎 que hace que 𝜋 y 𝑟"

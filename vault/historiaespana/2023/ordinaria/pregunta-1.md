@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "1. La nueva monarquía de los Reyes Católicos"
+tema_wikilinks:
+  - "[[historiaespana/_temas/1. La nueva monarquía de los Reyes Católicos|1. La nueva monarquía de los Reyes Católicos]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Bárbaros, 2. Manso, 3. Tercios, 4. Despotismo ilustrado, 5. Abdicaciones de Baiona, 6. Caciquismo, 7. Bienio Negro, 8"

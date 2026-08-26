@@ -10,6 +10,12 @@ tema:
   - "Formas verbais e perífrases"
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Formas verbais e perífrases|Formas verbais e perífrases]]"
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "? puntos"
 apartados:
   - "2.1. Indique se a vogal tónica das seguintes palabras, destacadas en letra grosa no texto, é unha vogal media semiaberta ou semipechada: certo, resposta, desde, nosa, medios. (1 punto)."

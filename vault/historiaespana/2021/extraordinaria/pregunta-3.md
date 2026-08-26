@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "29. Las grandes reformas de la II República"
   - "31. La situación de la mujer en el siglo XX (II República, franquismo, gobiernos de la democracia)"
+tema_wikilinks:
+  - "[[historiaespana/_temas/29. Las grandes reformas de la II República|29. Las grandes reformas de la II República]]"
+  - "[[historiaespana/_temas/31. La situación de la mujer en el siglo XX (II República, franquismo, gobiernos de la democracia)|31. La situación de la mujer en el siglo XX (II República, franquismo, gobiernos de la democracia)]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

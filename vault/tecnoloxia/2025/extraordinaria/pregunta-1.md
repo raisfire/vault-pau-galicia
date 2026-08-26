@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "SISTEMAS MECÁNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS MECÁNICOS|SISTEMAS MECÁNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "1.1. Elabore un esquema del modelo propuesto, representando de manera clara la estructura y las cargas que actúan sobre ella. (0,5 puntos)"

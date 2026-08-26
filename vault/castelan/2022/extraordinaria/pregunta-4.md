@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Formas verbales y perífrasis verbales"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+tema_wikilinks:
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Construya cuatro oraciones: a) una en la que utilice una perífrasis modal de probabilidad; b) una en la que utilice una perífrasis modal de obligación; c) una en la que utilice una perífrasis aspectual incoativa; y d) una en la que utilice una perífrasis aspectual durativa. Identifíquelas claramente. (1 punto)"

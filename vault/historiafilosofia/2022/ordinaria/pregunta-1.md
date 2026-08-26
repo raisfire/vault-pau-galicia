@@ -8,6 +8,10 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “El liberalismo político de Locke”. (6 puntos: 3 para el comentario y 3 para la cuestión) § 90. Resulta, pues, evidente que la monarquía absoluta, a la que ciertas personas consideran como el único gobierno del mundo, es, en realidad, incompatible con la sociedad civil, y, por ello, no puede ni siquiera conside"

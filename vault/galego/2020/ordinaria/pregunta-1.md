@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "1 puntos"
 apartados:
   - "1.1. Resuma brevemente a conversa desenvolvida neste fragmento da novela O ceo das reixas. (1 punto)"

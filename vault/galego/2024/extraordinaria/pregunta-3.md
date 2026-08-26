@@ -8,6 +8,10 @@ tema:
   - "Formas verbais e perífrases"
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Fonética e fonoloxía da lingua galega"
+tema_wikilinks:
+  - "[[galego/_temas/Formas verbais e perífrases|Formas verbais e perífrases]]"
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Examine os catro infinitivos en letra grosa no texto e explique se é posible conxugalos. En caso afirmativo, reescriba o texto coa forma flexionada correspondente. (1 punto) 3.2 Tendo en conta a palabra illamento, constrúa derivados co sufixo -mento a partir de verbos das segunda e terceira conxugación (dous de cada unha delas) e explique o significado que o sufixo achega ás palabras creadas "

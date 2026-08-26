@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "Romancero gitano (Federico García Lorca)"
+tema_wikilinks:
+  - "[[castelan/_temas/Romancero gitano (Federico García Lorca)|Romancero gitano (Federico García Lorca)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

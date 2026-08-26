@@ -7,6 +7,9 @@ numero_pregunta: 8
 tema:
   - "La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos"
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/La novela española posterior a la Guerra Civil Delibes, Cela, Laforet y Martín Santos|La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos]]"
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

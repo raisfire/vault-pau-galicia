@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "DESTREZAS BÁSICAS DE LA QUÍMICA"
   - "REACCIONES QUÍMICAS"
+tema_wikilinks:
+  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Diseñe un aparato para determinar, de forma aproximada, la entalpía de la reacción de neutralización del HCl con el NaOH en las condiciones del supuesto vertido, a 25°C. Para llevar a cabo el diseño d"

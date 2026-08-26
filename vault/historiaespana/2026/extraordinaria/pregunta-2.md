@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado"
   - "24. El franquismo: las formas de oposición al Régimen"
+tema_wikilinks:
+  - "[[historiaespana/_temas/13. La restauración de Fernando VII y del absolutismo las etapas del reinado|13. La restauración de Fernando VII y del absolutismo: las etapas del reinado]]"
+  - "[[historiaespana/_temas/24. El franquismo las formas de oposición al Régimen|24. El franquismo: las formas de oposición al Régimen]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Compare las características del Sexenio Absolutista y del Trienio Liberal del reinado de Fernando VII. (2,5 puntos)"

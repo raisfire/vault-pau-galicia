@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
   - "Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez"
+tema_wikilinks:
+  - "[[castelan/_temas/Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez|Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

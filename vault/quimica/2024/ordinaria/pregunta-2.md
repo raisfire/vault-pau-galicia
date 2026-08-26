@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+tema_wikilinks:
+  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

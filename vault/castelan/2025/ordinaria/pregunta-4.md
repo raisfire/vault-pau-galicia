@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán"
   - "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+tema_wikilinks:
+  - "[[castelan/_temas/El teatro español anterior a la Guerra Civil Lorca y Valle-Inclán|El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán]]"
+  - "[[castelan/_temas/La narrativa peninsular desde 1975 Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero|La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o a su etapa. Desarrolle, además, uno de los siguientes temas: “Trayectoria dramática de Valle-Inclán” o “Teatro español anterior a la Guerra Civil” (2 puntos) MAX.–Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo pue"

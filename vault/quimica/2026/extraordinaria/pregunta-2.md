@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "REACCIONES QUÍMICAS"
+tema_wikilinks:
+  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Calcule los moles de cada especie en el equilibrio final. (1 punto)"

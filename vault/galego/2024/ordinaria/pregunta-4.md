@@ -8,6 +8,10 @@ tema:
   - "Os prexuízos e estereotipos lingüísticos"
   - "As variedades dialectais do galego"
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
+tema_wikilinks:
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
+  - "[[galego/_temas/As variedades dialectais do galego|As variedades dialectais do galego]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Analice esta viñeta e explique por que existen diferentes actitudes na aprendizaxe segundo as linguas e cal é o papel dos neofalantes na normalización da lingua galega. *Extensión aproximada: 250 palabras. (2,5 puntos)"

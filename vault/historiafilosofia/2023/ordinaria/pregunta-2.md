@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “El problema Razón/Fe en la Filosofía Medieval”. (6 puntos: 3 para el comentario y 3 para la cuestión) Aunque la citada verdad de la fe cristiana exceda la capacidad de la razón humana, no por eso las verdades racionales son contrarias a las verdades de fe. Lo naturalmente innato en la razón es tan verdadero, q"

@@ -8,6 +8,10 @@ tema:
   - "Clases de palabras"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Fonética e fonoloxía da lingua galega"
+tema_wikilinks:
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Sinale a que clase de palabra pertence cada unha das que conforman o seguinte enunciado do texto: “Dezanove anos despois, teño a sensación de que a memoria da catástrofe foi borrada”. (1 punto)"

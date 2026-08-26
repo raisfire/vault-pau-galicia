@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Calcule la probabilidad de que un asistente pase entre 45 y 70 minutos en la feria."

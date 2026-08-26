@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

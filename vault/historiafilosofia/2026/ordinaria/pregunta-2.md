@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "2. Platón: ética y política"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "3 puntos"
 apartados:
   - "2.1. Teniendo en cuenta afirmaciones como: «La práctica de la justicia es en sí misma lo mejor para el alma considerada en su esencia» o «La justicia consiste en hacer lo que es propio de cada uno», explique el problema fundamental en la cuestión: «Platón: ética y política». (3 puntos)"

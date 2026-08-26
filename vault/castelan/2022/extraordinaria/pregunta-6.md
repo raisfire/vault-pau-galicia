@@ -7,6 +7,9 @@ numero_pregunta: 6
 tema:
   - "El lector de Julio Verne (Almudena Grandes)"
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/El lector de Julio Verne (Almudena Grandes)|El lector de Julio Verne (Almudena Grandes)]]"
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

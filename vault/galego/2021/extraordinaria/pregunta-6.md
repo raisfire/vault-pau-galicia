@@ -7,6 +7,9 @@ numero_pregunta: 6
 tema:
   - "A literatura galega entre 1936 e 1975"
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "6.1. O teatro galego entre 1936 e 1975: a Xeración dos 50 e o Grupo de Ribadavia.(Extensión aprox. 400 palabras) (2,5 puntos)"

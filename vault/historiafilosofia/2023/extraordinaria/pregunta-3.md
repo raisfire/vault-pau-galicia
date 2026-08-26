@@ -8,6 +8,10 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "2. Platón: ética y política"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “El liberalismo político de Locke”. (6 puntos: 3 para el comentario y 3 para la cuestión) § 6. Pero, aunque ese estado natural sea un estado de libertad, no lo es de licencia; aunque el hombre tenga en semejante estado una libertad sin límites para disponer de su propia persona y de sus propiedades, esa liberta"

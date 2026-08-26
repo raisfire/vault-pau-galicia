@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "QUÍMICA ORGÁNICA"
+tema_wikilinks:
+  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

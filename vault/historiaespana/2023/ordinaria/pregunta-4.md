@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "32. La Transición y la consolidación de la democracia"
+tema_wikilinks:
+  - "[[historiaespana/_temas/32. La Transición y la consolidación de la democracia|32. La Transición y la consolidación de la democracia]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

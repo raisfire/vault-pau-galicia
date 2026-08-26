@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "Crónica de una muerte anunciada (Gabriel García Márquez)"
+tema_wikilinks:
+  - "[[castelan/_temas/Crónica de una muerte anunciada (Gabriel García Márquez)|Crónica de una muerte anunciada (Gabriel García Márquez)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

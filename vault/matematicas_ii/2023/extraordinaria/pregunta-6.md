@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcular la distancia de 𝜋 al punto de corte de las rectas 𝑟1: { 𝑥= 2 + 𝜆, 𝑦= 0, 𝑧= −1 −𝜆 y 𝑟2: { 𝑥= 𝜇, 𝑦= −1 + 𝜇, 𝑧= 0, (𝜆, 𝜇∈ℝ)."

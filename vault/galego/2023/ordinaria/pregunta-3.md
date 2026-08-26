@@ -10,6 +10,12 @@ tema:
   - "Relacións entre estruturas sintácticas"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
   - "Formas verbais e perífrases"
+tema_wikilinks:
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Relacións entre estruturas sintácticas|Relacións entre estruturas sintácticas]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
+  - "[[galego/_temas/Formas verbais e perífrases|Formas verbais e perífrases]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Analice morfolóxica e sintacticamente as catro formas que subliñadas no texto. Copie e identifique o tipo de cláusula ou oración que cada unha delas introduce. (1 punto)"

@@ -8,6 +8,10 @@ tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "Os prexuízos e estereotipos lingüísticos"
   - "A literatura galega no primeiro terzo do século XX (1916-1936)"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "6.1. Historia da normativización: a construción da variedade estándar, interferencias e desviacións da norma. (Extensión aproximada 200-250 palabras) (2 puntos)"

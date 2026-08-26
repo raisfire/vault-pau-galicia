@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. ¿Cuál es la probabilidad de que Antón vaya calzado con zapatillas tradicionales o zapatillas en buen estado?"

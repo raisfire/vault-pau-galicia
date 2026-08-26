@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "3. La crisis del siglo XVII: aspectos socioeconómicos y políticos"
   - "6. El cambio dinástico y la guerra de Sucesión"
+tema_wikilinks:
+  - "[[historiaespana/_temas/3. La crisis del siglo XVII aspectos socioeconómicos y políticos|3. La crisis del siglo XVII: aspectos socioeconómicos y políticos]]"
+  - "[[historiaespana/_temas/6. El cambio dinástico y la guerra de Sucesión|6. El cambio dinástico y la guerra de Sucesión]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Aula Regia, 2. Marca Hispánica, 3. Valido, 4. Motín de Esquilache, 5. Tratado de Valençay, 6. Estatuto Real, 7. FAI, "

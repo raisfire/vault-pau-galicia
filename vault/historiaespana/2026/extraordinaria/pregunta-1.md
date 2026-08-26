@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "8. El reformismo borbónico en Galicia"
+tema_wikilinks:
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
 puntuacion: "2.5 puntos"
 apartados: []
 ley_educativa: LOMLOE

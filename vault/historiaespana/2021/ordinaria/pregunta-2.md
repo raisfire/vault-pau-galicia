@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "15. La Revolución Gloriosa y la Constitución de 1869"
+tema_wikilinks:
+  - "[[historiaespana/_temas/15. La Revolución Gloriosa y la Constitución de 1869|15. La Revolución Gloriosa y la Constitución de 1869]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

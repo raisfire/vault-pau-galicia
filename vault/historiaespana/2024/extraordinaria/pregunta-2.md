@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado"
+tema_wikilinks:
+  - "[[historiaespana/_temas/13. La restauración de Fernando VII y del absolutismo las etapas del reinado|13. La restauración de Fernando VII y del absolutismo: las etapas del reinado]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

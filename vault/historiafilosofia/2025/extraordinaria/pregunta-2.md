@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "4 puntos"
 apartados:
   - "2.1. Lea detenidamente este texto referido a «Cosmos, realidad y conocimiento en Platón (del mito al logos)». Elabore un comentario filosófico explicando su contexto, tema central, ideas principales y conceptos clave. (4 puntos) —Toma ahora una línea dividida en dos partes desiguales; divide nuevamente cada sección según la misma proporción, la del género de lo que se ve y otra la del que se intel"

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "6. El liberalismo político y contractualismo de Locke"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMLOE

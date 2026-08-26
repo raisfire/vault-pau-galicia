@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "0,5 puntos"
 apartados:
   - "1.1. Explique brevemente a intención do autor ao escribir este artigo. (0,5 puntos)"

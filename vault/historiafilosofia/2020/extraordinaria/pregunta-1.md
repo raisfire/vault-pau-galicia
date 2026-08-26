@@ -10,6 +10,12 @@ tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Platón: antropología y política”. (6 puntos: 3 para el comentario y 3 para la cuestión) Sobre la inmortalidad, baste ya con lo dicho. Pero sobre su idea hay que añadir lo siguiente: Cómo es el alma, requeriría toda una larga y divina explicación; pero decir a qué se parece, es ya asunto humano y, por supuesto,"

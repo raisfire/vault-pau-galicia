@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "LA BASE MOLECULAR DE LA MATERIA VIVA"
   - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. A partir de la información del texto, indique la función de los microARN y señale dos posibles consecuencias de su regulación anómala."

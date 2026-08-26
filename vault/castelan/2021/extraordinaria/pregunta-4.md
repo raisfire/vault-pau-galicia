@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

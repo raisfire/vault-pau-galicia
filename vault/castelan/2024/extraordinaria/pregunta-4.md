@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Subordine en cada caso la segunda oración a la primera utilizando el relativo posesivo cuyo / cuya / cuyos / cuyas: (1 punto) Juan no ha venido a verme en todo el invierno. Su hermano estudia conmigo. Esa novela acaba de ganar el premio Planeta. Estuvimos hablando de su autor ayer."

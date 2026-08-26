@@ -8,6 +8,10 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "3. Física y Metafísica en Aristóteles"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desenvuelva la cuestión: “Hume: crítica de las ideas de sustancia y causalidad”. (6 puntos: 3 para el comentario y 3 para la cuestión) La idea de sustancia deberá derivarse, entonces, de una impresión de reflexión, si es que realmente existe. Pero las impresiones de reflexión se reducen a nuestras pasiones y emociones, y no parece pos"

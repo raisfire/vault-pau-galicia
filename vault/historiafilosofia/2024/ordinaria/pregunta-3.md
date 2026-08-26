@@ -8,6 +8,10 @@ tema:
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "2. Platón: ética y política"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Los límites del conocimiento en Kant”. (6 puntos) No hay duda alguna de que todo nuestro conocimiento comienza con la experiencia. Pues ¿cómo podría ser despertada a actuar la facultad de conocer sino mediante objetos que afectan a nuestros sentidos y que ora producen por sí mismos representaciones, ora ponen "

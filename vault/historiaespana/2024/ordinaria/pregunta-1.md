@@ -10,6 +10,12 @@ tema:
   - "7. Los Decretos de Nueva Planta y sus efectos"
   - "8. El reformismo borbónico en Galicia"
   - "9. La Ilustración en España"
+tema_wikilinks:
+  - "[[historiaespana/_temas/1. La nueva monarquía de los Reyes Católicos|1. La nueva monarquía de los Reyes Católicos]]"
+  - "[[historiaespana/_temas/3. La crisis del siglo XVII aspectos socioeconómicos y políticos|3. La crisis del siglo XVII: aspectos socioeconómicos y políticos]]"
+  - "[[historiaespana/_temas/7. Los Decretos de Nueva Planta y sus efectos|7. Los Decretos de Nueva Planta y sus efectos]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
+  - "[[historiaespana/_temas/9. La Ilustración en España|9. La Ilustración en España]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (2 puntos) 1. Converso, 2. Decretos de Nueva Planta, 3. Afrancesados, 4. Estatuto Real, 5. Unión Liberal, 6. Semana Trágica, 7. Frente Popular, 8. C"

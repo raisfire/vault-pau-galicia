@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "La novela de la generación del 98: Baroja, Unamuno y Azorín"
   - "Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez"
+tema_wikilinks:
+  - "[[castelan/_temas/La novela de la generación del 98 Baroja, Unamuno y Azorín|La novela de la generación del 98: Baroja, Unamuno y Azorín]]"
+  - "[[castelan/_temas/Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez|Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o a su movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Unamuno” o “La novela de la generación del 98”. (2 puntos) —¿Conque no, eh? —me dijo—, ¿conque no? No quiere usted dejarme ser yo, salir de la niebla, vivir, vivir, vivir, verme, oírme, t"

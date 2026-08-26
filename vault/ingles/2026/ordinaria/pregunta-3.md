@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "Vocabulario"
+tema_wikilinks:
+  - "[[ingles/_temas/Vocabulario|Vocabulario]]"
 tema_fuente: palabras_clave
 puntuacion: "2 puntos"
 apartados: []

@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Considérese el plano 𝜋: 4𝑥+ 2𝑦+ b𝑧= 2 y la recta 𝑟: 𝑥−2 3 = 𝑦−𝑐 2 = 𝑧−3 4 , donde 𝑏 y 𝑐 son parámetros reales. Calcule los valores que tienen que tomar 𝑏 y 𝑐 para que la recta 𝑟 esté con"

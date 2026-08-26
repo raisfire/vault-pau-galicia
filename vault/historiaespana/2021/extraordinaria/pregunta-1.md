@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "1. La nueva monarquía de los Reyes Católicos"
   - "4. Economía y sociedad en Galicia bajo los Austrias"
+tema_wikilinks:
+  - "[[historiaespana/_temas/1. La nueva monarquía de los Reyes Católicos|1. La nueva monarquía de los Reyes Católicos]]"
+  - "[[historiaespana/_temas/4. Economía y sociedad en Galicia bajo los Austrias|4. Economía y sociedad en Galicia bajo los Austrias]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Guerras cántabras, 2. Mozárabe, 3. Gran Armada, 4. Motín de Esquilache, 5. Pronunciamiento, 6. Encasillado, 7. Desast"

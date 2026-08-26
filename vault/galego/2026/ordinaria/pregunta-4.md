@@ -8,6 +8,10 @@ tema:
   - "Comunicación"
   - "A literatura galega entre 1936 e 1975"
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "? puntos"
 apartados:
   - "4.1. Este texto de Xosé Neira Vilas (Vila de Cruces, 1928-2015) pertence ao libro Lar (1973). Relacione o texto, brevemente, co conxunto da escrita do autor e coa narrativa do seu tempo. Indique o tema central do relato, describa a caracterización que nel se fai da figura do galo e explique a estrutura da narración. Xustifique as respostas axudándose de exemplos tirados do texto. Extensión aproxim"

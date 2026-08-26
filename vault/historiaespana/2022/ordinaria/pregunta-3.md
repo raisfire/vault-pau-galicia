@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "19. La crisis de la Restauración"
+tema_wikilinks:
+  - "[[historiaespana/_temas/19. La crisis de la Restauración|19. La crisis de la Restauración]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

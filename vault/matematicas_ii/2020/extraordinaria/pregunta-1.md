@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Despejar X suponiendo que A (y por tanto A²) es invertible, y decir cuáles serían las dimensiones de X y de B si A tuviera dimensión 4 × 4 y B tuviera 3 columnas."

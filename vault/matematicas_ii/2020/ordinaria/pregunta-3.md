@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule lim 𝑥→0 cos2𝑥−1 1+2𝑥−e2𝑥."

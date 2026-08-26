@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
   - "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS|SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS]]"
 puntuacion: "2 puntos"
 apartados:
   - "5.1. Impedancia total del circuito."

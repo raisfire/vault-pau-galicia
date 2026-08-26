@@ -8,6 +8,10 @@ tema:
   - "17. La Restauración"
   - "19. La crisis de la Restauración"
   - "14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas"
+tema_wikilinks:
+  - "[[historiaespana/_temas/17. La Restauración|17. La Restauración]]"
+  - "[[historiaespana/_temas/19. La crisis de la Restauración|19. La crisis de la Restauración]]"
+  - "[[historiaespana/_temas/14. La construcción del Estado liberal principios del liberalismo y diferencias entre familias políticas|14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

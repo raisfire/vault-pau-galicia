@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Dadas las matrices 𝐴= ( 1 2 0 2 4 1 1 1 𝑘 ) y 𝐵= ( 0 1 0 1 0 0 0 0 1 ) . 2.1.1. ¿Qué condición tiene que cumplir 𝑘 para que 𝐴 sea invertible? Calcule 𝐴−1 cuando sea posible. 2.1.2. Para 𝑘= 0, calcule "

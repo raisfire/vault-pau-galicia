@@ -9,6 +9,11 @@ tema:
   - "Formas verbales y perífrasis verbales"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+tema_wikilinks:
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: ellas (l. 1), estas (l. 7), lo (l. 11), que (l. 16), lo (l. 18). Señale, cuando corresponda, el referente intratextual de la palabra. (1,25 puntos)"

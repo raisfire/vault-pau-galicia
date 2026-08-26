@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "SISTEMAS MECÁNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS MECÁNICOS|SISTEMAS MECÁNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "1.1. Calcule las reacciones en los apoyos de la viga (0,5 puntos)"

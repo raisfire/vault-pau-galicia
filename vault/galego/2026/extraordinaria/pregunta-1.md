@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "? puntos"
 apartados:
   - "1.1. Realice un resumo do texto destacando nel as ideas principais. Evite parafrasear o texto. Extensión aproximada: 60 palabras. (1,25 puntos)."

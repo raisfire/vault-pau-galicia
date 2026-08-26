@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
   - "A literatura galega entre 1936 e 1975"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "5.1. A poesía entre 1936 e 1975: a Xeración do 36, a Promoción de Enlace, a Xeración das Festas Minervais. (Extensión aprox. 400 palabras) (2,5 puntos)"

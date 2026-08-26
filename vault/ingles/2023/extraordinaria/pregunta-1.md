@@ -8,6 +8,10 @@ tema:
   - "Comprensión lectora"
   - "Gramática y transformación de frases"
   - "Pronunciación"
+tema_wikilinks:
+  - "[[ingles/_temas/Comprensión lectora|Comprensión lectora]]"
+  - "[[ingles/_temas/Gramática y transformación de frases|Gramática y transformación de frases]]"
+  - "[[ingles/_temas/Pronunciación|Pronunciación]]"
 tema_fuente: palabras_clave
 puntuacion: "5 puntos"
 apartados:

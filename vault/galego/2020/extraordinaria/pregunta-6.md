@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "6.1. Historia da normativización: a construción da variedade estándar, interferencias e desviacións da norma. (Extensión aprox. 200-250 palabras) (2 puntos)"

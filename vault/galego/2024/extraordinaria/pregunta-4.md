@@ -8,6 +8,10 @@ tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "As variedades dialectais do galego"
   - "Os prexuízos e estereotipos lingüísticos"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/As variedades dialectais do galego|As variedades dialectais do galego]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. A partir da campaña #aquítaménsefala, reflexiona sobre as medidas de normalización lingüística: son necesarias? Para que serven? Exemplifica o teu comentario concretamente no eido do deporte. (Extensión aprox. 250 palabras). (2,5 puntos)"

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

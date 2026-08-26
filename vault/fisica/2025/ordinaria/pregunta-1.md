@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "INTERACCIÓN GRAVITACIONAL"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Responda estos tres apartados. (1 punto) 1. Dibuje un esquema de la órbita del satélite, indicando la dirección y el sentido de la fuerza gravitatoria que experimenta el satélite. 2. Calcule la acelera"

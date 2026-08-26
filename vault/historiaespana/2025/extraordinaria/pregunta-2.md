@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "17. La Restauración"
   - "24. El franquismo: las formas de oposición al Régimen"
+tema_wikilinks:
+  - "[[historiaespana/_temas/17. La Restauración|17. La Restauración]]"
+  - "[[historiaespana/_temas/24. El franquismo las formas de oposición al Régimen|24. El franquismo: las formas de oposición al Régimen]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Compare las características de los partidos Conservador y Liberal durante la Restauración. (2,5 puntos)"

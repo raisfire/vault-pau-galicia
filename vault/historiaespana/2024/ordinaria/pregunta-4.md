@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "29. Las grandes reformas de la II República"
   - "25. La reforma agraria liberal: las desamortizaciones"
+tema_wikilinks:
+  - "[[historiaespana/_temas/29. Las grandes reformas de la II República|29. Las grandes reformas de la II República]]"
+  - "[[historiaespana/_temas/25. La reforma agraria liberal las desamortizaciones|25. La reforma agraria liberal: las desamortizaciones]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

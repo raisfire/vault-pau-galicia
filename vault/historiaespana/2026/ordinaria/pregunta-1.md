@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "10. El papel de la mujer en la Edad Moderna"
+tema_wikilinks:
+  - "[[historiaespana/_temas/10. El papel de la mujer en la Edad Moderna|10. El papel de la mujer en la Edad Moderna]]"
 puntuacion: "2.5 puntos"
 apartados: []
 ley_educativa: LOMLOE

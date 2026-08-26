@@ -9,6 +9,11 @@ tema:
   - "Clases de sintagmas o frases y sus constituyentes"
   - "Funciones sintácticas primarias de la cláusula u oración"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+tema_wikilinks:
+  - "[[castelan/_temas/Creación de palabras composición, derivación, parasíntesis y acronimia|Creación de palabras: composición, derivación, parasíntesis y acronimia]]"
+  - "[[castelan/_temas/Clases de sintagmas o frases y sus constituyentes|Clases de sintagmas o frases y sus constituyentes]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Escriba, además de los derivados de negar que aparecen en el texto, tres más. En cada caso, señale el significado que aporta el afijo o los afijos correspondientes. (1 punto)"

@@ -8,6 +8,10 @@ tema:
   - "26. Los principales sectores industriales y el papel del ferrocarril"
   - "28. La evolución de la sociedad en el siglo XIX (con especial atención a la situación de la mujer)"
   - "34. Evolución y cambios en la España actual"
+tema_wikilinks:
+  - "[[historiaespana/_temas/26. Los principales sectores industriales y el papel del ferrocarril|26. Los principales sectores industriales y el papel del ferrocarril]]"
+  - "[[historiaespana/_temas/28. La evolución de la sociedad en el siglo XIX (con especial atención a la situación de la mujer)|28. La evolución de la sociedad en el siglo XIX (con especial atención a la situación de la mujer)]]"
+  - "[[historiaespana/_temas/34. Evolución y cambios en la España actual|34. Evolución y cambios en la España actual]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Valores de las exportaciones mineras y metalúrgicas españolas (en miles de pesetas) (2,5 puntos) Período Total de exportaciones Exportaciones mineras y metalúrgicas % del total 1849-1858 2.081.63"

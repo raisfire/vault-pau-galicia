@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "24. El franquismo: las formas de oposición al Régimen"
+tema_wikilinks:
+  - "[[historiaespana/_temas/24. El franquismo las formas de oposición al Régimen|24. El franquismo: las formas de oposición al Régimen]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

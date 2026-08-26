@@ -8,6 +8,10 @@ tema:
   - "Formas verbais e perífrases"
   - "Clases de palabras"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Formas verbais e perífrases|Formas verbais e perífrases]]"
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Indique se os catro infinitivos indicados en letra grosa poden ser conxugados e explique por que; en caso positivo, escriba a oración resultante. (1 punto)"

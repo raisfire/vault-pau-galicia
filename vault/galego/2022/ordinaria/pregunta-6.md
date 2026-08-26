@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 6
 tema:
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

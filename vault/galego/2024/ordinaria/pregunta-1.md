@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "0,5 puntos"
 apartados:
   - "1.1. Indique o tema do texto en dúas liñas como máximo. (0,5 puntos)"

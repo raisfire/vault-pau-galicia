@@ -8,6 +8,10 @@ tema:
   - "Comunicación"
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "As variedades dialectais do galego"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/As variedades dialectais do galego|As variedades dialectais do galego]]"
 puntuacion: "? puntos"
 apartados:
   - "3.1. A partir do escrito de Fernando Ramallo, redacte un texto de opinión centrado na importancia da variedade estándar para calquera lingua e, en particular, para o galego. O texto deberá contar con: breve introdución, corpo de argumentación (dous argumentos como mínimo) e conclusión. Extensión aproximada: 200 palabras. (2 puntos)."

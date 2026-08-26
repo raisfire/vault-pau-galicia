@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Formas verbales y perífrasis verbales"
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+tema_wikilinks:
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Clasifique las siguientes formas verbales del texto (cayesen, volverá, fortaleció, había ensayado, bastaba), indicando su tiempo, modo y aspecto. Señale con qué valor se usan en el texto. (1 punto)"

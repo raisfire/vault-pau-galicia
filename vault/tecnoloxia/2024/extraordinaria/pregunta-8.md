@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
   - "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL|PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. Determinar, aplicando el método de Routh, si el sistema es estable."

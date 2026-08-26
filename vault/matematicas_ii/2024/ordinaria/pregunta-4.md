@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) lim 𝑥→0 sin 𝑥−ln(1+𝑥) 𝑥sin 𝑥 ."

@@ -8,6 +8,10 @@ tema:
   - "Romancero gitano (Federico García Lorca)"
   - "La Fundación (Antonio Buero Vallejo)"
   - "Detección y corrección de errores o estructuras agramaticales"
+tema_wikilinks:
+  - "[[castelan/_temas/Romancero gitano (Federico García Lorca)|Romancero gitano (Federico García Lorca)]]"
+  - "[[castelan/_temas/La Fundación (Antonio Buero Vallejo)|La Fundación (Antonio Buero Vallejo)]]"
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Explique los temas del Romancero gitano que se aprecian en el siguiente fragmento, que deberá localizar en la estructura de la obra: (2 puntos) En la mitad del barranco se sube por las paredes. las navajas de Albacete, Ángeles negros traían bellas de sangre contraria, pañuelos y agua de nieve. relucen como los peces. Ángeles con grandes alas Una dura luz de naipe de navajas de Albacete. recor"

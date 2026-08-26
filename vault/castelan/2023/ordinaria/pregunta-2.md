@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

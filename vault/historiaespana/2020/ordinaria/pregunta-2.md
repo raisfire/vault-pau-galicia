@@ -9,6 +9,11 @@ tema:
   - "12. Las Cortes de Cádiz y la Constitución de 1812"
   - "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado"
   - "14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas"
+tema_wikilinks:
+  - "[[historiaespana/_temas/11. La crisis de la monarquía absoluta abdicaciones y ocupación napoleónica|11. La crisis de la monarquía absoluta: abdicaciones y ocupación napoleónica]]"
+  - "[[historiaespana/_temas/12. Las Cortes de Cádiz y la Constitución de 1812|12. Las Cortes de Cádiz y la Constitución de 1812]]"
+  - "[[historiaespana/_temas/13. La restauración de Fernando VII y del absolutismo las etapas del reinado|13. La restauración de Fernando VII y del absolutismo: las etapas del reinado]]"
+  - "[[historiaespana/_temas/14. La construcción del Estado liberal principios del liberalismo y diferencias entre familias políticas|14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

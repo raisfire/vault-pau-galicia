@@ -8,6 +8,10 @@ tema:
   - "2. La configuración del imperio español en el siglo XVI"
   - "6. El cambio dinástico y la guerra de Sucesión"
   - "8. El reformismo borbónico en Galicia"
+tema_wikilinks:
+  - "[[historiaespana/_temas/2. La configuración del imperio español en el siglo XVI|2. La configuración del imperio español en el siglo XVI]]"
+  - "[[historiaespana/_temas/6. El cambio dinástico y la guerra de Sucesión|6. El cambio dinástico y la guerra de Sucesión]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Economía predadora, 2. Carta de poblamiento, 3. Converso, 4. Paz de Utrecht, 5. Abdicaciones de Bayona, 6. Caciquismo"

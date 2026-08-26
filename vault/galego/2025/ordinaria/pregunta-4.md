@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Comunicación"
   - "A literatura galega entre 1936 e 1975"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
 puntuacion: "? puntos"
 apartados:
   - "4.1. Este texto de Alfonso Daniel Rodríguez Castelao pertence ao libro Retrincos (1934). Relacione o relato, sucintamente, coa restante obra do autor e coa narrativa da Época Nós. Indique o tema principal e xustifíqueo a partir de exemplos tirados do texto. Analice, brevemente, a estrutura do relato e a caracterización dos dous personaxes principais. Extensión aproximada: 200 palabras. (2 puntos)."

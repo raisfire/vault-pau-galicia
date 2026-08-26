@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
   - "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL|PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1. Obtenga la función de transferencia Z=f(X)."

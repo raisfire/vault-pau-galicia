@@ -7,6 +7,9 @@ numero_pregunta: 5
 tema:
   - "A literatura galega no primeiro terzo do século XX (1916-1936)"
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

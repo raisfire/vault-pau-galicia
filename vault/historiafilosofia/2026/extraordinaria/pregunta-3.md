@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/12. El desarrollo contemporáneo del feminismo Simone de Beauvoir|12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMLOE

@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
+tema_wikilinks:
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Localice no texto dúas palabras que pertenzan a un mesmo campo semántico. Indique o seu hiperónimo e engada dous termos máis dese mesmo campo. (1 punto)"

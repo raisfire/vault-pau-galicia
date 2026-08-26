@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 6
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule el punto simétrico de 𝑃(2, −1,0) con respecto al plano 𝜋: 𝑥+ 𝑧+ 2 = 0."

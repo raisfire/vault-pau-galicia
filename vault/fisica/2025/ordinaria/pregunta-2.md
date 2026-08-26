@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Indique y justifique la respuesta correcta. (1 punto) Abandonamos en reposo un electrón en una región del espacio en la que hay un campo magnético y otro eléctrico, ambos estacionarios, uniformes y pa"

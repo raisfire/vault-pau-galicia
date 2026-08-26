@@ -9,6 +9,11 @@ tema:
   - "7. Los Decretos de Nueva Planta y sus efectos"
   - "8. El reformismo borbónico en Galicia"
   - "9. La Ilustración en España"
+tema_wikilinks:
+  - "[[historiaespana/_temas/4. Economía y sociedad en Galicia bajo los Austrias|4. Economía y sociedad en Galicia bajo los Austrias]]"
+  - "[[historiaespana/_temas/7. Los Decretos de Nueva Planta y sus efectos|7. Los Decretos de Nueva Planta y sus efectos]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
+  - "[[historiaespana/_temas/9. La Ilustración en España|9. La Ilustración en España]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Bárbaros, 2. Mesta, 3. Juntas del Reino de Galicia, 4. Despotismo Ilustrado, 5. Manifiesto de los Persas, 6. Pronunci"

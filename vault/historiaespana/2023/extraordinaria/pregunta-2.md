@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "11. La crisis de la monarquía absoluta: abdicaciones y ocupación napoleónica"
+tema_wikilinks:
+  - "[[historiaespana/_temas/11. La crisis de la monarquía absoluta abdicaciones y ocupación napoleónica|11. La crisis de la monarquía absoluta: abdicaciones y ocupación napoleónica]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "VIBRACIÓNS E ONDAS"
   - "ÓPTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
+  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Indique y justifique la respuesta correcta. (1 punto) Para obtener una imagen virtual y derecha con una lente delgada convergente de potencia 10 D, el objecto debe estar colocado, con respecto a la le"

@@ -8,6 +8,10 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "3. Física y Metafísica en Aristóteles"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "4.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Hume: crítica de las ideas de substancia y causalidad”. (6 puntos) Y, de este modo, se supone constantemente que hay alguna conexión entre el hecho presente y ese que se deduce de él. Si no hubiera nada que los relacionase, la inferencia sería del todo inexacta. (…) Si analizamos todos los restantes razonamien"

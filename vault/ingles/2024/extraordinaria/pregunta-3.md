@@ -8,6 +8,10 @@ tema:
   - "Gramática y transformación de frases"
   - "Pronunciación"
   - "Writing / Composición"
+tema_wikilinks:
+  - "[[ingles/_temas/Gramática y transformación de frases|Gramática y transformación de frases]]"
+  - "[[ingles/_temas/Pronunciación|Pronunciación]]"
+  - "[[ingles/_temas/Writing Composición|Writing / Composición]]"
 tema_fuente: palabras_clave
 puntuacion: "5 puntos"
 apartados:

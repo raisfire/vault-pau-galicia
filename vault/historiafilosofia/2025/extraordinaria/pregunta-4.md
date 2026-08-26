@@ -8,6 +8,10 @@ tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "9. Ilustración: los límites del conocimiento en Kant"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
 puntuacion: "1 puntos"
 apartados:
   - "4.1. Discrimine en dos columnas los siguientes términos, atendiendo a los sistemas filosóficos que refieren: (0,5 puntos) res cogitans / Empirismo / experiencia / método / causalidad / Racionalismo / evidencia."

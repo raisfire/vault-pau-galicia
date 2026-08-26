@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
   - "La narrativa hispanoamericana de la segunda mitad del siglo XX: Borges, Cortázar, García Márquez y Vargas Llosa"
+tema_wikilinks:
+  - "[[castelan/_temas/La narrativa hispanoamericana de la segunda mitad del siglo XX Borges, Cortázar, García Márquez y Vargas Llosa|La narrativa hispanoamericana de la segunda mitad del siglo XX: Borges, Cortázar, García Márquez y Vargas Llosa]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

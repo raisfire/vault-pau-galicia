@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
   - "El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán"
+tema_wikilinks:
+  - "[[castelan/_temas/El teatro español anterior a la Guerra Civil Lorca y Valle-Inclán|El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Responda a las dos cuestiones siguientes: 2.1.1. Si A=(2 5; 2 −1), halle α,β∈ℝ tales que A²+αA+βI=0, donde I y 0 son las matrices identidad y cero, respectivamente. 2.1.2. Calcule la matriz cuadrada X tal que XA=B, si A=(1 0; 1 1) y B=(2 1; 1 1). ¿Son iguales XA y AX?"

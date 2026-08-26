@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "23. El franquismo: características e institucionalización"
+tema_wikilinks:
+  - "[[historiaespana/_temas/23. El franquismo características e institucionalización|23. El franquismo: características e institucionalización]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -9,6 +9,11 @@ tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "7. La ética formal en Kant: el imperativo categórico"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/7. La ética formal en Kant el imperativo categórico|7. La ética formal en Kant: el imperativo categórico]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Platón: antropología y política”. (6 puntos: 3 para el comentario y 3 para la cuestión) -Bien, hemos observado ya tres cualidades en el Estado; al menos así creo. En cuanto a la especie que queda para que el Estado alcance la excelencia, ¿cuál podría ser? La justicia, evidentemente. - (…) -Y que la justicia co"

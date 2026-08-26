@@ -10,6 +10,12 @@ tema:
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Fonética e fonoloxía da lingua galega|Fonética e fonoloxía da lingua galega]]"
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "? puntos"
 apartados:
   - "2.1. Indique se a vogal tónica das seguintes palabras, destacadas en letra grosa no texto, é unha vogal media semiaberta ou semipechada: reto, mulleres, acoso, novas, nenas. (1 punto)."

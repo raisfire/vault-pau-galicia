@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "Os prexuízos e estereotipos lingüísticos"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Explique o cambio que supuxo para a lingua galega a aprobación do Estatuto de Autonomía, a partir dos dous primeiros puntos do seu artigo 5: “5.1. A lingua propia de Galicia é o galego. 5.2. Os idiomas galego e castelán son oficiais en Galicia e todos teñen o dereito de os coñecer e de os usar”. Indique dúas conse- cuencias prácticas da aplicación deste artigo. (Extensión aprox. 250 palabras)"

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
   - "La Fundación (Antonio Buero Vallejo)"
+tema_wikilinks:
+  - "[[castelan/_temas/La Fundación (Antonio Buero Vallejo)|La Fundación (Antonio Buero Vallejo)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

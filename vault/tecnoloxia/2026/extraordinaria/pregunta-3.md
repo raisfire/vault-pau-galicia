@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "SISTEMAS MECÁNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS MECÁNICOS|SISTEMAS MECÁNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Calcular la fuerza teórica y la fuerza real que ejerce el cilindro durante la carrera de avance (0,75 puntos)"

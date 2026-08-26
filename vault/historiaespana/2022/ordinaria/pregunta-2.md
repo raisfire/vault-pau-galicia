@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "26. Los principales sectores industriales y el papel del ferrocarril"
+tema_wikilinks:
+  - "[[historiaespana/_temas/26. Los principales sectores industriales y el papel del ferrocarril|26. Los principales sectores industriales y el papel del ferrocarril]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

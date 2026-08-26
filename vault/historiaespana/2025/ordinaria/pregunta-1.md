@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "2. La configuración del imperio español en el siglo XVI"
+tema_wikilinks:
+  - "[[historiaespana/_temas/2. La configuración del imperio español en el siglo XVI|2. La configuración del imperio español en el siglo XVI]]"
 puntuacion: "2.5 puntos"
 apartados: []
 ley_educativa: LOMLOE

@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "Os prexuízos e estereotipos lingüísticos"
+tema_wikilinks:
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. O galego a finais do século XX e comezos do XXI: características lingüísticas fun- damentais, contexto histórico e situación sociolingüística. (Extensión aprox. 200- 250 palabras) (2,5 puntos)"

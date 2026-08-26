@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "Comprensión lectora"
+tema_wikilinks:
+  - "[[ingles/_temas/Comprensión lectora|Comprensión lectora]]"
 tema_fuente: palabras_clave
 puntuacion: "2.5 puntos"
 apartados:

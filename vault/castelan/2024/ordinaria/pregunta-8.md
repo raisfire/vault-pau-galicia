@@ -7,6 +7,9 @@ numero_pregunta: 8
 tema:
   - "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil|Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil]]"
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

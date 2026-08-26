@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "MATERIALES Y FABRICACIÓN"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/MATERIALES Y FABRICACIÓN|MATERIALES Y FABRICACIÓN]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Calcular la tensión normal de trabajo en el alambre, expresada en MPa (0,5 puntos)"

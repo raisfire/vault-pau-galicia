@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "A literatura galega no primeiro terzo do século XX (1916-1936)"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "5.1. A poesía das Irmandades da Fala. Características, autores e obras representati- vas. (Extensión aprox. 400 palabras) (2,5 puntos)"

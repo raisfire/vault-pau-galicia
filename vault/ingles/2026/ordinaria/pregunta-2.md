@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "Gramática y transformación de frases"
   - "Pronunciación"
+tema_wikilinks:
+  - "[[ingles/_temas/Gramática y transformación de frases|Gramática y transformación de frases]]"
+  - "[[ingles/_temas/Pronunciación|Pronunciación]]"
 tema_fuente: palabras_clave
 puntuacion: "2.5 puntos"
 apartados:

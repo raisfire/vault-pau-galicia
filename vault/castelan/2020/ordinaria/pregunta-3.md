@@ -9,6 +9,11 @@ tema:
   - "Clases de sintagmas o frases y sus constituyentes"
   - "Funciones sintácticas primarias de la cláusula u oración"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+tema_wikilinks:
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Clases de sintagmas o frases y sus constituyentes|Clases de sintagmas o frases y sus constituyentes]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Identifique el tipo de unidad de las palabras y construcciones en negrita del texto. En el caso de pronombres, indique su referente (el caso de la niña Inés, que, de que sus hijos estarán atendidos, el momento de la verdad, la). Señale la función sintáctica que desempeñan. (1 punto)"

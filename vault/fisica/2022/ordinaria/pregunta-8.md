@@ -7,6 +7,9 @@ numero_pregunta: 8
 tema:
   - "VIBRACIÓNS E ONDAS"
   - "ÓPTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
+  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

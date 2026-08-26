@@ -9,6 +9,11 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Ética y política en Aristóteles”. (6 puntos: 3 para el comentario y 3 para la cuestión) Y, claro, dado que la virtud es doble -una intelectual (dianoética) y otra moral (ética)-, la intelectual toma su origen e incremento del aprendizaje en su mayor parte, por lo que necesita experiencia y tiempo; la moral, en"

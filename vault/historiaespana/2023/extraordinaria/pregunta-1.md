@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "4. Economía y sociedad en Galicia bajo los Austrias"
+tema_wikilinks:
+  - "[[historiaespana/_temas/4. Economía y sociedad en Galicia bajo los Austrias|4. Economía y sociedad en Galicia bajo los Austrias]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Aula Regia, 2. Taifas, 3. Valido, 4. Catastro de Ensenada, 5. Unión Liberal, 6. Caciquismo, 7. Semana Trágica, 8. Nac"

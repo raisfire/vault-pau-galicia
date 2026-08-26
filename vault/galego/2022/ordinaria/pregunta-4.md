@@ -9,6 +9,11 @@ tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "Os prexuízos e estereotipos lingüísticos"
   - "A literatura galega entre 1936 e 1975"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Explique a situación que denuncia Marilar Aleixandre no seguinte artigo, empregando os conceptos téc- nicos de normalización e axentes de transmisión lingüística. Sinale dúas posibles medidas de normalización que poidan contribuír á súa superación. (Extensión aprox. 250 palabras) (2,5 puntos) Nestes días fíxose viral un vídeo no que Moraima ten unha conversa con Siri a través da tableta. A ne"

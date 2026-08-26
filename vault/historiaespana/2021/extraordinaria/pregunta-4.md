@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "32. La Transición y la consolidación de la democracia"
   - "33. España en Europa y en el mundo"
+tema_wikilinks:
+  - "[[historiaespana/_temas/32. La Transición y la consolidación de la democracia|32. La Transición y la consolidación de la democracia]]"
+  - "[[historiaespana/_temas/33. España en Europa y en el mundo|33. España en Europa y en el mundo]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

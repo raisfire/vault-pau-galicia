@@ -8,6 +8,10 @@ tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Descartes: el problema del método y la evidencia del cogito”. (6 puntos) Así que es mucho más acertado no pensar jamás en buscar la verdad de las cosas que hacerlo sin método: pues es segurísimo que esos estudios desordenados y esas meditaciones oscuras turban la luz natural y ciegan el espíritu; y todos los q"

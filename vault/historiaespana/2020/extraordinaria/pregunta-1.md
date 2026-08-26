@@ -8,6 +8,10 @@ tema:
   - "7. Los Decretos de Nueva Planta y sus efectos"
   - "8. El reformismo borbónico en Galicia"
   - "25. La reforma agraria liberal: las desamortizaciones"
+tema_wikilinks:
+  - "[[historiaespana/_temas/7. Los Decretos de Nueva Planta y sus efectos|7. Los Decretos de Nueva Planta y sus efectos]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
+  - "[[historiaespana/_temas/25. La reforma agraria liberal las desamortizaciones|25. La reforma agraria liberal: las desamortizaciones]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (0,5 puntos por definición) 1. Economía predadora, 2. Mozárabe, 3. Juntas del Reino de Galicia, 4. Desamortización, 5. Ludismo,6. Sistema de turnos,"

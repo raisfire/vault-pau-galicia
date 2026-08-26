@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Enuncie el teorema de Rolle."

@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "19. La crisis de la Restauración"
   - "30. El franquismo: política económica"
+tema_wikilinks:
+  - "[[historiaespana/_temas/19. La crisis de la Restauración|19. La crisis de la Restauración]]"
+  - "[[historiaespana/_temas/30. El franquismo política económica|30. El franquismo: política económica]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

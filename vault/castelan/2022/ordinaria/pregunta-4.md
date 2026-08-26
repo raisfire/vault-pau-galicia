@@ -9,6 +9,11 @@ tema:
   - "Funciones sintácticas primarias de la cláusula u oración"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Funciones sintácticas primarias de la cláusula u oración|Funciones sintácticas primarias de la cláusula u oración]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Subordine la segunda cláusula a la primera utilizando el pronombre relativo cuyo/a/os/as. (1 punto) a) Mi amiga María se casa este fin de semana. El martes pasado nos encontramos con su madre. b) Me he encontrado con un vecino. Por sus terrenos va a pasar la nueva carretera."

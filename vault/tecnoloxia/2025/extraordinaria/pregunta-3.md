@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "SISTEMAS MECÁNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS MECÁNICOS|SISTEMAS MECÁNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "3.1. Si se aplica una fuerza de 15 kp en el émbolo pequeño, de diámetro 20 cm, de una prensa hidráulica cuyo émbolo grande tiene un diámetro de 40 cm, calcule: 3.1.1. Fuerza obtenida en el émbolo grande. (1,25 puntos) 3.1.2. Desplazamiento del émbolo grande si el desplazamiento del pequeño ha sido de 6 cm. (1,25 puntos)"

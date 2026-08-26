@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "El lector de Julio Verne (Almudena Grandes)"
+tema_wikilinks:
+  - "[[castelan/_temas/El lector de Julio Verne (Almudena Grandes)|El lector de Julio Verne (Almudena Grandes)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

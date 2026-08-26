@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 7
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule las cuatro probabilidades 𝑃(𝐴), 𝑃(A ∩𝐵̅), 𝑃(𝐴|𝐵) y 𝑃(𝐵|𝐴) sabiendo que 𝑃(𝐴∪𝐵) = 0.8, 𝑃(𝐴∩𝐵) = 0.2 y 𝑃(𝐴) = 2𝑃(𝐵). Nota: 𝐵̅ es el suceso contrario o complementario de 𝐵."

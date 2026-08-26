@@ -9,6 +9,11 @@ tema:
   - "3. Física y Metafísica en Aristóteles"
   - "4. Ética antirrelativista y política en Aristóteles"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desenvuelva la cuestión: “Hume: crítica de las ideas de sustancia y causalidad”. (6 puntos: 3 para el comentario y 3 para la cuestión) Me gustaría preguntar a esos filósofos que basan en tan gran medida sus razonamientos en la distinción de sustancia y accidente, y se imaginan que tenemos ideas claras de cada una de estas cosas, si la"

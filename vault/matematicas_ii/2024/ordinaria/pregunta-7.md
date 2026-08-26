@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 7
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Suponiendo que 𝐴 y 𝐵 son sucesos independientes, calcule 𝑃(𝐴∪𝐵) y 𝑃(𝐴̅|(𝐴̅ ∪𝐵ത))."

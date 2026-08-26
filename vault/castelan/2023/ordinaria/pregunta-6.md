@@ -7,6 +7,9 @@ numero_pregunta: 6
 tema:
   - "Comentario de texto"
   - "Crónica de una muerte anunciada (Gabriel García Márquez)"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
+  - "[[castelan/_temas/Crónica de una muerte anunciada (Gabriel García Márquez)|Crónica de una muerte anunciada (Gabriel García Márquez)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "Writing / Composición"
+tema_wikilinks:
+  - "[[ingles/_temas/Writing Composición|Writing / Composición]]"
 tema_fuente: palabras_clave
 puntuacion: "3 puntos"
 apartados:

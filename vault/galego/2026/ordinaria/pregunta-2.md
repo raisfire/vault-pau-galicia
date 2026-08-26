@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "Clases de palabras"
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
+tema_wikilinks:
+  - "[[galego/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
 puntuacion: "? puntos"
 apartados:
   - "2.1. Determine a que clase de palabra pertencen os seguintes termos que aparecen subliñados no texto. Localice, para cada caso, outras dúas palabras da mesma categoría gramatical e indique a liña na que se atopan: con, xa, estilo, chinesa, vale. (1,25 puntos)."

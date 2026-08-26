@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T11:51:50",
+ "generado": "2026-08-26T12:28:01",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -656,6 +656,34 @@
      "tema": "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL",
      "n": 5,
      "pct_preguntas": 15.6
+    }
+   ]
+  },
+  "debuxotecnico": {
+   "asignatura": "Debuxo Técnico",
+   "total_preguntas": 58,
+   "total_preguntas_vault_2020_2026": 0,
+   "total_preguntas_historico_2010_2019": 58,
+   "temas": [
+    {
+     "tema": "SISTEMA DIÉDRICO",
+     "n": 16,
+     "pct_preguntas": 27.6
+    },
+    {
+     "tema": "FUNDAMENTOS GEOMÉTRICOS",
+     "n": 12,
+     "pct_preguntas": 20.7
+    },
+    {
+     "tema": "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO",
+     "n": 7,
+     "pct_preguntas": 12.1
+    },
+    {
+     "tema": "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS",
+     "n": 3,
+     "pct_preguntas": 5.2
     }
    ]
   }

@@ -8,6 +8,10 @@ tema:
   - "10. Alienación e ideología en Marx"
   - "13. Nietzsche: nihilismo, vitalismo y transvaloración"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
+  - "[[historiafilosofia/_temas/13. Nietzsche nihilismo, vitalismo y transvaloración|13. Nietzsche: nihilismo, vitalismo y transvaloración]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "1 puntos"
 apartados:
   - "4.1. Discrimine en dos columnas los siguientes términos, atendiendo a los sistemas filosóficos que refieren: (0,5 puntos) marxismo / alienación / vitalismo / materialismo / nihilismo / superhombre / voluntad (de poder)."

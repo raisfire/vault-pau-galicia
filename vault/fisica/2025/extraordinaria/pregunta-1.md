@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "INTERACCIÓN GRAVITACIONAL"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1 Responda estos dos apartados: (1 punto) La Estación Espacial Internacional completa, aproximadamente, dieciséis vueltas en 24 horas, girando con una celeridad de 28000 km/hora. Si usted está viajando"

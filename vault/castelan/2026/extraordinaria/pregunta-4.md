@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
   - "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+tema_wikilinks:
+  - "[[castelan/_temas/Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil|Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil]]"
+  - "[[castelan/_temas/La narrativa peninsular desde 1975 Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero|La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su etapa. Desarrolle el tema “La figura de Buero Vallejo en el teatro español posterior a la Guerra Civil”. (2 puntos) FERNANDO. -No es eso, Urbano. ¡Es que le tengo miedo al tiempo! Es lo que más me hace sufrir. Ver cómo pasan los días, y los años..., sin que nada cambie. Ayer mismo"

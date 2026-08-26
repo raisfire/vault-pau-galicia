@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "18. La cuestión nacional en el último tercio del siglo XIX"
+tema_wikilinks:
+  - "[[historiaespana/_temas/18. La cuestión nacional en el último tercio del siglo XIX|18. La cuestión nacional en el último tercio del siglo XIX]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

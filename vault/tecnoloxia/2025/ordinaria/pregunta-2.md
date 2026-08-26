@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "MATERIALES Y FABRICACIÓN"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/MATERIALES Y FABRICACIÓN|MATERIALES Y FABRICACIÓN]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "2.1. Lea atentamente y responda los dos subapartados: Una barra prismática de latón de dimensiones 80x16x8 mm es sometida a tracción mediante un esfuerzo en su dirección axial de 25,6 kN. Como consecuencia del esfuerzo, la segunda arista de la barra se contrae a 15,990 mm. El módulo de Young del latón es de 10,1x104 MPa y su límite de proporcionalidad de 250 MPa. 2.1.1. La deformación de la barra "

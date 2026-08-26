@@ -8,6 +8,10 @@ tema:
   - "Comunicación"
   - "Os prexuízos e estereotipos lingüísticos"
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
 puntuacion: "? puntos"
 apartados:
   - "3.1. Redacte un texto de opinión centrado na importancia do galego como lingua propia e no necesario rexeitamento dos prexuízos e estereotipos lingüísticos que impiden a súa positiva consideración. O texto deberá contar con: breve introdución, corpo de argumentación (dous argumentos como mínimo) e conclusión. Extensión aproximada: 150 palabras. (1,25 puntos)."

@@ -24,6 +24,7 @@ SUBJECT_LABELS = {
     "castelan": "Lingua Castelá e Literatura",
     "galego": "Lingua Galega e Literatura",
     "tecnoloxia": "Tecnoloxía e Enxeñaría",
+    "debuxotecnico": "Debuxo Técnico",
 }
 
 
@@ -52,6 +53,7 @@ def temas_from_2010_2019():
         "script/stats_ingles_2010_2019.json",
         "script/stats_castellano_2010_2019.json",
         "script/stats_galego_2010_2019.json",
+        "script/stats_debuxotecnico.json",
     ):
         data = json.load(open(fname, encoding="utf-8"))
         for r in data:

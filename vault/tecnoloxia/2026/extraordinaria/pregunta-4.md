@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS|SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Determinar la intensidad eficaz que recorre la carga y expresar también la corriente en forma polar (módulo y ángulo) (0,75 puntos)"

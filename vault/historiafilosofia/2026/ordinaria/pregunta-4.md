@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "10. Alienación e ideología en Marx"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "1 puntos"
 apartados:
   - "4.1. Discrimine en dos columnas los siguientes términos, atendiendo a los sistemas filosóficos que refieren: (0,5 puntos) Razón vital / marxismo / plusvalía / circunstancia / alienación / espontaneidad / capital."

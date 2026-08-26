@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule los valores de b y c para que la función f(x) = {e^(2x) si x≤0, x²+bx+c si x>0} sea, primero continua, y luego derivable en x=0."

@@ -8,6 +8,10 @@ tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "4. Ética antirrelativista y política en Aristóteles"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "10 puntos"
 apartados:
   - "4.1. Comente el fragmento propuesto y, a partir del comentario, desenvuelva la cuestión: “Hume: crítica de las ideas de sustancia y causalidad”. (6 puntos: 3 para el comentario y 3 para la cuestión) Me gustaría preguntar a esos filósofos que basan en tan gran medida sus razonamientos en la distinción de sustancia y accidente, y se imaginan que tenemos ideas claras de cada una de estas cosas, si la"

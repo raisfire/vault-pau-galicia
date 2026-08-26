@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Romancero gitano (Federico García Lorca)"
   - "Crónica de una muerte anunciada (Gabriel García Márquez)"
+tema_wikilinks:
+  - "[[castelan/_temas/Romancero gitano (Federico García Lorca)|Romancero gitano (Federico García Lorca)]]"
+  - "[[castelan/_temas/Crónica de una muerte anunciada (Gabriel García Márquez)|Crónica de una muerte anunciada (Gabriel García Márquez)]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) La luna gira en el cielo Aire rizado venía sobre las sierras sin agua con los balidos de lana. mientras el verano siembra La sierra se ofrece llena rumores de tigre y llama. de heridas cicatrizadas, Por encima de los techos o estrem"

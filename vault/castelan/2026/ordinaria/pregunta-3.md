@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "El lector de Julio Verne (Almudena Grandes)"
   - "La Fundación (Antonio Buero Vallejo)"
+tema_wikilinks:
+  - "[[castelan/_temas/El lector de Julio Verne (Almudena Grandes)|El lector de Julio Verne (Almudena Grandes)]]"
+  - "[[castelan/_temas/La Fundación (Antonio Buero Vallejo)|La Fundación (Antonio Buero Vallejo)]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Explique las características de espacio y tiempo propias de El lector de Julio Verne que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) Desde hacía más de trece años, trabajaba en la clandestinidad sin haber tenido ni un solo tropiezo. Habían estado a punto de cogerme varias veces, pero siempre me había salvado un sexto sentido, una intuición inexp"

@@ -8,6 +8,10 @@ tema:
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "2. Platón: ética y política"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Los límites del conocimiento en Kant”. (6 puntos: 3 para el comentario y 3 para la cuestión) Si llamamos sensibilidad a la receptividad que nuestro psiquismo posee, siempre que sea afectado de alguna manera, en orden a recibir representaciones, llamaremos entendimiento a la capacidad de producirlas por sí mism"

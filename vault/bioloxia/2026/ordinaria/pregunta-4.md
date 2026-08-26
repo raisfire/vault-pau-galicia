@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "METABOLISMO CELULAR"
   - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda estos dos apartados: (1 punto) 4.1.1. Explique brevemente que es el ATP y qué función tiene en el metabolismo. 4.1.2. Indique en qué orden sucederían las siguientes reacciones metabólicas en "

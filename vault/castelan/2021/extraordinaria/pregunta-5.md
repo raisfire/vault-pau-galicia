@@ -7,6 +7,9 @@ numero_pregunta: 5
 tema:
   - "Romancero gitano (Federico García Lorca)"
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/Romancero gitano (Federico García Lorca)|Romancero gitano (Federico García Lorca)]]"
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

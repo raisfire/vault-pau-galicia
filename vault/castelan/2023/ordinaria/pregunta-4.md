@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Formas verbales y perífrasis verbales"
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+tema_wikilinks:
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice cuatro construcciones impersonales diferentes. Identifíquelas. (1 punto)"

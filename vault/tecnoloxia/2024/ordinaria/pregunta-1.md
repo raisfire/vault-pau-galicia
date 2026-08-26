@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 1
 tema:
   - "MATERIALES Y FABRICACIÓN"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/MATERIALES Y FABRICACIÓN|MATERIALES Y FABRICACIÓN]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Determine la fuerza máxima que se puede aplicar para que la profundidad de la huella dejada no supere 2 mm."

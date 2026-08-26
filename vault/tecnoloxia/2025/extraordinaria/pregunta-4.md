@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL|PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Un sistema posee la siguiente función de transferencia en circuito cerrado. Calcule los parámetros C y k para que el sistema sea estable. (2,5 puntos)"

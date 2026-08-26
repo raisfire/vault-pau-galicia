@@ -7,6 +7,9 @@ numero_pregunta: 6
 tema:
   - "Comunicación"
   - "A literatura galega entre 1936 e 1975"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
 puntuacion: "2,5 puntos"
 apartados: []
 ley_educativa: LOMCE

@@ -9,6 +9,11 @@ tema:
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
   - "As variedades dialectais do galego"
   - "A literatura galega de fins do século XX e comezos do XXI"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
+  - "[[galego/_temas/As variedades dialectais do galego|As variedades dialectais do galego]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
 puntuacion: "? puntos"
 apartados:
   - "3.1. A partir do texto que figura na cabeceira da páxina, que contén diversos exemplos de terminoloxía médica, redacte un texto de opinión centrado na importancia dos sociolectos ou variedades sociais nas linguas, en xeral, e no galego, en particular. O texto deberá contar con: breve introdución, corpo de argumentación (dous argumentos como mínimo) e conclusión. Extensión aproximada: 200 palabras."

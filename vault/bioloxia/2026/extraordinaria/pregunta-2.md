@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "GENÉTICA MOLECULAR"
   - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Responda estos dos apartados: (1 punto) La imagen de la derecha muestra la secuencia de bases de un fragmento del ADN de un gen. 2.1.1. Escriba la secuencia del ARNm correspondiente en sentido 5’ a 3’"

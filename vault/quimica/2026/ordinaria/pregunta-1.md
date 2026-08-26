@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "DESTREZAS BÁSICAS DE LA QUÍMICA"
   - "REACCIONES QUÍMICAS"
+tema_wikilinks:
+  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Sabiendo que para el proceso de electrólisis del agua el valor de la entalpía es ∆HR 0=285∙103 J/mol y el de la entropía ∆SR 0=163 J/mol∙K, analice razonadamente si a temperatura ambiente (25°C) el pr"

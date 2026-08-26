@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Creación de palabras: composición, derivación, parasíntesis y acronimia"
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Creación de palabras composición, derivación, parasíntesis y acronimia|Creación de palabras: composición, derivación, parasíntesis y acronimia]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Escriba cinco palabras derivadas tomadas del texto y señale qué valor aportan los afijos en cada caso. (1 punto)"

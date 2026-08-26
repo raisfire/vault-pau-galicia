@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Busque en el texto un sinónimo para cada una de las siguientes palabras: individuo, consecuencia, incremento, costumbres, determinante. A continuación, escoja cinco adjetivos del texto y proponga un antónimo para cada uno de ellos. (1 punto)"

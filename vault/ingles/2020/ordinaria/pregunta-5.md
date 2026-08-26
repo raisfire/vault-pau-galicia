@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "Writing / Composición"
+tema_wikilinks:
+  - "[[ingles/_temas/Writing Composición|Writing / Composición]]"
 tema_fuente: palabras_clave
 puntuacion: "2.5 puntos"
 apartados: []

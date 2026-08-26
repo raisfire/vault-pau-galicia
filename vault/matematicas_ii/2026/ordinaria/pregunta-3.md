@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "4 puntos"
 apartados:
   - "3.1. Para cada uno de los siguientes casos, dibuje, cuando sea posible, la gráfica de una función que cumpla las propiedades indicadas:"

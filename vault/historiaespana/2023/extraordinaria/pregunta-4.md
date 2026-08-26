@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional"
+tema_wikilinks:
+  - "[[historiaespana/_temas/22. La Guerra Civil sublevación, bandos en conflicto y su dimensión internacional|22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

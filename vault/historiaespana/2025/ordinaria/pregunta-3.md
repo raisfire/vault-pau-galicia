@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "17. La Restauración"
   - "23. El franquismo: características e institucionalización"
+tema_wikilinks:
+  - "[[historiaespana/_temas/17. La Restauración|17. La Restauración]]"
+  - "[[historiaespana/_temas/23. El franquismo características e institucionalización|23. El franquismo: características e institucionalización]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Doc.1. La política española según Benito Pérez Galdós (1884): “Es muy triste como se hicieron las últimas elecciones, con el menor número posible de electores, con bastantes resurrecciones de mue"

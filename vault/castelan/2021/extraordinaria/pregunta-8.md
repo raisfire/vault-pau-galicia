@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
   - "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+tema_wikilinks:
+  - "[[castelan/_temas/La narrativa peninsular desde 1975 Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero|La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

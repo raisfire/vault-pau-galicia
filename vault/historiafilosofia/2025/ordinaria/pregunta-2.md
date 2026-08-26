@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
 puntuacion: "4 puntos"
 apartados:
   - "2.1. Lea detidamente este texto referido a «Cosmos, realidade e coñecemento en Platón (do mito ao logos)». Elabore un comentario filosófico explicando o seu contexto, tema central, ideas principais e conceptos clave. (4 puntos) - Imaxina homes nunha especie de morada subterránea en forma de caverna, cunha longa entrada aberta, en toda a súa extensión, á luz e imaxina que están alí dende nenos coas"

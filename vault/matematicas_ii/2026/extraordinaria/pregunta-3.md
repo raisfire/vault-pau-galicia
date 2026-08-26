@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "4 puntos"
 apartados:
   - "3.1. Dado el polinomio p(x) = ax³+bx²+cx+d, calcule los coeficientes a, b, c y d si se sabe que p tiene un extremo relativo en (1, −6) y que la ecuación de la recta tangente a la gráfica de p en x=−1 es y=4x+2."

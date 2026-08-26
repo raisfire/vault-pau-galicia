@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule 𝑘𝑘 sabiendo que los vectores 𝑢⃗(2,0,0), 𝑣⃗(0, 𝑘, 1) y 𝑤⃗(2,2,2) son coplanarios."

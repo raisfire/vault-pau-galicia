@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una oración condicional, b) una causal, c) una consecutiva y d) una concesiva. Identifíquelas."

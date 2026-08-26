@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la ecuación implícita del plano 𝜋 que pasa por los puntos 𝐴(1,0,0), 𝐵(0,2,0) y 𝐶(0,0,3)."

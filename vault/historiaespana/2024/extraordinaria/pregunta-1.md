@@ -9,6 +9,11 @@ tema:
   - "3. La crisis del siglo XVII: aspectos socioeconómicos y políticos"
   - "7. Los Decretos de Nueva Planta y sus efectos"
   - "8. El reformismo borbónico en Galicia"
+tema_wikilinks:
+  - "[[historiaespana/_temas/2. La configuración del imperio español en el siglo XVI|2. La configuración del imperio español en el siglo XVI]]"
+  - "[[historiaespana/_temas/3. La crisis del siglo XVII aspectos socioeconómicos y políticos|3. La crisis del siglo XVII: aspectos socioeconómicos y políticos]]"
+  - "[[historiaespana/_temas/7. Los Decretos de Nueva Planta y sus efectos|7. Los Decretos de Nueva Planta y sus efectos]]"
+  - "[[historiaespana/_temas/8. El reformismo borbónico en Galicia|8. El reformismo borbónico en Galicia]]"
 puntuacion: "5 puntos"
 apartados:
   - "1.1. Defina brevemente cuatro de los ocho términos: (2 puntos) 1. Gran Armada, 2. Antiguo Régimen, 3. Afrancesados, 4. Cantonalismo, 5. Sistema de turno, 6. Directorio Militar, 7. Frente Popular, 8. S"

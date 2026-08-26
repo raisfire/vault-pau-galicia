@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
   - "30. El franquismo: política económica"
+tema_wikilinks:
+  - "[[historiaespana/_temas/30. El franquismo política económica|30. El franquismo: política económica]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

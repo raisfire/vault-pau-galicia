@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "MATERIALES Y FABRICACIÓN"
+tema_wikilinks:
+  - "[[tecnoloxia/_temas/MATERIALES Y FABRICACIÓN|MATERIALES Y FABRICACIÓN]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Calcule la fuerza P aplicada que produzca un alargamiento total de 0,30 mm."

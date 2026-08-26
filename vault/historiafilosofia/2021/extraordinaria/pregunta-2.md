@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "8. Hume: crítica de las ideas de sustancia y causalidad"
   - "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/8. Hume crítica de las ideas de sustancia y causalidad|8. Hume: crítica de las ideas de sustancia y causalidad]]"
+  - "[[historiafilosofia/_temas/14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)|14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)]]"
 puntuacion: "10 puntos"
 apartados:
   - "2.1. Comente el fragmento propuesto y, a partir del comentario, desenvuelva la cuestión: “Hume: crítica de las ideas de sustancia y causalidad”. (6 puntos: 3 para el comentario y 3 para la cuestión) Todos los razonamientos referentes a las cuestiones de hecho parecen estar fundados en la relación de causa y efecto. Por medio de esta singular relación superamos la evidencia de nuestra memoria y nue"

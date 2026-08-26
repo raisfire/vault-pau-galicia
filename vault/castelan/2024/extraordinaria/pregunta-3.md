@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
   - "Detección y corrección de errores o estructuras agramaticales"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Escoja cinco adjetivos del texto y proponga un sinónimo para cada uno de ellos; a continuación, escoja otros cinco (pueden coincidir o no con los anteriores) y proponga un antónimo para cada uno. (1 punto)"

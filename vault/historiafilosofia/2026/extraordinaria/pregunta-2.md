@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)"
   - "9. Ilustración: los límites del conocimiento en Kant"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
 puntuacion: "3 puntos"
 apartados:
   - "2.1. Teniendo en cuenta aﬁrmaciones como: “El aprender no es otra cosa que una reminiscencia”, o que “el conocimiento es la opinión cierta” y “lo que dentro de lo cognoscible se ve al ﬁnal es la Idea del Bien”, explique el problema fundamental en la cuesƟón: “Cosmos, Realidad y conocimiento en Platón (del mito al logos)”. (3 puntos)"

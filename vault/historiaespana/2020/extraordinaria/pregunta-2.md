@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "12. Las Cortes de Cádiz y la Constitución de 1812"
+tema_wikilinks:
+  - "[[historiaespana/_temas/12. Las Cortes de Cádiz y la Constitución de 1812|12. Las Cortes de Cádiz y la Constitución de 1812]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

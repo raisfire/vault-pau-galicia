@@ -9,6 +9,11 @@ tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "7. La ética formal en Kant: el imperativo categórico"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/7. La ética formal en Kant el imperativo categórico|7. La ética formal en Kant: el imperativo categórico]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Realidad y conocimiento en Platón”. (6 puntos: 3 para el comentario y 3 para la cuestión) -Represéntate hombres en una morada subterránea en forma de caverna, que tiene la entrada abierta, en toda su extensión, a la luz. En ella están desde niños con las piernas y el cuello encadenados, de modo que deben perma"

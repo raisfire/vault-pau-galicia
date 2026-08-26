@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "Comentario de texto"
   - "Clases de palabras"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Resuma el contenido del texto. Si lo prefiere, en vez del resumen, puede elaborar un esquema en el que se reflejen las ideas principales del texto. (1 punto)"

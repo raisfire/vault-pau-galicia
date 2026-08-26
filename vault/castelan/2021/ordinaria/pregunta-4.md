@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+tema_wikilinks:
+  - "[[castelan/_temas/Relaciones entre estructuras sintácticas (coordinación, subordinación)|Relaciones entre estructuras sintácticas (coordinación, subordinación)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

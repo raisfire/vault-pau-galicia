@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Romancero gitano (Federico García Lorca)"
   - "Crónica de una muerte anunciada (Gabriel García Márquez)"
+tema_wikilinks:
+  - "[[castelan/_temas/Romancero gitano (Federico García Lorca)|Romancero gitano (Federico García Lorca)]]"
+  - "[[castelan/_temas/Crónica de una muerte anunciada (Gabriel García Márquez)|Crónica de una muerte anunciada (Gabriel García Márquez)]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) Antonio Torres Heredia, bajo las ramas de un olmo, Hijo y nieto de Camborios, guardia civil caminera con una vara de mimbre lo llevó codo con codo. va a Sevilla a ver los toros. (…) Moreno de verde luna, Las aceitunas aguardan anda "

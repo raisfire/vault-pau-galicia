@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "5. Descartes: el método científico y la evidencia del cogito"
   - "4. Ética antirrelativista y política en Aristóteles"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/5. Descartes el método científico y la evidencia del cogito|5. Descartes: el método científico y la evidencia del cogito]]"
+  - "[[historiafilosofia/_temas/4. Ética antirrelativista y política en Aristóteles|4. Ética antirrelativista y política en Aristóteles]]"
 puntuacion: "3 puntos"
 apartados:
   - "3.1. Tendo en conta afirmacións como: «Penso, logo existo» ou «supoñamos que todas as cousas que vexo son falsas», explique o problema fundamental na cuestión: «Descartes: o método científico e a evidencia do cogito». (3 puntos)"

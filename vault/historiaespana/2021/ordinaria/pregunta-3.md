@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "25. La reforma agraria liberal: las desamortizaciones"
+tema_wikilinks:
+  - "[[historiaespana/_temas/25. La reforma agraria liberal las desamortizaciones|25. La reforma agraria liberal: las desamortizaciones]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

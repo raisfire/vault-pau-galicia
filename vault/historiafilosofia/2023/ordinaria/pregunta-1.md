@@ -9,6 +9,11 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/2. Platón ética y política|2. Platón: ética y política]]"
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "1.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Platón: antropología y política”. (6 puntos: 3 para el comentario y 3 para la cuestión) Cómo es el alma, requeriría toda una larga y divina explicación; pero decir a qué se parece, es ya asunto humano y, por supuesto, más breve. Podríamos entonces decir que se parece a una fuerza que, como si hubieran nacido j"

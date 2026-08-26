@@ -9,6 +9,11 @@ tema:
   - "A literatura galega entre 1936 e 1975"
   - "A literatura galega de fins do século XX e comezos do XXI"
   - "Comunicación"
+tema_wikilinks:
+  - "[[galego/_temas/A literatura galega no primeiro terzo do século XX (1916-1936)|A literatura galega no primeiro terzo do século XX (1916-1936)]]"
+  - "[[galego/_temas/A literatura galega entre 1936 e 1975|A literatura galega entre 1936 e 1975]]"
+  - "[[galego/_temas/A literatura galega de fins do século XX e comezos do XXI|A literatura galega de fins do século XX e comezos do XXI]]"
+  - "[[galego/_temas/Comunicación|Comunicación]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "7.1. A poesía das vangardas. Características, autores e obras representativas. (Extensión aprox. 400 palabras) (2 puntos)"

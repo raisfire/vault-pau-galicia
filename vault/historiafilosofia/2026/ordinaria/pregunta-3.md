@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 3
 tema:
   - "7. La ética formal en Kant: el imperativo categórico"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/7. La ética formal en Kant el imperativo categórico|7. La ética formal en Kant: el imperativo categórico]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMLOE

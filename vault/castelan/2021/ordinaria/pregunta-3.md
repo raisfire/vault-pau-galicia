@@ -8,6 +8,10 @@ tema:
   - "Detección y corrección de errores o estructuras agramaticales"
   - "Clases de palabras"
   - "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+tema_wikilinks:
+  - "[[castelan/_temas/Detección y corrección de errores o estructuras agramaticales|Detección y corrección de errores o estructuras agramaticales]]"
+  - "[[castelan/_temas/Clases de palabras|Clases de palabras]]"
+  - "[[castelan/_temas/Relaciones léxico-semánticas sinonimia, antonimia, hiperonimia, campo léxico y semántico|Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Identifique, explique y corrija los errores de las siguientes oraciones: (1 punto) a. No me di cuenta que se fuera hasta que vi que sus cosas no estaban en el armario. b. Deberías de preguntarle porque no quiere comprarte un móvil nuevo. c. ¿Cuanto cuesta esa falda que te comprastes? No me acuerdo, pero no debió de costar más de 15 € d. Ese vestido te apreta demasiado. e. No te sientes delant"

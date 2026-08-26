@@ -7,6 +7,9 @@ numero_pregunta: 3
 tema:
   - "Comunicación"
   - "As linguas da Península Ibérica"
+tema_wikilinks:
+  - "[[galego/_temas/Comunicación|Comunicación]]"
+  - "[[galego/_temas/As linguas da Península Ibérica|As linguas da Península Ibérica]]"
 puntuacion: "? puntos"
 apartados:
   - "3.1. A partir do escrito de Fernando Suárez, redacte un texto de opinión centrado na importancia dos medios de comunicación e das redes sociais no proceso de normalización lingüística do galego. O texto deberá contar con: breve introdución, corpo de argumentación (dous argumentos como mínimo) e conclusión. Extensión aproximada: 150 palabras. (1,25 puntos)."

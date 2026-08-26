@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas"
+tema_wikilinks:
+  - "[[historiaespana/_temas/14. La construcción del Estado liberal principios del liberalismo y diferencias entre familias políticas|14. La construcción del Estado liberal: principios del liberalismo y diferencias entre familias políticas]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

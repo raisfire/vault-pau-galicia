@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 5
 tema:
   - "INTERACCIÓN GRAVITACIONAL"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

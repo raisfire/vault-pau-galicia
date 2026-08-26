@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "LA CÉLULA"
   - "METABOLISMO CELULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique una función de cada uno de los siguientes orgánulos o estructuras: aparato de Golgi, centrosoma, cloroplasto, lisosoma, mitocondria, nucleolo, peroxisoma, retículo endoplasmático liso, ribosom"

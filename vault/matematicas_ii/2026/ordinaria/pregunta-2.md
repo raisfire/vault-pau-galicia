@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 2
 tema:
   - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. Considérese la igualdad matricial 𝐴(𝑋−𝐼)𝐵= 𝐶, donde 𝑋 es cuadrada e 𝐼 es la matriz identidad. 2.1.1. Despeje 𝑋 suponiendo que 𝐴 y 𝐵 son cuadradas e invertibles. 2.1.2. ¿Qué dimensiones tienen 𝑋 y 𝐵 si"

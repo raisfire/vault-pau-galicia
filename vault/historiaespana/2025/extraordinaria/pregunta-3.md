@@ -8,6 +8,10 @@ tema:
   - "13. La restauración de Fernando VII y del absolutismo: las etapas del reinado"
   - "22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional"
   - "23. El franquismo: características e institucionalización"
+tema_wikilinks:
+  - "[[historiaespana/_temas/13. La restauración de Fernando VII y del absolutismo las etapas del reinado|13. La restauración de Fernando VII y del absolutismo: las etapas del reinado]]"
+  - "[[historiaespana/_temas/22. La Guerra Civil sublevación, bandos en conflicto y su dimensión internacional|22. La Guerra Civil: sublevación, bandos en conflicto y su dimensión internacional]]"
+  - "[[historiaespana/_temas/23. El franquismo características e institucionalización|23. El franquismo: características e institucionalización]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Doc.1. Manifiesto de los Persas (1814): “Señor; era costumbre de los antiguos persas pasar cinco días de anarquía después del fallecimiento de su rey, a fin de que la experiencia de los asesinato"

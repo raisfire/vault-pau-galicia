@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "Comprensión lectora"
   - "Pronunciación"
+tema_wikilinks:
+  - "[[ingles/_temas/Comprensión lectora|Comprensión lectora]]"
+  - "[[ingles/_temas/Pronunciación|Pronunciación]]"
 tema_fuente: palabras_clave
 puntuacion: "2.5 puntos"
 apartados:

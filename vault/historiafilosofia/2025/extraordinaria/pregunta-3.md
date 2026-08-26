@@ -8,6 +8,10 @@ tema:
   - "11. La crítica al totalitarismo. La condición humana en H. Arendt"
   - "3. Física y Metafísica en Aristóteles"
   - "7. La ética formal en Kant: el imperativo categórico"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/11. La crítica al totalitarismo. La condición humana en H. Arendt|11. La crítica al totalitarismo. La condición humana en H. Arendt]]"
+  - "[[historiafilosofia/_temas/3. Física y Metafísica en Aristóteles|3. Física y Metafísica en Aristóteles]]"
+  - "[[historiafilosofia/_temas/7. La ética formal en Kant el imperativo categórico|7. La ética formal en Kant: el imperativo categórico]]"
 puntuacion: "3 puntos"
 apartados:
   - "3.1. Teniendo en cuenta afirmaciones como: «La igualdad (…) no nos es otorgada, sino que es el resultado de la organización humana» o “la libertad es la razón de ser de la política”, explique el problema fundamental en la cuestión: «La crítica al totalitarismo. La condición humana en H. Arendt». (3 puntos)"

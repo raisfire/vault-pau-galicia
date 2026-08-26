@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 4
 tema:
   - "FÍSICA DEL SIGLO XX"
+tema_wikilinks:
+  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique y justifique la respuesta correcta. (1 punto) Un astronauta que viaja a una velocidad de 0,9c mide la velocidad de un rayo de luz emitido desde su nave. El resultado que obtiene es: a) 0,1c; b"

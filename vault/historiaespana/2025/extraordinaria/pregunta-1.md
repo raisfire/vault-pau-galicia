@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "9. La Ilustración en España"
+tema_wikilinks:
+  - "[[historiaespana/_temas/9. La Ilustración en España|9. La Ilustración en España]]"
 puntuacion: "2.5 puntos"
 apartados: []
 ley_educativa: LOMLOE

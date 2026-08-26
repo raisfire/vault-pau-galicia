@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "Comentario de texto"
   - "Formas verbales y perífrasis verbales"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
+  - "[[castelan/_temas/Formas verbales y perífrasis verbales|Formas verbales y perífrasis verbales]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Resuma el contenido del texto. Si lo prefiere, en vez del resumen, puede elaborar un esquema en el que aparezcan reflejadas las ideas principales del texto. (1 punto)"

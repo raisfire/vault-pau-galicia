@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 7
 tema:
   - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Sean 𝐴 y 𝐵 dos sucesos de un mismo espacio muestral. Calcule 𝑃(𝐴) sabiendo que 𝑃(𝐵) = 2𝑃(𝐴), 𝑃(𝐴∩𝐵) = 0.1 y 𝑃(𝐴∪𝐵) = 0.8."

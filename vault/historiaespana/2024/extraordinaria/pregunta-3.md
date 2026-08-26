@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
   - "21. El establecimiento de la II República: fuerzas políticas y constitución de 1931"
+tema_wikilinks:
+  - "[[historiaespana/_temas/21. El establecimiento de la II República fuerzas políticas y constitución de 1931|21. El establecimiento de la II República: fuerzas políticas y constitución de 1931]]"
 puntuacion: "5 puntos"
 apartados: []
 ley_educativa: LOMCE

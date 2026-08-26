@@ -8,6 +8,10 @@ tema:
   - "As linguas da Península Ibérica"
   - "As variedades dialectais do galego"
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
+tema_wikilinks:
+  - "[[galego/_temas/As linguas da Península Ibérica|As linguas da Península Ibérica]]"
+  - "[[galego/_temas/As variedades dialectais do galego|As variedades dialectais do galego]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. O galego no primeiro terzo do século XX: características lingüísticas fundamentais. Contexto histórico e situación sociolingüística. (Extensión aprox. 200-250 palabras) (2,5 puntos)"

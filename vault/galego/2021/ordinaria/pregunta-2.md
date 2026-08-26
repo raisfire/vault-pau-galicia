@@ -8,6 +8,10 @@ tema:
   - "Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)"
   - "Creación de palabras: composición, derivación, parasíntese e acronimia"
   - "Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico"
+tema_wikilinks:
+  - "[[galego/_temas/Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)|Funcións primarias da cláusula ou oración (suxeito, predicado, complementos)]]"
+  - "[[galego/_temas/Creación de palabras composición, derivación, parasíntese e acronimia|Creación de palabras: composición, derivación, parasíntese e acronimia]]"
+  - "[[galego/_temas/Relacións léxico-semánticas sinonimia, antonimia, hiperonimia, hiponimia e campo semántico|Relacións léxico-semánticas: sinonimia, antonimia, hiperonimia, hiponimia e campo semántico]]"
 puntuacion: "1 puntos"
 apartados:
   - "2.1. Analice sintacticamente: Nunca tivera as cifras moi claras. (1 punto)"

@@ -7,6 +7,9 @@ numero_pregunta: 5
 tema:
   - "La Fundación (Antonio Buero Vallejo)"
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/La Fundación (Antonio Buero Vallejo)|La Fundación (Antonio Buero Vallejo)]]"
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

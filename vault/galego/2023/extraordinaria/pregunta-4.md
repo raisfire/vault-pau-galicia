@@ -7,6 +7,9 @@ numero_pregunta: 4
 tema:
   - "Os prexuízos e estereotipos lingüísticos"
   - "A variedade estándar, os sociolectos e os rexistros de lingua"
+tema_wikilinks:
+  - "[[galego/_temas/Os prexuízos e estereotipos lingüísticos|Os prexuízos e estereotipos lingüísticos]]"
+  - "[[galego/_temas/A variedade estándar, os sociolectos e os rexistros de lingua|A variedade estándar, os sociolectos e os rexistros de lingua]]"
 puntuacion: "2,5 puntos"
 apartados:
   - "4.1. Analice o prexuízo lingüístico que se denuncia na viñeta de Pepe Carreiro e sinale dous exemplos da historia da lingua galega que demostren as súas consecuencias na práctica. Indique se este prexuízo se mantén dalgún xeito na actualidade, argumentando a súa resposta tamén a través dalgún exemplo concreto. (Ext. aprox. 250 palabras) (2,5 puntos)"

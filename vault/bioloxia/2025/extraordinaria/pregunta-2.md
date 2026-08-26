@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "LA CÉLULA"
   - "GENÉTICA MOLECULAR"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. A) Indique el nombre y la función de las estructuras marcadas con números (1-7) en la figura."

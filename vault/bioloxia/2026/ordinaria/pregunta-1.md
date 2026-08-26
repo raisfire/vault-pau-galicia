@@ -7,6 +7,9 @@ numero_pregunta: 1
 tema:
   - "LA CÉLULA"
   - "BIOTECNOLOGÍA"
+tema_wikilinks:
+  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Identifique en el texto un mecanismo de transporte a través de la membrana. Explíquelo brevemente, haciendo referencia a su relación funcional con los lisosomas. Explique brevemente dos mecanismos de "

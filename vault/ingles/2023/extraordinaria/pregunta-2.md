@@ -7,6 +7,9 @@ numero_pregunta: 2
 tema:
   - "Comprensión lectora"
   - "Writing / Composición"
+tema_wikilinks:
+  - "[[ingles/_temas/Comprensión lectora|Comprensión lectora]]"
+  - "[[ingles/_temas/Writing Composición|Writing / Composición]]"
 tema_fuente: palabras_clave
 puntuacion: "5 puntos"
 apartados:

@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
   - "Comentario de texto"
+tema_wikilinks:
+  - "[[castelan/_temas/Comentario de texto|Comentario de texto]]"
 puntuacion: "3,5 puntos"
 apartados:
   - "1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, puede realizar un esquema. (1 punto)"

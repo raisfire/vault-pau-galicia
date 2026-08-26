@@ -6,6 +6,8 @@ convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
   - "INTERACCIÓN ELECTROMAGNÉTICA"
+tema_wikilinks:
+  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Resuelva esta cuestión. (1 punto) Dos hilos de corriente eléctrica paralelos y de gran longitud están separados entre sí una distancia d. La corriente que circula por el primer hilo es de 2A dirigida "

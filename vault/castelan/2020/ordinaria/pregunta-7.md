@@ -6,6 +6,8 @@ convocatoria: ordinaria
 numero_pregunta: 7
 tema:
   - "El Modernismo: Rubén Darío y Delmira Agustini"
+tema_wikilinks:
+  - "[[castelan/_temas/El Modernismo Rubén Darío y Delmira Agustini|El Modernismo: Rubén Darío y Delmira Agustini]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

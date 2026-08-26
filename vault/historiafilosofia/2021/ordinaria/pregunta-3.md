@@ -9,6 +9,11 @@ tema:
   - "6. El liberalismo político y contractualismo de Locke"
   - "9. Ilustración: los límites del conocimiento en Kant"
   - "10. Alienación e ideología en Marx"
+tema_wikilinks:
+  - "[[historiafilosofia/_temas/1. Cosmos, realidad y conocimiento en Platón (del mito al logos)|1. Cosmos, realidad y conocimiento en Platón (del mito al logos)]]"
+  - "[[historiafilosofia/_temas/6. El liberalismo político y contractualismo de Locke|6. El liberalismo político y contractualismo de Locke]]"
+  - "[[historiafilosofia/_temas/9. Ilustración los límites del conocimiento en Kant|9. Ilustración: los límites del conocimiento en Kant]]"
+  - "[[historiafilosofia/_temas/10. Alienación e ideología en Marx|10. Alienación e ideología en Marx]]"
 puntuacion: "10 puntos"
 apartados:
   - "3.1. Comente el fragmento propuesto y, a partir del comentario, desarrolle la cuestión: “Realidad y conocimiento en Platón”. (6 puntos: 3 para el comentario y 3 para la cuestión) SÓCRATES.– (…) El alma, pues, siendo inmortal y habiendo nacido muchas veces, y visto efectivamente todas las cosas, tanto las de aquí como las del Hades, no hay nada que no haya aprendido; de modo que no hay de qué asomb"
