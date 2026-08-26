@@ -5,11 +5,19 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA CÉLULA"
-  - "INMUNOLOGÍA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
+  - "Inmunidad artificial y natural, pasiva y activa"
+  - "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
+  - "[[bioloxia/_temas/Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)|Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1 Responda estos tres apartados: (1 punto) 2.1.1. Identifique los orgánulos señalados con los números 1 e 2 en la microfotografía. 2.1.2. Indique una función de cada uno de estos orgánulos. 2.1.3. Reali"

@@ -5,11 +5,17 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
-  - "QUÍMICA ORGÁNICA"
+  - "Tabla periódica y propiedades de los átomos"
+  - "Enlace químico y fuerzas intermoleculares"
+  - "Principios cuánticos de la estructura atómica"
+  - "Reactividad orgánica"
+  - "Isomería"
 tema_wikilinks:
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Tabla periódica y propiedades de los átomos|Tabla periódica y propiedades de los átomos]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
+  - "[[quimica/_temas/Principios cuánticos de la estructura atómica|Principios cuánticos de la estructura atómica]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Dados los elementos A, B y C de configuraciones electrónicas A = 1s22s1, B = 1s22s22p2 y C = 1s22s22p5: 4.1.1. Defina la afinidad electrónica y ordene los elementos A, B y C de menor a mayor afinidad "

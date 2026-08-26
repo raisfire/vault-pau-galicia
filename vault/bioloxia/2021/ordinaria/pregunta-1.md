@@ -5,9 +5,9 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Proteínas: clasificación, propiedades y función enzimática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

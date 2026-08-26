@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
+  - "Teoría celular"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Teoría celular|Teoría celular]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Formule los postulados de la teoría celular."

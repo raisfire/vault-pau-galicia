@@ -5,9 +5,11 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Equilibrio químico"
+  - "Cinética química"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
+  - "[[quimica/_temas/Cinética química|Cinética química]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Calcule los moles de cada especie en el equilibrio final. (1 punto)"

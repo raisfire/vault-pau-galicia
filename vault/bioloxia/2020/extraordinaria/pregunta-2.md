@@ -5,9 +5,9 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Biomoléculas inorgánicas el agua, las sales minerales y la ósmosis|Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis]]"
 puntuacion: "2 puntos"
 apartados:
   - "d) Enumera cuatro funciones realizadas por esta sustancia en los seres vivos. (2 puntos)"

@@ -5,11 +5,17 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
-  - "QUÍMICA ORGÁNICA"
+  - "Tabla periódica y propiedades de los átomos"
+  - "Principios cuánticos de la estructura atómica"
+  - "Enlace químico y fuerzas intermoleculares"
+  - "Reactividad orgánica"
+  - "Isomería"
 tema_wikilinks:
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Tabla periódica y propiedades de los átomos|Tabla periódica y propiedades de los átomos]]"
+  - "[[quimica/_temas/Principios cuánticos de la estructura atómica|Principios cuánticos de la estructura atómica]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda los siguientes tres subapartados: 4.1.1. Indique, razonando la respuesta, si es verdadera la siguiente afirmación: “La geometría molecular de la molécula de H2S es angular” (1 punto) 4.1.2. D"

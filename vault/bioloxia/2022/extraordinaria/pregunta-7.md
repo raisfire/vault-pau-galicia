@@ -5,11 +5,13 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "BIOTECNOLOGÍA"
-  - "INMUNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1 Describa brevemente cuatro funciones que llevan a cabo los microorganismos en el ciclo del nitrógeno."

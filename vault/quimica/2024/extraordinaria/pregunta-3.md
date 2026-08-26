@@ -5,9 +5,11 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Isomería"
+  - "Reacción redox"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

@@ -5,11 +5,11 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "REACCIONES QUÍMICAS"
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  - "Reacción redox"
+  - "Enlace químico y fuerzas intermoleculares"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Dada la siguiente reacción, ajuste las ecuaciones iónica y molecular por el método del ión-electrón. (1 punto) HCl + KMnO4 → Cl2 + KCl + MnCl2 + H2O"

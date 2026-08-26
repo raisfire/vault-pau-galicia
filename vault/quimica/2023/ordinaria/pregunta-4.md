@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Reacción redox"
+  - "Cinética química"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
+  - "[[quimica/_temas/Cinética química|Cinética química]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

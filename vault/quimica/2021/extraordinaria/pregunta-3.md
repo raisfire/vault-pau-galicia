@@ -5,9 +5,11 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Cinética química"
+  - "Equilibrio químico"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Cinética química|Cinética química]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

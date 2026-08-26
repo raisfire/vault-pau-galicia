@@ -5,11 +5,21 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "INMUNOLOGÍA"
-  - "BIOTECNOLOGÍA"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
+  - "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)"
+  - "Fases de las enfermedades infecciosas"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)|Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)]]"
+  - "[[bioloxia/_temas/Fases de las enfermedades infecciosas|Fases de las enfermedades infecciosas]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Identifique la molécula de la figura e indique el nombre de las partes señaladas con los números 1-5 ¿Qué células la producen? ¿Cuál es la función de la porción de la molécula señalada con el número 2"

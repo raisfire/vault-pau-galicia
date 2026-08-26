@@ -5,11 +5,17 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
-  - "BIOTECNOLOGÍA"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Regulación de la expresión génica en procariotas y eucariotas"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "El cáncer y su relación con el ciclo celular y las mutaciones"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Regulación de la expresión génica en procariotas y eucariotas|Regulación de la expresión génica en procariotas y eucariotas]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/El cáncer y su relación con el ciclo celular y las mutaciones|El cáncer y su relación con el ciclo celular y las mutaciones]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. A partir de la información del texto, indique la función de los microARN y señale dos posibles consecuencias de su regulación anómala."

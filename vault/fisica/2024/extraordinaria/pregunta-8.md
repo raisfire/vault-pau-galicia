@@ -5,9 +5,9 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Nuclear y de Partículas"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

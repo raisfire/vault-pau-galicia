@@ -5,9 +5,15 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "METABOLISMO CELULAR"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Respiración anaerobia: glucólisis y fermentación"
+  - "Rendimiento energético del metabolismo aeróbico y anaeróbico"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Respiración anaerobia glucólisis y fermentación|Respiración anaerobia: glucólisis y fermentación]]"
+  - "[[bioloxia/_temas/Rendimiento energético del metabolismo aeróbico y anaeróbico|Rendimiento energético del metabolismo aeróbico y anaeróbico]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

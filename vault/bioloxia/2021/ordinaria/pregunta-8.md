@@ -5,11 +5,17 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 8
 tema:
-  - "BIOTECNOLOGÍA"
-  - "INMUNOLOGÍA"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "Inmunidad humoral y celular"
+  - "Inmunidad artificial y natural, pasiva y activa"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. a) Indique qué tipo de célula aparece en la figura 5 e identifique los componentes señalados con números. b) Estos organismos tienen distintas aplicaciones en las industrias alimentaria y farmacéutica"

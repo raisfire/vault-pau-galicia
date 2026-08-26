@@ -5,9 +5,11 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
+  - "Interacción Gravitacional"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

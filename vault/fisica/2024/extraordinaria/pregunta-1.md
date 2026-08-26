@@ -5,9 +5,9 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITACIONAL"
+  - "Interacción Gravitacional"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. Un satélite se mueve en una órbita estable alrededor de un planeta. Su momento angular respecto al centro del planeta: a) aumenta indefinidamente; b) es cero; c) permanece constante."

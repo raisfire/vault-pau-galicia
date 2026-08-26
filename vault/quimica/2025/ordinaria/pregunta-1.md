@@ -5,11 +5,11 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
-  - "REACCIONES QUÍMICAS"
+  - "Reacciones ácido-base"
+  - "Termodinámica química"
 tema_wikilinks:
-  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
+  - "[[quimica/_temas/Termodinámica química|Termodinámica química]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Diseñe un aparato para determinar, de forma aproximada, la entalpía de la reacción de neutralización del HCl con el NaOH en las condiciones del supuesto vertido, a 25°C. Para llevar a cabo el diseño d"

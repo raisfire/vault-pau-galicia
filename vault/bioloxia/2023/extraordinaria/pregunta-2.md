@@ -5,9 +5,13 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Lípidos: clasificación y propiedades"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Envolturas celulares: membrana plasmática, matriz extracelular y pared celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Envolturas celulares membrana plasmática, matriz extracelular y pared celular|Envolturas celulares: membrana plasmática, matriz extracelular y pared celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "B) Esas moléculas están formadas por unidades indicadas con las letras A y B ¿de qué moléculas se trata? ¿Mediante qué enlaces están unidas cada una de ellas? Cite dos propiedades de cada una. C) ¿Qué co"

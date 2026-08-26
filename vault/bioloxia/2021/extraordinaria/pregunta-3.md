@@ -5,9 +5,13 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Envolturas celulares: membrana plasmática, matriz extracelular y pared celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Envolturas celulares membrana plasmática, matriz extracelular y pared celular|Envolturas celulares: membrana plasmática, matriz extracelular y pared celular]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

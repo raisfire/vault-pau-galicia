@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Mecanismos de transporte a través de la membrana plasmática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Mecanismos de transporte a través de la membrana plasmática|Mecanismos de transporte a través de la membrana plasmática]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. A) Identifique las estructuras celulares representadas con números en la figura 3."

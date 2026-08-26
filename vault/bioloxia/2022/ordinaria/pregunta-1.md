@@ -5,9 +5,9 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Biomoléculas inorgánicas el agua, las sales minerales y la ósmosis|Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Explique en qué consiste el fenómeno denominado efecto tampón y el papel de las sales minerales en dicho proceso. b) Explique la estructura química de la molécula de agua y cite cuatro propiedades del"

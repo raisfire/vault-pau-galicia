@@ -5,11 +5,9 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Vibraciones y Ondas"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. La velocidad de una onda en un punto del espacio: a) varía con la fase en la que se encuentre el punto; b) varía con la distancia del punto al origen; c) varía al cambiar el medio de propagación."

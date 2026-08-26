@@ -5,9 +5,11 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
+  - "Campo Magnético e Inducción Electromagnética"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Indique y justifique la respuesta correcta. (1 punto) Un hilo conductor transporta una corriente y crea, por tanto, un campo magnético de intensidad B en un punto situado a una distancia perpendicular"

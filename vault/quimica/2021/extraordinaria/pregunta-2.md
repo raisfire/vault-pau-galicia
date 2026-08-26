@@ -5,9 +5,11 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Tabla periódica y propiedades de los átomos"
+  - "Reactividad orgánica"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Tabla periódica y propiedades de los átomos|Tabla periódica y propiedades de los átomos]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

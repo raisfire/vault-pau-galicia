@@ -5,9 +5,9 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) En relación con la figura 5, ¿Cómo se denominan cada uno de los pasos indicados con flechas en el esquema? ¿Dónde se llevan a cabo en una célula eucariótica? Escriba qué codones corresponden a cada un"

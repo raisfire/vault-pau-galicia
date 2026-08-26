@@ -5,11 +5,11 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "INMUNOLOGÍA"
-  - "BIOTECNOLOGÍA"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1. Indique qué es un virus. Cite tres diferencias entre los virus y las células procariotas. Distinga entre cápsida vírica y cápsula bacteriana. Cite dos colorantes empleados en la tinción Gram."

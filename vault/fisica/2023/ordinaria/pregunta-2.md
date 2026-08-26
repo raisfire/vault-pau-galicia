@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
+  - "Vibraciones y Ondas"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

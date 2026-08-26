@@ -5,9 +5,13 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 5
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Bioelementos, biomoléculas y salud"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Bioelementos, biomoléculas y salud|Bioelementos, biomoléculas y salud]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

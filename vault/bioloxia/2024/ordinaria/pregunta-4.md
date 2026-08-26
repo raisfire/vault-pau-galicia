@@ -5,9 +5,11 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Función de los ácidos nucleicos en la expresión génica"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
 puntuacion: "2 puntos"
 apartados:
   - "4.1. A) ¿Qué proceso está representado en la figura 4?"

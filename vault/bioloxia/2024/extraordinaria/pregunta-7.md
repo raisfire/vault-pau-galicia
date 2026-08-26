@@ -5,9 +5,11 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "BIOTECNOLOGÍA"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1. En la figura 8 se muestra la secuencia de corte del enzima EcoRI. Indique cuáles serían los fragmentos resultantes de digerir con EcoRI el fragmento de ADN mostrado en la figura 9."

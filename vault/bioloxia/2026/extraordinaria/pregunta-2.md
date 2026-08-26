@@ -5,11 +5,15 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "GENÉTICA MOLECULAR"
-  - "BIOTECNOLOGÍA"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "El papel de los microorganismos en la biotecnología"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Responda estos dos apartados: (1 punto) La imagen de la derecha muestra la secuencia de bases de un fragmento del ADN de un gen. 2.1.1. Escriba la secuencia del ARNm correspondiente en sentido 5’ a 3’"

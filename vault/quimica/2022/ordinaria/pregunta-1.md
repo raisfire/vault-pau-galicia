@@ -5,9 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  - "Principios cuánticos de la estructura atómica"
+  - "Enlace químico y fuerzas intermoleculares"
 tema_wikilinks:
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
+  - "[[quimica/_temas/Principios cuánticos de la estructura atómica|Principios cuánticos de la estructura atómica]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

@@ -5,9 +5,9 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "METABOLISMO CELULAR"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique cuál es su nombre y qué seres vivos lo llevan a cabo."

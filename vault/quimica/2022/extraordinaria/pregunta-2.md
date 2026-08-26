@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  - "Reacciones ácido-base"
+  - "Enlace químico y fuerzas intermoleculares"
 tema_wikilinks:
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

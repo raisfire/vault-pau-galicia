@@ -5,9 +5,9 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
-  - "INTERACCIÓN GRAVITACIONAL"
+  - "Interacción Gravitacional"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

@@ -5,11 +5,17 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "METABOLISMO CELULAR"
-  - "GENÉTICA MOLECULAR"
+  - "Metabolismo celular: anabolismo y catabolismo"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Rendimiento energético del metabolismo aeróbico y anaeróbico"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Metabolismo celular anabolismo y catabolismo|Metabolismo celular: anabolismo y catabolismo]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Rendimiento energético del metabolismo aeróbico y anaeróbico|Rendimiento energético del metabolismo aeróbico y anaeróbico]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda estos dos apartados: (1 punto) 4.1.1. Explique brevemente que es el ATP y qué función tiene en el metabolismo. 4.1.2. Indique en qué orden sucederían las siguientes reacciones metabólicas en "

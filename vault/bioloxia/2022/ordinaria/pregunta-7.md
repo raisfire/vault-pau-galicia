@@ -5,9 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "INMUNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué significa que los virus son “parásitos intracelulares obligados”? b) Explique la estructura de los virus. c) Explique en que consiste el ciclo lítico y el ciclo lisogénico de los virus bacteriófa"

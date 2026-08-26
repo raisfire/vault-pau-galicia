@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "Equilibrio químico"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

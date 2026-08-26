@@ -5,9 +5,11 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Reacciones ácido-base"
+  - "Reacción redox"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

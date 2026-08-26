@@ -5,9 +5,9 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
+  - "Mitosis y meiosis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Mitosis y meiosis|Mitosis y meiosis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué división celular está representada en la figura? Indique unha razón para su respuesta."

@@ -5,9 +5,9 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Termodinámica química"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Termodinámica química|Termodinámica química]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

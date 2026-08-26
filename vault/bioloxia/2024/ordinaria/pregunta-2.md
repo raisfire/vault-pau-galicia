@@ -5,9 +5,9 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique qué tipo de biomolécula está representada en las imágenes, marcadas como 1 y 2, en la figura 2."

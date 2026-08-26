@@ -5,9 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "BIOTECNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

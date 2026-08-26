@@ -5,11 +5,9 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Vibraciones y Ondas"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

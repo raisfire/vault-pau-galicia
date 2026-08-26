@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) ¿Cuál es? B) ¿En qué células está presente y cómo se explica su aparición en estas células? C) Describe el orgánulo con sus componentes. D) ¿Cuál es su función? Figura 1 Figura 3 Figura 2"

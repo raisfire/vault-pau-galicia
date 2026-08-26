@@ -5,9 +5,13 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Cuántica y Relativista"
+  - "Física Nuclear y de Partículas"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique y justifique la respuesta correcta. (1 punto) La longitud de onda en el vacío de la luz emitida por un LED azul es 450 nm. ¿Cuál es la energía de sus fotones?"

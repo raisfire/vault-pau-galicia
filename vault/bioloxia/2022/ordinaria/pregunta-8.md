@@ -5,9 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 8
 tema:
-  - "INMUNOLOGÍA"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. a) La figura 4 ¿representa a una célula eucariota o procariota? Indique dos razones que justifiquen su respuesta. b) Nombre los componentes numerados de la figura."

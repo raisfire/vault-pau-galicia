@@ -5,9 +5,9 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Enzimología: modelos de acción y cinética enzimática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

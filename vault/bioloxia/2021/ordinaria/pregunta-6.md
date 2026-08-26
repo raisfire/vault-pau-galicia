@@ -5,9 +5,9 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

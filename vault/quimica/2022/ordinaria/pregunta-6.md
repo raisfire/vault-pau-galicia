@@ -5,9 +5,9 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Equilibrio químico"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

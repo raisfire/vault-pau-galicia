@@ -5,9 +5,11 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Cite tres orgánulos celulares delimitados por una doble membrana y tres orgánulos rodeados por una membrana simple, señalando además para cada orgánulo una función. b) La teoría endosimbionte explica "

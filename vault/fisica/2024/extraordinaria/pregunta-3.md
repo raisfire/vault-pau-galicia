@@ -5,11 +5,11 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Vibraciones y Ondas"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. La energía mecánica de un oscilador armónico: a) se duplica cuando se duplica la amplitud de la oscilación; b) se duplica cuando se duplica la frecuencia de la oscilación; c) se cuadriplica cuando se "

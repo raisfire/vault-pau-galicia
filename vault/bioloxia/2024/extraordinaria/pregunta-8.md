@@ -5,9 +5,13 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "INMUNOLOGÍA"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique dos tipos celulares que intervienen en esta respuesta y explique su función."

@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Magnético e Inducción Electromagnética"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

@@ -5,9 +5,9 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

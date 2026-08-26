@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Función de los ácidos nucleicos en la expresión génica"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

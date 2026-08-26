@@ -5,9 +5,11 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Enzimología: modelos de acción y cinética enzimática"
+  - "Regulación enzimática: inhibición y alosterismo"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
+  - "[[bioloxia/_temas/Regulación enzimática inhibición y alosterismo|Regulación enzimática: inhibición y alosterismo]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

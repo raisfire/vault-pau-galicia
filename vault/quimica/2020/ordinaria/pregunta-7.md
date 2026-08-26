@@ -5,9 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Reacción redox"
+  - "Equilibrio químico"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

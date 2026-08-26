@@ -5,11 +5,21 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "METABOLISMO CELULAR"
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Enzimología: modelos de acción y cinética enzimática"
+  - "Regulación enzimática: inhibición y alosterismo"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
+  - "[[bioloxia/_temas/Regulación enzimática inhibición y alosterismo|Regulación enzimática: inhibición y alosterismo]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Responda estos tres apartados: (1 punto) 3.1.1. Indique lo que señalan las letras A, B, C, D. 3.1.2. Describa el proceso indicado con los números 1 a 4. 3.1.3. Describa el proceso de inhibición compet"

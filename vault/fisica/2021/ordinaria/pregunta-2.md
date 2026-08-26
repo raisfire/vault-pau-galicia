@@ -5,9 +5,11 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Magnético e Inducción Electromagnética"
+  - "Vibraciones y Ondas"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

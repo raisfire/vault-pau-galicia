@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

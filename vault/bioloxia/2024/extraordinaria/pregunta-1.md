@@ -5,9 +5,9 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Glícidos: clasificación y propiedades"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. La figura 1 representa una biomolécula."

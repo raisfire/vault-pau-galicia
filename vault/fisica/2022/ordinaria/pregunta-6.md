@@ -5,9 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Magnético e Inducción Electromagnética"
+  - "Campo Eléctrico"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

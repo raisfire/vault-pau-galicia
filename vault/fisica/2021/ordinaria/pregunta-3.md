@@ -5,9 +5,11 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Vibraciones y Ondas"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

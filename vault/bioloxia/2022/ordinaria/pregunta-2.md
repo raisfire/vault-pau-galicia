@@ -5,9 +5,15 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Glícidos: clasificación y propiedades"
+  - "Lípidos: clasificación y propiedades"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique las moléculas representadas en la figura 1. b) Las moléculas A, B y C son las unidades básicas de unos polímeros, ¿de cuáles? ¿Mediante qué enlaces se unen cada una de ellas para formar es"

@@ -5,11 +5,15 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
-  - "METABOLISMO CELULAR"
+  - "Lípidos: clasificación y propiedades"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Bioelementos, biomoléculas y salud"
+  - "Glícidos: clasificación y propiedades"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Bioelementos, biomoléculas y salud|Bioelementos, biomoléculas y salud]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. La hidrogenación de las grasas es uno de los procesos habituales en la industria alimentaria. A) ¿Cómo afecta la hidrogenación de las grasas a la estructura química de sus ácidos grasos? B) ¿Qué ocurr"

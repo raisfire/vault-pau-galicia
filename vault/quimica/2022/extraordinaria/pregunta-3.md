@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Reactividad orgánica"
+  - "Enlace químico y fuerzas intermoleculares"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

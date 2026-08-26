@@ -5,9 +5,13 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
+  - "El ciclo celular: fases y regulación"
+  - "Mitosis y meiosis"
+  - "Orgánulos celulares: estructura y funciones"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/El ciclo celular fases y regulación|El ciclo celular: fases y regulación]]"
+  - "[[bioloxia/_temas/Mitosis y meiosis|Mitosis y meiosis]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

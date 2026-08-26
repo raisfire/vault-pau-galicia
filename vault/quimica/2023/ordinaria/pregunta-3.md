@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Reactividad orgánica"
+  - "Isomería"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

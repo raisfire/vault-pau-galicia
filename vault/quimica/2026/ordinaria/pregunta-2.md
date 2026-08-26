@@ -5,9 +5,11 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Equilibrio químico"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Determine si podrá formarse precipitado de BaSO4 en el fondo del vaso de precipitados. (1 punto)"

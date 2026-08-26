@@ -5,9 +5,9 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 5
 tema:
-  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "Equilibrio químico"
 tema_wikilinks:
-  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

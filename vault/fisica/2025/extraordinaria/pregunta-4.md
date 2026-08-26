@@ -5,9 +5,9 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Nuclear y de Partículas"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique y justifique la respuesta correcta. (1 punto) Se iluminan con luz verde de longitud de onda 0,55 m una superficie de sodio y otra de potasio. Sabiendo que la frecuencia umbral del sodio es 5,6"

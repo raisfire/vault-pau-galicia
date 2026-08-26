@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  - "Enlace químico y fuerzas intermoleculares"
+  - "Principios cuánticos de la estructura atómica"
 tema_wikilinks:
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
+  - "[[quimica/_temas/Principios cuánticos de la estructura atómica|Principios cuánticos de la estructura atómica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

@@ -4,7 +4,12 @@ asignatura: "Química"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "Equilibrio químico"
+  - "Enlace químico y fuerzas intermoleculares"
+tema_wikilinks:
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:
   - "3.2. Empleando la teoría de repulsión de pares de electrones de la capa de valencia (TRPECV) razone cuál será la geometría y la polaridad de las moléculas BeI2 y CHCl3."

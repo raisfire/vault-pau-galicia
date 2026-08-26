@@ -5,11 +5,13 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "BIOTECNOLOGÍA"
-  - "INMUNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Inmunidad artificial y natural, pasiva y activa"
+  - "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
+  - "[[bioloxia/_temas/Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)|Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Copie la tabla adjunta y rellene las casillas indicando las características de cada grupo de microorganismos."

@@ -5,11 +5,13 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "REACCIONES QUÍMICAS"
-  - "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA"
+  - "Reacciones ácido-base"
+  - "Enlace químico y fuerzas intermoleculares"
+  - "Tabla periódica y propiedades de los átomos"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
-  - "[[quimica/_temas/ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA|ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
+  - "[[quimica/_temas/Enlace químico y fuerzas intermoleculares|Enlace químico y fuerzas intermoleculares]]"
+  - "[[quimica/_temas/Tabla periódica y propiedades de los átomos|Tabla periódica y propiedades de los átomos]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Una disolución de un ácido débil HA de concentración 0,02 M tiene una constante de ionización Ka= 3∙10-6: 4.1.1. Calcule las concentraciones en el equilibrio de todas las especies. (1 punto) 4.1.2. De"

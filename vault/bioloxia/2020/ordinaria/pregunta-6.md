@@ -5,9 +5,13 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

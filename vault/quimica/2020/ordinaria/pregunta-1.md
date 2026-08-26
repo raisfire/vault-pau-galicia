@@ -4,7 +4,12 @@ asignatura: "Química"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 1
-tema: []
+tema:
+  - "Isomería"
+  - "Reactividad orgánica"
+tema_wikilinks:
+  - "[[quimica/_temas/Isomería|Isomería]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:
   - "1.2. Complete las siguientes reacciones, identificando el tipo de reacción y nombrando los compuestos orgánicos que se forman: CH3-CH2-COOH + CH3-CH2OH → ________ + _______ CH4 + Cl2 → ______ + _______"

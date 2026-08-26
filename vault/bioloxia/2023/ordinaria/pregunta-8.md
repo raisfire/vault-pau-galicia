@@ -5,11 +5,15 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 8
 tema:
-  - "BIOTECNOLOGÍA"
-  - "INMUNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. A) Indique a qué grupo de microorganismos pertenecen Lactobacillus y Saccharomyces y explique brevemente la reacción en la que participan y una aplicación de cada uno de estos microorganismos en proce"

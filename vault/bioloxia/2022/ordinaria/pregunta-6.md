@@ -5,9 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) ¿Qué proceso aparece representado en la figura 3? Identifique los extremos y las moléculas señaladas con letras."

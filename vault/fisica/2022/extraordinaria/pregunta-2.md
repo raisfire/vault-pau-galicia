@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

@@ -5,9 +5,9 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

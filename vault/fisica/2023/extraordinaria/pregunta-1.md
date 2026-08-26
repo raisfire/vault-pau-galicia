@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Nuclear y de Partículas"
+  - "Interacción Gravitacional"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

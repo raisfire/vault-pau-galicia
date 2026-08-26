@@ -5,9 +5,9 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 8
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

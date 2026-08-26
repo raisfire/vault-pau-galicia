@@ -5,11 +5,9 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

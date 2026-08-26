@@ -5,9 +5,9 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Glícidos: clasificación y propiedades"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Nombre qué dos polisacáridos podrían estar representados mediante el esquema de la figura 1. b) Nombre el componente incluido en el recuadro y los enlaces (1 y 2) señalados con las flechas. c) Expliqu"

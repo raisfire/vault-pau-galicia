@@ -4,7 +4,12 @@ asignatura: "Química"
 año: 2020
 convocatoria: ordinaria
 numero_pregunta: 8
-tema: []
+tema:
+  - "Reacción redox"
+  - "Termodinámica química"
+tema_wikilinks:
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
+  - "[[quimica/_temas/Termodinámica química|Termodinámica química]]"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:
   - "8.2. Escriba las semirreacciones que se producen en el ánodo y en el cátodo e indique sus polaridades. Escriba la reacción iónica global y calcule la fuerza electromotriz de la pila. Datos: R= 8,31 J·K-1·m"

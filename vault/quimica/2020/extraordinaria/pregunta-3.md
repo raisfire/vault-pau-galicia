@@ -5,9 +5,11 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Cinética química"
+  - "Isomería"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Cinética química|Cinética química]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

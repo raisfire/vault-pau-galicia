@@ -5,11 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Óptica"
+  - "Campo Magnético e Inducción Electromagnética"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

@@ -5,9 +5,13 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "REACCIONES QUÍMICAS"
+  - "Reacciones ácido-base"
+  - "Reacción redox"
+  - "Reactividad orgánica"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
+  - "[[quimica/_temas/Reacción redox|Reacción redox]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

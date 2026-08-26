@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Bioelementos: concepto, tipos, propiedades y funciones"
+  - "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Bioelementos concepto, tipos, propiedades y funciones|Bioelementos: concepto, tipos, propiedades y funciones]]"
+  - "[[bioloxia/_temas/Biomoléculas inorgánicas el agua, las sales minerales y la ósmosis|Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Haga un cuadro que relacione cuatro propiedades del agua con cuatro de las funciones que realiza en los seres vivos."

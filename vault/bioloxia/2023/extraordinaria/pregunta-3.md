@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "METABOLISMO CELULAR"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

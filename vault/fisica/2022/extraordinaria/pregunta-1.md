@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITACIONAL"
+  - "Interacción Gravitacional"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

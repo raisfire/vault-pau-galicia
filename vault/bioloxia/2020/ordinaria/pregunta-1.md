@@ -5,9 +5,15 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Biomoléculas orgánicas: concepto, clasificación y funciones"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "Lípidos: clasificación y propiedades"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Biomoléculas orgánicas concepto, clasificación y funciones|Biomoléculas orgánicas: concepto, clasificación y funciones]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique las biomoléculas A, B y C de la figura 1. b) ¿Cómo se denominan los monómeros que forman las proteínas, mediante qué enlaces se unen y que grupos intervienen en el enlace? c) Indica cuáles"

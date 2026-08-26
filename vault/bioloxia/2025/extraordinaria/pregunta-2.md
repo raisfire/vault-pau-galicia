@@ -5,11 +5,17 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "LA CÉLULA"
-  - "GENÉTICA MOLECULAR"
+  - "Célula procariota y eucariota: diferenciación morfológica y estructural"
+  - "Orgánulos celulares: estructura y funciones"
+  - "El ciclo celular: fases y regulación"
+  - "Mitosis y meiosis"
+  - "Expresión génica: replicación, transcripción y traducción"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Célula procariota y eucariota diferenciación morfológica y estructural|Célula procariota y eucariota: diferenciación morfológica y estructural]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/El ciclo celular fases y regulación|El ciclo celular: fases y regulación]]"
+  - "[[bioloxia/_temas/Mitosis y meiosis|Mitosis y meiosis]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. A) Indique el nombre y la función de las estructuras marcadas con números (1-7) en la figura."

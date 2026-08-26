@@ -5,11 +5,11 @@ año: 2022
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Óptica"
+  - "Física Nuclear y de Partículas"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

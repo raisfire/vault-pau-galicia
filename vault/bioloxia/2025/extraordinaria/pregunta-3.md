@@ -5,11 +5,19 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
-  - "METABOLISMO CELULAR"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Respiración anaerobia: glucólisis y fermentación"
+  - "Enzimología: modelos de acción y cinética enzimática"
+  - "Regulación enzimática: inhibición y alosterismo"
+  - "Glícidos: clasificación y propiedades"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Respiración anaerobia glucólisis y fermentación|Respiración anaerobia: glucólisis y fermentación]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
+  - "[[bioloxia/_temas/Regulación enzimática inhibición y alosterismo|Regulación enzimática: inhibición y alosterismo]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. A) Indique el nombre del orgánulo de la figura y su principal función."

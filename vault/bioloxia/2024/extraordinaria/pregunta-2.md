@@ -5,9 +5,11 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Biomoléculas orgánicas: concepto, clasificación y funciones"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Biomoléculas orgánicas concepto, clasificación y funciones|Biomoléculas orgánicas: concepto, clasificación y funciones]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. A) ¿Qué nombre recibe el enlace representado en la figura 2?"

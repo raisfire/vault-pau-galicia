@@ -5,9 +5,11 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Magnético e Inducción Electromagnética"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

@@ -5,9 +5,9 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados: []

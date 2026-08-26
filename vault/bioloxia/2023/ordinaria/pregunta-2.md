@@ -5,9 +5,11 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 2
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Lípidos: clasificación y propiedades"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados:
   - "2.1. A) ¿Qué significa, desde el punto de vista biológico, el hecho de que los ácidos grados sean moléculas con un comportamiento anfipático?"

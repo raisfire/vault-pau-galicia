@@ -5,11 +5,15 @@ año: 2021
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "INMUNOLOGÍA"
-  - "BIOTECNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)|Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Identifique los microorganismos representados con las letras A y B. Identifique las estructuras numeradas del 1 al 5. Indique el tipo de ácido nucleico que suele tener el genoma de cada uno de estos m"

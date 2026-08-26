@@ -5,11 +5,15 @@ año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "METABOLISMO CELULAR"
-  - "LA CÉLULA"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "El ciclo celular: fases y regulación"
+  - "Ácidos nucleicos: estructura y tipos"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/El ciclo celular fases y regulación|El ciclo celular: fases y regulación]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1 Indique cinco diferencias entre la fotosíntesis y la respiración celular."

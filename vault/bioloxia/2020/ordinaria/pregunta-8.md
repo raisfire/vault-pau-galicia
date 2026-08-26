@@ -5,9 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 8
 tema:
-  - "INMUNOLOGÍA"
+  - "Inmunidad artificial y natural, pasiva y activa"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

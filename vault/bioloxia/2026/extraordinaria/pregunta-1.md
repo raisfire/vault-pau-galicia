@@ -5,11 +5,19 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 1
 tema:
-  - "GENÉTICA MOLECULAR"
-  - "METABOLISMO CELULAR"
+  - "Mutaciones, evolución y biodiversidad"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Proteínas: clasificación, propiedades y función enzimática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. En el texto se menciona un tipo de mutación. Indique si se trata de una mutación génica, cromosómica estructural o genómica. Justifique su respuesta."

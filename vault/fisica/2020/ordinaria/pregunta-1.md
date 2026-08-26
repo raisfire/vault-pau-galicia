@@ -5,9 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "INTERACCIÓN GRAVITACIONAL"
+  - "Interacción Gravitacional"
+  - "Campo Eléctrico"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN GRAVITACIONAL|INTERACCIÓN GRAVITACIONAL]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

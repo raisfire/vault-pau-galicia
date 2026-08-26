@@ -5,9 +5,11 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Cuántica y Relativista"
+  - "Óptica"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

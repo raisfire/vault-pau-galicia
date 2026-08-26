@@ -5,9 +5,17 @@ año: 2021
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "METABOLISMO CELULAR"
+  - "Metabolismo celular: anabolismo y catabolismo"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Respiración anaerobia: glucólisis y fermentación"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
+  - "Rendimiento energético del metabolismo aeróbico y anaeróbico"
 tema_wikilinks:
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Metabolismo celular anabolismo y catabolismo|Metabolismo celular: anabolismo y catabolismo]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Respiración anaerobia glucólisis y fermentación|Respiración anaerobia: glucólisis y fermentación]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
+  - "[[bioloxia/_temas/Rendimiento energético del metabolismo aeróbico y anaeróbico|Rendimiento energético del metabolismo aeróbico y anaeróbico]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Relacione los procesos de respiración, fermentación, fotosíntesis y glucolisis con las letras A, B, C y D de la figura 4, justifique brevemente su respuesta."

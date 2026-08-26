@@ -5,11 +5,25 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "INMUNOLOGÍA"
-  - "BIOTECNOLOGÍA"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
+  - "Inmunidad artificial y natural, pasiva y activa"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

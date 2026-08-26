@@ -5,9 +5,13 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Mutaciones, evolución y biodiversidad"
+  - "Función de los ácidos nucleicos en la expresión génica"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Escriba la secuencia de nucleótidos del ARNm del que se tradujo, indicando los extremos 5´e 3´."

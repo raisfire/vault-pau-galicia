@@ -5,9 +5,13 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 7
 tema:
-  - "BIOTECNOLOGÍA"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "El papel de los microorganismos en la biotecnología"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
 puntuacion: "2 puntos"
 apartados:
   - "7.1. A) Explique brevemente la tecnología que está representada en la figura 8 e indique una de sus aplicaciones en salud."

@@ -5,11 +5,29 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "INMUNOLOGÍA"
-  - "BIOTECNOLOGÍA"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Lípidos: clasificación y propiedades"
+  - "Mecanismos de transporte a través de la membrana plasmática"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
+  - "Inmunidad artificial y natural, pasiva y activa"
+  - "Mutaciones, evolución y biodiversidad"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Mecanismos de transporte a través de la membrana plasmática|Mecanismos de transporte a través de la membrana plasmática]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Indique, a partir de la información del texto, tres tipos de vacunas, aparte de las basadas en ARNm."

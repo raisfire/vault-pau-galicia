@@ -5,11 +5,19 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
-  - "METABOLISMO CELULAR"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Metabolismo celular: anabolismo y catabolismo"
+  - "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)"
+  - "Respiración anaerobia: glucólisis y fermentación"
+  - "Anabolismo autótrofo: fotosíntesis y quimiosíntesis"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/METABOLISMO CELULAR|METABOLISMO CELULAR]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Metabolismo celular anabolismo y catabolismo|Metabolismo celular: anabolismo y catabolismo]]"
+  - "[[bioloxia/_temas/Catabolismo respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)|Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)]]"
+  - "[[bioloxia/_temas/Respiración anaerobia glucólisis y fermentación|Respiración anaerobia: glucólisis y fermentación]]"
+  - "[[bioloxia/_temas/Anabolismo autótrofo fotosíntesis y quimiosíntesis|Anabolismo autótrofo: fotosíntesis y quimiosíntesis]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Indique una función de cada uno de los siguientes orgánulos o estructuras: aparato de Golgi, centrosoma, cloroplasto, lisosoma, mitocondria, nucleolo, peroxisoma, retículo endoplasmático liso, ribosom"

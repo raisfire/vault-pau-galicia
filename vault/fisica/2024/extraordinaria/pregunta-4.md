@@ -5,9 +5,9 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 puntuacion: "2 puntos"
 apartados:
   - "b) Deduzca el valor de la constante de Planck a partir de la gráfica. DATO: |qe| = 1,6×10−19 C."

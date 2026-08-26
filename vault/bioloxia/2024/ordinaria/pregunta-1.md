@@ -5,9 +5,13 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis"
+  - "Vitaminas como cofactores enzimáticos"
+  - "Bioelementos, biomoléculas y salud"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Biomoléculas inorgánicas el agua, las sales minerales y la ósmosis|Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis]]"
+  - "[[bioloxia/_temas/Vitaminas como cofactores enzimáticos|Vitaminas como cofactores enzimáticos]]"
+  - "[[bioloxia/_temas/Bioelementos, biomoléculas y salud|Bioelementos, biomoléculas y salud]]"
 puntuacion: "2 puntos"
 apartados:
   - "1.1. A) ¿Qué molécula está representada en la figura 1? Explique su estructura molecular."

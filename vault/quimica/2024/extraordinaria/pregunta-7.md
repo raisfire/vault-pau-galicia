@@ -5,9 +5,11 @@ año: 2024
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "DESTREZAS BÁSICAS DE LA QUÍMICA"
+  - "Termodinámica química"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/DESTREZAS BÁSICAS DE LA QUÍMICA|DESTREZAS BÁSICAS DE LA QUÍMICA]]"
+  - "[[quimica/_temas/Termodinámica química|Termodinámica química]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

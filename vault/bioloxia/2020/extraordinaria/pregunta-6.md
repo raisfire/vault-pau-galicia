@@ -5,9 +5,11 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 6
 tema:
-  - "GENÉTICA MOLECULAR"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Mutaciones, evolución y biodiversidad"
 tema_wikilinks:
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Mutaciones, evolución y biodiversidad|Mutaciones, evolución y biodiversidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Un hombre daltónico tiene hijos con una mujer con visión normal pero portadora de daltonismo. ¿Cómo serán los genotipos de los hijos? ¿Qué probabilidad hay de que tengan un varón y que sea daltónico? "

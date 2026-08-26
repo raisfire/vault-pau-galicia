@@ -5,11 +5,17 @@ año: 2025
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
-  - "GENÉTICA MOLECULAR"
+  - "Ácidos nucleicos: estructura y tipos"
+  - "Función de los ácidos nucleicos en la expresión génica"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Regulación de la expresión génica en procariotas y eucariotas"
+  - "Orgánulos celulares: estructura y funciones"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/GENÉTICA MOLECULAR|GENÉTICA MOLECULAR]]"
+  - "[[bioloxia/_temas/Ácidos nucleicos estructura y tipos|Ácidos nucleicos: estructura y tipos]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Regulación de la expresión génica en procariotas y eucariotas|Regulación de la expresión génica en procariotas y eucariotas]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Tenemos dos moléculas de ADN (I y II) de doble cadena y de la misma longitud. Sometemos a ambas a altas temperaturas y observamos que el ADN I se desnaturaliza antes que el ADN II ¿Cuál de las dos mol"

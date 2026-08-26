@@ -5,9 +5,13 @@ año: 2020
 convocatoria: ordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Expresión génica: replicación, transcripción y traducción"
+  - "Función de los ácidos nucleicos en la expresión génica"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Expresión génica replicación, transcripción y traducción|Expresión génica: replicación, transcripción y traducción]]"
+  - "[[bioloxia/_temas/Función de los ácidos nucleicos en la expresión génica|Función de los ácidos nucleicos en la expresión génica]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

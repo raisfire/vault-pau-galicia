@@ -5,11 +5,21 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 4
 tema:
-  - "LA CÉLULA"
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Envolturas celulares: membrana plasmática, matriz extracelular y pared celular"
+  - "Mecanismos de transporte a través de la membrana plasmática"
+  - "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis"
+  - "Glícidos: clasificación y propiedades"
+  - "Lípidos: clasificación y propiedades"
+  - "Proteínas: clasificación, propiedades y función enzimática"
+  - "Enzimología: modelos de acción y cinética enzimática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Envolturas celulares membrana plasmática, matriz extracelular y pared celular|Envolturas celulares: membrana plasmática, matriz extracelular y pared celular]]"
+  - "[[bioloxia/_temas/Mecanismos de transporte a través de la membrana plasmática|Mecanismos de transporte a través de la membrana plasmática]]"
+  - "[[bioloxia/_temas/Biomoléculas inorgánicas el agua, las sales minerales y la ósmosis|Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis]]"
+  - "[[bioloxia/_temas/Glícidos clasificación y propiedades|Glícidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Lípidos clasificación y propiedades|Lípidos: clasificación y propiedades]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "4.1. Responda estos tres apartados: (1 punto) 4.1.1. Explique cómo se disponen las proteínas, fosfolípidos, colesterol y glúcidos en la membrana plasmática según el modelo de mosaico fluido. 4.1.2. La memb"

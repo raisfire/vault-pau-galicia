@@ -5,11 +5,17 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA CÉLULA"
-  - "BIOTECNOLOGÍA"
+  - "Mecanismos de transporte a través de la membrana plasmática"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Aplicaciones de la biotecnología (salud, agricultura, industria)"
+  - "El papel de los microorganismos en la biotecnología"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
+  - "[[bioloxia/_temas/Mecanismos de transporte a través de la membrana plasmática|Mecanismos de transporte a través de la membrana plasmática]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Aplicaciones de la biotecnología (salud, agricultura, industria)|Aplicaciones de la biotecnología (salud, agricultura, industria)]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "1.1. Identifique en el texto un mecanismo de transporte a través de la membrana. Explíquelo brevemente, haciendo referencia a su relación funcional con los lisosomas. Explique brevemente dos mecanismos de "

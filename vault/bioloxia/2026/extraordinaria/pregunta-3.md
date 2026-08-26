@@ -5,11 +5,21 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "LA CÉLULA"
-  - "INMUNOLOGÍA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "Envolturas celulares: membrana plasmática, matriz extracelular y pared celular"
+  - "Inmunidad: barreras externas y defensas inespecíficas"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
+  - "Inmunidad artificial y natural, pasiva y activa"
+  - "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/Envolturas celulares membrana plasmática, matriz extracelular y pared celular|Envolturas celulares: membrana plasmática, matriz extracelular y pared celular]]"
+  - "[[bioloxia/_temas/Inmunidad barreras externas y defensas inespecíficas|Inmunidad: barreras externas y defensas inespecíficas]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
+  - "[[bioloxia/_temas/Inmunidad artificial y natural, pasiva y activa|Inmunidad artificial y natural, pasiva y activa]]"
+  - "[[bioloxia/_temas/Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)|Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Responda estos tres apartados: (1 punto) 3.1.1. Identifique el orgánulo que se observa en la imagen. Indique en qué tipo de células se encuentra este orgánulo y cuál es su principal función. 3.1.2. In"

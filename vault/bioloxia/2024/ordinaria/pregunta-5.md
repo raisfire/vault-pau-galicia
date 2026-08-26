@@ -5,9 +5,13 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 5
 tema:
-  - "LA CÉLULA"
+  - "Orgánulos celulares: estructura y funciones"
+  - "El ciclo celular: fases y regulación"
+  - "Estilos de vida saludables y prevención del cáncer"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA CÉLULA|LA CÉLULA]]"
+  - "[[bioloxia/_temas/Orgánulos celulares estructura y funciones|Orgánulos celulares: estructura y funciones]]"
+  - "[[bioloxia/_temas/El ciclo celular fases y regulación|El ciclo celular: fases y regulación]]"
+  - "[[bioloxia/_temas/Estilos de vida saludables y prevención del cáncer|Estilos de vida saludables y prevención del cáncer]]"
 puntuacion: "2 puntos"
 apartados:
   - "5.1. La figura 6 representa un sistema de endomembranas de una célula eucariota."

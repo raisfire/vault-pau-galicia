@@ -5,9 +5,11 @@ año: 2025
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Magnético e Inducción Electromagnética"
+  - "Campo Eléctrico"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Magnético e Inducción Electromagnética|Campo Magnético e Inducción Electromagnética]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Indique y justifique la respuesta correcta. (1 punto) Una espira conductora plana se sitúa en el seno de un campo magnético uniforme. El flujo magnético a través de ella será máximo si: a) disminuye l"

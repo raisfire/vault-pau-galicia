@@ -5,9 +5,11 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 7
 tema:
-  - "INMUNOLOGÍA"
+  - "Fases de las enfermedades infecciosas"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/Fases de las enfermedades infecciosas|Fases de las enfermedades infecciosas]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) ¿Qué son los priones? B) Cite una enfermedad infecciosa producida por cada uno de los siguientes tipos de microorganismos: hongos, bacterias, virus y protozoos. C) ¿Cuál es la principal diferencia ent"

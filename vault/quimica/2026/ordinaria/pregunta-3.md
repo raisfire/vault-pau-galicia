@@ -5,11 +5,15 @@ año: 2026
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "REACCIONES QUÍMICAS"
-  - "QUÍMICA ORGÁNICA"
+  - "Equilibrio químico"
+  - "Cinética química"
+  - "Isomería"
+  - "Reactividad orgánica"
 tema_wikilinks:
-  - "[[quimica/_temas/REACCIONES QUÍMICAS|REACCIONES QUÍMICAS]]"
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Equilibrio químico|Equilibrio químico]]"
+  - "[[quimica/_temas/Cinética química|Cinética química]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. En un reactor de 30 L se introducen 160 g de CO2 y cierta cantidad que se desconoce de H2S. Cuando se alcanza la temperatura de 500 °C, se establece el siguiente equilibrio, siendo en ese instante la "

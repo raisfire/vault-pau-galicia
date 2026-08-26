@@ -5,9 +5,11 @@ año: 2020
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Vibraciones y Ondas"
+  - "Física Nuclear y de Partículas"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
+  - "[[fisica/_temas/Física Nuclear y de Partículas|Física Nuclear y de Partículas]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos"
 apartados:

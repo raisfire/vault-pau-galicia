@@ -5,9 +5,17 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 2
 tema:
-  - "INTERACCIÓN ELECTROMAGNÉTICA"
+  - "Campo Eléctrico"
+  - "Interacción Gravitacional"
+  - "Vibraciones y Ondas"
+  - "Óptica"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/INTERACCIÓN ELECTROMAGNÉTICA|INTERACCIÓN ELECTROMAGNÉTICA]]"
+  - "[[fisica/_temas/Campo Eléctrico|Campo Eléctrico]]"
+  - "[[fisica/_temas/Interacción Gravitacional|Interacción Gravitacional]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "2.1. Resuelva esta cuestión. (1 punto) Dos hilos de corriente eléctrica paralelos y de gran longitud están separados entre sí una distancia d. La corriente que circula por el primer hilo es de 2A dirigida "

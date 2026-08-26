@@ -5,11 +5,15 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 8
 tema:
-  - "BIOTECNOLOGÍA"
-  - "INMUNOLOGÍA"
+  - "El papel de los microorganismos en la biotecnología"
+  - "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)"
+  - "Inmunidad innata y específica"
+  - "Inmunidad humoral y celular"
 tema_wikilinks:
-  - "[[bioloxia/_temas/BIOTECNOLOGÍA|BIOTECNOLOGÍA]]"
-  - "[[bioloxia/_temas/INMUNOLOGÍA|INMUNOLOGÍA]]"
+  - "[[bioloxia/_temas/El papel de los microorganismos en la biotecnología|El papel de los microorganismos en la biotecnología]]"
+  - "[[bioloxia/_temas/Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)|Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)]]"
+  - "[[bioloxia/_temas/Inmunidad innata y específica|Inmunidad innata y específica]]"
+  - "[[bioloxia/_temas/Inmunidad humoral y celular|Inmunidad humoral y celular]]"
 puntuacion: "2 puntos"
 apartados:
   - "8.1. A) Explique brevemente la participación de los microorganismos en el ciclo biogeoquímico del nitrógeno y su importancia. B) Describa brevemente cómo se puede llevar a cabo la producción de una proteín"

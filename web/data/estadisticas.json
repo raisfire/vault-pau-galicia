@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T12:41:36",
+ "generado": "2026-08-26T13:14:33",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -39,34 +39,209 @@
    "total_preguntas_historico_2010_2019": 179,
    "temas": [
     {
-     "tema": "LA BASE MOLECULAR DE LA MATERIA VIVA",
-     "n": 84,
-     "pct_preguntas": 30.5
+     "tema": "Expresión génica: replicación, transcripción y traducción",
+     "n": 77,
+     "pct_preguntas": 28.0
     },
     {
-     "tema": "LA CÉLULA",
-     "n": 79,
-     "pct_preguntas": 28.7
+     "tema": "Orgánulos celulares: estructura y funciones",
+     "n": 56,
+     "pct_preguntas": 20.4
     },
     {
-     "tema": "GENÉTICA MOLECULAR",
-     "n": 79,
-     "pct_preguntas": 28.7
+     "tema": "Ácidos nucleicos: estructura y tipos",
+     "n": 52,
+     "pct_preguntas": 18.9
     },
     {
-     "tema": "METABOLISMO CELULAR",
-     "n": 60,
-     "pct_preguntas": 21.8
+     "tema": "Mutaciones, evolución y biodiversidad",
+     "n": 44,
+     "pct_preguntas": 16.0
     },
     {
-     "tema": "INMUNOLOGÍA",
-     "n": 45,
-     "pct_preguntas": 16.4
+     "tema": "Proteínas: clasificación, propiedades y función enzimática",
+     "n": 41,
+     "pct_preguntas": 14.9
     },
     {
-     "tema": "BIOTECNOLOGÍA",
+     "tema": "Anabolismo autótrofo: fotosíntesis y quimiosíntesis",
+     "n": 39,
+     "pct_preguntas": 14.2
+    },
+    {
+     "tema": "Célula procariota y eucariota: diferenciación morfológica y estructural",
+     "n": 39,
+     "pct_preguntas": 14.2
+    },
+    {
+     "tema": "Inmunidad innata y específica",
+     "n": 35,
+     "pct_preguntas": 12.7
+    },
+    {
+     "tema": "Catabolismo: respiración aerobia (glucólisis, ciclo de Krebs, cadena respiratoria)",
      "n": 34,
      "pct_preguntas": 12.4
+    },
+    {
+     "tema": "Lípidos: clasificación y propiedades",
+     "n": 33,
+     "pct_preguntas": 12.0
+    },
+    {
+     "tema": "El papel de los microorganismos en la biotecnología",
+     "n": 30,
+     "pct_preguntas": 10.9
+    },
+    {
+     "tema": "Inmunidad humoral y celular",
+     "n": 30,
+     "pct_preguntas": 10.9
+    },
+    {
+     "tema": "Glícidos: clasificación y propiedades",
+     "n": 28,
+     "pct_preguntas": 10.2
+    },
+    {
+     "tema": "Función de los ácidos nucleicos en la expresión génica",
+     "n": 27,
+     "pct_preguntas": 9.8
+    },
+    {
+     "tema": "Mitosis y meiosis",
+     "n": 26,
+     "pct_preguntas": 9.5
+    },
+    {
+     "tema": "Técnicas de ingeniería genética (PCR, enzimas de restricción, CRISPR-Cas9)",
+     "n": 24,
+     "pct_preguntas": 8.7
+    },
+    {
+     "tema": "Respiración anaerobia: glucólisis y fermentación",
+     "n": 23,
+     "pct_preguntas": 8.4
+    },
+    {
+     "tema": "Inmunidad artificial y natural, pasiva y activa",
+     "n": 23,
+     "pct_preguntas": 8.4
+    },
+    {
+     "tema": "Envolturas celulares: membrana plasmática, matriz extracelular y pared celular",
+     "n": 20,
+     "pct_preguntas": 7.3
+    },
+    {
+     "tema": "Inmunidad: barreras externas y defensas inespecíficas",
+     "n": 19,
+     "pct_preguntas": 6.9
+    },
+    {
+     "tema": "Mecanismos de transporte a través de la membrana plasmática",
+     "n": 19,
+     "pct_preguntas": 6.9
+    },
+    {
+     "tema": "Aplicaciones de la biotecnología (salud, agricultura, industria)",
+     "n": 18,
+     "pct_preguntas": 6.5
+    },
+    {
+     "tema": "Biomoléculas inorgánicas: el agua, las sales minerales y la ósmosis",
+     "n": 17,
+     "pct_preguntas": 6.2
+    },
+    {
+     "tema": "Enzimología: modelos de acción y cinética enzimática",
+     "n": 17,
+     "pct_preguntas": 6.2
+    },
+    {
+     "tema": "Metabolismo celular: anabolismo y catabolismo",
+     "n": 13,
+     "pct_preguntas": 4.7
+    },
+    {
+     "tema": "El ciclo celular: fases y regulación",
+     "n": 12,
+     "pct_preguntas": 4.4
+    },
+    {
+     "tema": "Patologías del sistema inmunitario (inmunodeficiencia, hipersensibilidad, autoinmunidad)",
+     "n": 11,
+     "pct_preguntas": 4.0
+    },
+    {
+     "tema": "Biomoléculas orgánicas: concepto, clasificación y funciones",
+     "n": 8,
+     "pct_preguntas": 2.9
+    },
+    {
+     "tema": "Fases de las enfermedades infecciosas",
+     "n": 8,
+     "pct_preguntas": 2.9
+    },
+    {
+     "tema": "Regulación enzimática: inhibición y alosterismo",
+     "n": 6,
+     "pct_preguntas": 2.2
+    },
+    {
+     "tema": "Bioelementos, biomoléculas y salud",
+     "n": 5,
+     "pct_preguntas": 1.8
+    },
+    {
+     "tema": "Técnicas de microscopía y observación celular",
+     "n": 5,
+     "pct_preguntas": 1.8
+    },
+    {
+     "tema": "Rendimiento energético del metabolismo aeróbico y anaeróbico",
+     "n": 4,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "Anabolismo heterótrofo: síntesis de biomoléculas",
+     "n": 4,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "Bioelementos: concepto, tipos, propiedades y funciones",
+     "n": 4,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "Teoría celular",
+     "n": 3,
+     "pct_preguntas": 1.1
+    },
+    {
+     "tema": "Vitaminas como cofactores enzimáticos",
+     "n": 2,
+     "pct_preguntas": 0.7
+    },
+    {
+     "tema": "Regulación de la expresión génica en procariotas y eucariotas",
+     "n": 2,
+     "pct_preguntas": 0.7
+    },
+    {
+     "tema": "Importancia biológica de los procesos anabólicos",
+     "n": 1,
+     "pct_preguntas": 0.4
+    },
+    {
+     "tema": "Estilos de vida saludables y prevención del cáncer",
+     "n": 1,
+     "pct_preguntas": 0.4
+    },
+    {
+     "tema": "El cáncer y su relación con el ciclo celular y las mutaciones",
+     "n": 1,
+     "pct_preguntas": 0.4
     }
    ]
   },
@@ -77,29 +252,39 @@
    "total_preguntas_historico_2010_2019": 247,
    "temas": [
     {
-     "tema": "VIBRACIÓNS E ONDAS",
-     "n": 87,
-     "pct_preguntas": 25.4
+     "tema": "Vibraciones y Ondas",
+     "n": 84,
+     "pct_preguntas": 24.5
     },
     {
-     "tema": "INTERACCIÓN ELECTROMAGNÉTICA",
-     "n": 86,
-     "pct_preguntas": 25.1
+     "tema": "Óptica",
+     "n": 77,
+     "pct_preguntas": 22.4
     },
     {
-     "tema": "ÓPTICA",
-     "n": 71,
-     "pct_preguntas": 20.7
+     "tema": "Interacción Gravitacional",
+     "n": 65,
+     "pct_preguntas": 19.0
     },
     {
-     "tema": "FÍSICA DEL SIGLO XX",
-     "n": 68,
-     "pct_preguntas": 19.8
+     "tema": "Campo Eléctrico",
+     "n": 58,
+     "pct_preguntas": 16.9
     },
     {
-     "tema": "INTERACCIÓN GRAVITACIONAL",
-     "n": 60,
-     "pct_preguntas": 17.5
+     "tema": "Campo Magnético e Inducción Electromagnética",
+     "n": 48,
+     "pct_preguntas": 14.0
+    },
+    {
+     "tema": "Física Cuántica y Relativista",
+     "n": 44,
+     "pct_preguntas": 12.8
+    },
+    {
+     "tema": "Física Nuclear y de Partículas",
+     "n": 35,
+     "pct_preguntas": 10.2
     }
    ]
   },
@@ -361,24 +546,54 @@
    "total_preguntas_historico_2010_2019": 214,
    "temas": [
     {
-     "tema": "REACCIONES QUÍMICAS",
-     "n": 175,
-     "pct_preguntas": 56.5
+     "tema": "Reacciones ácido-base",
+     "n": 87,
+     "pct_preguntas": 28.1
     },
     {
-     "tema": "DESTREZAS BÁSICAS DE LA QUÍMICA",
-     "n": 122,
-     "pct_preguntas": 39.4
+     "tema": "Reacción redox",
+     "n": 77,
+     "pct_preguntas": 24.8
     },
     {
-     "tema": "ENLACE QUÍMICO Y ESTRUCTURA DE LA MATERIA",
-     "n": 66,
-     "pct_preguntas": 21.3
+     "tema": "Equilibrio químico",
+     "n": 71,
+     "pct_preguntas": 22.9
     },
     {
-     "tema": "QUÍMICA ORGÁNICA",
-     "n": 37,
-     "pct_preguntas": 11.9
+     "tema": "Enlace químico y fuerzas intermoleculares",
+     "n": 48,
+     "pct_preguntas": 15.5
+    },
+    {
+     "tema": "Tabla periódica y propiedades de los átomos",
+     "n": 32,
+     "pct_preguntas": 10.3
+    },
+    {
+     "tema": "Termodinámica química",
+     "n": 30,
+     "pct_preguntas": 9.7
+    },
+    {
+     "tema": "Reactividad orgánica",
+     "n": 28,
+     "pct_preguntas": 9.0
+    },
+    {
+     "tema": "Isomería",
+     "n": 23,
+     "pct_preguntas": 7.4
+    },
+    {
+     "tema": "Principios cuánticos de la estructura atómica",
+     "n": 18,
+     "pct_preguntas": 5.8
+    },
+    {
+     "tema": "Cinética química",
+     "n": 11,
+     "pct_preguntas": 3.5
     }
    ]
   },

@@ -5,9 +5,13 @@ año: 2023
 convocatoria: ordinaria
 numero_pregunta: 1
 tema:
-  - "LA BASE MOLECULAR DE LA MATERIA VIVA"
+  - "Enzimología: modelos de acción y cinética enzimática"
+  - "Regulación enzimática: inhibición y alosterismo"
+  - "Proteínas: clasificación, propiedades y función enzimática"
 tema_wikilinks:
-  - "[[bioloxia/_temas/LA BASE MOLECULAR DE LA MATERIA VIVA|LA BASE MOLECULAR DE LA MATERIA VIVA]]"
+  - "[[bioloxia/_temas/Enzimología modelos de acción y cinética enzimática|Enzimología: modelos de acción y cinética enzimática]]"
+  - "[[bioloxia/_temas/Regulación enzimática inhibición y alosterismo|Regulación enzimática: inhibición y alosterismo]]"
+  - "[[bioloxia/_temas/Proteínas clasificación, propiedades y función enzimática|Proteínas: clasificación, propiedades y función enzimática]]"
 puntuacion: "2 puntos"
 apartados:
   - "A) Indique a qué hacen referencia las lineas horizontales señaladas por los números 1 y 2. B) ¿A qué se refieren los números 3 y 4? C) ¿Qué conclusión puede obtenerse de esta gráfica? E) ¿Cómo se denomin"

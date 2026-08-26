@@ -5,9 +5,13 @@ año: 2023
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "QUÍMICA ORGÁNICA"
+  - "Isomería"
+  - "Reactividad orgánica"
+  - "Reacciones ácido-base"
 tema_wikilinks:
-  - "[[quimica/_temas/QUÍMICA ORGÁNICA|QUÍMICA ORGÁNICA]]"
+  - "[[quimica/_temas/Isomería|Isomería]]"
+  - "[[quimica/_temas/Reactividad orgánica|Reactividad orgánica]]"
+  - "[[quimica/_temas/Reacciones ácido-base|Reacciones ácido-base]]"
 tema_fuente: "ia"
 puntuacion: "2 puntos (1 punto por apartado)"
 apartados:

@@ -5,9 +5,9 @@ año: 2024
 convocatoria: ordinaria
 numero_pregunta: 3
 tema:
-  - "FÍSICA DEL SIGLO XX"
+  - "Física Cuántica y Relativista"
 tema_wikilinks:
-  - "[[fisica/_temas/FÍSICA DEL SIGLO XX|FÍSICA DEL SIGLO XX]]"
+  - "[[fisica/_temas/Física Cuántica y Relativista|Física Cuántica y Relativista]]"
 puntuacion: "2 puntos"
 apartados:
   - "3.1. Se ilumina el cátodo de una célula fotoeléctrica con una radiación de frecuencia 1,6×1015 Hz y el potencial de frenado es de 2 V. Si usamos una luz de 187,5 nm, el potencial de frenado será: a) menor;"

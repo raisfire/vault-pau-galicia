@@ -5,11 +5,11 @@ año: 2026
 convocatoria: extraordinaria
 numero_pregunta: 3
 tema:
-  - "VIBRACIÓNS E ONDAS"
-  - "ÓPTICA"
+  - "Óptica"
+  - "Vibraciones y Ondas"
 tema_wikilinks:
-  - "[[fisica/_temas/VIBRACIÓNS E ONDAS|VIBRACIÓNS E ONDAS]]"
-  - "[[fisica/_temas/ÓPTICA|ÓPTICA]]"
+  - "[[fisica/_temas/Óptica|Óptica]]"
+  - "[[fisica/_temas/Vibraciones y Ondas|Vibraciones y Ondas]]"
 puntuacion: "2.5 puntos"
 apartados:
   - "3.1. Indique y justifique la respuesta correcta. (1 punto) Para obtener una imagen real y derecha con una lente delgada convergente de potencia 10 D, el objeto debe estar colocado, con respecto a la lente "
