@@ -1,0 +1,329 @@
+[
+ {
+  "subject": "historiafilosofia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)",
+   "10. Alienación e ideología en Marx",
+   "5. Descartes: el método científico y la evidencia del cogito",
+   "7. La ética formal en Kant: el imperativo categórico",
+   "6. El liberalismo político y contractualismo de Locke"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "3. Física y Metafísica en Aristóteles",
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "13. Nietzsche: nihilismo, vitalismo y transvaloración",
+   "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2017",
+  "conv": "extraordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles",
+   "8. Hume: crítica de las ideas de sustancia y causalidad",
+   "13. Nietzsche: nihilismo, vitalismo y transvaloración",
+   "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "8. Hume: crítica de las ideas de sustancia y causalidad",
+   "13. Nietzsche: nihilismo, vitalismo y transvaloración",
+   "sin_clasificar"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "7. La ética formal en Kant: el imperativo categórico"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "6. El liberalismo político y contractualismo de Locke",
+   "2. Platón: ética y política"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2017",
+  "conv": "ordinaria",
+  "temas": [
+   "5. Descartes: el método científico y la evidencia del cogito",
+   "sin_clasificar",
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "3. Física y Metafísica en Aristóteles",
+   "4. Ética antirrelativista y política en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "6. El liberalismo político y contractualismo de Locke"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2011",
+  "conv": "extraordinaria",
+  "temas": [
+   "3. Física y Metafísica en Aristóteles",
+   "4. Ética antirrelativista y política en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles",
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)",
+   "13. Nietzsche: nihilismo, vitalismo y transvaloración"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "7. La ética formal en Kant: el imperativo categórico",
+   "9. Ilustración: los límites del conocimiento en Kant"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2019",
+  "conv": "ordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "2. Platón: ética y política",
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "8. Hume: crítica de las ideas de sustancia y causalidad"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "7. La ética formal en Kant: el imperativo categórico",
+   "9. Ilustración: los límites del conocimiento en Kant"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2010",
+  "conv": "ordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "7. La ética formal en Kant: el imperativo categórico"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2010",
+  "conv": "extraordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles",
+   "3. Física y Metafísica en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles",
+   "12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2016",
+  "conv": "ordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2013",
+  "conv": "ordinaria",
+  "temas": [
+   "2. Platón: ética y política"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2014",
+  "conv": "ordinaria",
+  "temas": [
+   "8. Hume: crítica de las ideas de sustancia y causalidad"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2012",
+  "conv": "extraordinaria",
+  "temas": [
+   "3. Física y Metafísica en Aristóteles",
+   "4. Ética antirrelativista y política en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "6. El liberalismo político y contractualismo de Locke"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2018",
+  "conv": "ordinaria",
+  "temas": [
+   "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)",
+   "9. Ilustración: los límites del conocimiento en Kant",
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2014",
+  "conv": "extraordinaria",
+  "temas": [
+   "4. Ética antirrelativista y política en Aristóteles",
+   "3. Física y Metafísica en Aristóteles"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "3. Física y Metafísica en Aristóteles",
+   "13. Nietzsche: nihilismo, vitalismo y transvaloración",
+   "8. Hume: crítica de las ideas de sustancia y causalidad"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2016",
+  "conv": "extraordinaria",
+  "temas": [
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2012",
+  "conv": "ordinaria",
+  "temas": [
+   "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)",
+   "2. Platón: ética y política"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2011",
+  "conv": "ordinaria",
+  "temas": [
+   "5. Descartes: el método científico y la evidencia del cogito"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2018",
+  "conv": "extraordinaria",
+  "temas": [
+   "6. El liberalismo político y contractualismo de Locke",
+   "sin_clasificar",
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2019",
+  "conv": "extraordinaria",
+  "temas": [
+   "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)",
+   "5. Descartes: el método científico y la evidencia del cogito",
+   "10. Alienación e ideología en Marx"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "sin_clasificar"
+  ]
+ },
+ {
+  "subject": "historiafilosofia",
+  "year": "2013",
+  "conv": "extraordinaria",
+  "temas": [
+   "9. Ilustración: los límites del conocimiento en Kant"
+  ]
+ }
+]

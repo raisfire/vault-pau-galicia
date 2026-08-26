@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T01:20:34",
+ "generado": "2026-08-26T10:26:22",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -273,6 +273,84 @@
      "tema": "10. El papel de la mujer en la Edad Moderna",
      "n": 1,
      "pct_preguntas": 1.1
+    }
+   ]
+  },
+  "historiafilosofia": {
+   "asignatura": "Historia da Filosofía",
+   "total_preguntas": 92,
+   "total_preguntas_vault_2020_2026": 56,
+   "total_preguntas_historico_2010_2019": 36,
+   "temas": [
+    {
+     "tema": "9. Ilustración: los límites del conocimiento en Kant",
+     "n": 28,
+     "pct_preguntas": 30.4
+    },
+    {
+     "tema": "10. Alienación e ideología en Marx",
+     "n": 27,
+     "pct_preguntas": 29.3
+    },
+    {
+     "tema": "8. Hume: crítica de las ideas de sustancia y causalidad",
+     "n": 26,
+     "pct_preguntas": 28.3
+    },
+    {
+     "tema": "4. Ética antirrelativista y política en Aristóteles",
+     "n": 21,
+     "pct_preguntas": 22.8
+    },
+    {
+     "tema": "1. Cosmos, realidad y conocimiento en Platón (del mito al logos)",
+     "n": 20,
+     "pct_preguntas": 21.7
+    },
+    {
+     "tema": "13. Nietzsche: nihilismo, vitalismo y transvaloración",
+     "n": 19,
+     "pct_preguntas": 20.7
+    },
+    {
+     "tema": "5. Descartes: el método científico y la evidencia del cogito",
+     "n": 17,
+     "pct_preguntas": 18.5
+    },
+    {
+     "tema": "3. Física y Metafísica en Aristóteles",
+     "n": 16,
+     "pct_preguntas": 17.4
+    },
+    {
+     "tema": "2. Platón: ética y política",
+     "n": 15,
+     "pct_preguntas": 16.3
+    },
+    {
+     "tema": "14. De la «razón vital» (Ortega y Gasset) a la «razón poética» (María Zambrano)",
+     "n": 15,
+     "pct_preguntas": 16.3
+    },
+    {
+     "tema": "6. El liberalismo político y contractualismo de Locke",
+     "n": 14,
+     "pct_preguntas": 15.2
+    },
+    {
+     "tema": "7. La ética formal en Kant: el imperativo categórico",
+     "n": 12,
+     "pct_preguntas": 13.0
+    },
+    {
+     "tema": "12. El desarrollo contemporáneo del feminismo: Simone de Beauvoir",
+     "n": 5,
+     "pct_preguntas": 5.4
+    },
+    {
+     "tema": "11. La crítica al totalitarismo. La condición humana en H. Arendt",
+     "n": 2,
+     "pct_preguntas": 2.2
     }
    ]
   },

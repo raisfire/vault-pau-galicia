@@ -12,6 +12,7 @@ const SUBJECT_META = {
   fisica: { label: "Física", desc: "Interacción gravitatoria, electromagnetismo, ondas, física moderna" },
   quimica: { label: "Química", desc: "Reacciones, enlace, estructura de la materia, orgánica" },
   historiaespana: { label: "Historia de España", desc: "De los Reyes Católicos a la España actual" },
+  historiafilosofia: { label: "Historia da Filosofía", desc: "De Platón a Simone de Beauvoir" },
 };
 
 function normalize(str) {
