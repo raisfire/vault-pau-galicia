@@ -21,6 +21,7 @@ SUBJECT_LABELS = {
     "historiafilosofia": "Historia da Filosofía",
     "quimica": "Química",
     "ingles": "Inglés",
+    "castelan": "Lingua Castelá e Literatura",
 }
 
 
@@ -47,6 +48,7 @@ def temas_from_2010_2019():
         "script/stats_historiaespana_2010_2019.json",
         "script/stats_historiafilosofia_2010_2019.json",
         "script/stats_ingles_2010_2019.json",
+        "script/stats_castellano_2010_2019.json",
     ):
         data = json.load(open(fname, encoding="utf-8"))
         for r in data:

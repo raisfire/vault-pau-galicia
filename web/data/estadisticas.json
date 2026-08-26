@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T10:53:51",
+ "generado": "2026-08-26T11:05:30",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -417,6 +417,129 @@
      "tema": "Vocabulario",
      "n": 6,
      "pct_preguntas": 6.0
+    }
+   ]
+  },
+  "castelan": {
+   "asignatura": "Lingua Castelá e Literatura",
+   "total_preguntas": 130,
+   "total_preguntas_vault_2020_2026": 96,
+   "total_preguntas_historico_2010_2019": 34,
+   "temas": [
+    {
+     "tema": "Comentario de texto",
+     "n": 65,
+     "pct_preguntas": 50.0
+    },
+    {
+     "tema": "Clases de palabras",
+     "n": 24,
+     "pct_preguntas": 18.5
+    },
+    {
+     "tema": "Formas verbales y perífrasis verbales",
+     "n": 22,
+     "pct_preguntas": 16.9
+    },
+    {
+     "tema": "Funciones sintácticas primarias de la cláusula u oración",
+     "n": 19,
+     "pct_preguntas": 14.6
+    },
+    {
+     "tema": "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+     "n": 19,
+     "pct_preguntas": 14.6
+    },
+    {
+     "tema": "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+     "n": 16,
+     "pct_preguntas": 12.3
+    },
+    {
+     "tema": "Clases de sintagmas o frases y sus constituyentes",
+     "n": 9,
+     "pct_preguntas": 6.9
+    },
+    {
+     "tema": "Crónica de una muerte anunciada (Gabriel García Márquez)",
+     "n": 9,
+     "pct_preguntas": 6.9
+    },
+    {
+     "tema": "Creación de palabras: composición, derivación, parasíntesis y acronimia",
+     "n": 8,
+     "pct_preguntas": 6.2
+    },
+    {
+     "tema": "Romancero gitano (Federico García Lorca)",
+     "n": 8,
+     "pct_preguntas": 6.2
+    },
+    {
+     "tema": "Detección y corrección de errores o estructuras agramaticales",
+     "n": 7,
+     "pct_preguntas": 5.4
+    },
+    {
+     "tema": "La Fundación (Antonio Buero Vallejo)",
+     "n": 7,
+     "pct_preguntas": 5.4
+    },
+    {
+     "tema": "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero",
+     "n": 7,
+     "pct_preguntas": 5.4
+    },
+    {
+     "tema": "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil",
+     "n": 6,
+     "pct_preguntas": 4.6
+    },
+    {
+     "tema": "El lector de Julio Verne (Almudena Grandes)",
+     "n": 5,
+     "pct_preguntas": 3.8
+    },
+    {
+     "tema": "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes",
+     "n": 5,
+     "pct_preguntas": 3.8
+    },
+    {
+     "tema": "La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos",
+     "n": 3,
+     "pct_preguntas": 2.3
+    },
+    {
+     "tema": "Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez",
+     "n": 2,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "El Modernismo: Rubén Darío y Delmira Agustini",
+     "n": 2,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán",
+     "n": 2,
+     "pct_preguntas": 1.5
+    },
+    {
+     "tema": "La narrativa hispanoamericana de la segunda mitad del siglo XX: Borges, Cortázar, García Márquez y Vargas Llosa",
+     "n": 1,
+     "pct_preguntas": 0.8
+    },
+    {
+     "tema": "Realismo y naturalismo: Galdós, Clarín y Pardo Bazán",
+     "n": 1,
+     "pct_preguntas": 0.8
+    },
+    {
+     "tema": "La novela de la generación del 98: Baroja, Unamuno y Azorín",
+     "n": 1,
+     "pct_preguntas": 0.8
     }
    ]
   }

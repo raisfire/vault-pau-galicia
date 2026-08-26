@@ -1,12 +1,13 @@
 {
- "generado": "2026-08-26T10:53:50",
- "total_preguntas": 560,
+ "generado": "2026-08-26T11:05:29",
+ "total_preguntas": 656,
  "asignaturas": [
   "Biología",
   "Física",
   "Historia da Filosofía",
   "Historia de España",
   "Inglés",
+  "Lingua Castelá e Literatura",
   "Matemáticas II",
   "Química"
  ],
@@ -2029,6 +2030,2037 @@
    "revision_manual": false,
    "revision_manual_dudosa": false,
    "enunciado": ") \n \n4.1. Responda estos dos apartados: (1 punto) \n4.1.1. Explique brevemente que es el ATP y qué función tiene en el metabolismo. \n4.1.2. Indique en qué orden sucederían las siguientes reacciones metabólicas en una célula aerobia en presencia de \noxígeno: oxidación del ácido pirúvico, fosforilación oxidativa, glucólisis, ciclo de Krebs. Indique en qué parte de la célula \no del orgánulo implicado tienen lugar estas reacciones.  \n \n4.2 Responda uno de los dos apartados siguientes: (1,5 puntos) \n4.2.1. Con respecto a la replicación del ADN:  \nA) Explique brevemente el modelo de replicación semiconservativa.  \nB) Defina hebra conductora y hebra retardada. Indique en qué dirección se sintetiza cada una de ellas.    \nC) Defina cebador y explique brevemente su función en el proceso de replicación. \nD) Las células eucariotas utilizan el enzima telomerasa para contrarrestar el acortamiento de los extremos de los \ncromosomas (telómeros) en cada ronda de replicación. ¿Es necesaria la acción de la telomerasa en los procariotas? \nRazone su respuesta.  \n \n4.2.2. Con respecto a las mutaciones: \nA) Justifique brevemente la importancia de las mutaciones en la evolución.  \nB) Defina mutación génica, mutación cromosómica estructural y mutación genómica.  \nC) El síndrome de Patau, que se manifiesta con múltiples anomalías congénitas, se asocia frecuentemente a una trisomía \ndel cromosoma 13 y, menos frecuentemente, a diversas translocaciones. ¿Con qué categoría de las definidas en el \napartado apartado anterior se asocia cada una de estas mutaciones?  \nD) Algunos colorantes se intercalan entre las bases nitrogenadas del ADN causando la pérdida de un par de bases. ¿A \nque categoría de las definidas arriba pertenece esta mutación? Indique las posibles consecuencias en las proteínas \nresultantes.  Indique la posible consecuencia para la descendencia si la mutación se produce en las células somáticas.  \n1\n2\n3\n4\nA\nC\nB\nD"
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el contenido del texto. Si lo prefiere, en vez del resumen, puede elaborar un esquema en el que se reflejen las ideas principales del texto. (1 punto)",
+    "1.2. Se han señalado en negrita y subrayado cinco que del texto. Diga en cada caso a qué tipo de palabra pertenece, cuál es su función y su referente o antecedente (de ser el caso). (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1   \n1.1. Resuma el contenido del texto. Si lo prefiere, en vez del resumen, puede elaborar un esquema en el \nque se reflejen las ideas principales del texto. (1 punto) \n1.2. Se han señalado en negrita y subrayado cinco que del texto. Diga en cada caso a qué tipo de palabra \npertenece, cuál es su función y su referente o antecedente (de ser el caso). (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2   \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, \nredactado con corrección y adecuación. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Creación de palabras: composición, derivación, parasíntesis y acronimia",
+    "Clases de sintagmas o frases y sus constituyentes",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Escriba, además de los derivados de negar que aparecen en el texto, tres más. En cada caso, señale el significado que aporta el afijo o los afijos correspondientes. (1 punto)",
+    "3.2. Escriba un breve texto (de unas cinco líneas), que tenga sentido, en el que utilice una subordinada sustantiva en función de sujeto, una subordinada sustantiva en función de complemento directo y una subordinada de relativo con cuyo. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3 \n3.1. Escriba, además de los derivados de negar que aparecen en el texto, tres más. En cada caso, señale \nel significado que aporta el afijo o los afijos correspondientes. (1 punto) \n3.2. Escriba un breve texto (de unas cinco líneas), que tenga sentido, en el que utilice una subordinada \nsustantiva en función de sujeto, una subordinada sustantiva en función de complemento directo y una \nsubordinada de relativo con cuyo. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Detección y corrección de errores o estructuras agramaticales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "1 puntos",
+   "apartados": [
+    "4.1. Explique, utilizando algún ejemplo del texto, en qué consiste la polisemia. (1 punto)",
+    "4.2. Corrija los errores que detecte en las estructuras siguientes. Indique en cada caso, de modo breve, los motivos de su corrección. (1 punto) 1. Fue el poste quien evito el gol. 2. He leido una novela que su protagonista es un perro. 3. ¿Sabes lo que le dijeron a vuestros padres? 4. Mientras la maestra tocaba al piano, ella anduvo en puntillas. 5. Fué por tu hijo que me entere del accidente. La"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4 \n4.1. Explique, utilizando algún ejemplo del texto, en qué consiste la polisemia. (1 punto) \n4.2. Corrija los errores que detecte en las estructuras siguientes. Indique en cada caso, de modo breve, \nlos motivos de su corrección. (1 punto) \n 1. Fue el poste quien evito el gol. 2. He leido una novela que su protagonista es un perro. 3. ¿Sabes lo \nque le dijeron a vuestros padres? 4. Mientras la maestra tocaba al piano, ella anduvo en puntillas. 5. \nFué por tu hijo que me entere del accidente. La policía dijo que el asesino usara el mismo arma en \ntodos los homicidios."
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "La Fundación (Antonio Buero Vallejo)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5 \nDesarrolla el tema “Lugar, tiempo y acción en La fundación”. Apóyate, para ello, en el fragmento, que \ndeberás localizar en la estructura de la obra. (2 puntos) \n \nBERTA.―(Desvía la vista y eleva la cabeza.) Noto un olor desagradable… \nTOMÁS.―(Desvía la vista.) Viene del cuarto de baño. La taza filtra mal. [O quizá sea el depósito \nque descarga sin fuerza… Ya he avisado al encargado de la planta.] (Ríe) Hasta una Fundación \ncomo esta sufre deficiencias."
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6 \nDesarrolle la pregunta “Temas del Romancero gitano”. Apóyese, para ello, en el fragmento, que deberá \nlocalizar en la estructura de la obra. (2 puntos) \n. \nAntonio, ¿quién eres tú?  \nSi te llamaras Camborio,  \nhubieras hecho una fuente  \nde sangre con cinco chorros.  \nNi tú eres hijo de nadie,  \n \nni legítimo Camborio.  \n¡Se acabaron los gitanos  \nque iban por el monte solos! \nEstán los viejos cuchillos  \n       tiritando bajo el polvo."
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7 \nLa trayectoria poética de Antonio Machado. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2020-extraordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "La narrativa hispanoamericana de la segunda mitad del siglo XX: Borges, Cortázar, García Márquez y Vargas Llosa"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/extraordinaria/01_castelan_extraordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8  \nLa narrativa hispanoamericana de la segunda mitad del S. XX. El boom de la narrativa. La trayectoria \nliteraria de Vargas Llosa. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el contenido del texto. Si lo prefiere, en vez del resumen, puede elaborar un esquema en el que aparezcan reflejadas las ideas principales del texto. (1 punto)",
+    "1.2. Indique qué tipo de estructura verbal constituye debe ser inclusiva, marcada en el texto. Construya dos oraciones, una con debe + infinitivo y otra con debe + de + infinitivo. Señale el valor modal de cada estructura. (1punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1 \n1.1. Resuma el contenido del texto.  Si lo prefiere, en vez del resumen, puede elaborar un esquema en el \nque aparezcan reflejadas las ideas principales del texto. (1 punto) \n1.2. Indique qué tipo de estructura verbal constituye debe ser inclusiva, marcada en el texto. Construya \ndos oraciones, una con debe + infinitivo y otra con debe + de + infinitivo. Señale el valor modal de \ncada estructura. (1punto)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2 \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, \nredactado con corrección y adecuación. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Clases de palabras",
+    "Clases de sintagmas o frases y sus constituyentes",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Identifique el tipo de unidad de las palabras y construcciones en negrita del texto. En el caso de pronombres, indique su referente (el caso de la niña Inés, que, de que sus hijos estarán atendidos, el momento de la verdad, la). Señale la función sintáctica que desempeñan. (1 punto)",
+    "3.2. Escriba un breve texto (de unas cinco líneas) que tenga sentido en el que utilice una subordinada sustantiva en función de sujeto, una subordinada sustantiva en función de complemento directo y una subordinada de relativo con cuyo. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3 \n3.1. Identifique el tipo de unidad de las palabras y construcciones en negrita del texto. En el caso de \npronombres, indique su referente (el caso de la niña Inés, que, de que sus hijos estarán atendidos, el \nmomento de la verdad, la). Señale la función sintáctica que desempeñan. (1 punto) \n3.2. Escriba un breve texto (de unas cinco líneas) que tenga sentido en el que utilice una subordinada \nsustantiva en función de sujeto, una subordinada sustantiva en función de complemento directo y una \nsubordinada de relativo con cuyo. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Explique los conceptos de sinonimia y antonimia. Utilice en cada caso un par de ejemplos extraídos del texto. (1 punto).",
+    "4.2. Indique la persona, número, tiempo, modo, aspecto y valores de las formas verbales que aparecen en el primer párrafo del texto, desde “Cuando a principios de julio” hasta “lo reconocerían en público”. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4 \n4.1. Explique los conceptos de sinonimia y antonimia. Utilice en cada caso un par de ejemplos extraídos \ndel texto. (1 punto). \n4.2. Indique la persona, número, tiempo, modo, aspecto y valores de las formas verbales que aparecen en \nel primer párrafo del texto, desde “Cuando a principios de julio” hasta “lo reconocerían en público”. \n(1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5 \nDesarrolle “Temas de Crónica de una muerte anunciada: honor, amor y fatum”. Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra. (2 puntos) \n \nBayardo San Román no entró, sino que empujó con suavidad a su esposa hacia el interior de la casa, \nsin decir una palabra. Después besó a Pura Vicario en la mejilla y le habló con una voz de muy \nhondo desaliento, pero con mucha ternura. \n―Gracias por todo, madre ―le dijo―. Usted es una santa."
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "El lector de Julio Verne (Almudena Grandes)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6 \nDesarrolle el tema “Los personajes de El lector de Julio Verne”. Apóyese, para ello, en el fragmento, que \ndeberá localizar en la estructura de la obra. (2 puntos) \n \n―Anda que… ―Filo se separó un momento para mirarle―, menudo Cencerro estás tú hecho. […] \nElías se echó a reír, la cogió en brazos, se la llevó a la cama, que estaba situada justo debajo del borde \ndel altillo, y ya no vi nada más. \nSiempre igual, pensé, mientras recordaba a Sanchís y a Pastora besándose en la verbena, mientras \nvolvía a verlos en su casa, él pintándole de rojo las uñas de los pies, mientras imaginaba al Portugués \nreconciliándose con Paula delante de la puerta cerrada tras la que doña Elena me dictaba sin desmayo \nque don Wenceslao el quiropráctico había hecho una visita terapéutica a don Eustaquio, el \notorrinolaringólogo…"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "El Modernismo: Rubén Darío y Delmira Agustini"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7 \nEl Modernismo. Características generales a través de la figura de Delmira Agustini. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2020-ordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2020,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2020/ordinaria/01_castelan_ordinaria_2020.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8 \nLa figura de Buero Vallejo. La renovación del teatro. (2 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto (que, le, mis, esto, serlo). Señale también en cada caso el referente de cada una de ellas. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS) \n1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan \nreflejadas las ideas del texto. (1 punto) \n1.2. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto (que, \nle, mis, esto, serlo). Señale también en cada caso el referente de cada una de ellas. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS) \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado \ncon corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Creación de palabras: composición, derivación, parasíntesis y acronimia",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Escriba cinco palabras derivadas tomadas del texto y señale qué valor aportan los afijos en cada caso. (1 punto)",
+    "3.2. Construya una oración condicional potencial y otra irreal o de cumplimiento imposible. Identifíquelas claramente. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS) \n3.1. Escriba cinco palabras derivadas tomadas del texto y señale qué valor aportan los afijos en cada caso. \n(1 punto) \n3.2. Construya una oración condicional potencial y otra irreal o de cumplimiento imposible. Identifíquelas \nclaramente. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS) \nConstruya un breve texto, que tenga sentido, en el que incluya cinco perífrasis verbales: una aspectual \nincoativa, una aspectual durativa, una aspectual resultativa, una modal de obligación o mandato y una \nmodal de duda o probabilidad. Identifique las perífrasis claramente."
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema “Rasgos formales en el Romancero gitano”. Apóyese, para ello, en el fragmento, que \ndeberá localizar en la estructura de la obra: \n \nPreciosa tira el pandero \n \n \nCantan las flautas de umbría \ny corre sin detenerse. \n \n \ny el liso gong de la nieve. \nEl viento-hombrón la persigue \n \n¡Preciosa, corre, Preciosa, \ncon una espada caliente. \n \n \nque te coge el viento verde! \nFrunce su rumor el mar. \n \n \n¡Preciosa, corre, Preciosa! \nLos olivos palidecen. \n \n \n¡Míralo por dónde viene!"
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle “Temas de Crónica de una muerte anunciada”. Apóyese, para ello, en el fragmento, que \ndeberá localizar en la estructura de la obra: \n \nPara la inmensa mayoría sólo hubo una víctima: Bayardo San Román. Suponían que los \notros protagonistas de la tragedia habían cumplido con dignidad, y hasta con cierta grandeza, la \nparte de favor que la vida les tenía señalada. Santiago Nasar, había expiado la injuria, los \nhermanos Vicario habían probado su condición de hombres, y la hermana burlada estaba otra vez \nen posesión de su honor."
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema “La figura de Alfonso Sastre en el teatro español posterior a la Guerra Civil. La \nrenovación del teatro”. Identifique en el fragmento tres características propias del autor y/o de la época y \nexplíquelas. \n \nJAVIER.—Dejadme en paz. Sois dos estúpidos, Andrés y tú. Dices con horror “fusilado” y te vas \na que te cacen como una alimaña, a tiros…o te linchen en cualquier aldea. El otro quiere vivir y se \nva a que lo aplasten entre las  alambradas en un “campo”. ¡Tiene gracia! Todos son… caminos de \nmuerte. ¿No os dais cuenta? Es inútil luchar. Está pronunciada la última palabra y todo es inútil. \nEn realidad, todo era inútil… desde un principio. Y desde un principio estaba pronunciada la \núltima palabra. Todavía queréis luchar contra el destino de esta escuadra… que no es sólo la \nmuerte, como creíamos al principio…, sino una muerte infame…¿Tan torpes sois… que no os \nhabéis dado cuenta aún? \nPEDRO.—(Aislado, habla.)— ¿Pero sabéis que yo tenía una esperanza? La de que el desenlace \nllegara por otro sitio. \n(Escuadra hacia la muerte)"
+  },
+  {
+   "id": "Lingua Castelá-2021-extraordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/extraordinaria/01_castelan_extraordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema “La narrativa peninsular desde 1975 hasta la actualidad: Eduardo Mendoza”. Indique a \nqué tendencia de la narrativa peninsular adscribiría este fragmento. Justifique su respuesta. \n \nEl mestre Roca fue uno de los pocos anarquistas que llegué a ver antes de la irrupción \nviolenta del 19. El anarquismo era ya una cosa, y los anarquistas, otra muy distinta. Vivíamos \ninmersos en aquél, pero teníamos contactos con éstos. Por aquel entonces, y así siguió siendo \ndurante algunos años, tenía yo una visión bien pintoresca de los anarquistas: hombres barbados, \ncejijuntos y graves, ataviados con faja, blusón y gorra, hechos a la espera callada tras una barricada \nde muebles destartalados, tras los barrotes de una celda de Montjuïc, en los rincones oscuros de las \ncalles tortuosas, en los tugurios, en espera de que llegase su momento para bien o para mal y el ala \ncartilaginosa de un murciélago gigantesco y frío rozase la ciudad. \n(La verdad sobre el caso Savolta)"
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto (su, los, que, que, que). Señale también, cuando corresponda, el referente intratextual de la palabra. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1.  Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que \naparezcan reflejadas las ideas del texto. (1 punto) \n1.2.  Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el \ntexto (su, los, que, que, que). Señale también, cuando corresponda, el referente intratextual \nde la palabra. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las \nideas contenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Detección y corrección de errores o estructuras agramaticales",
+    "Clases de palabras",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Identifique, explique y corrija los errores de las siguientes oraciones: (1 punto) a. No me di cuenta que se fuera hasta que vi que sus cosas no estaban en el armario. b. Deberías de preguntarle porque no quiere comprarte un móvil nuevo. c. ¿Cuanto cuesta esa falda que te comprastes? No me acuerdo, pero no debió de costar más de 15 € d. Ese vestido te apreta demasiado. e. No te sientes delant",
+    "3.2. Escoja cinco sustantivos del texto y proponga un sinónimo para cada uno de ellos. A continuación escoja cinco adjetivos del texto y proponga un antónimo para cada uno de ellos. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Identifique, explique y corrija los errores de las siguientes oraciones: (1 punto) \na. \nNo me di cuenta que se fuera hasta que vi que sus cosas no estaban en el armario.  \nb. Deberías de preguntarle porque no quiere comprarte un móvil nuevo.   \nc. \n¿Cuanto cuesta esa falda que te comprastes? No me acuerdo, pero no debió de costar más de 15 € \nd. Ese vestido te apreta demasiado. \ne. \nNo te sientes delante mío, que eres muy alto y no veo el encerado.  \nf. \nSe está realizando por la policía una investigación de los echos.  \n\n3.2.  Escoja cinco sustantivos del texto y proponga un sinónimo para cada uno de ellos. A \ncontinuación escoja cinco adjetivos del texto y proponga un antónimo para cada uno de \nellos. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \nConstruya un texto con sentido, de unas 6 líneas, en el que utilice una construcción coordinada, \nuna oración de relativo con cuyo, una oración subordinada sustantiva en función de sujeto, una \noración interrogativa indirecta y una oración subordinada adversativa. Identifique claramente \ncada una de ellas."
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "La Fundación (Antonio Buero Vallejo)",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema “Análisis de los personajes de La fundación”. Apóyese para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \nASEL.—Tomás fue llamado ayer a locutorios. Ayer: dos días después de descubrirse lo que habíamos \nhecho. \nTOMÁS.—Era Berta… Ya lo oísteis. \nASEL.—(Sin mirarlo.) Tu madre, Max, se ha trasladado al pueblo más cercano para atenderte mejor y \nte visita con frecuencia. Es seguro que en estos tres días de incomunicación habrá venido, y no le han \npermitido verte. \nMAX.—No lo sé. Eso temo. \nASEL.—Pero viene la novia de Tomás…, esa enigmática muchacha cuya visita se nos promete \nsiempre…, y a él le levantan la incomunicación. \nMAX.—Trato especial… \nTULIO.—Como nosotros con él."
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "El lector de Julio Verne (Almudena Grandes)",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema “Espacio y tiempo en El lector de Julio Verne”. Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \n—¿No habéis comido? Yo tampoco. Ahí dentro tengo un pan y una ristra de chorizos. Podemos \nasarlos aquí fuera, si queréis. Creo que alcanzarán para los tres. \nLuego, muchos años después, comprendí que pretendía provocar exactamente lo que estaba a punto de \nocurrir, pero en aquel momento, y aunque me di cuenta de que antes de encender el fuego quitaba de \nla cuerda una manta roja que no pintaba nada tendida a secar a mediados de julio, sólo pensé que el \nPortugués era el único al que podía habérsele ocurrido una idea tan estupenda. […] tuvimos que \nesperar un buen rato hasta que la primera tanda de chorizos estuvo a punto. Cuando íbamos a empezar \ncon la segunda, escuchamos el ruido de un motor que se acercaba y un grito. \n—¡A ver! —un capitán del Ejército de Tierra nos apuntaba con una pistola—. ¿Qué está pasando aquí?"
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema “La novela española en las tres décadas posteriores a la Guerra Civil: \nCarmen Laforet”. Identifique en el fragmento tres características propias de la autora y/o de la \népoca y explíquelas. \nTodo empezaba a ser extraño en mi imaginación; los estrechos y desgastados escalones de mosaico, \niluminados por la luz eléctrica, no tenían cabida en mi recuerdo. \nAnte la puerta del piso me acometió un súbito temor de despertar a aquellas personas desconocidas \nque eran para mí, al fin y al cabo, mis parientes y estuve un rato titubeando antes de iniciar una tímida \nllamada a la que nadie contestó. Se empezaron a apretar los latidos de mi corazón y oprimí de nuevo \nel timbre. Oí una voz temblona: “¡Ya va! ¡Ya va!”  \n \n \n \n(Nada)"
+  },
+  {
+   "id": "Lingua Castelá-2021-ordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2021,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 8,
+   "tema": [],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2021/ordinaria/01_castelan_ordinaria_2021.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema “El Modernismo. Características generales a través de la figura de Rubén \nDarío”. Identifique en el fragmento tres características propias del autor y/o del movimiento y \nexplíquelas. \n¡Ah los suspiros! ¡Ah los dulces sueños! \n \nEn las pálidas tardes \n¡Ah las tristezas íntimas!  \n \n \n \nme cuenta un hada amiga \n¡Ah el polvo de oro que en el aire flota,  \n \nlas historias secretas \ntras cuyas ondas trémulas se miran   \n \nllenas de poesía: \nlos ojos tiernos y húmedos,   \n \n \nlo que cantan los pájaros, \nlas bocas inundadas de sonrisas,  \n \n \nlo que llevan las brisas, \nlas crespas cabelleras  \n \n \n \nlo que vaga en las nieblas, \ny los dedos de rosa que acarician!  \n \n \nlo que sueñan las niñas. \n \n(Azul)"
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen las formas subrayadas en el texto (cuya, mediante, que, algunas, nos). Indique también, cuando corresponda, el referente intratextual de la palabra. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1.  Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que \naparezcan reflejadas las ideas del texto. (1 punto) \n1.2.  Indique la clase de palabra o de unidad a la que pertenecen las formas subrayadas en el texto \n(cuya, mediante, que, algunas, nos). Indique también, cuando corresponda, el referente \nintratextual de la palabra. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, \nredactado con corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Busque en el texto un sinónimo para cada una de las siguientes palabras: individuo, consecuencia, incremento, costumbres, determinante. A continuación, escoja cinco adjetivos del texto y proponga un antónimo para cada uno de ellos. (1 punto)",
+    "3.2. Indique qué relación existe entre las siguientes parejas o grupos de palabras: rico / pobre; flor / lirio; batalla / lucha; lubina / sardina / lenguado; vaca / baca. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Busque en el texto un sinónimo para cada una de las siguientes palabras: individuo, \nconsecuencia, incremento, costumbres, determinante. A continuación, escoja cinco adjetivos \ndel texto y proponga un antónimo para cada uno de ellos. (1 punto) \n3.2.  Indique qué relación existe entre las siguientes parejas o grupos de palabras: rico / pobre; flor \n/ lirio; batalla / lucha; lubina / sardina / lenguado; vaca / baca. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Formas verbales y perífrasis verbales",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Construya cuatro oraciones: a) una en la que utilice una perífrasis modal de probabilidad; b) una en la que utilice una perífrasis modal de obligación; c) una en la que utilice una perífrasis aspectual incoativa; y d) una en la que utilice una perífrasis aspectual durativa. Identifíquelas claramente. (1 punto)",
+    "4.2. Escriba un texto de unas cinco líneas que tenga sentido y en el que utilice dos subordinadas adverbiales de distinto tipo y dos subordinadas sustantivas (una con función de Sujeto y la otra con función de Objeto o Complemento directo). Identifíquelas claramente (1 punto)."
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Construya cuatro oraciones: a) una en la que utilice una perífrasis modal de probabilidad; b) \nuna en la que utilice una perífrasis modal de obligación; c) una en la que utilice una perífrasis \naspectual incoativa; y d) una en la que utilice una perífrasis aspectual durativa. Identifíquelas \nclaramente.  (1 punto)  \n4.2. Escriba un texto de unas cinco líneas que tenga sentido y en el que utilice dos subordinadas \nadverbiales de distinto tipo y dos subordinadas sustantivas (una con función de Sujeto y la otra \ncon función de Objeto o Complemento directo). Identifíquelas claramente (1 punto)."
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema “El perspectivismo en Crónica de una muerte anunciada”. Apóyese, para ello, en \nel fragmento, que deberá localizar en la estructura de la obra: \nMi hermano no lo recordaba. «Pero aunque lo recordara no lo hubiera creído —me ha dicho muchas \nveces—. ¡A quién carajo se le podía ocurrir que los gemelos iban a matar a nadie, y menos con un \ncuchillo de puercos!» Luego le preguntaron dónde estaba Santiago Nasar, pues los habían visto \njuntos a las dos, y mi hermano no recordó tampoco su propia respuesta. Pero Clotilde Armenta y los \nhermanos Vicario se sorprendieron tanto al oírla, que la dejaron establecida en el sumario con \ndeclaraciones separadas. Según ellos, mi hermano dijo: «Santiago Nasar está muerto». Después \nimpartió una bendición episcopal, tropezó en el pretil de la puerta y salió dando tumbos."
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "El lector de Julio Verne (Almudena Grandes)",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle “Temas de El lector de Julio Verne”. Apóyese, para ello, en el fragmento, que deberá \nlocalizar en la estructura de la obra: \nEn Madrid habría gente que creería que en 1939 se había acabado la guerra, pero en mi pueblo todo \nera distinto. En mi pueblo los hombres se echaban al monte para salvar la vida, y la autoridad \nperseguía a las mujeres que intentaban ganársela con la recova, a las que recogían esparto en el \nmonte, a las que trabajaban y hasta a las que vendían espárragos silvestres por las carreteras, porque \npara ellas todo estaba prohibido, todo era ilegal, todo un delito y la supervivencia de sus hijos un \nmilagro improbable."
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema “El teatro anterior a la Guerra Civil: Lorca”. Identifique en el fragmento tres \ncaracterísticas propias del autor y/o del teatro de la época y explíquelas. \nHabitación blanquísima del interior de la casa de Bernarda. Muros gruesos. Puertas en arco con \ncortinas de yute rematadas con madroños y volantes. […] Se oyen doblar las campanas. \nBernarda: […] En ocho años que dure el luto no ha de entrar en esta casa el viento de la calle. \nHaceros cuenta que hemos tapiado con ladrillos puertas y ventanas. Así pasó en casa de mi \npadre y en casa de mi abuelo. Mientras, podéis empezar a bordaros el ajuar. En el arca tengo \nveinte piezas de hilo con el que podréis cortar sábanas y embozos. Magdalena puede bordarlas. \nMagdalena: Lo mismo me da. \nAdela: (Agria) Si no queréis bordarlas irán sin bordados. Así las tuyas lucirán más. \nMagdalena: Ni las mías ni las vuestras. Sé que yo no me voy a casar. Prefiero llevar sacos al molino. \nTodo menos estar sentada días y días dentro de esta sala oscura. \nBernarda: Eso tiene ser mujer. \nMagdalena: Malditas sean las mujeres.  \n \n \n(La casa de Bernarda Alba)"
+  },
+  {
+   "id": "Lingua Castelá-2022-extraordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/extraordinaria/01_castelan_extraordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema “La poesía española en las tres décadas posteriores a la Guerra Civil: Blas de \nOtero”. Identifique en el fragmento tres características propias del autor y/o de la época y \nexplíquelas. \nImaginé mi horror por un momento \nque Dios, el solo vivo, no existiera, \no que, existiendo, sólo consistiera \nen tierra, en agua, en fuego, en sombra, en viento.  \nY que la muerte, oh estremecimiento,  \nfuese el hueco sin luz de una escalera \nun colosal vacío que se hundiera \nen un silencio desolado, liento. \n \nEntonces, ¿para qué vivir, oh hijos \nde madre, a qué vidrieras, crucifijos  \ny todo lo demás? Basta la muerte. \nBasta. Termina, oh Dios, de maltratarnos. \nO si no, déjanos precipitarnos \nsobre Ti –ronco  río que revierte. \n \n \n \n(Viento del pueblo)"
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras",
+    "Clases de sintagmas o frases y sus constituyentes",
+    "Funciones sintácticas primarias de la cláusula u oración"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique el tipo de unidad de las palabras y construcciones subrayadas en el texto (en parecer ciborgs, una belleza uniformizadora, que, que, nos). Señale la función sintáctica que desempeñan. En el caso de los pronombres, indique también su referente. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1.  Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que \naparezcan reflejadas las ideas del texto. (1 punto) \n1.2.  Indique el tipo de unidad de las palabras y construcciones subrayadas en el texto (en \nparecer ciborgs, una belleza uniformizadora, que, que, nos). Señale la función sintáctica que \ndesempeñan. En el caso de los pronombres, indique también su referente. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las \nideas contenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Creación de palabras: composición, derivación, parasíntesis y acronimia",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Escriba dos palabras derivadas de cada una de las marcadas en negrita en el texto (interés, mundo, salud, espacio, cuerpo) y señale qué valor aportan los afijos en cada caso. (1 punto)",
+    "3.2. Clasifique las siguientes formas verbales del texto (perseguía, ha aprobado, deberán, vivimos, sea), indicando su tiempo, modo, aspecto, número y persona, y señalando con qué valor se usan en el texto. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Escriba dos palabras derivadas de cada una de las marcadas en negrita en el texto (interés, \nmundo, salud, espacio, cuerpo) y señale qué valor aportan los afijos en cada caso. (1 punto) \n3.2.  Clasifique las siguientes formas verbales del texto (perseguía, ha aprobado, deberán, \nvivimos, sea), indicando su tiempo, modo, aspecto, número y persona, y señalando con qué \nvalor se usan en el texto. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Subordine la segunda cláusula a la primera utilizando el pronombre relativo cuyo/a/os/as. (1 punto) a) Mi amiga María se casa este fin de semana. El martes pasado nos encontramos con su madre. b) Me he encontrado con un vecino. Por sus terrenos va a pasar la nueva carretera.",
+    "4.2. Escriba un breve texto (de unas cinco líneas) en el que utilice a) una oración impersonal, b) una oración pasiva con complemento agente y c) dos oraciones subordinadas adverbiales de diferentes tipos. Identifíquelas. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Subordine la segunda cláusula a la primera utilizando el pronombre relativo cuyo/a/os/as. \n(1 punto) \na) Mi amiga María se casa este fin de semana. El martes pasado nos encontramos con su madre.  \nb) Me he encontrado con un vecino. Por sus terrenos va a pasar la nueva carretera.  \n\n4.2. Escriba un breve texto (de unas cinco líneas) en el que utilice a) una oración impersonal, b) \nuna oración pasiva con complemento agente y c) dos oraciones subordinadas adverbiales de \ndiferentes tipos. Identifíquelas. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema “Análisis de los personajes de Crónica de una muerte anunciada”. Apóyese, \npara ello, en el fragmento, que deberá localizar en la estructura de la obra: \nNadie podía entender tantas coincidencias funestas. El juez instructor que vino de Riohacha debió \nsentirlas sin atreverse a admitirlas (…) La puerta de la plaza estaba citada varias veces con un nombre \nde folletín: La puerta fatal. En realidad, la única explicación válida parecía ser la de Plácida Linero, \nque contestó a la pregunta con su razón de madre: «Mi hijo no salía nunca por la puerta de atrás cuando \nestaba bien vestido». (…) Victoria Guzmán, por su parte, fue terminante en la respuesta de que ni ella \nni su hija sabían que a Santiago Nasar lo estaban esperando para matarlo."
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema “Componentes simbólicos y míticos del Romancero gitano”. Apóyese, para \nello, en el fragmento, que deberá localizar en la estructura de la obra: \nEl jinete se acercaba \ntocando el tambor del llano. \nDentro de la fragua el niño, \ntiene los ojos cerrados. \nPor el olivar venían, \nbronce y sueño, los gitanos. \nLas cabezas levantadas \ny los ojos entornados. \nCómo canta la zumaya, \n¡ay cómo canta en el árbol! \nPor el cielo va la luna \ncon un niño de la mano. \nDentro de la fragua lloran, \ndando gritos, los gitanos. \nEl aire la vela, vela. \nEl aire la está velando."
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema “La narrativa peninsular desde 1975 hasta la actualidad: Muñoz Molina”. \nIndique a qué tendencia de la narrativa peninsular adscribiría este fragmento. Justifique su \nrespuesta. \nDía y noche iba por la ciudad buscando una mirada. Vivía nada más que para esa tarea, aunque intentara \nhacer otras cosas o fingiera que las hacía, sólo miraba, espiaba los ojos de la gente, las caras de los \ndesconocidos, de los camareros de los bares y los dependientes de las tiendas, las caras y las miradas \nde los detenidos en las fichas. El inspector buscaba la mirada de alguien que había visto algo demasiado \nmonstruoso para ser suavizado o desdibujado por el olvido, unos ojos en los que tenía que perdurar \nalgún rasgo o alguna consecuencia del crimen, unas pupilas en las que pudiera descubrirse la culpa sin \nvacilación.   \n \n \n \n \n \n \n \n         (Plenilunio)"
+  },
+  {
+   "id": "Lingua Castelá-2022-ordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2022,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2022/ordinaria/01_castelan_ordinaria_2022.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema “La figura de Buero Vallejo en el teatro español posterior a la Guerra Civil. La \nrenovación del teatro.” Identifique en el fragmento tres características del autor y/o de la época \ny explíquelas.  \nFERNANDO.–(Abrazándola por el talle) Carmina, desde esta mañana voy a trabajar de firme por ti. \nQuiero salir de esta pobreza, de este sucio ambiente. Salir y sacarte a ti. Dejar para siempre los \nchismorreos, las broncas entre vecinos…Acabar con la angustia del dinero escaso, de los favores que \nabochornan como una bofetada, de los padres que nos abruman con su torpeza y su cariño servil, \nirracional… \nCARMINA.–(Reprensiva) ¡Fernando! \nFERNANDO.–Sí. Acabar con todo esto. ¡Ayúdame tú! Escucha: voy a estudiar mucho, ¿sabes? \nMucho. Primero me haré delineante. ¡Eso es fácil! En un año…Como para entonces ya ganaré bastante, \nestudiaré para aparejador. Tres años. Dentro de cuatro años seré un aparejador solicitado por todos los \narquitectos. Ganaré mucho dinero. Por entonces tú serás ya mi mujercita, y viviremos en otro barrio, \nen un pisito limpio y tranquilo. Yo seguiré estudiando. ¿Quién sabe? Puede que para entonces me haga \ningeniero. Y como una cosa no es incompatible con la otra, publicaré un libro de poesías, un libro que \ntendrá mucho éxito… \nCARMINA.–(Que le ha escuchado extasiada) ¡Qué felices seremos! \nFERNANDO.–¡Carmina! (Se inclina para besarla y da un golpe con el pie a la lechera, que se \nderrama estrepitosamente. Temblorosos, se levantan los dos y miran, asombrados, la gran mancha \nblanca en el suelo.)  \n \n \n \n  \n              (Historia de una escalera)"
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en el texto (le, lo, quienes, un fenómeno de emulación, resolver la cuestión). Señale también la función sintáctica que desempeñan. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1.  Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan \nreflejadas las ideas del texto. (1 punto) \n1.2.  Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en el \ntexto (le, lo, quienes, un fenómeno de emulación, resolver la cuestión). Señale también la función \nsintáctica que desempeñan. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado \ncon corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Creación de palabras: composición, derivación, parasíntesis y acronimia",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Escriba dos palabras derivadas de cada una de las subrayadas en el texto (tiempo, parejas, cristal, mundo, montar) y señale qué valor aportan los afijos en cada caso. (1 punto)",
+    "3.2. Clasifique las siguientes formas verbales del texto (destruyó, había hecho, padecen, hemos asistido, proclamaban), indicando su tiempo, modo y aspecto. Señale con qué valor se usan en el texto (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Escriba dos palabras derivadas de cada una de las subrayadas en el texto (tiempo, parejas, cristal, \nmundo, montar) y señale qué valor aportan los afijos en cada caso. (1 punto)  \n3.2. Clasifique las siguientes formas verbales del texto (destruyó, había hecho, padecen, hemos asistido, \nproclamaban), indicando su tiempo, modo y aspecto. Señale con qué valor se usan en el texto (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+    "Detección y corrección de errores o estructuras agramaticales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: dos oraciones condicionales de diferentes tipos, una oración consecutiva y una final. Identifíquelas. (1 punto)",
+    "4.2. Identifique, explique y corrija los errores de las siguientes oraciones: a) Este restaurante, es muy recomendable para aquellas personas que les gusta el pescado. b) Recuerdo que en mi onceavo cumpleaños me regalaron una bicicleta, apesar de que no la quería. c) El libro se trata de una novela histórica por que se basa en echos que sucedieron de verdad. d) En mi opinión, me fascinó la películ"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: dos \noraciones condicionales de diferentes tipos, una oración consecutiva y una final. Identifíquelas. (1 \npunto) \n\n4.2. Identifique, explique y corrija los errores de las siguientes oraciones: \n \na) Este restaurante, es muy recomendable para aquellas personas que les gusta el pescado. \n \nb) Recuerdo que en mi onceavo cumpleaños me regalaron una bicicleta, apesar de que no la quería. \nc) El libro se trata de una novela histórica por que se basa en echos que sucedieron de verdad. \nd) En mi opinión, me fascinó la película; sobretodo, la banda sonora. \ne) Cuando era pequeña, mis padres estaban todo el día encima mía y no me dejaban en paz."
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "La Fundación (Antonio Buero Vallejo)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema «Técnicas y recursos dramáticos en La fundación». Apóyese, para ello, en el fragmento, \nque deberá localizar en la estructura de la obra: \nENCARGADO.—¿Cuántos días lleva muerto este hombre? \n(La iluminación cambia de golpe: gana claridad y crudeza. Sólo en los rincones —el chaflán, \nla lámpara— se mantiene una borrosa penumbra grisácea.) \nTOMÁS.—¿Muerto? ¡Si acaba de hablar! \nENCARGADO.—¡Usted cállese! (A los demás.) ¡Contesten! \nASEL.—Seis días. \nTOMÁS.—(Musita) No es posible. \nENCARGADO.—¿Por qué se lo callaron?"
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema «La técnica del realismo mágico en Crónica de una muerte anunciada». Apóyese, para \nello, en el fragmento, que deberá localizar en la estructura de la obra: \nYo lo sabía, y sabía además que guardaba las armas en un lugar y escondía la munición en \notro lugar muy apartado, de modo que nadie cediera ni por casualidad a la tentación de \ncargarlas dentro de la casa. Era una costumbre sabia impuesta por su padre desde una mañana \nen que una sirvienta sacudió la almohada para quitarle la funda, y la pistola se disparó al \nchocar contra el suelo, y la bala desbarató el armario del cuarto, atravesó la pared de la sala, \npasó con un estruendo de guerra por el comedor de la casa vecina y convirtió en polvo de \nyeso a un santo de tamaño natural en el altar mayor de la iglesia, al otro extremo de la plaza."
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema «La poesía española en las tres décadas posteriores a la Guerra Civil: Gloria Fuertes». \nIdentifique en el fragmento tres características de la autora y/o de la época y explíquelas: \nEl albañil llegó de su jornada \ncon su jornal enclenque y con sus puntos. \nBajaron a la tienda a por harina, \nhicieron unas gachas con tocino, \npusiéronlo a enfriar en la ventana, \nla cazuela se cayó al patio. \nEl obrero tosió: \n-Como Gloria se entere, \nesta noche cenamos Poesía.  \n \n \n \n \n \n    (Aconsejo \nBeber Hilo)"
+  },
+  {
+   "id": "Lingua Castelá-2023-extraordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/extraordinaria/01_castelan_extraordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema «La novela española en las tres décadas posteriores a la Guerra Civil: Miguel Delibes». \nIdentifique en el fragmento tres características del autor y/o de la época y explíquelas. \nNo nos engañemos, Mario, pero la mayor parte de los chicos son hoy medio rojos, que yo no \nsé lo que les pasa, tienen la cabeza loca, llena de ideas estrambóticas sobre la libertad y el \ndiálogo y esas cosas de que hablan ellos. ¡Dios mío, hace unos años, acuérdate! Ahora no le \nhables a un muchacho de la guerra, Mario, y ya sé que la guerra es horrible, cariño, pero al fin \ny al cabo es oficio de valientes, que de los españoles dirán que hemos sido guerreros, pero no \nnos ha ido tan mal me parece a mí, que no hay país en el mundo que nos llegue a los talones, \ny le oyes a papá, «máquinas, no; pero valores espirituales y decencia para exportar». Y tocante \na valores religiosos, tres cuartos de lo mismo, Mario, que somos los más católicos del mundo \ny los más buenos, que hasta el Papa lo dijo, mira en otros lados, divorcios y adulterios, que no \nconocen la vergüenza ni por el forro.  \n(Cinco horas con Mario)"
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en el texto (lo, donde, eso, su, ello). Señale también el referente de cada una de ellas. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1.  Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan \nreflejadas las ideas del texto. (1 punto) \n1.2.  Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en el \ntexto (lo, donde, eso, su, ello). Señale también el referente de cada una de ellas. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado \ncon corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Formas verbales y perífrasis verbales",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Clasifique las siguientes formas verbales del texto (cayesen, volverá, fortaleció, había ensayado, bastaba), indicando su tiempo, modo y aspecto. Señale con qué valor se usan en el texto. (1 punto)",
+    "3.2. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguiente parejas de términos: calló / cayó; rayar / rallar; aun / aún; adición /adicción; conque / con que. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Clasifique las siguientes formas verbales del texto (cayesen, volverá, fortaleció, había ensayado, \nbastaba), indicando su tiempo, modo y aspecto. Señale con qué valor se usan en el texto. (1 punto) \n3.2. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las \nsiguiente parejas de términos: calló / cayó; rayar / rallar; aun / aún; adición /adicción; conque / con \nque. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Formas verbales y perífrasis verbales",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice cuatro construcciones impersonales diferentes. Identifíquelas. (1 punto)",
+    "4.2. Construya cuatro oraciones: una condicional; una consecutiva; una causal; una adversativa. Identifíquelas. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice cuatro construcciones \nimpersonales diferentes. Identifíquelas. (1 punto) \n4.2. Construya cuatro oraciones: una condicional; una consecutiva; una causal; una adversativa. \nIdentifíquelas. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema «Componentes simbólicos y míticos del Romancero gitano». Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \n \nSu luna de pergamino \n \n \nEn los picos de la sierra \nPreciosa tocando viene \n \n \nLos carabineros duermen \npor un anfibio sendero \n \n \nGuardando las blancas torres \nde cristales y laureles. \n \n \nDonde viven los ingleses. \nEl silencio sin estrellas, \n \n \n[…] \nHuyendo del sonsonete \n \n \nAl verla se ha levantado \nCae donde el mar bate y canta  \n \nEl viento, que nunca duerme. \nSu noche llena de peces."
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Comentario de texto",
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema «El perspectivismo en Crónica de una muerte anunciada». Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \n \nMagdalena Oliver había venido con él en el buque y no pudo quitarle la vista de encima durante el \nviaje. «Parecía marica -me dijo-. Y era una lástima, porque estaba como para embadurnarlo de \nmantequilla y comérselo vivo.» […] Mi madre me escribió al colegio a fines de agosto y me decía en \nuna nota casual: «Ha venido un hombre muy raro». […] Lo conocí poco después que ella, cuando \nvine a las vacaciones de Navidad, y no lo encontré tan raro como decían. Me pareció atractivo, en \nefecto, pero muy lejos de la visión idílica de Magdalena Oliver. […] Pero sobre todo, me pareció un \nhombre muy triste."
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema «La poesía española en las tres décadas posteriores a la Guerra Civil: Gloria Fuertes». \nIdentifique en el fragmento tres características de la autora y/o de la época y explíquelas: \n \nSi el mar es infinito y tiene redes, \n \n¿Qué importancia tiene todo esto, \nsi su música sale de la ola, \n \n \nmientras haya en mi barrio una mesa sin patas, \nsi el alba es roja y el ocaso verde, \n \nun niño sin zapatos o un contable tosiendo, \nsi la selva es lujuria y la luna caricia, \n \nun banquete de cáscaras, \nsi la rosa se abre y perfuma la casa, \n \nun concierto de perros, \nsi la niña se ríe y perfuma la vida, \n \nuna ópera de sarna? \nsi el amor va y me besa y me deja temblando. \n \n \n(Antología y poemas del suburbio)"
+  },
+  {
+   "id": "Lingua Castelá-2023-ordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2023,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2023/ordinaria/01_castelan_ordinaria_2023.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema «La figura de Alfonso Sastre en el teatro español posterior a la Guerra Civil. La \nrenovación del teatro». Identifique en el fragmento tres características del autor y/o de la época y \nexplíquelas: \n \nJUAN.– ¿Tú crees que el comisario Roch sospecha de nuestro padre? \nTEO.– De momento, sospecha de todos nosotros. \nJUAN.– Y viene fingiéndose amigo nuestro para cazarnos. \nTEO.– Es su oficio. \nJUAN.– ¿Y nosotros vamos a callar siempre? \nTEO.– Sí. Por una razón o por otra, todos vamos a callar siempre. \nJUAN.– No sé si podremos resistirlo. Llevamos así dos meses. Pero ¿vamos a poder resistir toda la \nvida? \nTEO.– Si es preciso, tendremos que resistir toda la vida. \nJUAN.– Tú querrías hablar, delatar a nuestro padre, ¿verdad, Teo? \nTEO.– Sí. \nJUAN.– ¿Y por qué no hablas? \nTEO.– Por miedo... Siento como una mordaza en la boca... Es el miedo...   \n   (La mordaza)"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en el texto: a los niños y niñas (l.1), que (l.3), que se prohíba por ley (l.4-5), legislar con prohibiciones (l.12), qué (l.15). Señale también la función sintáctica que desempeñan. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan \nreflejadas las ideas del texto. (1 punto) \n1.2. Indique la clase de palabra o de unidad a la que pertenecen los segmentos destacados en negrita en \nel texto: a los niños y niñas (l.1), que (l.3), que se prohíba por ley (l.4-5), legislar con prohibiciones \n(l.12), qué (l.15). Señale también la función sintáctica que desempeñan. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, \nredactado con corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Detección y corrección de errores o estructuras agramaticales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Escoja cinco adjetivos del texto y proponga un sinónimo para cada uno de ellos; a continuación, escoja otros cinco (pueden coincidir o no con los anteriores) y proponga un antónimo para cada uno. (1 punto)",
+    "3.2. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguiente parejas de términos: haya / halla; desecho / deshecho; graba / grava; abría / habría; hora / ora. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Escoja cinco adjetivos del texto y proponga un sinónimo para cada uno de ellos; a continuación, \nescoja otros cinco (pueden coincidir o no con los anteriores) y proponga un antónimo para cada \nuno. (1 punto)  \n3.2. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las \nsiguiente parejas de términos: haya / halla; desecho / deshecho; graba / grava; abría / habría; hora / \nora. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Subordine en cada caso la segunda oración a la primera utilizando el relativo posesivo cuyo / cuya / cuyos / cuyas: (1 punto) Juan no ha venido a verme en todo el invierno. Su hermano estudia conmigo. Esa novela acaba de ganar el premio Planeta. Estuvimos hablando de su autor ayer.",
+    "4.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes perífrasis verbales: a) una modal obligativa, b) una modal de probabilidad o duda, c) una aspectual incoativa y d) una aspectual durativa. Identifíquelas. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Subordine en cada caso la segunda oración a la primera utilizando el relativo posesivo cuyo / cuya / \ncuyos / cuyas: (1 punto) \nJuan no ha venido a verme en todo el invierno. Su hermano estudia conmigo. \nEsa novela acaba de ganar el premio Planeta. Estuvimos hablando de su autor ayer. \n4.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes perífrasis \nverbales: a) una modal obligativa, b) una modal de probabilidad o duda, c) una aspectual incoativa y \nd) una aspectual durativa. Identifíquelas. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "La Fundación (Antonio Buero Vallejo)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema «Argumento y temas fundamentales en La Fundación». Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \nTOMÁS.–¿Nunca te has preguntado si todo esto es… real? \nASEL.–¿La cárcel? \nTOMÁS.–Sí.  \nASEL.–¿Quieres volver a la fundación? \nTOMÁS.–Ya sé que no era real. Pero me pregunto si el resto del mundo lo es más… También a los de \nfuera se les esfuma de pronto el televisor o el vaso que querían beber, […]"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "El lector de Julio Verne (Almudena Grandes)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema «Estructura y punto de vista en El lector de Julio Verne». Apóyese, para ello, en el \nfragmento, que deberá localizar en la estructura de la obra: \nPasaron otros once años antes de que alguien volviera a llamarme camarada. \nLa cita era a las cinco y media, en Pedro Antonio de Alarcón esquina con Recogidas. Llegué diez \nminutos antes, porque solo llevaba unos meses viviendo en Granada y no conocía bien el centro de \nla ciudad […] \n—¿Por qué quieres unirte a nosotros? —me preguntó de sopetón [….] \n—Bueno, no se trata exactamente de eso —sonreí al comprobar que mi respuesta la había \nasustado—. Quiero decir que no necesito unirme a vosotros porque siempre he estado dentro. \nElla levantó mucho las cejas para mirarme mientras yo escuchaba la voz de Pepe el Portugués, ¿qué \nclase de persona vas a ser tú, Nino?, ¿a quién quieres parecerte?, mientras volvía a ver sus ojos, \nfijos en los míos, aquella tarde, en el río."
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema «La poesía española en las tres décadas posteriores a la Guerra Civil: Gil de Biedma». \nIdentifique en el fragmento tres características del autor y/o de la época y explíquelas. \nLa noche, que es siempre ambigua,  \n \nhistéricas. En la cama, \nte enfurece -color  \n \n \n \nluego, te calmaré \nde ginebra mala, son   \n \n \ncon besos que me da pena \ntus ojos unas bichas.   \n \n \ndártelos. Y al dormir \nYo sé que vas a romper  \n \n \nte apretarás contra mí \nen insultos y en lágrimas  \n \n \ncomo una perra enferma.  \n     (Moralidades)"
+  },
+  {
+   "id": "Lingua Castelá-2024-extraordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "La novela española posterior a la Guerra Civil: Delibes, Cela, Laforet y Martín Santos",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/extraordinaria/01_castelan_extraordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema «La novela española en las tres décadas posteriores a la Guerra Civil: Luis Martín \nSantos». Identifique en el fragmento tres características del autor y/o de la época y explíquelas: \nFlorita, la desnuda Florita en la chabola, florecita pequeña, pequeñita, pequeñita, florecilla le dio la \nvieja, florecita la segunda que… ajjj… Me voy, lo pasaré bien. Diagnosticar pleuritis, peritonitis, \nsoplos, cólicos, fiebres gástricas y un día el suicidio con veronal de la maestra soltera. Las \nmuchachas el día de la fiesta, delante de la procesión, detrás del palio, rojas, carrilludas, \nmofletudas, mirando de lado hacia donde estoy asqueado de verlas pasar, mirando sus piernas, \nsentado en el casino con dos, cinco, siete, catorce señores que juegan al ajedrez y me estiman \nmucho por mi superioridad intelectual y mi elevado nivel mental. Ya está, Príncipe Pío. Sí, por \narriba. Luego se baja en un ascensor gratis con un tornillo por debajo que parece que le están \ndando… Comprar un megret para el tren, hace tiempo que no leo policíacas, a mí policíacas. \n(Tiempo de silencio)"
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan reflejadas las ideas del texto. (1 punto)",
+    "1.2. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: que (l.1), su (l.9), esa (l.12), que (l.14), donde (l.20). Señale, cuando corresponda, el referente intratextual de la palabra. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1. (2 PUNTOS)  \n1.1. Resuma el texto. Si lo prefiere, en vez del resumen, puede realizar un esquema en el que aparezcan \nreflejadas las ideas del texto. (1 punto) \n1.2. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: que \n(l.1), su (l.9), esa (l.12), que (l.14), donde (l.20). Señale, cuando corresponda, el referente \nintratextual de la palabra. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. (2 PUNTOS)  \nRedacte un comentario crítico sobre el texto, manifestando su acuerdo o desacuerdo con las ideas \ncontenidas en él. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, \nredactado con corrección y adecuación."
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Clases de palabras"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: respeto / respecto; basto / vasto; a sí mismo / asimismo; haber / a ver; absorber / absolver. (1 punto)",
+    "3.2. Busque en el texto cinco adverbios diferentes y clasifíquelos semánticamente (tiempo, lugar, modo, etc.) (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. (2 PUNTOS)  \n3.1. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las \nsiguientes parejas de términos: respeto / respecto; basto / vasto; a sí mismo / asimismo; haber / a \nver; absorber / absolver. (1 punto) \n3.2. Busque en el texto cinco adverbios diferentes y clasifíquelos semánticamente (tiempo, lugar, modo, \netc.) (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+    "Formas verbales y perífrasis verbales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una oración condicional, b) una causal, c) una consecutiva y d) una concesiva. Identifíquelas.",
+    "4.2. Construya una oración que tenga sentido con cada una de las siguientes formas verbales: a) presente de subjuntivo de conducir; b) condicional simple (condicional imperfecto) de convenir; c) pretérito perfecto simple (pretérito indefinido) de indicativo de andar; d) futuro simple (futuro imperfecto) de indicativo de salir. (1 punto)"
+   ],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. (2 PUNTOS)  \n4.1. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) \nuna oración condicional, b) una causal, c) una consecutiva y d) una concesiva. Identifíquelas. \n4.2. Construya una oración que tenga sentido con cada una de las siguientes formas verbales: a) \npresente de subjuntivo de conducir; b) condicional simple (condicional imperfecto) de convenir; c) \npretérito perfecto simple (pretérito indefinido) de indicativo de andar; d) futuro simple (futuro \nimperfecto) de indicativo de salir. (1 punto)"
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-5",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 5,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 5. (2 PUNTOS) \nDesarrolle el tema «Rasgos formales en el Romancero gitano». Apóyese, para ello, en el fragmento, que \ndeberá localizar en la estructura de la obra: \nVoces de muerte sonaron \n \nEn la lucha daba saltos \ncerca del Guadalquivir. \n \njabonados de delfín. \nVoces antiguas que cercan \n \nBañó con sangre enemiga \nvoz de clavel varonil.  \n \nsu corbata carmesí, \nLes clavó sobre las botas \n \npero eran cuatro puñales \nmordiscos de jabalí.  \n \ny tuvo que sucumbir."
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-6",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 6,
+   "tema": [
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 6. (2 PUNTOS) \nDesarrolle el tema «Temas de Crónica de una muerte anunciada». Apóyese, para ello, en el fragmento, \nque deberá localizar en la estructura de la obra: \nClotilde Armenta sufrió una desilusión más con la ligereza del alcalde, pues pensaba que debía \narrestar a los gemelos hasta esclarecer la verdad. El coronel Aponte le mostró los cuchillos como un \nargumento final.  \n—Ya no tienen con qué matar a nadie —dijo.  \n—No es por eso —dijo Clotilde Armenta—. Es para librar a esos pobres muchachos del horrible \ncompromiso que les ha caído encima.  \nPues ella lo había intuido. Tenía la certidumbre de que los hermanos Vicario no estaban tan \nansiosos por cumplir la sentencia como por encontrar a alguien que les hiciera el favor de \nimpedírselo. Pero el coronel Aponte estaba en paz con su alma."
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-7",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 7,
+   "tema": [
+    "El Modernismo: Rubén Darío y Delmira Agustini"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 7. (2 PUNTOS) \nDesarrolle el tema «El modernismo. Características generales a través de la figura de Rubén Darío». \nIdentifique en el texto tres características del autor y/o del movimiento y explíquelas: \nLa princesa está triste... ¿qué tendrá la princesa?  \nEl jardín puebla el triunfo de los pavos reales. \nLos suspiros se escapan de su boca de fresa, \n \nParlanchina, la dueña dice cosas banales, \nque ha perdido la risa, que ha perdido el color.  \ny vestido de rojo piruetea el bufón. \nLa princesa está pálida en su silla de oro;  \n \nLa princesa no ríe, la princesa no siente; \nestá mudo el teclado de su clave sonoro; \n \nLa princesa persigue por el cielo de Oriente \ny en un vaso, olvidada, se desmaya una flor. \n \nLa libélula vaga de una vaga ilusión.[…] \n \n(Prosas profanas)"
+  },
+  {
+   "id": "Lingua Castelá-2024-ordinaria-8",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2024,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 8,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil",
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [],
+   "ley_educativa": "LOMCE",
+   "fuente": "fuentes/castelan/2024/ordinaria/01_castelan_ordinaria_2024.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 8. (2 PUNTOS) \nDesarrolle el tema «La figura de Buero Vallejo en el teatro español posterior a la Guerra Civil. La \nrenovación del teatro». Identifique en el fragmento tres características del autor y/o de la época y \nexplíquelas: \nFERNANDO.– (Más calmado y levemente despreciativo.) ¿Sabes lo que te digo? Que el tiempo lo dirá \ntodo. Y que te emplazo. (URBANO le mira.) Sí, te emplazo para dentro de… diez años, por ejemplo. \nVeremos, para entonces, quién ha llegado más lejos; si tú con tu sindicato o yo con mis proyectos. \nURBANO.– Ya sé que yo no llegaré muy lejos; y tampoco tú llegarás. Si yo llego, llegaremos todos. \nPero lo más fácil es que dentro de diez años sigamos subiendo esta escalera y fumando en ese \ncasinillo. \nFERNANDO.– Yo, no. (Pausa.) Aunque quizá no sean muchos diez años… (Pausa) \nURBANO.–¡Vamos! Parece que no estás muy seguro. \nFERNANDO.– No es eso, Urbano. ¡Es que le tengo miedo al tiempo! Es lo que más me hace sufrir. Ver \ncómo pasan los días, y los años…, sin que nada cambie. Ayer mismo éramos tú y yo dos críos que \nveníamos a fumar aquí, a escondidas, los primeros pitillos… ¡Y hace ya diez años! Hemos crecido sin \ndarnos cuenta, subiendo y bajando la escalera, rodeados siempre de los padres, que no nos \nentienden; de vecinos que murmuran de nosotros y de quienes murmuramos… Buscando mil \nrecursos y soportando humillaciones para poder pagar la casa, la luz… y las patatas. (Pausa.) Y \nmañana, o dentro de diez años que pueden pasar como un día, como han pasado estos últimos… \n¡sería terrible seguir así! Subiendo y bajando la escalera, una escalera que no conduce a ningún sitio; \nhaciendo trampas en el contador, aborreciendo el trabajo,.., perdiendo día tras día… (Pausa.) Por eso \nes preciso cortar por lo sano.   \n \n \n \n \n(Historia de una escalera)"
+  },
+  {
+   "id": "Lingua Castelá-2025-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "3,5 puntos",
+   "apartados": [
+    "1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, puede realizar un esquema. (1 punto)",
+    "1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas que refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado con corrección y adecuación. (2,5 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/extraordinaria/01_castelan_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1.  COMPRENSIÓN Y EXPRESIÓN ESCRITAS: COMENTARIO DE TEXTO. (3,5 puntos) \nResponda los dos apartados siguientes: \n1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, \npuede realizar un esquema. (1 punto) \n1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas \nque refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación. (2,5 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2025-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Clases de palabras",
+    "Formas verbales y perífrasis verbales",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2,5 puntos",
+   "apartados": [
+    "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: ellas (l. 1), estas (l. 7), lo (l. 11), que (l. 16), lo (l. 18). Señale, cuando corresponda, el referente intratextual de la palabra. (1,25 puntos)",
+    "2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una subordinada sustantiva en función de objeto o complemento directo, b) una subordinada adjetiva o de relativo, c) un verbo en voz pasiva y d) una construcción causal. Identifíquelas. (1,25 puntos)",
+    "2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: actitud / aptitud; adición / adicción; sino / si no; desecho / deshecho; porque / por qué (1,25 puntos)",
+    "2.4. Construya una oración que tenga sentido con cada una de las siguientes formas verbales: a) presente de subjuntivo de reducir; b) pretérito imperfecto (copretérito) de haber; c) pretérito imperfecto (pretérito simple) de subjuntivo de andar; d) futuro simple (futuro imperfecto) de indicativo de poner. (1,25 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/extraordinaria/01_castelan_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. REFLEXIÓN SOBRE LA LENGUA. (2,5 puntos) \nResponda dos de estos cuatro apartados: \n2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: ellas (l. 1), \nestas (l. 7), lo (l. 11), que (l. 16), lo (l. 18). Señale, cuando corresponda, el referente intratextual de la palabra. (1,25 \npuntos) \n \n2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una \nsubordinada sustantiva en función de objeto o complemento directo, b) una subordinada adjetiva o de relativo, c) \nun verbo en voz pasiva y d) una construcción causal. Identifíquelas. (1,25 puntos) \n \n2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes \nparejas de términos: actitud / aptitud; adición / adicción; sino / si no; desecho / deshecho; porque / por qué (1,25 \npuntos) \n \n2.4. Construya una oración que tenga sentido con cada una de las siguientes formas verbales: a) presente de \nsubjuntivo de reducir; b) pretérito imperfecto (copretérito) de haber; c) pretérito imperfecto (pretérito simple) de \nsubjuntivo de andar; d) futuro simple (futuro imperfecto) de indicativo de poner. (1,25 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2025-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)",
+    "La Fundación (Antonio Buero Vallejo)",
+    "Detección y corrección de errores o estructuras agramaticales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Explique los temas del Romancero gitano que se aprecian en el siguiente fragmento, que deberá localizar en la estructura de la obra: (2 puntos) En la mitad del barranco se sube por las paredes. las navajas de Albacete, Ángeles negros traían bellas de sangre contraria, pañuelos y agua de nieve. relucen como los peces. Ángeles con grandes alas Una dura luz de naipe de navajas de Albacete. recor",
+    "3.2. Explique las técnicas y recursos dramáticos propios de La fundación que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) TOMÁS.–He estado lleno de imágenes asombrosamente nítidas. Y eran falsas. En cambio se me han borrado otras que, según vosotros, son las verdaderas. He sufrido alucinaciones...quizás las sufro todavía. ASEL.–Crees. Pero tu cabeza n"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/extraordinaria/01_castelan_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. EDUCACIÓN LITERARIA: OBRA DE LECTURA OBLIGATORIA. (2 puntos)   \nResponda uno de estos dos apartados: \n3.1. Explique los temas del Romancero gitano que se aprecian en el siguiente fragmento, que deberá localizar en \nla estructura de la obra: (2 puntos) \n \nEn la mitad del barranco  \n \nse sube por las paredes. \nlas navajas de Albacete,  \n \nÁngeles negros traían \nbellas de sangre contraria, \n \npañuelos y agua de nieve. \nrelucen como los peces.  \n \nÁngeles con grandes alas \nUna dura luz de naipe \n \n \nde navajas de Albacete. \nrecorta en el agrio verde,  \n \nJuan Antonio el de Montilla \ncaballos enfurecidos \n \n \nrueda muerto la pendiente, \ny perfiles de jinetes. \n \n \nsu cuerpo lleno de lirios \nEn la copa de un olivo \n \n \ny una granada en las sienes. \nlloran dos viejas mujeres.  \n \nAhora monta cruz de fuego, \nEl toro de la reyerta \n \n \ncarretera de la muerte. \n \n3.2. Explique las técnicas y recursos dramáticos propios de La fundación que se aprecian en este fragmento, que \ndeberá localizar en la estructura de la obra: (2 puntos) \nTOMÁS.–He estado lleno de imágenes asombrosamente nítidas. Y eran falsas. En cambio se me han borrado \notras que, según vosotros, son las verdaderas. He sufrido alucinaciones...quizás las sufro todavía. \nASEL.–Crees. Pero tu cabeza no rige bien; tú mismo lo reconoces ya…Ves cosas que los demás no vemos, hablas \nde personas que desconocemos… Supongamos por un momento que estás bajo la impresión de un falso \nrecuerdo. \nTOMÁS.–¿Un falso recuerdo?"
+  },
+  {
+   "id": "Lingua Castelá-2025-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Realismo y naturalismo: Galdós, Clarín y Pardo Bazán",
+    "La poesía española posterior a la Guerra Civil: Miguel Hernández, Blas de Otero, Gil de Biedma y Gloria Fuertes"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Leopoldo Alas «Clarín»” o “Narrativa realista o naturalista”. (2 puntos) Con Octubre muere en Vetusta el buen tiempo. Al mediar Noviembre suele lucir el sol una semana, pero como si fuera y",
+    "4.2. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su etapa. Desarrolle, además, uno de los siguientes temas: “Trayectoria poética de Gil de Biedma” o “Poesía española en las tres décadas posteriores a la Guerra Civil” (2 puntos) ¿A qué vienes ahora, hacia la orilla avanzas juventud, con sonrosados pechos diminutos, encanto descarado"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/extraordinaria/01_castelan_extraordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. EDUCACIÓN LITERARIA: HISTORIA DE LA LITERATURA. (2 puntos)   \nResponda uno de estos dos apartados: \n4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a \nsu movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Leopoldo Alas \n«Clarín»” o “Narrativa realista o naturalista”. (2 puntos) \nCon Octubre muere en Vetusta el buen tiempo. Al mediar Noviembre suele lucir el sol una semana, pero como \nsi fuera ya otro sol, que tiene prisa y hace sus visitas de despedida preocupado con los preparativos del viaje \ndel invierno. Puede decirse que es una ironía de buen tiempo lo que se llama el veranillo de San Martín. Los \nvetustenses no se fían de aquellos halagos de luz y calor y se abrigan y buscan su manera peculiar de pasar la \nvida a nado durante la estación odiosa que se prolonga hasta fines de Abril próximamente. Son anfibios que se \npreparan a vivir debajo de agua la temporada que su destino les condena a este elemento. Unos protestan \ntodos los años haciéndose de nuevas y diciendo: «¡Pero ve usted qué tiempo!» Otros, más filósofos, se \nconsuelan pensando que a las muchas lluvias se debe la fertilidad y hermosura del suelo. «O el cielo o el suelo, \ntodo no puede ser».  \n  \n \n \n \nLa Regenta, Leopoldo Alas “Clarín” \n \n4.2. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a \nsu etapa. Desarrolle, además, uno de los siguientes temas: “Trayectoria poética de Gil de Biedma” o “Poesía \nespañola en las tres décadas posteriores a la Guerra Civil” (2 puntos) \n¿A qué vienes ahora, \n \n \n \nhacia la orilla avanzas \njuventud, \n \n \n \n \ncon sonrosados pechos diminutos, \nencanto descarado de la vida? \n \n \ncon nalgas maliciosas lo mismo que sonrisas, \n¿Qué te trae a la playa?  \n \n \noh diosa esbelta de tobillos gruesos, \nEstábamos tranquilos los mayores  \n \ny con la insinuación \ny tú vienes a herirnos, reviviendo  \n \n(tan propiamente tuya) \nlos más temibles sueños imposibles, \n \ndel vientre dando paso al nacimiento \ntú vienes para hurgarnos las imaginaciones. \nde los muslos: belleza delicada, \nDe las ondas surgida, \n \n \n \nprecisa e indecisa, \ntoda brillos, fulgor, sensación pura  \n \ndonde posar la frente derramando lágrimas. \ny ondulaciones de animal latente,  \n \n \n \n(Poemas póstumos, Gil de Biedma)"
+  },
+  {
+   "id": "Lingua Castelá-2025-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "3,5 puntos",
+   "apartados": [
+    "1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, puede realizar un esquema. (1 punto)",
+    "1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas que refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado con corrección y adecuación. (2,5 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/ordinaria/01_castelan_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1.  COMPRENSIÓN Y EXPRESIÓN ESCRITAS: COMENTARIO DE TEXTO. (3,5 puntos) \nResponda los dos apartados siguientes: \n1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, \npuede realizar un esquema. (1 punto) \n1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas \nque refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación. (2,5 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2025-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Formas verbales y perífrasis verbales",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2,5 puntos",
+   "apartados": [
+    "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: demasiado grande y demasiado horrible (l 2), nos (l. 4), algo (l. 6), una parte de nuestra conciencia (l. 6), que (l. 11). Indique también su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos)",
+    "2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una perífrasis modal obligativa, b) una perífrasis modal de probabilidad, c) una perífrasis aspectual durativa y d) una perífrasis aspectual terminativa. Identifíquelas. (1,25 puntos)",
+    "2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: perjuicio / prejuicio; calló / cayó; demás / de más; entorno / en torno; sinvergüenza / sin vergüenza (1,25 puntos)",
+    "2.4. Escoja en el texto cinco adverbios y clasifíquelos semánticamente (tiempo, modo, lugar, cantidad, duda, afirmación, negación). (1,25 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/ordinaria/01_castelan_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. REFLEXIÓN SOBRE LA LENGUA. (2,5 puntos) \nResponda dos de estos cuatro apartados: \n2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: demasiado \ngrande y demasiado horrible (l 2), nos (l. 4), algo (l. 6), una parte de nuestra conciencia (l. 6), que (l. 11). Indique \ntambién su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos) \n \n2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice las siguientes estructuras: a) una \nperífrasis modal obligativa, b) una perífrasis modal de probabilidad, c) una perífrasis aspectual durativa y d) una \nperífrasis aspectual terminativa. Identifíquelas. (1,25 puntos) \n \n2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes \nparejas de términos: perjuicio / prejuicio; calló / cayó; demás / de más; entorno / en torno; sinvergüenza / sin \nvergüenza (1,25 puntos) \n \n2.4. Escoja en el texto cinco adverbios y clasifíquelos semánticamente (tiempo, modo, lugar, cantidad, duda, \nafirmación, negación). (1,25 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2025-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)",
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) Antonio Torres Heredia, bajo las ramas de un olmo, Hijo y nieto de Camborios, guardia civil caminera con una vara de mimbre lo llevó codo con codo. va a Sevilla a ver los toros. (…) Moreno de verde luna, Las aceitunas aguardan anda ",
+    "3.2. Explique los temas (amor, honor, fatum) de Crónica de una muerte anunciada que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) –Lo dejamos para después -dijo Pablo Vicario–, ahora vamos de prisa. –Me lo imagino, hijos –dijo ella–: el honor no espera. Pero de todos modos esperaron, y entonces fue Pedro Vicario quien pensó que el hermano estaba perdie"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/ordinaria/01_castelan_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. EDUCACIÓN LITERARIA: OBRA DE LECTURA OBLIGATORIA. (2 puntos)   \nResponda uno de estos dos apartados: \n3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que \ndeberá localizar en la estructura de la obra: (2 puntos) \nAntonio Torres Heredia,  \n \nbajo las ramas de un olmo, \nHijo y nieto de Camborios, \n \nguardia civil caminera \ncon una vara de mimbre  \n \nlo llevó codo con codo. \nva a Sevilla a ver los toros. \n \n(…) \nMoreno de verde luna, \n \n \nLas aceitunas aguardan \nanda despacio y garboso.  \n \nla noche de Capricornio, \n(…) \n \n \n \n \ny una corta brisa, ecuestre, \nY a la mitad del camino,  \n \nsalta los montes de plomo. \n \n3.2. Explique los temas (amor, honor, fatum) de Crónica de una muerte anunciada que se aprecian en este \nfragmento, que deberá localizar en la estructura de la obra: (2 puntos) \n–Lo dejamos para después -dijo Pablo Vicario–, ahora vamos de prisa. \n–Me lo imagino, hijos –dijo ella–: el honor no espera. \nPero de todos modos esperaron, y entonces fue Pedro Vicario quien pensó que el hermano estaba \nperdiendo el tiempo a propósito. Mientras tomaban el café, Prudencia Cotes salió a la cocina en plena \nadolescencia con un rollo de periódicos viejos para animar la lumbre de la hornilla. «Yo sabía en qué \nandaban -me dijo- y no sólo estaba de acuerdo, sino que nunca me hubiera casado con él si no cumplía \ncomo hombre.»"
+  },
+  {
+   "id": "Lingua Castelá-2025-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2025,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "El teatro español anterior a la Guerra Civil: Lorca y Valle-Inclán",
+    "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o a su etapa. Desarrolle, además, uno de los siguientes temas: “Trayectoria dramática de Valle-Inclán” o “Teatro español anterior a la Guerra Civil” (2 puntos) MAX.–Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo pue",
+    "4.2. Identifique y explique dos características presentes en este fragmento que permitan atribuirlo a su autora o a su tendencia. Desarrolle uno de los siguientes temas: “La trayectoria narrativa de Almudena Grandes” o “La narrativa peninsular desde 1975 hasta nuestros días. Principales tendencias”. (2 puntos) Avancé unos pasos y me giré para comprobar que Amparo seguía mirándome, tan quieta como "
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2025/ordinaria/01_castelan_ordinaria_2025.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. EDUCACIÓN LITERARIA: HISTORIA DE LA LITERATURA. (2 puntos)   \nResponda uno de estos dos apartados: \n4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o \na su etapa. Desarrolle, además, uno de los siguientes temas: “Trayectoria dramática de Valle-Inclán” o “Teatro \nespañol anterior a la Guerra Civil” (2 puntos) \nMAX.–Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la \nvida española sólo puede darse con una estética sistemáticamente deformada.  \nDON LATINO.–¡Miau! ¡Te estás contagiando!  \nMAX.–España es una deformación grotesca de la civilización europea.  \nDON LATINO.–¡Pudiera! Yo me inhibo.  \nMAX.–Las imágenes más bellas en un espejo cóncavo son absurdas.  \nDON LATINO.–Conforme. Pero a mí me divierte mirarme en los espejos de la calle del Gato.  \nMAX.–Y a mí. La deformación deja de serlo cuando está sujeta a una matemática perfecta. Mi estética \nactual es transformar con matemática de espejo cóncavo las normas clásicas.  \nDON LATINO.–¡Eres genial! ¡Me quito el cráneo!  \nMAX.-Latino, deformemos la expresión en el mismo espejo que nos deforma las caras y toda la vida \nmiserable de España.  \nDON LATINO.–Nos mudaremos al callejón del Gato.  \n \n \n \n \nLuces de Bohemia, Valle-Inclán \n \n4.2. Identifique y explique dos características presentes en este fragmento que permitan atribuirlo a su autora o a \nsu tendencia. Desarrolle uno de los siguientes temas: “La trayectoria narrativa de Almudena Grandes” o “La \nnarrativa peninsular desde 1975 hasta nuestros días. Principales tendencias”. (2 puntos) \nAvancé unos pasos y me giré para comprobar que Amparo seguía mirándome, tan quieta como un poste \nque partiera en dos un torrente de fieles con palmas en las manos. Entonces salió el sol. Habría sido una \nbella imagen para una despedida, pero yo aún no podía permitírmela. \nEl último domingo de marzo de 1947 fui al encuentro de una mujer que conocía mi verdadera identidad. \nAmparo sabía que yo no me llamaba Rafael Cuesta Sánchez, sino Guillermo García Medina. Y que era \nmédico, aunque no tuviera título oficial y trabajara en una agencia de transportes. Lo que ignoraba era \nque había ido a buscarla para ayudar a Manuel Arroyo Benítez, un amigo mío que había suplantado la \nidentidad de Adrián Gallardo Ortega para infiltrarse en una organización de prófugos nazis y emigrar a la \nArgentina como uno de ellos. Mientras tanto, el verdadero Adrián Gallardo mendigaba en Berlín, y cuando \nle paraba una patrulla, enseñaba la documentación de un hombre llamado Alfonso Navarro López. Mi \nhistoria es la historia de tres impostores.  \nLos pacientes del doctor García, Almudena Grandes"
+  },
+  {
+   "id": "Lingua Castelá-2026-extraordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "3,5 puntos",
+   "apartados": [
+    "1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, puede realizar un esquema. (1 punto)",
+    "1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas que refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado con corrección y adecuación. (2,5 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/extraordinaria/01_castelan_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1.  COMPRENSIÓN Y EXPRESIÓN ESCRITAS: COMENTARIO DE TEXTO. (3,5 puntos) \nResponda los dos apartados siguientes: \n \n1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, \npuede realizar un esquema. (1 punto) \n1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas \nque refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación. (2,5 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2026-extraordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Formas verbales y perífrasis verbales",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Relaciones entre estructuras sintácticas (coordinación, subordinación)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2,5 puntos",
+   "apartados": [
+    "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: tantas notificaciones, nos, interesantes (l. 7), ello (l. 8), que (l. 13). Indique también su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos)",
+    "2.2. Escriba una oración que tenga sentido con cada una de las siguientes formas verbales: a) pretérito perfecto simple de indicativo de querer; b) pretérito imperfecto de subjuntivo de conducir; c) presente de indicativo de permanecer; d) futuro simple (futuro imperfecto) de indicativo de salir. (1,25 puntos)",
+    "2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: onda/honda; votar/botar; revelar/rebelar; valla/baya; prever/proveer. (1,25 puntos)",
+    "2.4. Escoja en el texto cinco ejemplos de subordinadas adjetivas o de relativo. Reprodúzcalas, señale el elemento relativo en cada caso e indique cuál es su antecedente. (1,25 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/extraordinaria/01_castelan_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. REFLEXIÓN SOBRE LA LENGUA. (2,5 puntos) \nResponda dos de estos cuatro apartados: \n \n2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: tantas \nnotificaciones, nos, interesantes (l. 7), ello (l. 8), que (l. 13). Indique también su función sintáctica en la cláusula u \noración en la que se integran. (1,25 puntos) \n2.2. Escriba una oración que tenga sentido con cada una de las siguientes formas verbales: a) pretérito perfecto \nsimple de indicativo de querer; b) pretérito imperfecto de subjuntivo de conducir; c) presente de indicativo de \npermanecer; d) futuro simple (futuro imperfecto) de indicativo de salir. (1,25 puntos)  \n2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas \nde términos: onda/honda; votar/botar; revelar/rebelar; valla/baya; prever/proveer. (1,25 puntos) \n2.4. Escoja en el texto cinco ejemplos de subordinadas adjetivas o de relativo. Reprodúzcalas, señale el elemento \nrelativo en cada caso e indique cuál es su antecedente. (1,25 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2026-extraordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "Romancero gitano (Federico García Lorca)",
+    "Crónica de una muerte anunciada (Gabriel García Márquez)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) La luna gira en el cielo Aire rizado venía sobre las sierras sin agua con los balidos de lana. mientras el verano siembra La sierra se ofrece llena rumores de tigre y llama. de heridas cicatrizadas, Por encima de los techos o estrem",
+    "3.2. Analice los personajes de Crónica de una muerte anunciada que aparecen en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) Era Ángela Vicario quien no quería casarse con él. «Me parecía demasiado hombre para mí», me dijo. Además, Bayardo San Román no había intentado siquiera seducirla a ella, sino que hechizó a la familia con sus encantos. Ángela Vicario no olvidó "
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/extraordinaria/01_castelan_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. EDUCACIÓN LITERARIA: OBRA DE LECTURA OBLIGATORIA. (2 puntos)   \nResponda uno de estos dos apartados: \n3.1. Explique los componentes simbólicos y míticos del Romancero gitano que se aprecian en este fragmento, que \ndeberá localizar en la estructura de la obra: (2 puntos) \nLa luna gira en el cielo \n \nAire rizado venía \nsobre las sierras sin agua  \ncon los balidos de lana. \nmientras el verano siembra \nLa sierra se ofrece llena \nrumores de tigre y llama.  \nde heridas cicatrizadas, \nPor encima de los techos  \no estremecida de agudos \nnervios de metal sonaban. \ncauterios de luces blancas. \n \n3.2. Analice los personajes de Crónica de una muerte anunciada que aparecen en este fragmento, que deberá \nlocalizar en la estructura de la obra: (2 puntos) \nEra Ángela Vicario quien no quería casarse con él. «Me parecía demasiado hombre para mí», me dijo. Además, \nBayardo San Román no había intentado siquiera seducirla a ella, sino que hechizó a la familia con sus encantos. \nÁngela Vicario no olvidó nunca el horror de la noche en que sus padres y sus hermanas mayores con sus maridos, \nreunidos en la sala de la casa, le impusieron la obligación de casarse con un hombre que apenas había visto. Los \ngemelos se mantuvieron al margen. «Nos pareció que eran vainas de mujeres», me dijo Pablo Vicario. El \nargumento decisivo de los padres fue que una familia dignificada por la modestia no tenía derecho a despreciar \naquel premio del destino. Ángela Vicario se atrevió apenas a insinuar el inconveniente de la falta de amor, pero \nsu madre lo demolió con una sola frase: −También el amor se aprende. A diferencia de los noviazgos de la época, \nque eran largos y vigilados, el de ellos fue de sólo cuatro meses por las urgencias de Bayardo San Román. No fue \nmás corto porque Pura Vicario exigió esperar a que terminara el luto de la familia."
+  },
+  {
+   "id": "Lingua Castelá-2026-extraordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "extraordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "Buero Vallejo y Alfonso Sastre en el teatro español posterior a la Guerra Civil",
+    "La narrativa peninsular desde 1975: Almudena Grandes, Muñoz Molina, Mendoza y Rosa Montero"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su etapa. Desarrolle el tema “La figura de Buero Vallejo en el teatro español posterior a la Guerra Civil”. (2 puntos) FERNANDO. -No es eso, Urbano. ¡Es que le tengo miedo al tiempo! Es lo que más me hace sufrir. Ver cómo pasan los días, y los años..., sin que nada cambie. Ayer mismo",
+    "4.2. Identifique y explique dos características presentes en este fragmento que permitan atribuirlo a su autor o a su tendencia. Desarrolle uno de los siguientes temas: “La trayectoria narrativa de Eduardo Mendoza” o “La narrativa peninsular desde 1975 hasta nuestros días. Principales tendencias”. (2 puntos) Por los periódicos tuve noticia de la muerte de Lepprince. Un incendio había destruido por"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/extraordinaria/01_castelan_extraordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. EDUCACIÓN LITERARIA: HISTORIA DE LA LITERATURA. (2 puntos)   \nResponda uno de estos dos apartados: \n \n4.1. Identifique y explique tres características presentes en este fragmento que permitan atribuirlo a su autor o a su \netapa. Desarrolle el tema “La figura de Buero Vallejo en el teatro español posterior a la Guerra Civil”. (2 puntos) \nFERNANDO. -No es eso, Urbano. ¡Es que le tengo miedo al tiempo! Es lo que más me hace sufrir. Ver cómo \npasan los días, y los años..., sin que nada cambie. Ayer mismo éramos tú y yo dos críos que veníamos a fumar \naquí, a escondidas, los primeros pitillos... ¡Y hace ya diez años! Hemos crecido sin darnos cuenta, subiendo y \nbajando la escalera, rodeados siempre de los padres, que no nos entienden; de vecinos que murmuran de \nnosotros y de quienes murmuramos... Buscando mil recursos y soportando humillaciones para poder pagar la \ncasa, la luz... y las patatas. (Pausa.) Y mañana, o dentro de diez años que pueden pasar como un día, como han \npasado estos últimos... ¡sería terrible seguir así! Subiendo y bajando la escalera, una escalera que no conduce \na ningún sitio; haciendo trampas en el contador, aborreciendo el trabajo..., perdiendo día tras día... (Pausa.) \nPor eso es preciso cortar por lo sano.   \n \n \n        Historia de una escalera, Buero Vallejo \n \n4.2. Identifique y explique dos características presentes en este fragmento que permitan atribuirlo a su autor o a su \ntendencia. Desarrolle uno de los siguientes temas: “La trayectoria narrativa de Eduardo Mendoza” o “La narrativa \npeninsular desde 1975 hasta nuestros días. Principales tendencias”. (2 puntos) \nPor los periódicos tuve noticia de la muerte de Lepprince. Un incendio había destruido por completo la fábrica \nSavolta. Debido a la huelga, todo el personal se hallaba ausente y no había que lamentar otra víctima que el \nfrancés. A partir de ahí, las versiones de los distintos periódicos eran contradictorias. Unos afirmaban que \nLepprince estaba en la fábrica cuando se declaró el siniestro y no pudo ponerse a salvo; otros, que había \nintentado sofocar las llamas con ayuda de algunos voluntarios y lo aplastó el hundimiento de una viga o muro; \nun tercero atribuía su muerte a la explosión de la pólvora negra almacenada. La verdad es que ninguno se \nextendía en las explicaciones y todos soslayaban las preguntas que a mi modo de ver se planteaban, es decir, \n¿qué hacía Lepprince solo en la fábrica? ¿Fue por su propia voluntad o se trataba de un crimen astutamente \ndisfrazado de accidente? En tal caso, ¿habría sido Lepprince conducido por la fuerza a la fábrica y encerrado? \n¿O tal vez ya estaba muerto cuando el incendio se declaró? ¿Por qué no se había iniciado una investigación \npolicial? Cuestiones todas ellas que jamás hallaron respuesta.  \nLa verdad sobre el caso Savolta, Eduardo Mendoza"
+  },
+  {
+   "id": "Lingua Castelá-2026-ordinaria-1",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 1,
+   "tema": [
+    "Comentario de texto"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "3,5 puntos",
+   "apartados": [
+    "1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, puede realizar un esquema. (1 punto)",
+    "1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas que refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien organizado, redactado con corrección y adecuación. (2,5 puntos)"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/ordinaria/01_castelan_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 1.  COMPRENSIÓN Y EXPRESIÓN ESCRITAS: COMENTARIO DE TEXTO. (3,5 puntos) \nResponda los dos apartados siguientes: \n \n1.1. Lea detenidamente el texto y resúmalo sintetizando las ideas principales. Si lo prefiere, en vez del resumen, \npuede realizar un esquema. (1 punto) \n1.2. Redacte un comentario crítico sobre el contenido del texto, manifestando acuerdo o desacuerdo con las ideas \nque refleja, y relaciónelo con su contexto. Recuerde que debe elaborar un texto propio, argumentativo, bien \norganizado, redactado con corrección y adecuación. (2,5 puntos)"
+  },
+  {
+   "id": "Lingua Castelá-2026-ordinaria-2",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 2,
+   "tema": [
+    "Clases de palabras",
+    "Funciones sintácticas primarias de la cláusula u oración",
+    "Formas verbales y perífrasis verbales",
+    "Relaciones léxico-semánticas: sinonimia, antonimia, hiperonimia, campo léxico y semántico",
+    "Detección y corrección de errores o estructuras agramaticales"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2,5 puntos",
+   "apartados": [
+    "2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: nos, la prisa (l. 1), una sensación de vacío (l. 2), que (l. 6), de religión (l. 7). Indique también su función sintáctica en la cláusula u oración en la que se integran. (1,25 puntos)",
+    "2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice cuatro estructuras impersonales de diferentes tipos. Identifíquelas. (1,25 puntos)",
+    "2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes parejas de términos: ay / hay; adoptar / adaptar; apóstrofo / apóstrofe; aún / aun; a / ha (1,25 puntos)",
+    "2.4. Subordine en cada caso la segunda oración a la primera utilizando la forma apropiada del relativo (que, quien, cual, cuyo, donde, cuando…) (1,25 puntos): A) María es una gran amiga mía. La conociste en mi fiesta de cumpleaños. B) Lugo es una ciudad llena de atractivo turístico. Mis padres viven allí. C) He visto un documental sobre inteligencias artificiales. Su contenido me pareció fascinant"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/ordinaria/01_castelan_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 2. REFLEXIÓN SOBRE LA LENGUA. (2,5 puntos) \nResponda dos de estos cuatro apartados: \n \n2.1. Indique la clase de palabra o de unidad a la que pertenecen las marcadas en negrita en el texto: nos, la prisa (l. \n1), una sensación de vacío (l. 2), que (l. 6), de religión (l. 7). Indique también su función sintáctica en la cláusula u \noración en la que se integran. (1,25 puntos) \n \n2.2. Escriba un texto de unas seis líneas, que tenga sentido, en el que utilice cuatro estructuras impersonales de \ndiferentes tipos. Identifíquelas. (1,25 puntos) \n \n2.3. Muestre, con ejemplos que proporcionen un contexto suficiente, la diferencia de uso entre las siguientes \nparejas de términos: ay / hay; adoptar / adaptar; apóstrofo / apóstrofe; aún / aun; a / ha (1,25 puntos) \n \n2.4. Subordine en cada caso la segunda oración a la primera utilizando la forma apropiada del relativo (que, quien, \ncual, cuyo, donde, cuando…) (1,25 puntos): \nA) María es una gran amiga mía. La conociste en mi fiesta de cumpleaños. B) Lugo es una ciudad llena de \natractivo turístico. Mis padres viven allí. C) He visto un documental sobre inteligencias artificiales. Su \ncontenido me pareció fascinante. D) Este abrigo está hecho solo de algodón. Lo compré en la tienda de la \nesquina. E) Ayer entró a trabajar una nueva compañera. Su hermano es músico."
+  },
+  {
+   "id": "Lingua Castelá-2026-ordinaria-3",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 3,
+   "tema": [
+    "El lector de Julio Verne (Almudena Grandes)",
+    "La Fundación (Antonio Buero Vallejo)"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "3.1. Explique las características de espacio y tiempo propias de El lector de Julio Verne que se aprecian en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) Desde hacía más de trece años, trabajaba en la clandestinidad sin haber tenido ni un solo tropiezo. Habían estado a punto de cogerme varias veces, pero siempre me había salvado un sexto sentido, una intuición inexp",
+    "3.2. Analice los personajes de La fundación que aparecen en este fragmento, que deberá localizar en la estructura de la obra: (2 puntos) (Gritos, silbidos, carreras, el tronar de las puertas. En un arrebato, LINO se abalanza hacia MAX.) Lino.─ ¡Tú también! (Agarra sus piernas y con rapidísimo y hercúleo envite, lo tira por la barandilla) TOMÁS.─ (Grita desde la puerta) ¡Lino! (Se oye el grito de M"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/ordinaria/01_castelan_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 3. EDUCACIÓN LITERARIA: OBRA DE LECTURA OBLIGATORIA. (2 puntos)   \nResponda uno de estos dos apartados: \n3.1. Explique las características de espacio y tiempo propias de El lector de Julio Verne que se aprecian en este \nfragmento, que deberá localizar en la estructura de la obra: (2 puntos) \n \nDesde hacía más de trece años, trabajaba en la clandestinidad sin haber tenido ni un solo tropiezo. Habían \nestado a punto de cogerme varias veces, pero siempre me había salvado un sexto sentido, una intuición \ninexplicable para todos los que no se hubieran criado en un pueblo como Fuensanta de Martos, en una época \ncomo la segunda mitad de los años cuarenta.  \nYo había abandonado el monte, pero el monte nunca me había abandonado a mí. Su memoria seguía viviendo \nen mi cabeza y en mis tripas, me protegía, me amparaba, afilaba mis instintos, mis reflejos, congelaba mi \nsangre dentro de las venas y me recordaba siempre a tiempo el número y el nombre, los rostros y los hechos \nde los traidores. Era el monte quien me hacía agacharme para atar un zapato cincuenta metros antes de llegar \nal lugar de una cita, el monte quien me convencía de que aquel tío barbudo, con pinta de estudiante progre y \ntrenca azul, que estaba a la izquierda, miraba demasiado el reloj para no ser policía... \n \n3.2. Analice los personajes de La fundación que aparecen en este fragmento, que deberá localizar en la estructura \nde la obra: (2 puntos) \n \n(Gritos, silbidos, carreras, el tronar de las puertas. En un arrebato, LINO se abalanza hacia MAX.) \nLino.─ ¡Tú también! \n(Agarra sus piernas y con rapidísimo y hercúleo envite, lo tira por la barandilla) \nTOMÁS.─ (Grita desde la puerta) ¡Lino! (Se oye el grito de MAX en su caída. LINO entra rápidamente.) ¡Qué has \nhecho!"
+  },
+  {
+   "id": "Lingua Castelá-2026-ordinaria-4",
+   "asignatura": "Lingua Castelá e Literatura",
+   "asignatura_slug": "castelan",
+   "anio": 2026,
+   "convocatoria": "ordinaria",
+   "numero_pregunta": 4,
+   "tema": [
+    "La novela de la generación del 98: Baroja, Unamuno y Azorín",
+    "Las trayectorias poéticas de Antonio Machado y Juan Ramón Jiménez"
+   ],
+   "tema_fuente": null,
+   "puntuacion": "2 puntos",
+   "apartados": [
+    "4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o a su movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Unamuno” o “La novela de la generación del 98”. (2 puntos) —¿Conque no, eh? —me dijo—, ¿conque no? No quiere usted dejarme ser yo, salir de la niebla, vivir, vivir, vivir, verme, oírme, t",
+    "4.2. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o a su movimiento literario. Desarrolle, además, el tema: “Trayectoria poética de Antonio Machado”. (2 puntos) Allá, en las tierras altas, con sus ramajes yertos? por donde traza el Duero Mira el Moncayo azul y blanco; dame su curva de ballesta tu mano y paseemos. en torno a Soria, ent"
+   ],
+   "ley_educativa": "LOMLOE",
+   "fuente": "fuentes/castelan/2026/ordinaria/01_castelan_ordinaria_2026.pdf",
+   "revision_manual": false,
+   "revision_manual_dudosa": false,
+   "enunciado": "PREGUNTA 4. EDUCACIÓN LITERARIA: HISTORIA DE LA LITERATURA. (2 puntos)   \nResponda uno de estos dos apartados: \n4.1. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o \na su movimiento literario. Desarrolle, además, uno de estos dos temas: “Trayectoria literaria de Unamuno” o “La \nnovela de la generación del 98”. (2 puntos) \n \n—¿Conque no, eh? —me dijo—, ¿conque no? No quiere usted dejarme ser yo, salir de la niebla, vivir, vivir, \nvivir, verme, oírme, tocarme, sentirme, dolerme, serme: ¿conque no lo quiere?, ¿conque he de morir ente de \nficción? Pues bien, mi señor creador don Miguel, ¡también usted se morirá, también usted, y se volverá a la \nnada de que salió...! ¡Dios dejará de soñarle! ¡Se morirá usted, sí, se morirá, aunque no lo quiera; se morirá \nusted y se morirán todos los que lean mi historia, todos, todos, todos, sin quedar uno! ¡Entes de ficción como \nyo; lo mismo que yo! Se morirán todos, todos, todos. Os lo digo yo, Augusto Pérez, ente ficticio como \nvosotros, nivolesco lo mismo que vosotros. Porque usted, mi creador, mi don Miguel, no es usted más que \notro ente nivolesco, y entes nivolescos sus lectores, lo mismo que yo, que Augusto Pérez, que su víctima.  \n(Niebla, Unamuno) \n \n4.2. Identifique y explique cuatro características presentes en este fragmento que permitan atribuirlo a su autor o \na su movimiento literario. Desarrolle, además, el tema: “Trayectoria poética de Antonio Machado”.  (2 puntos) \n \nAllá, en las tierras altas, \n \n \n \ncon sus ramajes yertos? \npor donde traza el Duero  \n \n \nMira el Moncayo azul y blanco; dame \nsu curva de ballesta \n \n \n \ntu mano y paseemos. \nen torno a Soria, entre plomizos cerros  \n \nPor estos campos de la tierra mía, \ny manchas de raídos encinares, \n \n \nbordados de olivares polvorientos, \nmi corazón está vagando, en sueños... \n \nvoy caminando solo, \n¿No ves, Leonor, los álamos del río  \n \ntriste, cansado, pensativo y viejo. \n(Campos de Castilla, Antonio Machado)"
   },
   {
    "id": "Física-2020-extraordinaria-1",
