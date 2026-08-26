@@ -24,6 +24,20 @@ YEARS = ["2020", "2021", "2022", "2023", "2024", "2025", "2026"]
 PREGUNTA_RE = re.compile(r"(?:^|\n)\s*PREGUNTA\s+(\d)\.?\s*", re.IGNORECASE)
 APARTADO_RE_TMPL = r"(?:^|\n)\s*({num}\.\d)\.(?!\d)\s*"
 PUNTOS_RE = re.compile(r"\((\d+(?:[.,]\d+)?)\s*puntos?\)", re.IGNORECASE)
+TEXTO_RE = re.compile(r"(?:^|\n)\s*TEXTO\s*\n", re.IGNORECASE)
+
+
+def extract_texto(text):
+    """El TEXTO inicial se cita ("el texto", "del texto"...) desde varias
+    preguntas posteriores, pero cada PREGUNTA se trocea por separado y
+    pierde ese texto compartido. Lo extraemos aquí para adjuntarlo a
+    todas las preguntas del examen."""
+    m = TEXTO_RE.search(text)
+    if not m:
+        return ""
+    pm = PREGUNTA_RE.search(text, m.end())
+    end = pm.start() if pm else len(text)
+    return text[m.end():end].strip()
 
 
 def yaml_escape(s):
@@ -91,6 +105,7 @@ def process_file(path, year, conv):
     doc = fitz.open(path)
     text = "\n".join(doc[i].get_text() for i in range(len(doc)))
     preguntas = split_preguntas(text)
+    texto = extract_texto(text)
     ley = "LOMCE" if int(year) <= 2024 else "LOMLOE"
     is_new_format = int(year) >= 2025
 
@@ -103,8 +118,11 @@ def process_file(path, year, conv):
     for num, body in preguntas:
         apartados = extract_apartados(num, body)
         puntuacion = extract_puntuacion(body, is_new_format)
+        full_body = body
+        if texto and texto not in body:
+            full_body = body.rstrip() + "\n\n---\n\nTEXTO:\n\n" + texto
 
-        entry = make_entry(num, puntuacion, apartados, ley, fuente_rel, body)
+        entry = make_entry(num, puntuacion, apartados, ley, fuente_rel, full_body)
         entry = entry.replace("{year}", year).replace("{conv}", conv)
 
         out_path = os.path.join(out_dir, f"pregunta-{num}.md")

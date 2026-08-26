@@ -81,3 +81,27 @@ y ondulaciones de animal latente,
  
  
 (Poemas póstumos, Gil de Biedma)
+
+---
+
+TEXTO:
+
+Las expectativas son unas aguafiestas y abusar de ellas provoca decepciones gratuitas. Los participantes en la 
+última Conferencia de las Naciones Unidas sobre el Cambio Climático, celebrada en Bakú (Azerbaiyán), sufren de 
+este mal. Muchos lamentan que la cumbre no ha servido para nada, como me decía el jueves una de las asistentes. 
+Cuesta entender este pesimismo después de que el encuentro lograra un pacto histórico por el que se movilizarán 
+al menos 1,3 billones de dólares al año entre fondos públicos y privados para combatir la emergencia climática. De 
+ellos, 300.000 millones serán aportados por los países ricos para paliar el impacto en las naciones en vías de 
+desarrollo. Que estas tuvieran una gran ambición y pidieran el doble de lo acordado no puede empañar el logro de 
+que la cifra triplique el objetivo más alto puesto hasta ahora sobre la mesa. 
+Cabe huir del catastrofismo y mirar atrás para reconocer que estamos mejor que antes de tomar conciencia de la 
+emergencia climática, aunque todavía quede mucho por hacer para frenar el calentamiento global. Este último es 
+un fin deseable y urgente, como también lo es acelerar la transición energética a través del multilateralismo entre 
+países. Pero dotar a estas metas de una sana capa de realismo y de una visión práctica resulta igual de importante. 
+Solo así se evitarán las frustraciones asociadas a unos objetivos que parece difícil que vayan a cumplirse, como que 
+la economía sea climáticamente neutra en 2050, sobre todo en un contexto geopolítico como el actual, con dos 
+guerras y con Donald Trump en la Casa Blanca. 
+El realismo, que no debe confundirse con conformismo, siempre será mejor que la aparición de grandes brechas 
+entre los compromisos adquiridos por los Estados y sus políticas del día a día. También ayudará a que las empresas 
+sean verdaderos agentes del cambio y a que la población se implique al máximo. El planeta lo agradecerá.  
+Gemma Martínez, La opinión A Coruña, 3 de diciembre de 2024
