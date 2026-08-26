@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T11:20:21",
+ "generado": "2026-08-26T11:51:50",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -628,6 +628,34 @@
      "tema": "As linguas da Península Ibérica",
      "n": 5,
      "pct_preguntas": 4.4
+    }
+   ]
+  },
+  "tecnoloxia": {
+   "asignatura": "Tecnoloxía e Enxeñaría",
+   "total_preguntas": 32,
+   "total_preguntas_vault_2020_2026": 32,
+   "total_preguntas_historico_2010_2019": 0,
+   "temas": [
+    {
+     "tema": "SISTEMAS MECÁNICOS",
+     "n": 13,
+     "pct_preguntas": 40.6
+    },
+    {
+     "tema": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
+     "n": 9,
+     "pct_preguntas": 28.1
+    },
+    {
+     "tema": "MATERIALES Y FABRICACIÓN",
+     "n": 5,
+     "pct_preguntas": 15.6
+    },
+    {
+     "tema": "PROGRAMACIÓN, AUTOMATIZACIÓN Y CONTROL",
+     "n": 5,
+     "pct_preguntas": 15.6
     }
    ]
   }

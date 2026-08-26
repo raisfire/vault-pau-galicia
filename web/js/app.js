@@ -5,6 +5,7 @@
 
 let DATA = null;
 let STATS = null;
+let CATALOGO_DEBUXO = null;
 
 const SUBJECT_META = {
   matematicas_ii: { label: "Matemáticas II", desc: "Álgebra, análisis, geometría, probabilidad" },
@@ -16,6 +17,8 @@ const SUBJECT_META = {
   ingles: { label: "Inglés", desc: "Reading, gramática, vocabulario y writing" },
   castelan: { label: "Lingua Castelá e Literatura", desc: "Comentario de texto, gramática y literatura española" },
   galego: { label: "Lingua Galega e Literatura", desc: "Comunicación, gramática, sociolingüística e literatura galega" },
+  tecnoloxia: { label: "Tecnoloxía e Enxeñaría", desc: "Materiales, sistemas mecánicos, eléctricos y control" },
+  debuxotecnico: { label: "Debuxo Técnico", desc: "Catálogo de exámenes completos en PDF (examen gráfico, sin trocear)" },
 };
 
 function normalize(str) {
@@ -42,6 +45,8 @@ async function loadData() {
   DATA = await res.json();
   const res2 = await fetch("data/estadisticas.json?v=" + Date.now(), { cache: "no-store" });
   STATS = await res2.json();
+  const res3 = await fetch("data/debuxotecnico.json?v=" + Date.now(), { cache: "no-store" });
+  CATALOGO_DEBUXO = await res3.json();
 }
 
 // -------------------- router --------------------
@@ -69,6 +74,9 @@ function render() {
   } else if (segments[0] === "materias") {
     nav.innerHTML = `<a href="#/">Portada</a><a href="#/estadisticas">Estadísticas</a>`;
     renderSelector(main);
+  } else if (segments[0] === "materia" && segments[1] === "debuxotecnico") {
+    nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a><a href="#/estadisticas">Estadísticas</a>`;
+    renderCatalogoDebuxo(main);
   } else if (segments[0] === "materia" && segments[1]) {
     nav.innerHTML = `<a href="#/">Portada</a><a href="#/materias">Asignaturas</a><a href="#/estadisticas">Estadísticas</a>`;
     renderLista(main, segments[1], params);
@@ -177,7 +185,7 @@ function renderSelector(main) {
     counts[p.asignatura_slug] = (counts[p.asignatura_slug] || 0) + 1;
   }
 
-  const slugs = Object.keys(SUBJECT_META).filter((s) => counts[s]);
+  const slugs = Object.keys(SUBJECT_META).filter((s) => counts[s] || s === "debuxotecnico");
 
   main.innerHTML = `
     <h1 class="page-title">Elige una asignatura</h1>
@@ -186,14 +194,41 @@ function renderSelector(main) {
       ${slugs
         .map((slug) => {
           const meta = SUBJECT_META[slug];
+          const cardMeta =
+            slug === "debuxotecnico"
+              ? `${CATALOGO_DEBUXO.examenes.length} exámenes (PDF) · ${meta.desc}`
+              : `${counts[slug]} preguntas · ${meta.desc}`;
           return `
           <a class="subject-card" href="#/materia/${slug}">
             <h2>${meta.label}</h2>
-            <p class="subject-meta">${counts[slug]} preguntas · ${meta.desc}</p>
+            <p class="subject-meta">${cardMeta}</p>
           </a>`;
         })
         .join("")}
     </div>
+  `;
+}
+
+// -------------------- vista: catálogo Debuxo Técnico (solo PDF) --------------------
+
+function renderCatalogoDebuxo(main) {
+  const meta = SUBJECT_META.debuxotecnico;
+  const filas = CATALOGO_DEBUXO.examenes
+    .map(
+      (e) => `
+      <a class="pdf-catalog-row" href="${escapeHtml(e.fuente)}" target="_blank" rel="noopener">
+        <span class="pdf-catalog-anio">${e.año}</span>
+        <span class="pdf-catalog-conv">${e.convocatoria}</span>
+        <span class="pdf-catalog-link">Ver PDF ↗</span>
+      </a>`
+    )
+    .join("");
+
+  main.innerHTML = `
+    <p class="breadcrumb"><a href="#/materias">Asignaturas</a> / ${meta.label}</p>
+    <h1 class="page-title" style="text-align:left; margin-bottom: 8px;">${meta.label}</h1>
+    <div class="notice-box">${CATALOGO_DEBUXO.nota}</div>
+    <div class="pdf-catalog-list">${filas}</div>
   `;
 }
 

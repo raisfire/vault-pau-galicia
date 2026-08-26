@@ -547,6 +547,52 @@ main {
 }
 
 /* ---------------------------------------------------------
+   Catálogo Debuxo Técnico (solo PDF)
+   --------------------------------------------------------- */
+
+.pdf-catalog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.pdf-catalog-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 14px 20px;
+  text-decoration: none;
+  color: var(--ink-800);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.pdf-catalog-row:hover {
+  border-color: var(--gold-500);
+  transform: translateX(3px);
+}
+
+.pdf-catalog-anio {
+  font-weight: 700;
+  font-size: 1.1rem;
+  min-width: 60px;
+}
+
+.pdf-catalog-conv {
+  text-transform: capitalize;
+  color: var(--text-muted);
+  flex: 1;
+}
+
+.pdf-catalog-link {
+  color: var(--gold-600);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+/* ---------------------------------------------------------
    Estadísticas
    --------------------------------------------------------- */
 

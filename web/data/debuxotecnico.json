@@ -1,0 +1,61 @@
+{
+ "asignatura": "Debuxo Técnico",
+ "nota": "Examen mayoritariamente gráfico: se muestra como catálogo de PDF completos, sin trocear en preguntas ni clasificar por tema.",
+ "examenes": [
+  {
+   "año": 2020,
+   "convocatoria": "combinada",
+   "fuente": "fuentes/debuxotecnico/2020/sin_dividir_2020.pdf"
+  },
+  {
+   "año": 2021,
+   "convocatoria": "combinada",
+   "fuente": "fuentes/debuxotecnico/2021/sin_dividir_2021.pdf"
+  },
+  {
+   "año": 2022,
+   "convocatoria": "combinada",
+   "fuente": "fuentes/debuxotecnico/2022/sin_dividir_2022.pdf"
+  },
+  {
+   "año": 2023,
+   "convocatoria": "extraordinaria",
+   "fuente": "fuentes/debuxotecnico/2023/extraordinaria/22_debuxotecnico_extraordinaria_2023.pdf"
+  },
+  {
+   "año": 2023,
+   "convocatoria": "ordinaria",
+   "fuente": "fuentes/debuxotecnico/2023/ordinaria/22_debuxotecnico_ordinaria_2023.pdf"
+  },
+  {
+   "año": 2024,
+   "convocatoria": "extraordinaria",
+   "fuente": "fuentes/debuxotecnico/2024/extraordinaria/22_debuxotecnico_extraordinaria_2024.pdf"
+  },
+  {
+   "año": 2024,
+   "convocatoria": "ordinaria",
+   "fuente": "fuentes/debuxotecnico/2024/ordinaria/22_debuxotecnico_ordinaria_2024.pdf"
+  },
+  {
+   "año": 2025,
+   "convocatoria": "extraordinaria",
+   "fuente": "fuentes/debuxotecnico/2025/extraordinaria/22_debuxotecnico_extraordinaria_2025.pdf"
+  },
+  {
+   "año": 2025,
+   "convocatoria": "ordinaria",
+   "fuente": "fuentes/debuxotecnico/2025/ordinaria/22_debuxotecnico_ordinaria_2025.pdf"
+  },
+  {
+   "año": 2026,
+   "convocatoria": "extraordinaria",
+   "fuente": "fuentes/debuxotecnico/2026/extraordinaria/22_debuxotecnico_extraordinaria_2026.pdf"
+  },
+  {
+   "año": 2026,
+   "convocatoria": "ordinaria",
+   "fuente": "fuentes/debuxotecnico/2026/ordinaria/22_debuxotecnico_ordinaria_2026.pdf"
+  }
+ ]
+}

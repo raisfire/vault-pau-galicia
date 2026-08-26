@@ -11,9 +11,11 @@ import re
 import fitz
 
 FUENTES = "fuentes"
-SUBJECTS = ["castelan", "galego", "historiaespana", "historiafilosofia", "ingles"]
+SUBJECTS = ["castelan", "galego", "historiaespana", "historiafilosofia", "ingles",
+            "debuxotecnico", "tecnoloxia"]
 SUBJECT_CODE = {"castelan": "01", "galego": "02", "historiaespana": "03",
-                "historiafilosofia": "08", "ingles": "11"}
+                "historiafilosofia": "08", "ingles": "11",
+                "debuxotecnico": "22", "tecnoloxia": "26"}
 
 
 # Requiere la palabra "Convocatoria" pegada a "(extra)ordinaria": en

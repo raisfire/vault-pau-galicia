@@ -23,6 +23,7 @@ SUBJECT_LABELS = {
     "ingles": "Inglés",
     "castelan": "Lingua Castelá e Literatura",
     "galego": "Lingua Galega e Literatura",
+    "tecnoloxia": "Tecnoloxía e Enxeñaría",
 }
 
 
