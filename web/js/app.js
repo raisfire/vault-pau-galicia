@@ -234,6 +234,16 @@ function renderCatalogoDebuxo(main) {
 
 // -------------------- vista: lista con filtros --------------------
 
+// asignaturas con el mapa de calor habilitado (Fase 3). Confirmado el
+// diseño con Biología como piloto, se replica a todas las asignaturas
+// troceadas en vault/ (Debuxo Técnico queda fuera: es un catálogo de PDF,
+// no tiene preguntas trozeadas).
+const HEATMAP_SUBJECTS = [
+  "matematicas_ii", "bioloxia", "fisica", "quimica",
+  "historiaespana", "historiafilosofia", "ingles",
+  "castelan", "galego", "tecnoloxia",
+];
+
 function renderLista(main, slug, initialParams) {
   const meta = SUBJECT_META[slug] || { label: slug };
   const preguntas = DATA.preguntas.filter((p) => p.asignatura_slug === slug);
@@ -242,10 +252,21 @@ function renderLista(main, slug, initialParams) {
   const anios = [...new Set(preguntas.map((p) => p.anio))].sort();
   const hayVacios = preguntas.some((p) => !p.tema || p.tema.length === 0);
 
+  const conHeatmap = HEATMAP_SUBJECTS.includes(slug);
+
+  const tabsHtml = conHeatmap
+    ? `
+    <div class="view-tabs">
+      <button class="view-tab is-active" data-view="lista">Lista</button>
+      <button class="view-tab" data-view="heatmap">Mapa de calor</button>
+    </div>`
+    : "";
+
   main.innerHTML = `
     <p class="breadcrumb"><a href="#/materias">Asignaturas</a> / ${meta.label}</p>
     <h1 class="page-title" style="text-align:left; margin-bottom: 24px;">${meta.label}</h1>
-
+    ${tabsHtml}
+    <div id="vista-lista">
     <div class="filters-bar">
       <div>
         <label for="f-buscar">Buscar en el enunciado</label>
@@ -278,7 +299,28 @@ function renderLista(main, slug, initialParams) {
 
     <p class="results-count" id="results-count"></p>
     <div class="question-list" id="question-list"></div>
+    </div>
+    <div id="vista-heatmap" hidden></div>
   `;
+
+  if (conHeatmap) {
+    const tabButtons = main.querySelectorAll(".view-tab");
+    const vistaLista = document.getElementById("vista-lista");
+    const vistaHeatmap = document.getElementById("vista-heatmap");
+    tabButtons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        tabButtons.forEach((b) => b.classList.remove("is-active"));
+        btn.classList.add("is-active");
+        const view = btn.dataset.view;
+        vistaLista.hidden = view !== "lista";
+        vistaHeatmap.hidden = view !== "heatmap";
+        if (view === "heatmap" && !vistaHeatmap.dataset.rendered) {
+          renderHeatmap(vistaHeatmap, preguntas);
+          vistaHeatmap.dataset.rendered = "1";
+        }
+      });
+    });
+  }
 
   const buscarEl = document.getElementById("f-buscar");
   const temaEl = document.getElementById("f-tema");
@@ -369,6 +411,205 @@ function renderQuestionList(preguntas) {
       </a>`;
     })
     .join("");
+}
+
+// -------------------- vista: mapa de calor (tema × año) --------------------
+//
+// Fase 3. Se calcula en el cliente a partir de DATA.preguntas (el mismo
+// preguntas.json que ya usa la lista/buscador), no de estadisticas.json —
+// una sola fuente de verdad, y solo cubre el rango del vault (2020-2026).
+
+function parsePuntuacion(str) {
+  // "2 puntos" / "2,5 puntos" / "2 puntos (1 punto por apartado)" -> 2 / 2.5 / 2
+  // toma el primer número que aparezca, ignorando cualquier texto entre
+  // paréntesis o después.
+  const m = String(str || "").match(/(\d+(?:[.,]\d+)?)/);
+  if (!m) return 0;
+  return parseFloat(m[1].replace(",", "."));
+}
+
+function normalizeTemaBucket(t) {
+  const s = (t || "").toString().trim();
+  if (!s) return null;
+  if (/^\d+$/.test(s)) return null; // "1", "3"... basura conocida, no un tema real
+  return s;
+}
+
+function temasDePregunta(p) {
+  const limpios = (p.tema || []).map(normalizeTemaBucket).filter(Boolean);
+  return limpios.length ? limpios : ["Sin clasificar"];
+}
+
+function heatColor(ratio) {
+  // interpola cream-100 (#f2ead6, baja intensidad) -> ink-900 (#0b1c30, alta)
+  const c0 = [242, 234, 214];
+  const c1 = [11, 28, 48];
+  const r = Math.round(c0[0] + (c1[0] - c0[0]) * ratio);
+  const g = Math.round(c0[1] + (c1[1] - c0[1]) * ratio);
+  const b = Math.round(c0[2] + (c1[2] - c0[2]) * ratio);
+  return `rgb(${r}, ${g}, ${b})`;
+}
+
+function computeHeatmapData(preguntas, { metric, leyes, conv }) {
+  const filtered = preguntas.filter((p) => {
+    if (leyes.length && !leyes.includes(p.ley_educativa)) return false;
+    if (conv && p.convocatoria !== conv) return false;
+    return true;
+  });
+
+  const anios = [...new Set(filtered.map((p) => p.anio))].sort((a, b) => a - b);
+  const cell = {};
+  const temaTotal = {};
+  let sinClasificarPreguntas = 0;
+  const sinClasificarVistas = new Set();
+
+  for (const p of filtered) {
+    const temas = temasDePregunta(p);
+    const valor = metric === "puntuacion" ? parsePuntuacion(p.puntuacion) : 1;
+    for (const t of temas) {
+      if (t === "Sin clasificar" && !sinClasificarVistas.has(p.id)) {
+        sinClasificarVistas.add(p.id);
+        sinClasificarPreguntas++;
+      }
+      cell[t] = cell[t] || {};
+      cell[t][p.anio] = (cell[t][p.anio] || 0) + valor;
+      temaTotal[t] = (temaTotal[t] || 0) + valor;
+    }
+  }
+
+  const temas = Object.keys(cell).sort((a, b) => {
+    if (a === "Sin clasificar") return 1;
+    if (b === "Sin clasificar") return -1;
+    return temaTotal[b] - temaTotal[a];
+  });
+
+  let max = 0;
+  for (const t of temas) {
+    for (const a of anios) max = Math.max(max, cell[t][a] || 0);
+  }
+
+  return { temas, anios, cell, max, sinClasificarPreguntas, totalFiltradas: filtered.length };
+}
+
+function renderHeatmap(container, preguntas) {
+  const leyesDisponibles = [...new Set(preguntas.map((p) => p.ley_educativa).filter(Boolean))];
+
+  container.innerHTML = `
+    <div class="heatmap-controls">
+      <div>
+        <label for="hm-metric">Colorear por</label>
+        <select id="hm-metric">
+          <option value="frecuencia">Frecuencia (nº de preguntas)</option>
+          <option value="puntuacion">Puntuación acumulada</option>
+        </select>
+      </div>
+      <div>
+        <label for="hm-conv">Convocatoria</label>
+        <select id="hm-conv">
+          <option value="">Ambas</option>
+          <option value="ordinaria">Ordinaria</option>
+          <option value="extraordinaria">Extraordinaria</option>
+        </select>
+      </div>
+      <div class="heatmap-ley-filter">
+        <label>Legislación</label>
+        <div class="heatmap-ley-checks">
+          ${["LOE", "LOMCE", "LOMLOE"]
+            .map((ley) => {
+              const disabled = !leyesDisponibles.includes(ley);
+              return `
+              <label class="heatmap-ley-check ${disabled ? "is-disabled" : ""}">
+                <input type="checkbox" value="${ley}" ${disabled ? "disabled" : "checked"} />
+                ${ley}
+              </label>`;
+            })
+            .join("")}
+        </div>
+      </div>
+    </div>
+    <div class="heatmap-scroll">
+      <div id="heatmap-grid"></div>
+    </div>
+    <div class="heatmap-legend" id="heatmap-legend"></div>
+    <p class="heatmap-note" id="heatmap-note"></p>
+  `;
+
+  const metricEl = document.getElementById("hm-metric");
+  const convEl = document.getElementById("hm-conv");
+  const leyChecks = [...container.querySelectorAll('.heatmap-ley-checks input[type="checkbox"]')];
+
+  function draw() {
+    const metric = metricEl.value;
+    const conv = convEl.value;
+    const leyes = leyChecks.filter((c) => c.checked).map((c) => c.value);
+
+    const data = computeHeatmapData(preguntas, { metric, leyes, conv });
+    drawGrid(data, metric);
+  }
+
+  function drawGrid(data, metric) {
+    const grid = document.getElementById("heatmap-grid");
+    const legend = document.getElementById("heatmap-legend");
+    const note = document.getElementById("heatmap-note");
+
+    if (!data.temas.length || !data.anios.length) {
+      grid.innerHTML = `<div class="empty-state">Ningún dato coincide con estos filtros.</div>`;
+      legend.innerHTML = "";
+      note.textContent = "";
+      return;
+    }
+
+    const cols = data.anios.length;
+    grid.style.gridTemplateColumns = `220px repeat(${cols}, minmax(56px, 1fr))`;
+
+    const headerCells = [`<div class="heatmap-cell heatmap-corner"></div>`]
+      .concat(data.anios.map((a) => `<div class="heatmap-cell heatmap-colhead">${a}</div>`));
+
+    const rows = data.temas.map((t) => {
+      const rowCells = [
+        `<div class="heatmap-cell heatmap-rowhead" title="${escapeHtml(t)}">${escapeHtml(t)}</div>`,
+      ];
+      for (const a of data.anios) {
+        const v = data.cell[t][a] || 0;
+        const ratio = data.max > 0 ? v / data.max : 0;
+        const bg = v > 0 ? heatColor(ratio) : "transparent";
+        const textClass = ratio >= 0.55 ? "heatmap-value-light" : "heatmap-value-dark";
+        const label = v === 0 ? "" : metric === "puntuacion" ? v.toFixed(1).replace(/\.0$/, "") : v;
+        rowCells.push(
+          `<div class="heatmap-cell heatmap-value ${textClass}" style="background:${bg}">${label}</div>`
+        );
+      }
+      return rowCells.join("");
+    });
+
+    grid.innerHTML = headerCells.join("") + rows.join("");
+
+    const steps = 5;
+    const legendCells = Array.from({ length: steps }, (_, i) => {
+      const ratio = i / (steps - 1);
+      return `<div class="heatmap-legend-step" style="background:${heatColor(ratio)}"></div>`;
+    }).join("");
+
+    legend.innerHTML = `
+      <span class="heatmap-legend-label">Menos</span>
+      <div class="heatmap-legend-scale">${legendCells}</div>
+      <span class="heatmap-legend-label">Más</span>
+      <span class="heatmap-legend-max">máximo: ${
+        metric === "puntuacion" ? data.max.toFixed(1).replace(/\.0$/, "") + " ptos" : data.max + " preguntas"
+      }</span>
+    `;
+
+    note.textContent = `${data.totalFiltradas} preguntas contabilizadas` +
+      (data.sinClasificarPreguntas
+        ? ` · ${data.sinClasificarPreguntas} sin tema clasificado (bucket "Sin clasificar")`
+        : "");
+  }
+
+  metricEl.addEventListener("change", draw);
+  convEl.addEventListener("change", draw);
+  leyChecks.forEach((c) => c.addEventListener("change", draw));
+
+  draw();
 }
 
 // -------------------- vista: detalle de pregunta --------------------
