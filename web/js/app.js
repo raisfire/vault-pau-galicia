@@ -261,10 +261,14 @@ const HEATMAP_SUBJECTS = [
 //   castelan 0/4, ingles 1/4
 //     -> no suele repetirse -> avoidRepeatTema: true
 // Fase 5: dato destacado de portada, indicador de frecuencia, temporizador
-// e impresión del simulacro. Piloto solo en Biología mientras se confirma
-// el diseño; una vez confirmado, ampliar esta lista a las 10 asignaturas
-// (las mismas de HEATMAP_SUBJECTS/SIMULACRO_CONFIG).
-const FASE5_SUBJECTS = ["bioloxia"];
+// e impresión del simulacro. Confirmado el piloto de Biología, replicado
+// a las demás asignaturas troceadas en vault/ (las mismas de
+// HEATMAP_SUBJECTS/SIMULACRO_CONFIG).
+const FASE5_SUBJECTS = [
+  "matematicas_ii", "bioloxia", "fisica", "quimica",
+  "historiaespana", "historiafilosofia", "ingles",
+  "castelan", "galego", "tecnoloxia",
+];
 
 const SIMULACRO_CONFIG = {
   matematicas_ii: { huecos: 4, avoidRepeatTema: true },
