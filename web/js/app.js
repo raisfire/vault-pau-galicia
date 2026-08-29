@@ -244,15 +244,33 @@ const HEATMAP_SUBJECTS = [
   "castelan", "galego", "tecnoloxia",
 ];
 
-// Fase 4: generador de simulacros. Piloto solo en Biología mientras se
-// confirma el diseño antes de replicarlo al resto. "huecos" = nº de
-// preguntas de un examen real de esa asignatura (formato vigente,
-// LOMLOE). "avoidRepeatTema" refleja si los examenes reales de esa
-// asignatura evitan repetir tema entre preguntas (visto en el inventario
-// de Fase 4 Paso 1) - en Biología SÍ se repite en la práctica, así que
-// aquí va en false.
+// Fase 4: generador de simulacros. Confirmado el piloto de Biología,
+// replicado a las demás asignaturas troceadas en vault/ (Debuxo Técnico
+// queda fuera: catálogo de PDF, no hay texto real de pregunta que
+// reutilizar). "huecos" = nº de preguntas de un examen real de esa
+// asignatura en el formato vigente (LOMLOE 2025-2026): las 10 asignaturas
+// troceadas convergen en 4 huecos (antes de 2025 el PDF fuente traía 8
+// preguntas repartidas en 2 opciones de 4, de las que se respondía solo
+// una; eso no cambia el nº real de huecos de un examen). "avoidRepeatTema"
+// refleja si los exámenes reales 2025-2026 de esa asignatura repiten tema
+// entre sus 4 preguntas (inventario Fase 4 Paso 1, sobre los 4 exámenes
+// evaluables del formato vigente):
+//   bioloxia 4/4, quimica 4/4, galego 4/4, fisica 2/4, tecnoloxia 3/4
+//     -> se repite con frecuencia real -> avoidRepeatTema: false
+//   matematicas_ii 0/4, historiaespana 0/4, historiafilosofia 0/4,
+//   castelan 0/4, ingles 1/4
+//     -> no suele repetirse -> avoidRepeatTema: true
 const SIMULACRO_CONFIG = {
+  matematicas_ii: { huecos: 4, avoidRepeatTema: true },
   bioloxia: { huecos: 4, avoidRepeatTema: false },
+  fisica: { huecos: 4, avoidRepeatTema: false },
+  quimica: { huecos: 4, avoidRepeatTema: false },
+  historiaespana: { huecos: 4, avoidRepeatTema: true },
+  historiafilosofia: { huecos: 4, avoidRepeatTema: true },
+  ingles: { huecos: 4, avoidRepeatTema: true },
+  castelan: { huecos: 4, avoidRepeatTema: true },
+  galego: { huecos: 4, avoidRepeatTema: false },
+  tecnoloxia: { huecos: 4, avoidRepeatTema: false },
 };
 
 function renderLista(main, slug, initialParams) {
