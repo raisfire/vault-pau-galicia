@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 2
-tema: []
+tema:
+  - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados: []
 ley_educativa: LOMCE

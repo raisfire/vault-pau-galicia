@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T13:14:33",
+ "generado": "2026-08-29T12:41:06",
  "anio_min": 2010,
  "anio_max": 2026,
  "nota": "2010-2019 son solo estadisticas (clasificadas por IA a partir del texto extraido de los examenes originales), no forman parte del vault de preguntas trozeadas.",
@@ -12,23 +12,23 @@
    "temas": [
     {
      "tema": "Análisis",
-     "n": 84,
-     "pct_preguntas": 34.0
+     "n": 88,
+     "pct_preguntas": 35.6
     },
     {
      "tema": "Geometría",
-     "n": 66,
-     "pct_preguntas": 26.7
+     "n": 70,
+     "pct_preguntas": 28.3
     },
     {
      "tema": "Números y Álgebra",
-     "n": 57,
-     "pct_preguntas": 23.1
+     "n": 61,
+     "pct_preguntas": 24.7
     },
     {
      "tema": "Estadística y Probabilidad",
-     "n": 34,
-     "pct_preguntas": 13.8
+     "n": 38,
+     "pct_preguntas": 15.4
     }
    ]
   },
@@ -882,23 +882,23 @@
    "temas": [
     {
      "tema": "SISTEMA DIÉDRICO",
+     "n": 19,
+     "pct_preguntas": 32.8
+    },
+    {
+     "tema": "FUNDAMENTOS GEOMÉTRICOS",
+     "n": 18,
+     "pct_preguntas": 31.0
+    },
+    {
+     "tema": "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO",
      "n": 16,
      "pct_preguntas": 27.6
     },
     {
-     "tema": "FUNDAMENTOS GEOMÉTRICOS",
-     "n": 12,
-     "pct_preguntas": 20.7
-    },
-    {
-     "tema": "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO",
-     "n": 7,
-     "pct_preguntas": 12.1
-    },
-    {
      "tema": "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS",
-     "n": 3,
-     "pct_preguntas": 5.2
+     "n": 5,
+     "pct_preguntas": 8.6
     }
    ]
   }

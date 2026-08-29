@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 6
-tema: []
+tema:
+  - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Halle los valores de 𝑘 y de 𝑚 que hacen que los puntos 𝐴(𝑘, 3, 𝑚), 𝐵(2,0,2) y 𝐶(𝑘, 2,0) estén alineados."

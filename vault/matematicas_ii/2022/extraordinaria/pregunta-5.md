@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 5
-tema: []
+tema:
+  - "Geometría"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Geometría|Geometría]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la ecuación implícita o general del plano 𝜋 que contiene a la recta 𝑟: 𝑥+1 3 = 𝑦+2 2 = 𝑧+3 1 y pasa por el punto 𝑃(0,1,0)."

@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Si 𝑃(𝐴∪𝐵) = 1 3 y 𝑃(𝐵) = 1 4 , calcule 𝑃(𝐴) sabiendo que 𝐴 y 𝐵 son sucesos incompatibles. ¿Cuánto valdría 𝑃(𝐴) si supusiéramos que 𝐴 y 𝐵 son, en lugar de incompatibles, independientes?"

@@ -1,5 +1,9 @@
 # Herramienta ABAU/PAU Galicia — Plan del proyecto
 *Resumen de la entrevista de definición. Última actualización: 23/08/2026.*
+*Nota de estado, 29/08/2026: la sección 13 recoge dónde está el proyecto
+realmente hoy frente a este plan original — el resto del documento se deja
+tal cual se escribió al empezar, como referencia de las decisiones tomadas
+en la entrevista inicial.*
 
 **Nota de terminología:** desde 2025 el nombre oficial de la prueba pasó de ABAU a PAU en toda España (unificación entre comunidades). La CIUG ya usa "PAU" en su web actual. Los exámenes de 2010-2024 de este proyecto se llamaron oficialmente ABAU; los de 2025 en adelante se llaman PAU — es la misma prueba, organizada por la misma CIUG. El nombre puede guardarse como un dato más ligado al año del examen, no hay que elegir uno solo para todo el proyecto. Este documento sigue usando "ABAU" de forma genérica por comodidad, salvo que se indique lo contrario.
 
@@ -105,3 +109,47 @@ Decidido ya: la estructura de carpetas (sección 11) y el método de descarga (s
 - el script de etiquetado de temas con control de gasto de la API.
 
 Cada una de esas decisiones se plantea como pregunta antes de escribir nada, igual que hasta ahora.
+
+## 13. Estado real del proyecto (29/08/2026)
+
+Frente al plan de la sección 3, así quedó realmente el alcance:
+
+- **Oleada 1 (Matemáticas II, Biología, Química, Física):** completa. Base
+  de datos, visor, mapa de calor y simulacro funcionando de punta a punta.
+  Biología, Física y Química llevan además una taxonomía de temas de grano
+  fino (41 / 7 / 11 temas) derivada de las "Orientacións xerais" oficiales
+  de CIUG, no de los bloques generales del examen. Matemáticas II se quedó
+  con su taxonomía práctica original (Análisis / Geometría / Números y
+  Álgebra / Estadística y Probabilidad) porque el documento oficial de esta
+  asignatura usa un eje de clasificación distinto (competencias/"sentidos"
+  LOMLOE) que no mapea a temas de examen reconocibles.
+- **Oleada 2 (Historia de España, Historia da Filosofía, Lengua Castellana,
+  Lingua Galega, Inglés):** completa, mismo tratamiento (visor, mapa de
+  calor, simulacro).
+- **Oleada 3:** Tecnología e Inxeñaría y Debuxo Técnico construidas;
+  **Matemáticas Aplicadas a las CC.SS. descartada** por decisión explícita
+  del usuario (no la cursa). Debuxo Técnico es un caso especial: el examen
+  es ~100% gráfico, así que no se trocea en preguntas navegables — es un
+  catálogo de PDFs completos por examen, con una estadística de frecuencia
+  por bloque extraída solo del enunciado de cada pregunta (palabra clave +
+  IA para los enunciados que no nombran el bloque explícitamente).
+- **Predicción (fase 4 del plan original):** no se construyó como
+  "indicador tipo lleva X años sin caer" independiente; en su lugar se
+  construyó un **generador de simulacros**, que arma un examen completo a
+  partir de preguntas reales, con la pregunta de cada hueco elegida por
+  peso de frecuencia histórica real (no es una predicción, es una
+  herramienta de práctica. Ver Fase 5 más abajo para el indicador de
+  frecuencia explícito).
+- **Extra no previsto en el plan original:** enlaces `[[wikilink]]` de
+  Obsidian entre cada pregunta troceada y una nota-hub por tema, para
+  poder navegar el vault como grafo dentro de Obsidian.
+- **Presupuesto de API (sección 7, tope de 10$):** el etiquetado real de
+  las 10 asignaturas troceadas más la reclasificación de grano fino de
+  Bio/Física/Química ha costado bastante más que la estimación inicial de
+  2-3$ para toda la base — solo la reclasificación de grano fino de este
+  último tramo costó ~1$. El tope de "10$ no ampliables" de la sección 7
+  ya no refleja el gasto real acumulado del proyecto; si el presupuesto
+  sigue siendo un límite duro, hay que revisarlo explícitamente en vez de
+  darlo por bueno.
+- **Dónde vive la web:** decidido — GitHub Pages, pública con enlace
+  (no indexada, pero no requiere login). `https://raisfire.github.io/vault-pau-galicia/`

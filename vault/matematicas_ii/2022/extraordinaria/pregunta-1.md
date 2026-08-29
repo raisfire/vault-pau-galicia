@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 1
-tema: []
+tema:
+  - "Números y Álgebra"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Números y Álgebra|Números y Álgebra]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga la matriz antisimétrica 𝐴𝐴 de orden 2 × 2 tal que 𝑎𝑎12 = 1. Luego, calcule su inversa en caso de que exista. Nota: aᵢⱼ es el elemento que está en la fila i y en la columna j de A."

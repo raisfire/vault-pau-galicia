@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 7
-tema: []
+tema:
+  - "Estadística y Probabilidad"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Estadística y Probabilidad|Estadística y Probabilidad]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) En una famosa biblioteca, el 70% de los libros son novelas, el 40% son clásicos anteriores al siglo XIX y el 60% de los clásicos son novelas. Si se elige en esa biblioteca un libro al azar, calcule la"

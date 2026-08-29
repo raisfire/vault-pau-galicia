@@ -1,22 +1,34 @@
 # -*- coding: utf-8 -*-
 """Debuxo Técnico es un examen ~100% gráfico (ver build_debuxotecnico_catalog.py),
-así que no se trocea en preguntas navegables. Pero el ENCABEZADO de cada
-PREGUNTA sí es texto limpio y nombra el bloque de contido ("PREGUNTA 3.
-XEOMETRÍA PROXECTIVA: SISTEMA DIÉDRICO (2,25 puntos)"), así que se puede
-extraer solo eso para construir una estadística de frecuencia por bloque,
-sin necesidad de leer ni representar los propios dibujos.
+así que no se trocea en preguntas navegables. Pero el ENUNCIADO de cada
+PREGUNTA sí es texto limpio (aunque la figura que acompaña no se pueda
+representar), así que se puede extraer para construir una estadística de
+frecuencia por bloque, sin necesidad de leer ni representar los propios
+dibujos.
 
-Cubre 2010-2026 usando lo ya descargado en fuentes/debuxotecnico/ (2020-2026)
-más los ZIPs históricos si están disponibles. Clasificación 100%
-determinista por palabras clave (sin IA, sin coste) - los bloques son
-pocos y muy estables en su redacción."""
+v2: corrige un bug de la v1 (ventana fija de 120 caracteres que a veces
+se solapaba con el enunciado de la SIGUIENTE pregunta y clasificaba mal)
+acotando cada pregunta hasta la siguiente "PREGUNTA N" real. Además,
+muchas preguntas no nombran el bloque explícitamente ("Resolva este
+exercicio de X") sino que van directas al enunciado del dibujo - para
+esas, la clasificación por palabra clave no basta y se delega en IA
+(ver classify_debuxotecnico_ai.py), igual que el resto de asignaturas.
+
+Cubre 2010-2026 usando lo ya descargado en fuentes/debuxotecnico/."""
 import glob
 import json
 import re
 
 import fitz
 
-PREGUNTA_RE = re.compile(r"PREGUNTA\s+(\d)", re.IGNORECASE)
+PREGUNTA_RE = re.compile(r"PREGUNTA\s+(\d)\b", re.IGNORECASE)
+
+TEMAS_DEBUXOTECNICO = [
+    "FUNDAMENTOS GEOMÉTRICOS",
+    "SISTEMA DIÉDRICO",
+    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO",
+    "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS",
+]
 
 _RULES = [
     ("SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO", re.compile(
@@ -35,38 +47,57 @@ _RULES = [
 
 
 def classify_header(snippet):
+    """Fast path determinista: solo cuando el enunciado nombra el bloque
+    explícitamente. Busca solo en los primeros ~150 caracteres para no
+    engancharse con el nombre de bloque de la SIGUIENTE pregunta."""
+    head = snippet[:150]
     for tema, pattern in _RULES:
-        if pattern.search(snippet):
+        if pattern.search(head):
             return tema
     return None
 
 
-def extract_headers(text):
-    """Devuelve {numero_pregunta: snippet} tomando solo la PRIMERA
-    aparición de cada numero (evita contar dos veces el bloque bilingüe)."""
+def extract_preguntas(text):
+    """Devuelve {numero_pregunta: texto} acotando cada pregunta hasta la
+    siguiente aparición de "PREGUNTA N" con un número DISTINTO (o fin de
+    documento) - evita el solape con la pregunta siguiente. Un mismo número
+    puede repetirse pegado dentro del propio bloque (p. ej. el título
+    bilingüe galego/castellano vuelve a decir "PREGUNTA 1."), así que no
+    basta con mirar el siguiente match cualquiera: hay que saltar los que
+    tengan el mismo número que el actual. Toma solo la PRIMERA aparición de
+    cada número como punto de partida."""
+    matches = list(PREGUNTA_RE.finditer(text))
     out = {}
-    for m in PREGUNTA_RE.finditer(text):
+    for i, m in enumerate(matches):
         num = m.group(1)
         if num in out:
             continue
-        snippet = text[m.start():m.start() + 120].replace("\n", " ")
-        out[num] = snippet
+        end = len(text)
+        for m2 in matches[i + 1:]:
+            if m2.group(1) != num:
+                end = m2.start()
+                break
+        out[num] = text[m.start():end].replace("\n", " ").strip()
     return out
 
 
 def process_file(path, year, conv):
     """Devuelve una lista con un registro por cada PREGUNTA detectada (no
     uno por examen), para que build_stats.py cuente bien el total de
-    preguntas y los porcentajes por tema."""
+    preguntas y los porcentajes por tema. "tema" queda None cuando hace
+    falta IA (classify_debuxotecnico_ai.py lo resuelve después)."""
     doc = fitz.open(path)
     text = "\n".join(doc[i].get_text() for i in range(len(doc)))
     doc.close()
-    headers = extract_headers(text)
+    preguntas = extract_preguntas(text)
     out = []
-    for num, snippet in headers.items():
-        tema = classify_header(snippet)
-        out.append({"subject": "debuxotecnico", "year": year, "conv": conv,
-                     "temas": [tema] if tema else []})
+    for num, texto in preguntas.items():
+        tema = classify_header(texto)
+        out.append({
+            "subject": "debuxotecnico", "year": year, "conv": conv,
+            "numero": num, "texto": texto[:600],
+            "temas": [tema] if tema else [],
+        })
     return out
 
 
@@ -87,11 +118,11 @@ def main():
 
     total_sin = sum(1 for r in records if not r["temas"])
     print(f"Total exámenes: {n_examenes}")
-    print(f"Total preguntas (encabezados) detectadas: {len(records)}")
-    print(f"Clasificadas: {len(records) - total_sin}")
-    print(f"Sin clasificar (encabezado sin tema legible): {total_sin}")
+    print(f"Total preguntas detectadas: {len(records)}")
+    print(f"Clasificadas por palabra clave: {len(records) - total_sin}")
+    print(f"Pendientes de IA (sin frase de bloque explícita): {total_sin}")
 
-    with open("script/stats_debuxotecnico.json", "w", encoding="utf-8") as f:
+    with open("script/stats_debuxotecnico_raw.json", "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=1)
 
 

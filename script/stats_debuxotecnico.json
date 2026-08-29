@@ -3,6 +3,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "1",
+  "texto": "PREGUNTA 1.  Resolva este exercicio de XEOMETRÍA PLANA: EQUIVALENCIAS                                       (3 puntos)  Debuxe un cadrado equivalente ao trapecio rectángulo dado. PREGUNTA 1. Resuelva este  ejercicio de GEOMETRÍA PLANA: EQUIVALENCIAS                                    (3 puntos)  Dibuje un cuadrado equivalente al trapecio rectángulo dado. O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles  vale 3 puntos. Se responde máis preguntas das permitidas, só se corrixirán as 3 primeiras respondidas.   Cualificarase con 1 punto o ac",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -11,6 +13,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "2",
+  "texto": "PREGUNTA 2.  Resolva este exercicio de XEOMETRÍA PLANA: TANXENCIAS                                              (3 puntos)  Dadas dúas circunferencias O e O’. Debuxe outras dúas circunferencias tanxentes de raio r 30 mm. Indique os seus  puntos de tanxencia.   PREGUNTA 2. Resuelva este  ejercicio de GEOMETRÍA PLANA: TANGENCIAS                                            (3 puntos)  Dadas dos circunferencias O y O’. Dibuje otras  dos circunferencias tangentes de radio r 30 mm. Indique sus  puntos de tangencia.",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -19,6 +23,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "3",
+  "texto": "PREGUNTA 3.  Resolva este exercicio de SISTEMA DIÉDRICO                                                                         (3 puntos)  Debuxe en planta, alzado e perfil, un octaedro regular de aresta 35 mm. cunha cara apoiada no plano horizontal H.  PREGUNTA 3. Resuelva este  ejercicio de SISTEMA DIÉDRICO                                                                       (3 puntos)   Dibuje en planta, alzado y perfil, un octaedro de arista 35 mm. con una cara apoyada en el plano horizontal H.",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -27,6 +33,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "4",
+  "texto": "PREGUNTA 4.  Resolva este exercicio de SISTEMA DIÉDRICO                                                                       (3 puntos)   Dada a 1ª proxección da base ABCD dun cubo. Debuxe a 2ª e 3ª proxeccións do mesmo e determine a  intersección co plano a dado.  PREGUNTA 4. Resuelva este  ejercicio de SISTEMA DIÉDRICO                                                                      (3 puntos)  Dada la 1ª proyección de la base ABCD de un cubo. Dibuje la 2ª y 3ª proyecciones del mismo y determine la  intersección con el plano a dado.    Proba de Avaliación do Bacharelato para o  Acceso á",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -35,6 +43,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "5",
+  "texto": "PREGUNTA 5.  Resolva este exercicio de S. DIÉDRICO / S. AXONOMÉTRICO                                              (3 puntos)  Dadas as proxeccións diédricas da figura, debuxe unha isometría sen coeficientes de redución a escala E 1/1.    PREGUNTA 5. Resuelva este  ejercicio de S. DIÉDRICO / S. AXONOMÉTRICO                                            (3 puntos)  Dadas las proyecciones diédricas de la figura, dibuje una isometría sin coeficientes de reducción a escala E 1/1.",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -43,6 +53,8 @@
   "subject": "debuxotecnico",
   "year": "2020",
   "conv": "combinada",
+  "numero": "6",
+  "texto": "PREGUNTA 6.  Resolva este exercicio de S. AXONOMÉTRICO / S. DIÉDRICO                                                (3 puntos)   Debuxe, aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das vistas diédricas  da figura dada en sistema axonométrico. Indique liñas vistas e ocultas. PREGUNTA 6. Resuelva este  ejercicio de  S. AXONOMÉTRICO / S. DIÉDRICO                                             (3 puntos)  Dibuje, aprovechando los rectángulos con las dimensiones máximas, un boceto a mano alzada de las vistas  diédricas de la figura dada en sistema axonométrico. Indiqu",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -51,42 +63,68 @@
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "1",
+  "texto": "PREGUNTA 1.  Debuxe as circunferencias tanxentes á dada de centro O, e que pasen polos puntos A e B.  PREGUNTA 1. Dibuje las circunferencias tangentes a la dada de centro O, y que pasen por los puntos A y B.  Resolva este exercicio de XEOMETRÍA PLANA                                            (3 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA                                        (3 puntos)  O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles vale 3  puntos. A puntuación total pode completarse con un punto por acabado e presentación",
+  "temas": [
+   "FUNDAMENTOS GEOMÉTRICOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "2",
+  "texto": "PREGUNTA 2.  Debuxe o homológo do punto P, coñecendo as figuras homólogas ABC y A´B´C´.   PREGUNTA 2. Dibuje el homológo del punto P, conociendo las figuras homólogas ABC y A´B´C´.  Resolva este exercicio de XEOMETRÍA PLANA                                            (3 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA                                        (3 puntos)",
+  "temas": [
+   "FUNDAMENTOS GEOMÉTRICOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "3",
+  "texto": "PREGUNTA 3.    Debuxe a proxección horizontal e a verdadeira magnitude do triángulo  ABC contido no plano a .  PREGUNTA 3. Dibuje la proyección horizontal y la verdadera magnitud del triángulo ABC contenido en el plano a .  Resolva este exercicio de SISTEMA DIÉDRICO                                                        (3 puntos)   Resuelva este  ejercicio de SISTEMA DIÉDRICO                                                    (3 puntos)",
+  "temas": [
+   "SISTEMA DIÉDRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "4",
+  "texto": "PREGUNTA 4.    Debuxe as proxeccions do prisma de base hexagonal dada, apoiado no plano horizontal, con arestas paralelas á recta r.  Limitado por un plano paralelo ao horizontal de cota 33 mm. Diferencie arestas vistas e ocultas.  PREGUNTA 4. Dibuje las proyecciones del prisma de base hexagonal dada, apoyado en el plano horizontal, con aristas paralelas a la recta r.  Limitado por un plano paralelo al horizontal de cota 33 mm. Diferencie aristas vistas y ocultas.  Resolva este exercicio de SISTEMA DIÉDRICO                                            (3 puntos)   Resuelva este  ejercicio de SIS",
+  "temas": [
+   "SISTEMA DIÉDRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "5",
+  "texto": "PREGUNTA 5.  Dadas as proxeccións diédricas da figura, debuxe unha isometría sen coeficientes de redución a escala E 1/1    PREGUNTA 5. Dadas las proyecciones diédricas de la figura, dibuje una isometría sin coeficientes de reducción a escala E 1/1.  Resolva este exercicio de S. DIÉDRICO/ S. AXONOMÉTRICO                    (3 puntos)   Resuelva este  ejercicio de S. DIÉDRICO/ S. AXONOMÉTRICO                    (3 puntos)",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2021",
   "conv": "combinada",
-  "temas": []
+  "numero": "6",
+  "texto": "PREGUNTA 6.    Debuxe, aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das vistas diédricas da figura  dada en sistema axonométrico. Indique lineas vistas e ocultas. PREGUNTA 6. Dibuje, aprovechando los rectángulos con las dimensiones máximas, un boceto a mano alzada de las vistas diédricas de la  figura dada en sistema axonométrico. Indique lineas vistas y ocultas. Resolva este exercicio de S. AXONOMÉTRICO/DIÉDRICO                         (3 puntos)   Resuelva este  ejercicio de  S. AXONOMÉTRICO/S. DIÉDRICO                  (3 puntos)   PEGAR AQUÍ CABECEIRA   Pro",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
+  "numero": "1",
+  "texto": "PREGUNTA 1. PREGUNTA 1. Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos) Dados o vertice V e o foco F dunha parábola. Debuxe a curva, o seu eixe e a súa directriz. Debuxe unha tanxente e unha normal por un punto P da mesmma situado a 40 mm sobre o seu eixe. Dibuje la curva, su eje y su directriz. Dibuje una tangente y una normal por un punto P de la misma situado 40 mm por encima de su eje. GEOMETRÍA PLANA. (3,00 puntos) Resuelva este ejercicio de Dados el vétice V y el foco F de una parábola. PREGUNTA3. Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos) Debuxe as proxeccions du",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -95,6 +133,8 @@
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
+  "numero": "3",
+  "texto": "PREGUNTA 3. Resuelva este ejercicio de SISTEMA DIÉDRICO. (3,00 puntos) Dibuje las proyecciones de una circunferencia de centro O situada en el plano \u0002 y tangente al plano horizontal de proyección. \u0002v h\u0002 V F",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -103,6 +143,8 @@
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
+  "numero": "4",
+  "texto": "PREGUNTA 4. Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos) Debuxe a segunda e terceira proxeccions da pirámide recta de base dada e altura 42 mm. Determine a interseccion co plano \u0002 e a súa verdadeira magnitude. PREGUNTA 4. Resuelva este ejercicio de SISTEMA DIÉDRICO. (3,00 puntos) Dibuje la segunda y tercera proyecciones de la pirámide recta de base dada y altura 42 mm. Determine la intersección con el  plano \u0002 y su verdadera magnitud. V1 v\u0002 h\u0002",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -111,6 +153,8 @@
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
+  "numero": "2",
+  "texto": "PREGUNTA 2. PREGUNTA2. Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos) Debuxe as circunferencias concéntricas tanxentes ás dúas dadas O e O´, sabendo que T e o punto de tanxencia entre a O´e a  circunferencia pedida de menor radio. Dibuje las circunferencias concéntricas tangentes a las dos dadas O y O’, sabiendo que T es el punto de tangencia entre la O´y la circunferencia pedida de menor radio. GEOMETRÍA PLANA. (3,00 puntos) Resuelva este ejercicio de O O’ T O1 Proba de Avaliación do Bacharelato para o Acceso á Universidade Convocatoria ordinaria 2022 Código: 22 DEBUXO TÉCNICO O exa",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -119,24 +163,28 @@
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
-  "temas": []
+  "numero": "5",
+  "texto": "PREGUNTA 5. PREGUNTA 5. Dadas as proxeccións diédricas da figura, debuxe unha isometría sen coeficientes de redución a escala E 1/1 Dadas las proyecciones diédricas de la figura, dibuje una isometría sin coeficientes de reducción a escala E 1/1. S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos) S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos) Resolva este exercicio de Resuelva este ejercicio de PREGUNTA6. Resolva este exercicio de S. AXONOMÉTRICO/S. DIÉDRICO. (3,00 puntos)  Debuxe, aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das 4 vistas diédricas da figura  dada en sist",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2022",
   "conv": "combinada",
-  "temas": []
+  "numero": "6",
+  "texto": "PREGUNTA 6  Correcta colocación proxeccións              0,50 puntos  Trazado das vistas (planta e alzado 1,50, alzados lateral 1,00 )      2,50 puntos    TOTAL                  3,00 puntos         PRESENTACIÓN, LIMPEZA, ACABADO, NOMENCLATURAS…      1,00 PUNTOS      A Coruña, 10 de xunio 2022  Fdo: Antonia Mª Pérez Naya      PRESIDENTA DA COMISIÓN DE AVALIACIÓN   PEGAR AQUÍ CABECEIRA",
+  "temas": [
+   "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "extraordinaria",
-  "temas": []
- },
- {
-  "subject": "debuxotecnico",
-  "year": "2023",
-  "conv": "extraordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1.  Debuxe as circunferencias, de radio 30 mm, tanxentes á recta r e á circunferencia dada de centro O. PREGUNTA 1. Dibuje las circunferencias, de radio 30 mm, tangentes a la recta r y a la circunferencia dada de centro O.  Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA. (3,00 puntos)",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -145,6 +193,18 @@
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "extraordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2.  PREGUNTA 2.  Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA. (3,00 puntos)  Coñecida a homoloxía A’B’C’D’ do cadrado ABCD. Debuxe a transformada da figura inscrita no mesmo. Conocida la homología A’B’C’D’ del cuadrado ABCD. Dibuje la transformada de la figura inscrita en el mismo. Proba de Avaliación do Bacharelato para o Acceso á Universidade Convocatoria extraordinaria 2023    Código:    22  DEBUXO TÉCNICO O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles vale 3  punt",
+  "temas": [
+   "FUNDAMENTOS GEOMÉTRICOS"
+  ]
+ },
+ {
+  "subject": "debuxotecnico",
+  "year": "2023",
+  "conv": "extraordinaria",
+  "numero": "4",
+  "texto": "PREGUNTA 4.    PREGUNTA 4.  Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de SISTEMA DIÉDRICO. (3,00 puntos)  Debuxe as proxeccións da pirámide recta, de altura 45 mm, de base o hexágono dado, apoiada no plano proxectante a .  Determine a sección da pirámide  co plano de perfil b  e a súa verdadeira magnitude. Dibuje las proyecciones de la pirámide recta, de altura 45 mm, de base el hexágono dado, apoyada en el plano proyectante a .  Determine la sección de la pirámide  con el plano de perfil b  y su verdadera magnitud. A1 A2 B1 B2 C1 C2 D2 D1",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -153,6 +213,8 @@
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "extraordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.    PREGUNTA 3.  Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de SISTEMA DIÉDRICO. (3,00 puntos)  Debuxe as trazas do plano  a  determinado polo paralelogramo ABCD. Mediante un cambio de plano transforme o plano a   nun plano proxectante vertical. Dibuje las trazas del plano  a  determinado por el paralelogramo ABCD. Mediante un cambio de plano transforme el plano a   en un plano proyectante vertical.   O",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -161,24 +223,28 @@
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "extraordinaria",
-  "temas": []
+  "numero": "5",
+  "texto": "PREGUNTA 5.  Dadas as proxeccións diédricas da figura, debuxe unha isometría sen coeficientes de redución a escala E 1/1.    PREGUNTA 5. Dadas las proyecciones diédricas de la figura, dibuje una isometría sin coeficientes de reducción a escala E 1/1.  Resolva este exercicio de S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos)   Resuelva este  ejercicio de S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos)",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "extraordinaria",
-  "temas": []
+  "numero": "6",
+  "texto": "PREGUNTA 6.  Debuxe, aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das vistas diédricas da figura  dada en sistema axonométrico. Indique lineas vistas e ocultas. PREGUNTA 6. Dibuje, aprovechando los rectángulos con las dimensiones máximas, un boceto a mano alzada de las vistas diédricas de la  figura dada en sistema axonométrico. Indique lineas vistas y ocultas.  Resolva este exercicio de S. AXONOMÉTRICO/S. DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de  S. AXONOMÉTRICO/S. DIÉDRICO. (3,00 puntos)  Todos los ejercicios se resolverán en esta hoja de examen.",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "ordinaria",
-  "temas": []
- },
- {
-  "subject": "debuxotecnico",
-  "year": "2023",
-  "conv": "ordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1.  Debuxe o arco capaz do ángulo de 90º para o segmento AB e o do ángulo de 120º para o segmento CD. PREGUNTA 1. Dibuje el arco capaz del ángulo de 90º para el segmento AB y el del ángulo de 120º para el segmento CD.  Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA. (3,00 puntos)",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -187,12 +253,18 @@
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "2",
+  "texto": "PREGUNTA 2.    PREGUNTA 2.  Resolva este exercicio de XEOMETRÍA PLANA. (3,00 puntos)   Resuelva este  ejercicio de GEOMETRÍA PLANA. (3,00 puntos)  Debuxe o homólogo do punto P, coñecidas as dúas rectas límites RL e RL’ e o vértice V Dibuja el homólogo del punto P, conocidas las dos rectas límites RL y RL’ y el vértice V.",
+  "temas": [
+   "FUNDAMENTOS GEOMÉTRICOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "ordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.  Determine a verdadeira magnitude das caras do tronco de pirámide dado.   PREGUNTA 3. Determine la verdadera magnitud de las caras del tronco de pirámide dado. Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de SISTEMA DIÉDRICO.(3,00 puntos)",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -201,18 +273,38 @@
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "4",
+  "texto": "PREGUNTA 4.    PREGUNTA 4.  Resolva este exercicio de SISTEMA DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de SISTEMA DIÉDRICO. (3,00 puntos)  Debuxe a seccion da esfera co plano á e determine a súa verdadeira magnitude. Dibuje la sección de la esfera con el plano á y determine su verdadera magnitud. A B C D RL RL’ V P O2 O1 va ha Proba de Avaliación do Bacharelato para o Acceso á Universidade Convocatoria ordinaria 2023    Código:    22  DEBUXO TÉCNICO O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles vale 3  puntos. A puntuación ",
+  "temas": [
+   "SISTEMA DIÉDRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2023",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "5",
+  "texto": "PREGUNTA 5.  Dadas as proxeccións diédricas da figura, debuxe unha isometría sen coeficientes de redución a escala E 1/1.    PREGUNTA 5. Dadas las proyecciones diédricas de la figura, dibuje una isometría sin coeficientes de reducción a escala E 1/1.  Resolva este exercicio de S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos)   Resuelva este  ejercicio de S. DIÉDRICO/ S. AXONOMÉTRICO. (3,00 puntos)",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
+ },
+ {
+  "subject": "debuxotecnico",
+  "year": "2023",
+  "conv": "ordinaria",
+  "numero": "6",
+  "texto": "PREGUNTA 6.  Debuxe, aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das vistas diédricas da figura  dada en sistema axonométrico. Indique lineas vistas e ocultas. PREGUNTA 6. Dibuje, aprovechando los rectángulos con las dimensiones máximas, un boceto a mano alzada de las vistas diédricas de la  figura dada en sistema axonométrico. Indique lineas vistas y ocultas.  Resolva este exercicio de S. AXONOMÉTRICO/S. DIÉDRICO. (3,00 puntos)   Resuelva este  ejercicio de  S. AXONOMÉTRICO/S. DIÉDRICO. (3,00 puntos)  Todos os exercicios resolveranse nesta folla de proba.  Os",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1 Resolva este exercicio de XEOMETRÍA PLANA (3 puntos)  Debuxe as tanxentes exteriores ás circunferencias dadas e o eixe radical.  ,    O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles vale 3 puntos A puntuación total pode completarse con un punto por acabado e presentación. El examen consta de 6 ejercicios, de los que deberá hacer un máximo de 3, combinados como quiera. Cada uno de ellos vale 3 puntos. La puntuación total puede completarse con un punto por acabado y presentación.  P E G A R    A Q U Í     C A B E C E I R A CÓD",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -221,6 +313,8 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3 Resuelva este ejercicio de SISTEMA DIÉDRICO (3 puntos) PREGUNTA 3 Resolva este exercicio de SISTEMA DIÉDRICO (3 puntos) Dada a base do cono recto, de 45mm de altura, debuxe a sección que produce o plano α, poxectante  verƟcal, de traza horizontal hα, e que contén o punto A do cono. Debuxe a verdadeira magnitude da sección. de traza horizontal hy que conƟene al punto A del cono. Dibuje la verdadera magnitud de la sección. O2 O1 A1 V1 h Debuxe a homóloga da ﬁgura, coñecendo o centro de homoloxía O, a recta límite RL e o eixe e.",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -229,6 +323,8 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2 Resolva este exercicio de XEOMETRÍA PLANA (3 PUNTOS) Dibuje la homóloga de la ﬁgura, conociendo el centro de homología O, la recta límite RL y el eje e. PREGUNTA 2 Resuelva este ejercicio de GEOMETRÍA PLANA (3 PUNTOS) O A B C D E F RL e",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -237,6 +333,8 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
+  "numero": "4",
+  "texto": "PREGUNTA 4 Resolva este exercicio de SISTEMA DIÉDRICO (3 puntos) Debuxe a proxección horizontal e verƟcal do triángulo equilátero, de lado AB, pertencente  ao plano α. PREGUNTA 4 Dibuje la proyección horizontal y verƟcal del triángulo equilátero, de  lado AB, perteneciente al plano α. Resuelva este ejercicio de SISTEMA DIÉDRICO (3 puntos) ABAU  Convocatoria extraordinaria 2024      DEBUXO TÉCNICO II  Todos os exercicios resolveranse nesta folla do exame.  Todos los ejercicios se resolverán en esta hoja del examen.  Los dibujos se ralizarán a lápiz, pudiendo emplear diferentes grosores para ope",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -245,12 +343,18 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
-  "temas": []
+  "numero": "6",
+  "texto": "PREGUNTA 6 Dibuje aprovechando los rectángulos con las dimensiones máximas, las vistas diédricas de la ﬁgura a escala E:1/1  PREGUNTA 6 Resolva este exercicio de S. AXONOMÉTRICO/S.DIÉDRICO (3 puntos) Resuelva este ejercicio de S. AXONOMÉTRICO/S.DIÉDRICO (3 puntos) O Todos os exercicios resolveranse nesta folla do exame.  Os debuxos ralizaranse a lapis, poden empregarse diferentes grosores para operacións gráficas auxiliares e  solución ﬁnal. Valórase o proceso de realización, polo que non é conveniente eliminar as construccións auxiliares  realizadas. Cualiﬁcarase cun punto o acabado, limpieza",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "extraordinaria",
+  "numero": "5",
+  "texto": "PREGUNTA 5 Resolva este exercicio de S. DIÉDRICO/S. AXONOMÉTRICO (3 puntos) Dadas las proyecciones diédricas de la ﬁgura, dibuje una isometría sin coeﬁcientes de reducción, a escala E:1/1 PREGUNTA 5 Resolva este exercicio de S. DIÉDRICO/S. AXONOMÉTRICO (3 puntos)",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -259,12 +363,18 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "1",
+  "texto": "PREGUNTA 1 Constrúa o triángulo de lado AB e de vérƟces ABC, dado o ángulo do verƟce A=45º e o ángulo do vérƟce C=60º.    Resolva este exercicio de XEOMETRÍA PLANA (3 puntos) (v) Debuxe a ﬁgura homóloga do cadrado ABCD, coñecendo o eixe e, o centro O, e un par de puntos homólogos, A A´.",
+  "temas": [
+   "FUNDAMENTOS GEOMÉTRICOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3 Resolva este exercicio de SISTEMA DIÉDRICO (3 puntos) Debuxe a intersección do plano α co octaedro dado. Determine a verdadeira magnitude da sección. v h A B e O A´ A B C D (A) (B) (D) h",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -273,6 +383,8 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
+  "numero": "4",
+  "texto": "PREGUNTA 4 Resolva este exercicio de SISTEMA DIÉDRICO (3 puntos) Dun plano coñécese a súa traza horizontal hα, a súa traza verƟcal abaƟda (vα) e o abatemento do cuadrilatero conƟdo  no plano α. Debuxe as proxeccións do cuadrilátero e a traza verƟcal do plano α. (C ) 1 O exame consta de 6 exercicios, dos que deberá facer un máximo de 3, combinados como queira. Cada un deles vale 3 puntos A puntuación total pode completarse con un punto por acabado e presentación. El examen consta de 6 ejercicios, de los que deberá hacer un máximo de 3, combinados como quiera. Cada uno de ellos vale 3 puntos. La",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -281,14 +393,18 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2 Resolva este exercicio de XEOMETRÍA PLANA (3 PUNTOS)",
   "temas": [
-   "SISTEMA DIÉDRICO"
+   "FUNDAMENTOS GEOMÉTRICOS"
   ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
+  "numero": "5",
+  "texto": "PREGUNTA 5 Resolva este exercicio de S. DIÉDRICO/S. AXONOMÉTRICO (3 puntos) Dadas as proxeccións diédricas da ﬁgura, debuxe unha isometría sen coeﬁcientes de redución, a escala E:1/1",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -297,6 +413,8 @@
   "subject": "debuxotecnico",
   "year": "2024",
   "conv": "ordinaria",
+  "numero": "6",
+  "texto": "PREGUNTA 6 Resolva este exercicio de S. AXONOMÉTRICO/S.DIÉDRICO (3 puntos) Debuxe aproveitando os rectángulos coas dimensións máximas, un bosquexo a man alzada das vistas diédricas da  ﬁgura dada, en sistema axonométrico. Indique liñas vistas e ocultas. Todos los ejercicios se resolverán en esta hoja del examen.  Los dibujos se ralizarán a lápiz, pudiendo emplear diferentes grosores para operaciones gráﬁcas auxiliares y solución ﬁnal. Se valora el proceso de realización, por lo que no es conveniente eliminar las construccións  auxiliares realizadas. Se caliﬁcará con un punto el acabado, limpie",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -305,6 +423,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "extraordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2.      FUNDAMENTOS XEOMÉTRICOS (2,25 puntos) A parƟr da recta de referencia e do punto O, resolva un dos apartados seguintes: 2.1.- Debuxe unha hipérbole e as súas asíntotas cuxa distancia focal F1-F2= 11cm, e a distancia entre os           vérƟces A e B é de 7cm. 2.2.- Coñecida a distancia focal, F1-F2= 13cm e o punto P da elipse de centro O, debuxe a elipse e a           tanxente en P.  P E: ....... E:.......... O P P alzado",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -313,6 +433,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "extraordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1 NORMALIZACIÓN e DOCUMENTACIÓN GRÁFICA de PROXECTOS (2,25 puntos) Nun taller de xoiería na localidade de Bergondo, preto da Coruña, deséñase unha peza en ouro. A partir da  perspectiva cabaleira con coefeciente de redución 1:1/2:1, deberemos elaborar os planos de fabricación en Sistema  Diédrico Europeo con polo menos unha planta e dous alzados, á mesma escala que a cabaleira. Sabendo que a altura real da peza é de 26mm, indique a escala da isometría e dos planos.",
   "temas": [
    "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS"
   ]
@@ -321,6 +443,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "extraordinaria",
+  "numero": "4",
+  "texto": "PREGUNTA 4 XEOMETRÍA PROXECTIVA : SISTEMA DIÉDRICO/SISTEMA AXONOMÉTRICO (2,25 puntos) Dadas as proxeccións diédricas da ﬁgura, resolva un dos apartados seguintes:  4.1.-Debuxe a perspectiva lineal de plano de cadro vertical  π, punto de vista V, liña de horizonte e terra LH e LT e punto D.         Escala de realización E:2/1. 4.2.-Acoute a peza. Debuxe a isometría sen coeﬁcientes de redución ao dobre de tamaño. A orixe dos eixes é o punto O. A    altura real da peza é de 7m. Indique a escala das proxeccións diédricas e da isometría.",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -329,6 +453,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "extraordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.      XEOMETRÍA PROXECTIVA : SISTEMA DIÉDRICO (2,25 puntos) Dada a proxección horizontal dun octaedro cun vérƟce apoiado no plano horizontal   e a recta r, debuxe a súa proxección verƟcal e resolva un dos apartados : 3.1.- Calcule a intersección coa recta r. Indique partes vistas e ocultas .  3.2.- Debuxe a sección producida por un plano proxectante verƟcal que conteña á recta r.          Debuxe a verdadeira magnitude da sección.   V P  LT LH D D E: ....... E: ....... Todos os exercicios resolveranse nesta folla do exame.  Os debuxos realizaranse a lapis, podendo empregar diferente",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -337,12 +463,18 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "1",
+  "texto": "PREGUNTA 1 Se pretende fabricar un mueble compuesto por escaleras y asientos, para un parque infanƟl. Para evitar  accidentes la altura máxima del mueble será de 70cm.  A parƟr de la isometría dada sin coefecientes de reducción, deberemos elaborar los planos de fabricación, en  Sistema Diédrico Europeo con al menos la planta y dos alzados. Las dimensiones en los planos serán las mismas que las de la isometría, indicar la escala a la  que se han   dibujado la isometría y los planos.    NORMALIZACIÓN y DOCUMENTACIÓN GRÁFICA de PROYECTOS (2,25 puntos)   Dadas las circunferencias de centro O1, O2 ",
+  "temas": [
+   "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "ordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2.      FUNDAMENTOS GEOMÉTRICOS (2,25 puntos)    PAU     Convocatoria ordinaria 2025            DIBUJO TÉCNICO II     O 1 O 2 O 3 O O E: 1/.... E: 1/.... alzado  Dado el tetraedro con una cara apoyada en el plano horizontal y la recta r, resuelva uno de los   apartados : 3.1.- Determinar la intersección con la recta r, partes vistas y ocultas 3.2.- Dibujar la verdadera magnitud de la sección producida por un plano , proyectante verƟcal  que contenga a la recta r",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -351,6 +483,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "ordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.      GEOMETRÍA PROYECTIVA : SISTEMA DIÉDRICO (2,25 puntos) O Dadas as proxeccións diédricas da ﬁgura escala E:1/1, resuelva uno de los apartados siguientes:  4.1.-Dibuje la isometría sin coeﬁcientes de reducción a escala E:2/1. Origen de ejes O.  4.2.-Dibuje la perspecƟva caballera, coeﬁciente de reducción de 1/2 en el eje Y.  Escala E:2/1. Origen de ejes O.",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -359,6 +493,8 @@
   "subject": "debuxotecnico",
   "year": "2025",
   "conv": "ordinaria",
+  "numero": "4",
+  "texto": "PREGUNTA 4 GEOMETRÍA PROYECTIVA : SISTEMA DIÉDRICO/SISTEMA AXONOMÉTRICO (2,25 puntos) r2 r1 Todos los ejercicios se resolverán en esta hoja del examen.  Los dibujos se ralizarán a lápiz, pudiendo emplear diferentes grosores para operaciones gráﬁcas auxiliares y solución ﬁnal. Se valora el proceso de realización, por lo que no es conveniente eliminar las construccións auxiliares  realizadas. Se caliﬁcará con un punto el acabado, limpieza y claridad de los trazados.   O Y  P E G A R    A Q U Í     C A B E C E I R A O exame consta de 4 exercicios de 2,25 puntos, o primeiro de resposta única e os ",
   "temas": [
    "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
   ]
@@ -367,6 +503,8 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "extraordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1 NORMALIZACIÓN e DOCUMENTACIÓN GRÁFICA de PROXECTOS (2,25 puntos)  Dados os planos, simpliﬁcados, a planta e dous alzados, do proxecto dun ediﬁco dunha residencia  universitaria, preténdese realizar unha maqueta física para visualizar a sús volumetría. Para iso, axudarémonos dunha vista isométrica previa, sen coeﬁcientes de reducción, elixindo a  posición máis adecuada para ver facilmente as distintas partes do ediﬁcio.  O tamaño da isometría sera o dobre que as dimensións dos planos (proxeccións).  O ediﬁcio ten de altura 25m, indicar a escala dos planos, indicar tamén a escala da i",
   "temas": [
    "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS"
   ]
@@ -375,6 +513,8 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "extraordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2.   FUNDAMENTOS XEOMÉTRICOS (2,25 puntos) Resolva un dos apartados seguintes:  2.1.-Debuxe a ﬁgura homóloga dun hexágono regular de vérƟce A, inscrito na circunferencia de centro O.  Coñécense dous pares de puntos homólogos OO´e AA´, e o punto dobre MM´.        PAU      Convocatoria extraordinaria 2026      DEBUXO TÉCNICO II  MM´ A A´ O´ O O E: 1/.......... 2.2.-Debuxe unha hipérbole de 6 cm de distancia focal e 3 cm entre os dous vérƟces. Traza as rectas tanxentes  paralelas á recta r r O1 O2 E: 1/..........  Todos os exercicios resolveranse nesta folla do exame.  Os debuxos realiza",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -383,6 +523,8 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "extraordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.      XEOMETRÍA PROXECTIVA: SISTEMA DIÉDRICO (2,25 puntos) Dado o plano α e o punto exterior P, resolva un dos apartados seguintes: 3.1.- Debuxe as proxeccións e a verdadeira magnitude, dun cadrado de lado AB, conƟdo         no plano α. 3.2.- Determine a distancia do punto P ao plano α en verdadeira magnitude.",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -391,12 +533,18 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "extraordinaria",
-  "temas": []
+  "numero": "4",
+  "texto": "PREGUNTA 4. XEOMETRÍA PROXECTIVA (2,25 puntos) Dadas as proxeccións diédricas da ﬁgura escala E:1/1, resolva un dos apartados seguintes:  4.1.-Debuxe a perspecƟva lineal de plano de cadro verƟcal, dado o punto vista V, a liña de terra LT e a do         horizonte LH, o punto N. A escala de realización E:3/1. 4.2.-Debuxe a isometría sen coeﬁcientes de redución a escala E:2/1. Orixe de eixos O.  O O1 O2 h v A 2 B 2 P2 P1  P E G A R    A Q U Í     C A B E C E I R A      CÓDIGO 22    PAU      Convocatoria extraordinaria 2026      DIBUJO TÉCNICO II  MM´ A A´ O´ O O E: 1/.......... 2.2.-Dibuje una ",
+  "temas": [
+   "SISTEMA DIÉDRICO / SISTEMA AXONOMÉTRICO"
+  ]
  },
  {
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "ordinaria",
+  "numero": "1",
+  "texto": "PREGUNTA 1   NORMALIZACIÓN y DOCUMENTACIÓN GRÁFICA de PROYECTOS (2,25 puntos) 2.1.-Dibuje el homólogo triángulo ABC y del punto P, cononiendo los puntos hómologos A´y C´ y un punto          doble D-D´",
   "temas": [
    "NORMALIZACIÓN Y DOCUMENTACIÓN GRÁFICA DE PROYECTOS"
   ]
@@ -405,6 +553,8 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "ordinaria",
+  "numero": "2",
+  "texto": "PREGUNTA 2.      FUNDAMENTOS GEOMÉTRICOS (2,25 puntos)    PAU      Convocatoria ordinaria 2026      DIBUJO TÉCNICO II O A´ E: 1/...... O E: 1/...... 2.2.-Dibuje dos arcos de circunferencia, tangentes y senƟdo contrario          de una Gola (moldura de doble curva, cóncava y convexa), conociendo          los puntos de tangencia T y T´ y el radio de uno de los arcos r = 20mm   P A C´ C B D-D´ T T'  Todos los ejercicios se resolverán en esta hoja del examen.  Los dibujos se ralizarán a lápiz, pudiendo emplear diferentes grosores para operaciones gráﬁcas auxiliares y solución ﬁnal. Se valora el pr",
   "temas": [
    "FUNDAMENTOS GEOMÉTRICOS"
   ]
@@ -413,6 +563,8 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "ordinaria",
+  "numero": "3",
+  "texto": "PREGUNTA 3.      GEOMETRÍA PROYECTIVA : SISTEMA DIÉDRICO (2,25 puntos) Dadas las proyecciones diédricas del cruceiro, resuelva uno de los apartados siguientes:  4.1.-Dibuje la perspecƟva lineal de plano de cuadro verƟcal, dado el punto vista V, la linea de Ɵerra LT  y la del         horizonte LH, el punto N.  Se realizará al doble de tamaño que los planos.  4.2.-Dibuje la isometría sin coeﬁcientes de reducción al doble de tamaño de los planos. Origen de ejes O.  Si la altura del crucero es de 3,5m, indicar la escala de los planos y la escala de la axonometría.                    Acotar los pla",
   "temas": [
    "SISTEMA DIÉDRICO"
   ]
@@ -421,6 +573,10 @@
   "subject": "debuxotecnico",
   "year": "2026",
   "conv": "ordinaria",
-  "temas": []
+  "numero": "4",
+  "texto": "PREGUNTA 4.GEOMETRÍA PROYECTIVA (2,25 puntos) D 2 3.1.- Dibuje la intersección entre los triángulos ABC y DEF representando          la visibilidad entre ambos. E 2 B 2 A 2 F 2 C 2 A 1 D 1 B 1 C  1 F 1 A 1 E 1 V2 O1 V1 O2 3.2.- Dibuje la pirámide recta de verƟce V y de base un hexágono regular de centro O y lado de 40mm. Dos de las aristas de la base son horizontales. O O PV E: 1/.... E: 1/....  P E G A R    A Q U Í     C A B E C E I R A Y      CÓDIGO 22      PAU      Convocatoria ordinaria 2026      DEBUXO TÉCNICO II O A´ E: 1/...... O E: 1/...... 2.2.-Debuxe dous arcos de circunferencia, tan",
+  "temas": [
+   "SISTEMA DIÉDRICO"
+  ]
  }
 ]

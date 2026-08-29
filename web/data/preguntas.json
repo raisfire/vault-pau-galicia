@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-26T13:14:30",
+ "generado": "2026-08-29T12:41:07",
  "total_preguntas": 765,
  "asignaturas": [
   "Biología",
@@ -12805,7 +12805,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 1,
-   "tema": [],
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12825,7 +12827,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 2,
-   "tema": [],
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -12842,7 +12846,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 3,
-   "tema": [],
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12862,7 +12868,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 4,
-   "tema": [],
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12884,7 +12892,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 5,
-   "tema": [],
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12904,7 +12914,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 6,
-   "tema": [],
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -12921,7 +12933,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 7,
-   "tema": [],
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12941,7 +12955,9 @@
    "anio": 2022,
    "convocatoria": "extraordinaria",
    "numero_pregunta": 8,
-   "tema": [],
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -12961,7 +12977,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 1,
-   "tema": [],
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -12978,7 +12996,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 2,
-   "tema": [],
+   "tema": [
+    "Números y Álgebra"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -12995,7 +13015,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 3,
-   "tema": [],
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -13015,7 +13037,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 4,
-   "tema": [],
+   "tema": [
+    "Análisis"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [],
@@ -13032,7 +13056,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 5,
-   "tema": [],
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -13052,7 +13078,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 6,
-   "tema": [],
+   "tema": [
+    "Geometría"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -13072,7 +13100,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 7,
-   "tema": [],
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [
@@ -13092,7 +13122,9 @@
    "anio": 2022,
    "convocatoria": "ordinaria",
    "numero_pregunta": 8,
-   "tema": [],
+   "tema": [
+    "Estadística y Probabilidad"
+   ],
    "tema_fuente": null,
    "puntuacion": "2 puntos",
    "apartados": [

@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: extraordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Obtenga las coordenadas de los vértices del triángulo rectángulo cuya hipotenusa es tangente a la gráfica de 𝑓𝑓(𝑥𝑥) = 𝑥𝑥2 en el punto de abscisa 𝑥𝑥= 2 y que, además, tiene un cateto de longitud 2 situ"

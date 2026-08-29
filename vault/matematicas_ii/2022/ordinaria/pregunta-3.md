@@ -4,7 +4,10 @@ asignatura: "Matemáticas II"
 año: 2022
 convocatoria: ordinaria
 numero_pregunta: 3
-tema: []
+tema:
+  - "Análisis"
+tema_wikilinks:
+  - "[[matematicas_ii/_temas/Análisis|Análisis]]"
 puntuacion: "2 puntos"
 apartados:
   - "a) Calcule los límites lim 𝑥→0 𝑥cos 𝑥 sin𝑥 y lim 𝑥→0+ 𝑥ln 𝑥, donde ln 𝑥 es el logaritmo neperiano de 𝑥."
