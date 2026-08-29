@@ -260,6 +260,12 @@ const HEATMAP_SUBJECTS = [
 //   matematicas_ii 0/4, historiaespana 0/4, historiafilosofia 0/4,
 //   castelan 0/4, ingles 1/4
 //     -> no suele repetirse -> avoidRepeatTema: true
+// Fase 5: dato destacado de portada, indicador de frecuencia, temporizador
+// e impresión del simulacro. Piloto solo en Biología mientras se confirma
+// el diseño; una vez confirmado, ampliar esta lista a las 10 asignaturas
+// (las mismas de HEATMAP_SUBJECTS/SIMULACRO_CONFIG).
+const FASE5_SUBJECTS = ["bioloxia"];
+
 const SIMULACRO_CONFIG = {
   matematicas_ii: { huecos: 4, avoidRepeatTema: true },
   bioloxia: { huecos: 4, avoidRepeatTema: false },
@@ -283,10 +289,12 @@ function renderLista(main, slug, initialParams) {
 
   const conHeatmap = HEATMAP_SUBJECTS.includes(slug);
   const conSimulacro = Object.prototype.hasOwnProperty.call(SIMULACRO_CONFIG, slug);
+  const conFase5 = FASE5_SUBJECTS.includes(slug);
 
   const tabButtonsHtml = [
     `<button class="view-tab is-active" data-view="lista">Lista</button>`,
     conHeatmap ? `<button class="view-tab" data-view="heatmap">Mapa de calor</button>` : "",
+    conHeatmap && conFase5 ? `<button class="view-tab" data-view="frecuencia">Frecuencia</button>` : "",
     conSimulacro ? `<button class="view-tab" data-view="simulacro">Simulacro</button>` : "",
   ].join("");
 
@@ -294,9 +302,12 @@ function renderLista(main, slug, initialParams) {
     ? `<div class="view-tabs">${tabButtonsHtml}</div>`
     : "";
 
+  const datoDestacadoHtml = conHeatmap && conFase5 ? renderDatoDestacado(preguntas, anios) : "";
+
   main.innerHTML = `
     <p class="breadcrumb"><a href="#/materias">Asignaturas</a> / ${meta.label}</p>
-    <h1 class="page-title" style="text-align:left; margin-bottom: 24px;">${meta.label}</h1>
+    <h1 class="page-title" style="text-align:left; margin-bottom: 12px;">${meta.label}</h1>
+    ${datoDestacadoHtml}
     ${tabsHtml}
     <div id="vista-lista">
     <div class="filters-bar">
@@ -333,6 +344,7 @@ function renderLista(main, slug, initialParams) {
     <div class="question-list" id="question-list"></div>
     </div>
     <div id="vista-heatmap" hidden></div>
+    <div id="vista-frecuencia" hidden></div>
     <div id="vista-simulacro" hidden></div>
   `;
 
@@ -341,6 +353,7 @@ function renderLista(main, slug, initialParams) {
     const vistas = {
       lista: document.getElementById("vista-lista"),
       heatmap: document.getElementById("vista-heatmap"),
+      frecuencia: document.getElementById("vista-frecuencia"),
       simulacro: document.getElementById("vista-simulacro"),
     };
     tabButtons.forEach((btn) => {
@@ -352,6 +365,10 @@ function renderLista(main, slug, initialParams) {
         if (view === "heatmap" && !vistas.heatmap.dataset.rendered) {
           renderHeatmap(vistas.heatmap, preguntas);
           vistas.heatmap.dataset.rendered = "1";
+        }
+        if (view === "frecuencia" && !vistas.frecuencia.dataset.rendered) {
+          renderFrecuencia(vistas.frecuencia, preguntas, anios[anios.length - 1]);
+          vistas.frecuencia.dataset.rendered = "1";
         }
         if (view === "simulacro" && !vistas.simulacro.dataset.rendered) {
           renderSimulacro(vistas.simulacro, preguntas, slug);
@@ -477,6 +494,49 @@ function normalizeTemaBucket(t) {
 function temasDePregunta(p) {
   const limpios = (p.tema || []).map(normalizeTemaBucket).filter(Boolean);
   return limpios.length ? limpios : ["Sin clasificar"];
+}
+
+// Fase 5 (puntos 3 y 4): una sola función de frecuencia por tema, misma
+// fuente y mismo criterio de limpieza de tema que ya usa el mapa de calor
+// (temasDePregunta) - el dato destacado de portada y el indicador "lleva
+// X años sin caer" salen de aquí, no de un cálculo aparte.
+function computeTemaFrecuencia(preguntas) {
+  const info = {};
+  for (const p of preguntas) {
+    for (const t of temasDePregunta(p)) {
+      if (t === "Sin clasificar") continue;
+      if (!info[t]) info[t] = { tema: t, n: 0, primerAnio: p.anio, ultimoAnio: p.anio };
+      info[t].n++;
+      info[t].primerAnio = Math.min(info[t].primerAnio, p.anio);
+      info[t].ultimoAnio = Math.max(info[t].ultimoAnio, p.anio);
+    }
+  }
+  return Object.values(info);
+}
+
+// Fase 5, punto 3: dato destacado en la portada de cada asignatura, un
+// tema calculado en el momento desde el mismo preguntas.json (computeTemaFrecuencia).
+function renderDatoDestacado(preguntas, anios) {
+  const frecuencias = computeTemaFrecuencia(preguntas);
+  if (!frecuencias.length || !anios.length) return "";
+
+  const maxN = Math.max(...frecuencias.map((f) => f.n));
+  const ganadores = frecuencias.filter((f) => f.n === maxN).map((f) => f.tema);
+  const anioMin = anios[0];
+
+  const nombres = ganadores.map((t) => `<strong>${escapeHtml(t)}</strong>`);
+  const listaNombres =
+    nombres.length === 1
+      ? nombres[0]
+      : nombres.slice(0, -1).join(", ") + " y " + nombres[nombres.length - 1];
+  const verbo = ganadores.length === 1 ? "es el que más se repite" : "son los que más se repiten";
+  const vecesTexto = ganadores.length === 1 ? `aparece ${maxN} veces` : `aparecen ${maxN} veces cada uno`;
+
+  return `
+    <div class="dato-destacado">
+      ${listaNombres} ${verbo}: ${vecesTexto} desde ${anioMin}.
+    </div>
+  `;
 }
 
 function heatColor(ratio) {
@@ -651,12 +711,100 @@ function renderHeatmap(container, preguntas) {
   draw();
 }
 
+// -------------------- vista: frecuencia (Fase 5, punto 4) --------------------
+//
+// Sección propia (no escondida en el mapa de calor): qué temas se repiten
+// más, y qué temas llevan más años sin aparecer. Misma fuente y mismo
+// cálculo que el dato destacado de portada (computeTemaFrecuencia).
+
+function renderFrecuencia(container, preguntas, anioMax) {
+  const frecuencias = computeTemaFrecuencia(preguntas);
+
+  if (!frecuencias.length) {
+    container.innerHTML = `<div class="empty-state">No hay temas clasificados todavía para calcular esto.</div>`;
+    return;
+  }
+
+  const masFrecuentes = [...frecuencias].sort((a, b) => b.n - a.n || a.tema.localeCompare(b.tema));
+  const masAusentes = [...frecuencias]
+    .map((f) => ({ ...f, aniosSinCaer: anioMax - f.ultimoAnio }))
+    .sort((a, b) => b.aniosSinCaer - a.aniosSinCaer || a.tema.localeCompare(b.tema));
+
+  const itemFrecuente = (f) => `
+    <li>
+      <span class="frecuencia-tema">${escapeHtml(f.tema)}</span>
+      <span class="frecuencia-valor">${f.n} ${f.n === 1 ? "vez" : "veces"}</span>
+    </li>`;
+
+  const itemAusente = (f) => `
+    <li>
+      <span class="frecuencia-tema">${escapeHtml(f.tema)}</span>
+      <span class="frecuencia-valor">${
+        f.aniosSinCaer <= 0 ? `en ${anioMax}` : `${f.aniosSinCaer} año${f.aniosSinCaer === 1 ? "" : "s"} sin caer`
+      }</span>
+    </li>`;
+
+  container.innerHTML = `
+    <div class="frecuencia-header">
+      Frecuencia histórica, no es una predicción garantizada de lo que va a caer.
+    </div>
+    <div class="frecuencia-columns">
+      <div class="frecuencia-col">
+        <h2>Los que más se repiten</h2>
+        <ul class="frecuencia-list">${masFrecuentes.map(itemFrecuente).join("")}</ul>
+      </div>
+      <div class="frecuencia-col">
+        <h2>Los que más años llevan sin caer</h2>
+        <ul class="frecuencia-list">${masAusentes.map(itemAusente).join("")}</ul>
+      </div>
+    </div>
+  `;
+}
+
 // -------------------- vista: simulacro (Fase 4) --------------------
 //
 // Ensambla un examen completo con preguntas REALES del vault (nunca texto
 // inventado), eligiendo un tema por hueco ponderado por su frecuencia
 // histórica real en esta asignatura, y luego una pregunta real al azar
 // que trate ese tema. Piloto: solo Biología (SIMULACRO_CONFIG).
+
+// Fase 5, punto 1: duración del temporizador. Por defecto, los 90 minutos
+// estándar de un examen de la ABAU/PAU. Las "Orientacións xerais" oficiales
+// de CIUG revisadas esta sesión (Bioloxía, Física, Química, Matemáticas II,
+// Debuxo Técnico) describen contenidos y bloques, no la duración del
+// examen - no se encontró ahí una duración distinta por asignatura, así
+// que se usa el estándar para las 10. Si en algún momento se localiza la
+// duración oficial real de alguna, se añade aquí su excepción.
+const SIMULACRO_DEFAULT_DURATION_MIN = 90;
+const SIMULACRO_DURATION_MIN = {};
+
+function formatTiempo(segundosRestantes) {
+  const s = Math.max(0, segundosRestantes);
+  const mm = String(Math.floor(s / 60)).padStart(2, "0");
+  const ss = String(s % 60).padStart(2, "0");
+  return `${mm}:${ss}`;
+}
+
+// Cuenta atrás pura en memoria: no guarda nada (ni localStorage ni al
+// servidor), no corrige, solo cuenta. Se reinicia cada vez que se genera
+// un simulacro nuevo.
+function iniciarTemporizador(el, minutos) {
+  if (el._intervalId) clearInterval(el._intervalId);
+  let restante = Math.round(minutos * 60);
+  el.classList.remove("timer-expired");
+  el.textContent = formatTiempo(restante);
+  el._intervalId = setInterval(() => {
+    restante--;
+    if (restante <= 0) {
+      clearInterval(el._intervalId);
+      el._intervalId = null;
+      el.classList.add("timer-expired");
+      el.textContent = "Tiempo agotado";
+      return;
+    }
+    el.textContent = formatTiempo(restante);
+  }, 1000);
+}
 
 function pesarTemasPorFrecuencia(preguntas) {
   const freq = {};
@@ -714,20 +862,39 @@ function generarSimulacro(preguntas, config) {
 
 function renderSimulacro(container, preguntas, slug) {
   const config = SIMULACRO_CONFIG[slug];
+  const conFase5 = FASE5_SUBJECTS.includes(slug);
+  const duracionMin = SIMULACRO_DURATION_MIN[slug] || SIMULACRO_DEFAULT_DURATION_MIN;
+
+  // Piloto Fase 5 (temporizador + descarga en PDF): solo en las asignaturas
+  // de FASE5_SUBJECTS mientras se confirma el diseño; el resto conserva la
+  // toolbar simple ya confirmada en Fase 4.
+  const toolbarHtml = conFase5
+    ? `
+    <div class="simulacro-toolbar no-print">
+      <button class="btn-primary" id="btn-generar-simulacro">Generar otro simulacro</button>
+      <button class="btn-secondary" id="btn-imprimir-simulacro">Descargar / imprimir PDF</button>
+      <div class="simulacro-timer">
+        <span class="simulacro-timer-label">Tiempo (${duracionMin} min)</span>
+        <span class="simulacro-timer-value" id="simulacro-timer-value">--:--</span>
+      </div>
+    </div>`
+    : `<button class="btn-primary" id="btn-generar-simulacro" style="margin-bottom: 24px;">
+        Generar otro simulacro
+      </button>`;
 
   container.innerHTML = `
-    <div class="notice-box">
+    <div class="notice-box no-print">
       Simulacro generado a partir de preguntas reales, ponderado por frecuencia histórica —
       no es una predicción de lo que va a caer, es una herramienta de práctica.
     </div>
-    <button class="btn-primary" id="btn-generar-simulacro" style="margin-bottom: 24px;">
-      Generar otro simulacro
-    </button>
+    ${toolbarHtml}
     <div id="simulacro-huecos"></div>
   `;
 
   const btn = document.getElementById("btn-generar-simulacro");
+  const btnImprimir = document.getElementById("btn-imprimir-simulacro");
   const huecosEl = document.getElementById("simulacro-huecos");
+  const timerEl = document.getElementById("simulacro-timer-value");
 
   function draw() {
     const huecos = generarSimulacro(preguntas, config);
@@ -741,9 +908,11 @@ function renderSimulacro(container, preguntas, slug) {
         return renderQuestionCard(pregunta, { heading });
       })
       .join("");
+    if (conFase5) iniciarTemporizador(timerEl, duracionMin);
   }
 
   btn.addEventListener("click", draw);
+  if (btnImprimir) btnImprimir.addEventListener("click", () => window.print());
   draw();
 }
 
